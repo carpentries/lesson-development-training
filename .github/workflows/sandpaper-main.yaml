@@ -1,0 +1,57 @@
+name: "01 Build and Deploy Site"
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  schedule:
+    - cron: '0 0 * * 2'
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'Who triggered this build?'
+        required: true
+        default: 'Maintainer (via GitHub)'
+      reset:
+        description: 'Should the cached markdown files be reset? (true/false)'
+        required: true
+        default: false
+jobs:
+  full-build:
+    name: "Build Full Site"
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      RENV_PATHS_ROOT: ~/.local/share/renv/
+    steps:
+
+      - name: "Checkout Lesson"
+        uses: actions/checkout@v2
+
+      - name: "Set up R"
+        uses: r-lib/actions/setup-r@v1
+        with:
+          use-public-rspm: true
+
+      - name: "Set up Pandoc"
+        uses: r-lib/actions/setup-pandoc@v1
+        with:
+          pandoc-version: "2.11.4"
+
+      - name: "Setup Lesson Engine"
+        uses: carpentries/actions/setup-sandpaper@main
+        with:
+          cache-version: ${{ secrets.CACHE_VERSION }}
+
+      - name: "Setup Package Cache"
+        uses: carpentries/actions/setup-lesson-deps@main
+        with:
+          cache-version: ${{ secrets.CACHE_VERSION }}
+
+      - name: "Deploy Site"
+        run: |
+          reset <- "${{ github.event.inputs.reset }}" == "true"
+          sandpaper::package_cache_trigger(TRUE)
+          sandpaper:::ci_deploy(reset = reset)
+        shell: Rscript {0}
