@@ -1,5 +1,5 @@
 ---
-site: sandpaper::sandpaper_site()
+site: sandpaper::sandpaper_site
 ---
 
 ::::::::::::::::::::::::::::::::::::::::::  prereq
