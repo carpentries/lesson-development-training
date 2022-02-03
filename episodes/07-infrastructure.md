@@ -1,5 +1,5 @@
 ---
-title: Introducing The Carpentries lesson infrastructure
+title: The Carpentries Workbench
 teaching: 60
 exercises: 15
 ---
