@@ -79,7 +79,7 @@ Share the major points of your discussion in the collaborative notes document.
 *"Different types of LOs are better fit for novices,
 while others are better fit for competent practitioners, etc and
 if exercises (formative assessments) are well aligned to LOs,
-\[they\] will automatically serve the corresponding audience.
+[they] will automatically serve the corresponding audience.
 Thinking in terms of LOs
 (What should a learner do in order to achieve this specific LO?
 Is this LO exactly what learners are expected to achieve by the end of this piece of instruction? etc.)
