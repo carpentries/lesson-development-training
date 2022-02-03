@@ -47,6 +47,11 @@ episodes:
 
 # Information for Learners
 learners:
+- setup.md
+- pilot-description.md
+- markdown-github-primer.md
+- trial-runs.md
+- reference.md
 
 # Information for Instructors
 instructors:
