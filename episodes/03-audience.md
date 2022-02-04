@@ -95,6 +95,9 @@ to help you assess whether a respondent falls within the intended audience for y
 Write a list of the skills/knowledge your learners will be required to have
 before they can follow your lesson.
 
+If you are struggling with this exercise because your lesson audience is novices,
+think about skills like touch typing, using a web browser, or interacting with a command line 
+or graphical interface.  These are skills experts or competent practitioners can commonly overlook.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
