@@ -134,6 +134,7 @@ Other types of formative assessment:
 
 - think, pair, share
 - sticky notes and written feedback
+- reflective assessment
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
