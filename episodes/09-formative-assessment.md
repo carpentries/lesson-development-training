@@ -21,6 +21,7 @@ exercises: 35
 - Exercises are one important type of formative assessment
 - Mental models and misconceptions
   - 27+15=42 MCQ example from Instructor Training
+  - In addition to the prior knowledge we want learners to have they also have knowledge that can lead to misconceptions. 
   - It is important to detect misconceptions as early as possible
     and formative assessments should help you do this
 - Learners get feedback about what they have misunderstood - guided practice
