@@ -29,7 +29,7 @@ or because they are interesting to you from a theoretical perspective.
 
 The desired end point (the objective) of a lesson should be new things that the learner can do.
 Cognitive skills cannot be equally easily acquired:
-we can attain the abilty to remember and distinguish between new concepts more quickly than,
+we can attain the ability to remember and distinguish between new concepts more quickly than,
 and must do so before,
 we can begin applying those concepts or creating something new based on them.
 
