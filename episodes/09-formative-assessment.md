@@ -50,6 +50,9 @@ What is a common misconceptions learners can have about the topic of your lesson
 How might you identify that misconception in your learners while they follow your lesson?
 Share your answer in the collaborative notes document.
 
+Hint: Try thinking about related or common tools the learners might know and how
+applying that prior knowledge might lead to a misconception with
+the topic you are teaching.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
