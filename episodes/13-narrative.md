@@ -4,10 +4,48 @@ teaching: 15
 exercises: 50
 ---
 
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- Find candidate datasets to use in a lesson.
+- Evaluate the suitability of a dataset to be used in a lesson.
+- Choose examples that will prepare learners for formative assessments in the lesson.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
+- What considerations are there when choosing an example dataset for a lesson?
+- Where can I find openly-licensed, published data to use in a lesson?
+- Why should a lesson tell a story?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Creating a narrative
+
+<!--- Should this section go before LO and questions? -->
+
+A story will make your lesson more engaging and help learners stay motivated.
+Following along with a story also helps learners more easily connect how the skills they
+are learning to how the skills could be useful after the workshop.
+The story you create for your lesson might also be centered around using a particular dataset.
+Even if your topic doesn't require a dataset, deciding on a consistent narrative will
+help create a flow between lessons and reduce cognitive load
+
+You can facilitate learners making connections between the what they learn in your lesson to their
+own work by creating a narrative that resembles a situation the learners might
+encounter in their own work.
+
+It is common for lessons to include a dataset that is used in examples and discussed throughout.
+This can help you maintain a narrative flow and make the lesson feel more authentic
+
 - A story will make your lesson more engaging and help learners stay motivated,
   more easily see how the skills they are learning could be useful after the workshop.
 - It is common for lessons to include a dataset that is used in examples and discussed throughout
   - This can help you maintain a narrative flow and make the lesson feel more authentic
+
+
+## Finding a dataset
+
 - Finding \& modifying a dataset
   - Size - large enough to be authentic
     (and to demonstrate the benefits of learning the skills you are teaching),
@@ -26,32 +64,17 @@ exercises: 50
   - Ethical/cultural considerations TODO - this needs fleshing out
     - [CARE principles](https://datascience.codata.org/articles/10.5334/dsj-2020-043/)
     - Are some members of your audience likely to find the data upsetting or offensive?
+
+### Examples of public repositories
+
 - Examples of public repositories that could be good places to look for a data set to use in your lesson:
   - Dryad
   - DCN's curated data sets
   - domain-specific repositories
   - Data.europa.eu
   - DataONE
-- Even if you do not need a data set for your lesson, you should decide on a narrative
-  - Centering lesson around a central example reduces cognitive of switching between examples throughout the lesson
-  - Authenticity vs complexity again
-  - Same considerations of motivation, accessibility as before
 
-::::::::::::::::::::::::::::::::::::::: objectives
 
-- Find candidate datasets to use in a lesson.
-- Evaluate the suitability of a dataset to be used in a lesson.
-- Choose examples that will prepare learners for formative assessments in the lesson.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::: questions
-
-- What considerations are there when choosing an example dataset for a lesson?
-- Where can I find openly-licensed, published data to use in a lesson?
-- Why should a lesson tell a story?
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -78,6 +101,7 @@ Identify one or more potential candidates and note down the advantages and disad
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: Examples before exercises (20 minutes)
@@ -89,6 +113,16 @@ they will need to apply to complete the formative assessments you have designed?
 Outline one of these examples in your episode file.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+## Summary / Last points
+<!--- needs  a better heading title-->
+
+- Even if you do not need a data set for your lesson, you should decide on a narrative
+  - Centering lesson around a central example reduces cognitive of switching between examples throughout the lesson
+  - Authenticity vs complexity again
+  - Same considerations of motivation, accessibility as before
 
 
 
