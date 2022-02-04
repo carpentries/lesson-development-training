@@ -79,7 +79,7 @@ Or would your time be better spent focussing on one particular audience for this
 
 ## Part 2b (for participants developing their lesson alone, 10 minutes)
 
-Write a diagnostic questionnaire, for use before the lesson is taught,
+Write 1-2 diagnostic questions, for use before the lesson is taught,
 to help you assess whether a respondent falls within the intended audience for your lesson.
 
 
