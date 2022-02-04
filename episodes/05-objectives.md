@@ -90,8 +90,8 @@ what do you want learners to be able to do at the end of the workshop?
 ## Exercise: reviewing lesson objectives (15 minutes)
 
 Swap objectives written in the previous exercise with a partner
-(it will help if they are familiar with the target audience, but this not essential)
-and review these:
+(you can also explain or show them what you wrote about your target audience, but this not essential)
+and review them with the following questions in mind:
 
 - Are the objectives clear?
 - Do they use "action" verbs?
