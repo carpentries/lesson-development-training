@@ -24,24 +24,17 @@ exercises: 50
 
 <!--- Should this section go before LO and questions? -->
 
-A story will make your lesson more engaging and help learners stay motivated.
-Following along with a story also helps learners more easily connect how the skills they
+Writing your lesson as a story helps learners stay motivated and engaged.
+The story you create can also help learners more easily connect how the skills they
 are learning to how the skills could be useful after the workshop.
-The story you create for your lesson might also be centered around using a particular dataset.
-Even if your topic doesn't require a dataset, deciding on a consistent narrative will
-help create a flow between lessons and reduce cognitive load
-
-You can facilitate learners making connections between the what they learn in your lesson to their
+You can enable learners to make connections between the what they learn in your lesson to their
 own work by creating a narrative that resembles a situation the learners might
 encounter in their own work.
-
+Depending on the tool you are teaching, you might also include a particular dataset as a part of the story you are weaving into your lesson.
 It is common for lessons to include a dataset that is used in examples and discussed throughout.
 This can help you maintain a narrative flow and make the lesson feel more authentic
-
-- A story will make your lesson more engaging and help learners stay motivated,
-  more easily see how the skills they are learning could be useful after the workshop.
-- It is common for lessons to include a dataset that is used in examples and discussed throughout
-  - This can help you maintain a narrative flow and make the lesson feel more authentic
+Even if your topic doesn't require a dataset, deciding on a consistent narrative will
+help create a flow between lessons and reduce cognitive load for learners.
 
 
 ## Finding a dataset
