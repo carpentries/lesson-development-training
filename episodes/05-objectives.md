@@ -29,9 +29,9 @@ or because they are interesting to you from a theoretical perspective.
 
 The desired end point (the objective) of a lesson should be new things that the learner can do.
 Cognitive skills cannot be equally easily acquired:
-we can attain the abilty to remember and distinguishing between new concepts more quickly than,
-and must do so before,
-we can begin applying those concepts or creating something new based on them.
+before we can apply concepts and create something new, we must attain the ability to remember 
+and distinguish between new concepts. 
+Remembering and distinguishing are also abilities that are often faster to gain then applying or creating.
 
 We must try to be realistic about how far along this scale we can move learners during a single workshop/lesson.
 This is one reason why the target audience is so important:
@@ -90,8 +90,8 @@ what do you want learners to be able to do at the end of the workshop?
 ## Exercise: reviewing lesson objectives (15 minutes)
 
 Swap objectives written in the previous exercise with a partner
-(it will help if they are familiar with the target audience, but this not essential)
-and review these:
+(you can also explain or show them what you wrote about your target audience, but this not essential)
+and review them with the following questions in mind:
 
 - Are the objectives clear?
 - Do they use "action" verbs?
