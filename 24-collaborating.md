@@ -45,6 +45,7 @@ you may also want to assign these issues to a member of your lesson development 
   - Possible inspiration: [GitHub's Minimum Viable Governance](https://github.com/github/MVG) - designed for a one org-many projects setup, which is too elaborate for a single lesson project. But includes boilerplate for a steering committee, language laying out a preference for consensus but with voting as a fallback, and other text that is potentially helpful for those starting out and unsure about how to start with establishing governance.
     - In reality, consensus-based governance can run you into trouble when you hit an issue where maintainers do not all agree but still want to make progress. A voting/majority system helps you get around this.
     - Another issue with MVG is that "good faith" is open to interpretation and leaves plenty of room for the powerful to get away with acting in bad faith.
+    - [more resources around governance in this sheet from a CSCCE community call](https://docs.google.com/spreadsheets/d/1k8t1VPdcwKH7ZGaCA0q8NNxbFKQKkZGPth3nhfkKwAA/edit#gid=0)
 
 
 
