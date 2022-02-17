@@ -83,8 +83,8 @@ so that the new repository contains the basic files and folders
 that the Workbench needs in order to build a lesson site.
 There are currently two templates to choose between:
 
-1. [An RMarkdown template][rmd-template], best suited to lessons that will include a lot of R source code.
-2. [A Markdown template][md-template], the simpler choice for all other lessons.
+1. [A Markdown template][md-template]
+2. [An RMarkdown template][rmd-template], best suited to lessons that will include R source code that will generate output.
 
 **One member of each participating lesson team** should choose one of these templates, 
 following the link above and completing the configuration as follows:
