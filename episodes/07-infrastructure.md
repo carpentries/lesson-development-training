@@ -1,7 +1,7 @@
 ---
 title: The Carpentries Workbench
 teaching: 50
-exercises: 25
+exercises: 50
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -9,6 +9,7 @@ exercises: 25
 - Identify the key tools used in The Carpentries lesson infrastructure.
 - Complete the fundamental setup steps for a new lesson repository.
 - Edit Markdown files using the GitHub web interface.
+- Define the objectives of a section within a whole lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -238,7 +239,7 @@ as a bullet point list to `index.md`:
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: practice editing Markdown in GitHub (5 minutes)
+## Exercise: practice editing Markdown in GitHub (optional)
 
 Add the objectives you defined for your lesson
 as a bullet list in the `index.md` file of your lesson repository.
@@ -321,9 +322,8 @@ For page content, paste those first 19 lines of the `01-introduction.md` file an
 
 1. replace the title
 2. set the `teaching` and `exercises` fields to zero for now
-3. replace the contents of the `questions` div with "TODO"
-4. replace the contents of the `objectives` div with a list of the objectives 
-   you defined earlier for this episode.
+3. replace the contents of the `questions` and `objectives` divs with "TODO"
+
 
 ```markdown
 ---
@@ -340,8 +340,7 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- objective 1
-- objective 2
+- TODO
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 ```
@@ -353,10 +352,79 @@ exercises: 0
 Repeat the steps you just saw, to create another new episode file.
 If you know what another episode in your lesson will be about,
 create the page for that.
-Otherwise, feel free to use any values you like for the file name, episode title, etc.
-
+Otherwise, feel free to use any values you like for the file name and episode title.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+When these episode files have been created,
+you can navigate back to the lesson website.
+Refresh the page and,
+under _Chapters_ in the left sidebar,
+you should find the titles of all the episodes in
+the `episodes` folder of your repository.
+Clicking on one of those titles will take you to the episode page built from the file you created.
+At the top of the page body, you will find the episode title 
+and an _Overview_ box containing a list of the questions and objectives
+defined for the episode.
+Later, we will add more content to your chosen episodes.
+
+TODO add a labelled screenshot of a new episode page
+
+Using this approach, we can build up our lesson one episode at a time.
+
+We have now learned everything we need to be able to use The Carpentries Workbench,
+and our focus can return to the process of developing a new lesson.
+
+## Defining Episode Objectives
+
+In _Defining Lesson Objectives_,
+you created a list of the learning objectives for your lesson as a whole.
+This process is helpful as a way to set the end goal and,
+coupled with the expected prior knowledge of the target audience you identified,
+describe the scope of the lesson.
+
+We can use the same approach for the individual episodes of a lesson,
+defining objectives for the episode to make clear what we intend to teach in that section.
+Defining these objectives _before writing the episode content_ helps us to:
+
+- stay focused in the episode, without spending time on non-essential topics
+- determine whether learners are attaining the skills we wish to teach them 
+  (we will discuss this more in the next two episodes)
+- summarise the skills the learner can expect to gain by following this section of the lesson
+
+::: challenge
+
+### Exercise: define objectives for your episode (30 minutes)
+
+1. Using the same approach as you did for your whole-lesson objectives,
+   define a set of SMART objectives for your chosen episode. (15 minutes)
+1. Add this list of objectives to replace 
+   the `TODO` in the `objectives` fenced div of your episode file (5 minutes)
+1. Compare your list with those created by your collaborators on the lesson:
+    - are there any gaps in these objectives, 
+      i.e. anything that should be covered in these episodes but is not captured in the objectives?
+    - are there any overlaps, i.e. anything that looks like it will be covered more than once?
+1. As a group, discuss how you will address any problems identified in the previous step,
+   and edit your objectives accordingly.
+
+:::::: solution
+
+After you have defined the episode objectives, you can add them to the `objectives` div as follows:
+
+```markdown
+::::::::::::::::::::::::::::::::::::: objectives
+
+- objective 1
+- objective 2
+- ...
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+```
+
+::::::
+
+:::
 
 ::: challenge
 
@@ -384,25 +452,9 @@ In `index.md`:
 
 :::
 
-
-When these episode files have been created,
-you can navigate back to the lesson website.
-Refresh the page and,
-under _Chapters_ in the left sidebar,
-you should find the titles of all the episodes in
-the `episodes` folder of your repository.
-Clicking on one of those titles will take you to the episode page built from the file you created.
-At the top of the page body, you will find the episode title 
-and an _Overview_ box containing a list of the questions and objectives
-defined for the episode.
-Later, we will add more content to your chosen episodes.
-
-TODO add a labelled screenshot of a new episode page
-
-Using this approach, we can build up our lesson one episode at a time.
-
-We have now learned everything we need to be able to use The Carpentries Workbench,
-and our focus can return to the process of developing a new lesson.
+Now that we have defined objectives for our episodes,
+we can start working on the next step in developing an effective lesson:
+designing exercises that will assess whether a learner has learned what you aimed to teach them.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
