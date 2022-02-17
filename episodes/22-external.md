@@ -4,11 +4,9 @@ teaching: 30
 exercises: 25
 ---
 
-- making your lesson repository welcoming to newcomers
-- (up to date!) `README`
-- `CONTRIBUTING.md`
-  - Include description of what kinds of contribution will be credited in what ways e.g. at what point would someone be listed as an author? Will you credit contributions that are not recorded in the commit history of the project?
-- issue and pull request templates
+As with most open source and collaborative projects - you'll want to attract more effort to help
+you maintain and improve the lesson. Often, this effort will come from people in the community you do not know beforehand, with varying sets of skills and amount of time to dedicate to your project. You should make an active effort to attract potential collaborators and try to make them all feel welcome and included as, in the words of Karl Fogel - the author of ["Producing Open Source Software"](ref), "if a project doesn’t make a good first impression, newcomers may wait a long time before giving it a second chance".
+Fogel K. Producing Open Source Software: How to Run a Successful Free Software Project. Sebastopol, CA: O’Reilly Media; 2005. 
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
@@ -26,8 +24,25 @@ exercises: 25
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::  challenge
+For collaborative lesson development projects it is important to spend the time on ‘external-facing’ project features, such as documentation, to make the project is welcoming for newcomers who may not have a deep grasp of the lesson or know all its existing problems. Such documentation will be useful to yourself and other team members as well, e.g. if you are trying to come back to the project after a break or are reusing it for a new collaboration in the future.
 
+Your lesson documentation should contain the following information, which should be kept up to date:
+- `README.md`- a README file is the first piece of documentation that people will land on when visiting your lesson repository. It should concisely explain what the lesson is about and who it is for, and contain links and pointers to further information, including:
+  - Rendered version of the lesson: even though this is typically included in the `About` section of the repository, it is always useful to link to the URL where the rendered lesson is visible
+  - Contact information: include email addresses or mailing lists or details on how to get in touch with the lesson maintainers
+  - Contributing: this is an opportunity to list what kinds of contribution are sought and how to get involved in lesson development for new contributors. You can provide more details in a separate `CONTRIBUTING.md` file within the repository’s root directory and link to it from README. 
+  - Credits/Acknowledgements: where appropriate, be sure to credit those who have helped in the lesson's development or inspired it, and/or any resources/templates that you have reused. You can also link to a separate file `AUTHORS.md` within the repository’s root directory, to list all the people who contributed to the lesson content (especially if this list starts to become rather large). 
+  - Citation: it’s a very good idea to specify a reference to an appropriate academic publication so others can cite use of the lesson in their own publications and media. You can do this within a separate `CITATION.md` file within the repository’s root directory and link to it from README.
+  - Licence: a short description of and a link to the lessons’s licence typically contained in a separate `LICENSE.md` file within the repository’s root directory.
+- `CONTRIBUTING.md` - a file within the repository's root directory where you should provide detailed description of what kinds of contribution will be credited and in what ways. For example, at what point would someone be listed as an author and how you will credit contributions that are not recorded in the commit history of the project. The latter is particularly important for including newcomers who may not be proficient with the use of GitHub's features for collaborative work - such as Issues for managing bug reports, feature requests, and lists of future work; Mentions to reference team members/issues/commits/pull requests; Pull Requests to alert maintainers that new content is ready to be reviewed; Code Reviews to enable checks and discussions on contributed content - but could still provide valuable input and contributions.
+- issue and pull request templates - consider setting up issue and pull request templates to help newcomers who may not have much experience working on team projects in GitHub. Such templates will prompt them to fill in answers to pre-set questions, which will help raise issues or submit pull requests in a way that’s clear, helpful and provides enough information for maintainers to act upon (without going back and forth to extract it). GitHub provides a range of default templates, but you can also [write your own](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository).
+
+You may consider adding the following information to your documentation too:
+- set-up guide for installing and rendering the lesson locally
+- how to create and modify the pages in the lesson
+
+
+::::::::::::::::::::::::::::::::::::::  challenge
 ## Exercise: preparing your repository for collaboration (15 minutes)
 
 Spend some time doing **one of the following**:
