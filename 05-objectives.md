@@ -58,7 +58,7 @@ rather than "know," "understand," or "appreciate."
     before your learners have had a chance to commit their foundational knowledge
     and understanding to long term memory.
   - Analytic and creative skills take longer to teach and to learn.
-    Trying to fit too much content into a lesson is counter-productive[1][1].
+    [Trying to fit too much content into a lesson is counter-productive][lujan-decarlo].
 - Try to write objectives that are Specific, Measurable, Attainable, Relevant, and Time-bound (SMART).
 
 ::::::::::::::::::::::::::::::::::::::  challenge
@@ -108,7 +108,7 @@ Do the results match your assessment?
 
 
 
-[1]: https://journals.physiology.org/doi/pdf/10.1152/advan.00061.2005
+[lujan-decarlo]: https://journals.physiology.org/doi/pdf/10.1152/advan.00061.2005
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
