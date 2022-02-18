@@ -4,7 +4,7 @@ teaching: 25
 exercises: 20
 ---
 
-We will use a modified version of [Nicholl's five phases of curriculum design][1],
+We will use a modified version of [Nicholl's five phases of curriculum design][f1000-course-design-guide],
 adapted to place an emphasis on assessing learning during a workshop:
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -34,7 +34,7 @@ what people will know before and after the lesson.
 That means thinking carefully about the target audience.
 This will also help attract people with the right motivation and relevant prior knowledge to attend your workshops.
 
-[The Carpentries model of how people gain expertise][2]: novice -> competent practitioner -> expert
+[The Carpentries model of how people gain expertise][it-skill-acquisition]: novice -> competent practitioner -> expert
 
 - Why this matters when designing a new lesson
   - Prior knowledge of audience mental models: what do they already know?
@@ -103,8 +103,8 @@ or graphical interface.  These are skills experts or competent practitioners can
 
 
 
-[1]: https://f1000research.com/documents/9-1377
-[2]: https://carpentries.github.io/instructor-training/02-practice-learning/index.html#the-acquisition-of-skill
+[f1000-course-design-guide]: https://f1000research.com/documents/9-1377
+[it-skill-acquisition]: https://carpentries.github.io/instructor-training/02-practice-learning/index.html#the-acquisition-of-skill
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints

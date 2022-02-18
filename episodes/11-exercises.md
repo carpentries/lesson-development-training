@@ -21,7 +21,7 @@ start: yes
   - resources for further reading:
     - [https://h5p.org/content-types-and-applications](https://h5p.org/content-types-and-applications)
     - [https://www.edutopia.org/groups/assessment/250941](https://www.edutopia.org/groups/assessment/250941)
-    - [http://teachtogether.tech/en/index.html#s:exercises](http://teachtogether.tech/en/index.html#s:exercises)
+    - [https://teachtogether.tech/en/index.html#s:exercises](https://teachtogether.tech/en/index.html#s:exercises)
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
@@ -48,7 +48,7 @@ Each group should assign a notetaker,
 to summarise your discussion at the end of the exercise.
 
 Read about your given exercise type
-[in the *Exercise Types* chapter of *Teaching Tech Together*](http://teachtogether.tech/en/index.html#s:exercises) by following the relevant link below.
+[in the *Exercise Types* chapter of *Teaching Tech Together*](https://teachtogether.tech/en/index.html#s:exercises) by following the relevant link below.
 
 - [fill-in-the-blanks][blanks]
 - [Parsons problems][parsons]
@@ -148,9 +148,9 @@ use special blockquotes to display it in a formatted box with the `.prereq` clas
 
 
 
-[blanks]: http://teachtogether.tech/en/index.html#fill-in-the-blanks
-[parsons]: http://teachtogether.tech/en/index.html#parsons-problem
-[minimal]: http://teachtogether.tech/en/index.html#minimal-fix
+[blanks]: https://teachtogether.tech/en/index.html#fill-in-the-blanks
+[parsons]: https://teachtogether.tech/en/index.html#parsons-problem
+[minimal]: https://teachtogether.tech/en/index.html#minimal-fix
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
