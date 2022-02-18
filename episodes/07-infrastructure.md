@@ -51,7 +51,7 @@ written in the text files of the repository,
 to be combined with descriptions of settings, 
 structure,
 and styling,
-to create a relatively complex website.
+to create a website.
 
 ## Using The Carpentries Workbench
 
@@ -71,7 +71,7 @@ The Workbench combines three R packages:
    enabling various automated validation tasks.
 
 For lesson developers, 
-we believe that the Workbench makes The Carpentries lesson repositories
+the Workbench makes The Carpentries lesson repositories
 much simpler to navigate and work with.
 We will use it now to initialise a new lesson.
 
