@@ -39,6 +39,44 @@ help create a flow between lessons and reduce cognitive load for learners.
 
 ## Finding a dataset
 
+When searching for a dataset to use in your lesson, 
+there are a number of factors to consider.
+First, if possible you want the dataset to be an authentic use
+case for researchers in your target audience.
+This means balancing the size and complexity of a dataset
+while avoiding additional cognative load for learners.
+The dataset may need a certain number of observations
+to demonstrate some of the skills you are teaching or have a
+realistic number of variables to what learners many encounter
+in their work to feel authentic.
+At the same time, you want your learners to be able to interpret the
+data fairly easily during the lesson so they can focus on the skills
+you are teaching.
+This may mean you will need to subset your dataset or remove variables
+observed.
+You may want to also include and review a data dictionary in your lesson,
+explicitly taking the time to review the information included in the
+dataset.
+An additional factor to consider when choosing a dataset to include is 
+the license.
+You want to find a dataset where the data provider allows for you to freely use it.
+The best option is a dataset with a CC0 (Public Domain Dedication) license, as
+other licenses may have more ambiguity around data reuse.
+Lessons included in the [Carpentries Incubator](https://carpentries-incubator.org/) will need to use CC0 licensed data.
+Even with a CC0 license, you will still want to follow best practice in 
+giving attribution to the data provider or collecting agency.
+
+<!--- Callout to the article about CC-BY complications - https://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/ 
+::: callout
+This is a callout block. It contains at least three colons
+:::
+-->
+
+An example dataset used in the Data Carpentry Ecology lessons is the [Portal
+Project Teaching Database](https://figshare.com/articles/dataset/Portal_Project_Teaching_Database/1314459).  This dataset is an actual ecological research project that was simplified for teaching.
+
+
+
 - Finding \& modifying a dataset
   - Size - large enough to be authentic
     (and to demonstrate the benefits of learning the skills you are teaching),
