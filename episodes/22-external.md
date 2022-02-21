@@ -83,13 +83,13 @@ In addition to having the complete documentation in the lesson repository, the C
 
 You should also consider submitting your lesson to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and similar wider community open source events aimed at encouraging people to contribute to open source projects periodically throughout the year.
 
-### Issue labelling
+### Issue labelling for newcomers
 
 You can encourage contributions to your lesson from newcomers by using specific labels on issues to highlight suitable opportunities to help. Apply the `good_first_issue` or `help_wanted` labels to issues in your repository to indicate that the maintainers will welcome help or pull requests fixing such issues.
 
 ### Noticing when something happens
 
-GitHub implements a comprehensive [notifications system](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) to keep you up-to-date with activities in your lesson repository. GitHub also provides an additional useful notification feature for collaborative work - **mentions**. The mention system notifies team members when somebody else references them in an issue, comment or pull request - you can use this to notify people when you want to check a detail with them, or let them know something has been fixed or changed (much easier than writing out all the same information again in an email!). You can use the mention system to link to individual GitHub accounts or whole teams for mentioning multiple people. Typing `@` in GitHub will bring up a list of all accounts and teams linked to the repository.
+GitHub implements a comprehensive [notifications system](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) to keep you up-to-date with activities in your lesson repository. GitHub also provides an additional useful notification feature for collaborative work - **mentions**. The mention system notifies team members when somebody else references them in an issue, comment or pull request - you can use this to notify people when you want to check a detail with them, or let them know something has been fixed or changed (much easier than writing out all the same information again in an email!). You can use the mention system to link to individual GitHub accounts or whole teams for mentioning multiple people. Typing `@` in GitHub will bring up a list of all accounts and teams linked to the repository that can be "mentioned".
 
 Check out [GitHub's documentation on setting notifications on individual repository](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository). You can choose whether to watch or unwatch an individual repository, or can choose to only be notified of certain event types such as issues, pull requests, mentions, etc.
 
@@ -98,6 +98,7 @@ Check out [GitHub's documentation on setting notifications on individual reposit
 
 The following practices have been shown to help maintain steady progress with lesson development: 
 
+  - being responsive to notifications about activities and mentions 
   - scheduling regular co-working/sprinting sessions with team members
   - attaching your sprint sessions to other open source community activities, such as [Hacktoberfest](https://hacktoberfest.digitalocean.com/), which offer goodies, rewards and prizes for participants, will provide motivation and activity spikes
   - attending Carpentries Maintainer co-working/lesson development co-working sessions with people working on or maintaining other lessons
@@ -131,10 +132,8 @@ but you might consider using it to do one or more of the following:
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - *"If a project doesn’t make a good first impression, newcomers may wait a long time before giving it a second chance" - Karl Fogel, the author of ["Producing Open Source Software: How to Run a Successful Free Software Project"](https://www.oreilly.com/library/view/producing-open-source/0596007590/)*.
-- You should make an active effort to attract potential collaborators and try to make them all feel welcome and included.
-- Creating appropriate documentation, contribution instructions, and issue and pull request templates will help lower the barriers for contributors to join your project.
-- [The Carpentries Help Wanted page](https://carpentries.org/help-wanted-issues/) and featuring in [the Incubator Lesson Spotlight](https://docs.carpentries.org/topic_folders/lesson_development/spotlight.html) can boost the visibility of your lesson help you find more collaborators.
-- Scheduling regular co-working sessions, blocking time in the calendar for issue triage, and managing GitHub notifications to be alerted of any activity can help ensure regular progress on the lesson.
+- You should make an active effort to attract potential collaborators and try to make them all feel welcome and included. [The Carpentries Help Wanted page](https://carpentries.org/help-wanted-issues/) and featuring in [the Incubator Lesson Spotlight](https://docs.carpentries.org/topic_folders/lesson_development/spotlight.html) can boost the visibility of your lesson. Creating the appropriate documentation and using GitHub features such as labels, and issue/pull request templates will help lower the barriers for contributions to your project.
+- Scheduling regular co-working sessions, blocking time in the calendar for issue triage, and setting and being responsive to GitHub notifications will ensure regular progress on the lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
