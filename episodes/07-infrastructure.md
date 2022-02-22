@@ -164,6 +164,19 @@ Under _Source_, choose the `gh-pages` branch, leave the folder set to `/ (root)`
 and click _Save_.
 Now, copy the URL in the box: this will be the address of your lesson site.
 
+::: callout
+
+### Which branch to use?
+
+Although we configure GitHub Pages to serve the lesson website from the `gh-pages` branch,
+**the default working branch for a lesson will be `main`**.
+For the rest of this training, you should add and edit files on `main`,
+and in future, when you open Pull Requests to update the lesson content,
+these should also be made to `main`.
+The `gh-pages` branch should only be modified by the automated actions of the Workbench.
+
+:::
+
 Returning to the repository home page 
 (e.g. by clicking the name of the project near the top left of the window),
 click the gear wheel icon near the top right, to edit the _About_ box.
