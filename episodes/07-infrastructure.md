@@ -173,7 +173,7 @@ Although we configure GitHub Pages to serve the lesson website from the `gh-page
 For the rest of this training, you should add and edit files on `main`,
 and in future, when you open Pull Requests to update the lesson content,
 these should also be made to `main`.
-The `gh-pages` branch should only be modified by the automated actions of the Workbench.
+The `gh-pages` branch should never be modified by anyone other than the automated actions-user account.
 
 :::
 
