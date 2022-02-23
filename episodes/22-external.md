@@ -105,7 +105,7 @@ The following practices have been shown to help maintain steady progress with le
   - being responsive to notifications about activities and mentions
   - scheduling regular co-working/sprinting sessions with team members
 attaching your sprint sessions to other open source community activities, which may offer goodies, rewards and prizes for participants, can provide motivation and activity spikes
-  - attending Carpentries Maintainer co-working/lesson development co-working sessions with people working on or maintaining other lessons
+  - working alongside other members of The Carpentries community at Maintainer or lesson development co-working sessions
   - blocking time in your calendar for issue triage/solo material writing
   - planning lesson pilots in advance to help set targets
 
