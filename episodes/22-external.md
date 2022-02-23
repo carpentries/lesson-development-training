@@ -89,7 +89,7 @@ You should also consider submitting your lesson to [Hacktoberfest](https://hackt
 
 ### Issue labelling for newcomers
 
-You can encourage contributions to your lesson from newcomers by using specific labels on issues to highlight suitable opportunities to help. Apply the `good first issue` or `help wanted` labels to issues in your repository to indicate that the maintainers will welcome help or pull requests fixing such issues.
+You can encourage contributions to your lesson from newcomers by using specific labels on issues to highlight suitable opportunities to help. Apply the `good first issue` or `help wanted` labels to issues in your repository to indicate that the maintainers will particularly welcome help or pull requests fixing such issues.
 
 ### Noticing when something happens
 
