@@ -72,6 +72,7 @@ Spend some time doing **one of the following**:
 2. Create a new issue or pull request template, or modfy an existing one,
    to guide contributors on how best to begin collaborating with you on GitHub.
 
+Groups of collaborators taking this training together should discuss first how they will assign these tasks between them.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Collaborating on a lesson
