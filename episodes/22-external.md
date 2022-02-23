@@ -51,7 +51,7 @@ Consider setting up issue and pull request templates to help newcomers who may n
 
 ### Other documentation
 
-Once have set up the basic documentation about your lesson, you may consider adding the following useful information to your documentation too:
+Once you have set up the basic documentation about your lesson, you may consider adding the following useful information to your documentation too:
 
 - set-up guides for installing and rendering the lesson locally
 - how to create and modify the pages in the lesson
