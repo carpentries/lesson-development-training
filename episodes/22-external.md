@@ -104,7 +104,7 @@ The following practices have been shown to help maintain steady progress with le
 
   - being responsive to notifications about activities and mentions
   - scheduling regular co-working/sprinting sessions with team members
-  - attaching your sprint sessions to other open source community activities, such as [Hacktoberfest](https://hacktoberfest.digitalocean.com/), which offer goodies, rewards and prizes for participants, will provide motivation and activity spikes
+attaching your sprint sessions to other open source community activities, which may offer goodies, rewards and prizes for participants, can provide motivation and activity spikes
   - attending Carpentries Maintainer co-working/lesson development co-working sessions with people working on or maintaining other lessons
   - blocking time in your calendar for issue triage/solo material writing
   - planning lesson pilots in advance to help set targets
