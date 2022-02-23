@@ -114,7 +114,7 @@ How might you prioritise what to keep if you have to cut it down?
 - Accessibility
   - Avoid regional/cultural references and idioms that will not translate across borders/cultures
   - Contractions
-  - Alternative text for figures/images (including for data visualisations [https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81))
+  - Alternative text for figures/images (including for data visualisations [https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)) - [the Workbench documentation describes how to add alt-text and captions to images in a lesson](https://carpentries.github.io/sandpaper-docs/episodes.html#figures)
   - Header hierarchy (no h1 headers in the lesson body, no skipped levels e.g. h2 -> h4)
   - Use descriptive link text - no "click here" or "this page" etc
   - Image contrast \& tools to check this
