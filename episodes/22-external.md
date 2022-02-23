@@ -79,7 +79,7 @@ Groups of collaborators taking this training together should discuss first how t
 
 ### Boosting the visibility and attracting new collaborators
 
-In addition to having the complete documentation in the lesson repository, the Carpentry community provides a number of ways to further raise the visibility of the lesson among the broader community and to encourage community members to contribute to its further development, for example:
+In addition to having the complete documentation in the lesson repository, The Carpentries community provides a number of ways to further raise the visibility of the lesson among the broader community and encourage community members to contribute to its further development. For example:
 
   - listing the lesson on [The Carpentries Help Wanted page](https://carpentries.org/help-wanted-issues/)
   - featuring your lesson in [the Incubator Lesson Spotlight](https://docs.carpentries.org/topic_folders/lesson_development/spotlight.html)
