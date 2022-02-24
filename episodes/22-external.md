@@ -89,7 +89,7 @@ In addition to having the complete documentation in the lesson repository, The C
 
   - listing issues from the lesson repository on [The Carpentries Help Wanted page](https://carpentries.org/help-wanted-issues/)
   - featuring your lesson in [the Incubator Lesson Spotlight](https://docs.carpentries.org/topic_folders/lesson_development/spotlight.html)
-  - writing a blog post about the lesson for [the Carpentries Blog](https://carpentries.org/blog) or attending a community discussion call to promote the lesson
+  - writing a blog post about the lesson for [The Carpentries Blog](https://carpentries.org/blog), and/or attending a community discussion call to promote the lesson
   - advertising the lesson at various Carpentries mailing lists - e.g. [general discussion](https://carpentries.topicbox.com/groups/discuss), [instructors](https://carpentries.topicbox.com/groups/instructors), regional communities or specific curriculum lists
 
 You should also consider submitting your lesson to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and similar wider community open source events aimed at encouraging people to contribute to open source projects periodically throughout the year.
