@@ -87,7 +87,7 @@ Groups of collaborators taking this training together should discuss first how t
 
 In addition to having the complete documentation in the lesson repository, The Carpentries community provides a number of ways to further raise the visibility of the lesson among the broader community and encourage community members to contribute to its further development. For example:
 
-  - listing the lesson on [The Carpentries Help Wanted page](https://carpentries.org/help-wanted-issues/)
+  - listing issues from the lesson repository on [The Carpentries Help Wanted page](https://carpentries.org/help-wanted-issues/)
   - featuring your lesson in [the Incubator Lesson Spotlight](https://docs.carpentries.org/topic_folders/lesson_development/spotlight.html)
   - writing a blog post about the lesson for [the Carpentries Blog](https://carpentries.org/blog) or attending a community discussion call to promote the lesson
   - advertising the lesson at various Carpentries mailing lists - e.g. [general discussion](https://carpentries.topicbox.com/groups/discuss), [instructors](https://carpentries.topicbox.com/groups/instructors), regional communities or specific curriculum lists
