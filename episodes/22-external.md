@@ -20,6 +20,12 @@ exercises: 25
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+So far, the focus of the training was on lesson development skills. In this section, we will learn more about the skills and tools you can use to become an effective collaborator on an open source lesson development project and how to employ your lesson development skills in a team environment. Collaboration skills covered here are transferrable to any similar open source project you may ba involved with. 
+
+You may start working on projects by yourself or with a small group of collaborators you already know, but open source projects in the Carpentries community often grow beyond that small group. Community collaboration is the cornerstone of The Carpentries - all curricula and various programmes are developed together by the community members across borders, domains and backgrounds. Most initiatives are done through community consultation and collaboration is used as a pathway to empower people, give members a sense of purpose in the community and realise shared goals.
+
+Collaboration helps bring different perspectives to solving a problem and share the load of the required work to develop, pilot, and, later on, maintain the lesson. People drop in and out of projects for various reasons and their levels of involvement may vary over time due to other committments - for this reason it is worth taking time from the outset to make a project welcoming for newcomers in order to achieve a steady number of people working on your project at any time. You should plan to make it easy for new collaborators to join, to set up a local workspace so that they can contribute, help them find tasks so that they know what to contribute, and make the contribution process clear so that they know how to contribute. You also want to make it easy to give people credit for their work on your project as well as for others to reuse and give credit to your project. From this episode on, we cover best practices for collaboration and tools available to us achieve it.
+
 ## Documenting your lesson
 
 For collaborative projects, it is important to spend the time on ‘external-facing’ features, such as documentation, to make the project as welcoming and as easy to get involved in as possible for newcomers who may not have a deep grasp of the project or know all its existing problems. Such documentation will be useful to yourself and other team members at well, e.g. if you are trying to come back to the project after a break or are reusing it for a new collaboration in the future.
