@@ -59,8 +59,8 @@ you may also want to assign these issues to a member of your lesson development 
 
 ## Managing communication
 
-Having an open, publicly-visible list of all the issues with your project provides a helpful way of communicating with people external and internal to your project to let them know you are aware of issues and you are working on them. This also can be used as an indicator (to external people) that the project is active and 
-(for internal team members) provide at a glance view of the state the project is in, making it easier to prioritise future work.
+Having an open, publicly-visible list of all the issues with your project is a helpful way of letting people know you are aware of issues and you are working on them. This can indicate to an external audience that the project is active. 
+It also provides you and your collaborators with an "at a glance" view of the state of the project, making it easier to prioritise future work.
 
 As we have seen in the previous episode, GitHub's notifications framework **Mentions** plays an important part in communicating between collaborators and is used as a way of alerting team members of activities and referencing one issue/comment/pull requests from another.
 
