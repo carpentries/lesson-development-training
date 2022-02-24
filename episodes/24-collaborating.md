@@ -98,7 +98,7 @@ In addition to managing your project on a day-to-day basis, you should consider 
 
 The moment your collaborator group exceeds 3 or 4 members (and fewer if the collaborators do not all know each other equally well at the outset) you should establish and document some kind of governance process. It will help mitigate any power imbalances which are expressed when one team member (or a group of team members) are more vocal and are able to dominate the decision-making process. It is advised to make these considerations early on, before your project grows too much and introducing structure and process into it becomes more difficult and complicated. Besides, if you do not establish these processes from the start, you are likely to discover the need to do so only when you first encounter disagreement within the team: a situation unlikely to provide perfect conditions for a discussion of governance.
 
-Here are some aspects of governing a project that you should consider, borrowed from ["Working in teams"](https://merely-useful.tech/py-rse/teams.html) chapter of ["Research Software Engineering with Python"](https://merely-useful.tech/py-rse/index.html) book on how to work productively in small teams where everyone is welcome:
+Here are some aspects of governing a project that you should consider. These are borrowed from [the _Working in teams_ chapter](https://merely-useful.tech/py-rse/teams.html) of [_Research Software Engineering with Python_](https://merely-useful.tech/py-rse/index.html), a book on how to work productively in small teams where everyone is welcome:
 
 - [establish a Code of Conduct](https://merely-useful.tech/py-rse/teams.html#teams-coc)
 - [meeting rules](https://merely-useful.tech/py-rse/teams.html#teams-meetings)
