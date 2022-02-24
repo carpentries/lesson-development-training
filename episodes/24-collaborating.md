@@ -21,7 +21,7 @@ exercises: 30
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-In this episode we expand a bit on how to use GitHub effectively among a group of known collaborators building on top of tools and practices we introduced for working with newcomers. Obviously, everything you do to help your lesson be more attractive and informative to newcomers will benefit all collaborators. Here, we explore GitHub features to help you keep track of what needs doing on the lesson, making decisions and managing your project.
+In this episode we expand on how to use GitHub effectively among a group of known collaborators, building on top of tools and practices we introduced for working with newcomers. Everything you do to help your lesson be more attractive and informative to newcomers will benefit all collaborators. Here, we explore GitHub features to help you keep track of what needs doing on the lesson, making decisions and managing your project.
 
 ## Managing issues
 
