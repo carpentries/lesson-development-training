@@ -25,7 +25,7 @@ In this episode we expand on how to use GitHub effectively among a group of know
 
 ## Managing issues
 
-**Issues** are GitHub's framework for managing issue/bug reports, feature requests, and lists of future work. They provide a single shared record of all the problems people have found with the lesson, along with solutions and discussions around them. This helps to keep track of issues for the team to work on later and avoids reports of issues you already know about.
+**Issues** are GitHub's framework for managing issue/bug reports, feature requests, and lists of future work. They provide a single shared record of all the problems people have found with the lesson, and improvements that could be made, along with solutions and discussions around them. This helps the team to keep track of what they need to work on later, and reduces the chance of receiving redundant reports of issues you already know about.
 
 When you create an issue, you can add a range of details to it. An issue can be assigned to a specific team member - this can be a helpful way to know who is currently working to fix an issue or a way to assign responsibility to someone to deal with it. You can assign one or more labels to issues to classify or group them. Labels can also be given colours, allowing you to see at a glance from the Issues page the state of your project. The default labels available in GitHub include:
 
