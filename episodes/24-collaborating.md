@@ -90,7 +90,7 @@ Once your project board has a large number of cards on it, you might want to beg
 
 - **Vertical position**: the vertical arrangement of cards in a column implicitly represents their importance. High-priority bugs go to the top of `To Do`, whilst tasks that depend on others go beneath them. This is the easiest one to implement, though you have to remember to correctly place cards when you add them.
 - **Priority columns**: instead of a single `To Do` column, you can have two or more, for example - `To Do: Low Priority` and `To Do: High Priority`. When adding a card, you pick which is the appropriate column for it. You can even add a Triage column for newly-added issues that you’ve not yet had time to classify. This format works well for project boards devoted to bugs.
-- **Labels**: if you convert each card into an issue, then you can label them with their priority - remember GitHub lets you create custom labels and set their colours. Labels can provide a very visually clear indication of issue priority but require more administrative work on the project, as each card has to be an issue to be assigned a label.
+- **Labels**: if you convert each card into an issue, then you can label them with their priority - remember GitHub lets you create custom labels and set their colours. Label colours can provide a very visually clear indication of issue priority but require more administrative work on the project, as each card has to be an issue to be assigned a label. You also need to be aware of accessibility issues for colour-blind people if choosing this route for issue prioritisation. 
 
 ## Project governance
 
@@ -100,7 +100,7 @@ The moment your collaborator group exceeds 3 or 4 members (and fewer if the coll
 
 Here are some aspects of governing a project that you should consider. These are borrowed from [the _Working in teams_ chapter](https://merely-useful.tech/py-rse/teams.html) of [_Research Software Engineering with Python_](https://merely-useful.tech/py-rse/index.html), a book on how to work productively in small teams where everyone is welcome:
 
-- [establish a Code of Conduct](https://merely-useful.tech/py-rse/teams.html#teams-coc)
+- [establishing a Code of Conduct](https://merely-useful.tech/py-rse/teams.html#teams-coc)
 - [meeting rules](https://merely-useful.tech/py-rse/teams.html#teams-meetings)
 - [decision-making process](https://merely-useful.tech/py-rse/teams.html#teams-martha)
 - [handling conflict](https://merely-useful.tech/py-rse/teams.html#teams-conflict)
