@@ -82,7 +82,7 @@ GitHub provides template boards that by default contain the three ‘basic’ co
 - `In Progress`
 - `Done`
 
-If you add an issue or pull request to a card in the board, it will automatically be moved it to ‘Done’ for you when you close the issue or merge the pull request. One common extra column is `On hold` or `Waiting`. If you have tasks that get held up by waiting on other people (e.g. to respond to your questions) then moving them to a separate column makes their current state clearer. 
+If you add an issue or pull request to a card in the board, it will automatically be moved to ‘Done’ for you when you close the issue or merge the pull request. One common extra column is `On hold` or `Waiting`. If you have tasks that get held up by waiting on other people (e.g. to respond to your questions) then moving them to a separate column makes their current state clearer. 
 
 You can also create a card without an issue. Such cards (or notes) can have detailed content like checklists. GitHub also allows you to convert a card to an issue so you can add labels or detailed comments to it. Sometimes, a card you thought was simple and self-contained might turn out to be a bigger task than you anticipated - in that case, it is sensible to create new cards that reference the one they broke off from.
 
