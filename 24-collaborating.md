@@ -68,7 +68,7 @@ As we have seen in the previous episode, GitHub's notifications framework **Ment
 
 Collaborators can also use other platforms to discuss lesson development or receive contributions from newcomers who are not yet fluent in using GitHub's systems of communication. The Carpentries can assist with creating a mailing list specific to the development of your lesson on their [TopicBox](https://carpentries.topicbox.com/) platform for managing threaded email discussions. Also make sure to join the [Incubator lesson developers mailing list](https://carpentries.topicbox.com/groups/incubator-developers) on TopicBox to keep an eye on announcements and discussions relating to lesson development in general within the Carpentries community.
 
-TODO: meeting minutes to provide records of meetings and communicate decisions. Do we want to cover this? 
+Meeting minutes are a useful way of providing a permanent record of the purpose of a meeting and what was talked about, including any decisions made or actions taken, that can be referred back to for any follow-ups. Recording meeting minutes does not have to be hard - remember that you are part of a team and there are many platforms that allow collaborative note taking. The Carpentries provides [CodiMD](https://codimd.carpentries.org/) and [Etherpad](https://pad.carpentries.org/) instances as two options for taking shared notes, widely used at workshops for sharing pieces of code, references and notes between instructors and learners. For some advice on holding effective meetings, see [the _Meetings, meetings, meetings_ section of Teaching Tech Together](http://teachtogether.tech/en/index.html#s:meetings) by Greg Wilson.
 
 ## Project management
 
@@ -82,7 +82,7 @@ GitHub provides template boards that by default contain the three ‘basic’ co
 - `In Progress`
 - `Done`
 
-If you add an issue or pull request to a card in the board, it will automatically be moved it to ‘Done’ for you when you close the issue or merge the pull request. One common extra column is `On hold` or `Waiting`. If you have tasks that get held up by waiting on other people (e.g. to respond to your questions) then moving them to a separate column makes their current state clearer. 
+If you add an issue or pull request to a card in the board, it will automatically be moved to ‘Done’ for you when you close the issue or merge the pull request. One common extra column is `On hold` or `Waiting`. If you have tasks that get held up by waiting on other people (e.g. to respond to your questions) then moving them to a separate column makes their current state clearer. 
 
 You can also create a card without an issue. Such cards (or notes) can have detailed content like checklists. GitHub also allows you to convert a card to an issue so you can add labels or detailed comments to it. Sometimes, a card you thought was simple and self-contained might turn out to be a bigger task than you anticipated - in that case, it is sensible to create new cards that reference the one they broke off from.
 
@@ -90,7 +90,7 @@ Once your project board has a large number of cards on it, you might want to beg
 
 - **Vertical position**: the vertical arrangement of cards in a column implicitly represents their importance. High-priority bugs go to the top of `To Do`, whilst tasks that depend on others go beneath them. This is the easiest one to implement, though you have to remember to correctly place cards when you add them.
 - **Priority columns**: instead of a single `To Do` column, you can have two or more, for example - `To Do: Low Priority` and `To Do: High Priority`. When adding a card, you pick which is the appropriate column for it. You can even add a Triage column for newly-added issues that you’ve not yet had time to classify. This format works well for project boards devoted to bugs.
-- **Labels**: if you convert each card into an issue, then you can label them with their priority - remember GitHub lets you create custom labels and set their colours. Labels can provide a very visually clear indication of issue priority but require more administrative work on the project, as each card has to be an issue to be assigned a label.
+- **Labels**: if you convert each card into an issue, then you can label them with their priority - remember GitHub lets you create custom labels and set their colours. Label colours can provide a very visually clear indication of issue priority but require more administrative work on the project, as each card has to be an issue to be assigned a label. If you choose this route for issue prioritisation - be aware of accessibility issues for colour-blind people when picking colours. 
 
 ## Project governance
 
@@ -100,7 +100,7 @@ The moment your collaborator group exceeds 3 or 4 members (and fewer if the coll
 
 Here are some aspects of governing a project that you should consider. These are borrowed from [the _Working in teams_ chapter](https://merely-useful.tech/py-rse/teams.html) of [_Research Software Engineering with Python_](https://merely-useful.tech/py-rse/index.html), a book on how to work productively in small teams where everyone is welcome:
 
-- [establish a Code of Conduct](https://merely-useful.tech/py-rse/teams.html#teams-coc)
+- [Codes of Conduct](https://merely-useful.tech/py-rse/teams.html#teams-coc)
 - [meeting rules](https://merely-useful.tech/py-rse/teams.html#teams-meetings)
 - [decision-making process](https://merely-useful.tech/py-rse/teams.html#teams-martha)
 - [handling conflict](https://merely-useful.tech/py-rse/teams.html#teams-conflict)
