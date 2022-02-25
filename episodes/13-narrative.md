@@ -9,14 +9,15 @@ exercises: 50
 - Find candidate datasets to use in a lesson.
 - Evaluate the suitability of a dataset to be used in a lesson.
 - Choose examples that will prepare learners for formative assessments in the lesson.
+- Develop a story
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
+- Why should a lesson tell a story?
 - What considerations are there when choosing an example dataset for a lesson?
 - Where can I find openly-licensed, published data to use in a lesson?
-- Why should a lesson tell a story?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -62,16 +63,16 @@ the license.
 You want to find a dataset where the data provider allows for you to freely use it.
 The best option is a dataset with a CC0 (Public Domain Dedication) license, as
 other licenses may have more ambiguity around data reuse.
-Lessons included in the [Carpentries Incubator](https://carpentries-incubator.org/) will need to use CC0 licensed data.
+Lessons included in the [Carpentries Incubator][carpentries-incubator] will need to use CC0 licensed data.
 Even with a CC0 license, you will still want to follow best practice in 
 giving attribution to the data provider or collecting agency.
 
-::: More CC0 License Reading
+:::::::::::::::: More CC0 License Reading
 
 If you'd like to read more about CC0 and CC-BY, Katie Fortney wrote an excellent 
 [blogpost on why CC-BY is not always a good fit](https://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/).
 
-:::
+::::::::::::::::::
 
 
 An example dataset used in the Data Carpentry Ecology lessons is the [Portal
@@ -104,7 +105,7 @@ for your lesson or general data repositories such as:
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: Choosing a data set or narrative (30 minutes)
+## Exercise: Choosing a Dataset or Narrative (30 minutes)
 
 Referring to the advice given above, find an appropriate dataset or a narrative for your lesson.
 Identify one or more potential candidates and note down the advantages and disadvantages of each one.
@@ -136,7 +137,7 @@ learning the additional and vital skills where the application might be less cle
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: Examples before exercises (20 minutes)
+## Exercise: Examples Before Exercises (20 minutes)
 
 Looking back at one of the exercises you designed before:
 what examples could you include in your narrative to teach learners the skills
@@ -148,19 +149,24 @@ Outline one of these examples in your episode file.
 
 
 
-## Summary / Last points
-<!--- needs  a better heading title-->
+## Summary
 
-- Even if you do not need a data set for your lesson, you should decide on a narrative
-  - Centering lesson around a central example reduces cognitive of switching between examples throughout the lesson
-  - Authenticity vs complexity again
-  - Same considerations of motivation, accessibility as before
-
+Remember, even if you do not need a dataset for your lesson, you should 
+decide on a narrative.
+Centering your lesson around a central example reduces the cognitive load of 
+switching between examples throughout the lesson.
+Using an authentic, yet simple, dataset will also help reduce cognitive
+load and help learners to see how they might apply what they learned to their own
+projects.
+It is also important to consider licensing and ethical considerations when looking 
+for a lesson dataset.
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- First key point. Brief Answer to questions. (FIXME)
+- Using a narrative throughout a lesson helps reduce learner cognitive load
+- Choosing a lesson includes considering data license and ethical considerations.
+- Openly-licensed datasets can be found in subject area repositories or general data repositories.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
