@@ -66,45 +66,40 @@ Lessons included in the [Carpentries Incubator](https://carpentries-incubator.or
 Even with a CC0 license, you will still want to follow best practice in 
 giving attribution to the data provider or collecting agency.
 
-<!--- Callout to the article about CC-BY complications - https://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/ 
-::: callout
-This is a callout block. It contains at least three colons
+::: More CC0 License Reading
+
+If you'd like to read more about CC0 and CC-BY, Katie Fortney wrote an excellent 
+[blogpost on why CC-BY is not always a good fit](https://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/).
+
 :::
--->
+
 
 An example dataset used in the Data Carpentry Ecology lessons is the [Portal
 Project Teaching Database](https://figshare.com/articles/dataset/Portal_Project_Teaching_Database/1314459).  This dataset is an actual ecological research project that was simplified for teaching.
+The reuse of this dataset throughout the Data Carpentry Ecology lessons helps
+stitch together the process of data analysis on throughout the workshop, from
+data entry and cleaning to analysis and visualization.
+
+When deciding on a dataset, it is also important to consider the ethical use of
+each dataset considered.  *Does the data contain personally identifiable information?*
+*Was the data collected without permission from the groups or individuals included?*
+*Will the data be upsetting to learners in the workshop?*
+If the answer to any of these questions might be yes, you will need to do more
+research on it and continue to look for other options.  Commonly data is misused
+from historically excluded and exploited groups.
+The [CARE Principles for Indigenous Data Governance](http://doi.org/10.5334/dsj-2020-043) (Collective Benefit, Authority to Control, Responsibility, and Ethics) are good starting point
+for thinking about data sovereignty and considering the ethics of data collected
+about individual or groups of people.
 
 
+### Examples of Public Repositories
 
-- Finding \& modifying a dataset
-  - Size - large enough to be authentic
-    (and to demonstrate the benefits of learning the skills you are teaching),
-    ideally not so large that download and storage become prohibitive
-  - Complexity - complex enough to be authentic,
-    but not so complex that it takes a long time for learners to understand what it contains
-    - It should be easy enough for all learners to get to grips with quickly,
-      so they can focus on the skills you are teaching
-      without being distracted by the unfamiliarity and/or complexity of the data set.
-      But it should also feel authentic and
-      not be over-simplified to the point of giving false impressions of what it is like to work with real data.
-      Try to strike a balance.
-      Do not be afraid to down-sample, remove columns, etc where you can.
-  - License - CC0 so that you can modify and redistribute it freely without
-    fear of accidentally breaking the terms of the license - TODO example? (Sarah S: Maybe the portal dataset from DC Ecology? - [https://figshare.com/articles/dataset/Portal\_Project\_Teaching\_Database/1314459](https://figshare.com/articles/dataset/Portal_Project_Teaching_Database/1314459))
-  - Ethical/cultural considerations TODO - this needs fleshing out
-    - [CARE principles](https://datascience.codata.org/articles/10.5334/dsj-2020-043/)
-    - Are some members of your audience likely to find the data upsetting or offensive?
-
-### Examples of public repositories
-
-- Examples of public repositories that could be good places to look for a data set to use in your lesson:
-  - Dryad
-  - DCN's curated data sets
-  - domain-specific repositories
-  - Data.europa.eu
-  - DataONE
-
+When looking for data to reuse, consider public repositories in the subject area
+for your lesson or general data repositories such as:
+  - [Dryad](https://datadryad.org/)
+  - [The Data Cuartion Network's datasets](https://datacurationnetwork.org/datasets/)
+  - [The Offical Portal for European Data](https://data.europa.eu/)
+  - [DataONE](https://www.dataone.org/)
 
 
 ::::::::::::::::::::::::::::::::::::::  challenge
@@ -116,12 +111,18 @@ Identify one or more potential candidates and note down the advantages and disad
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- What story will your lesson tell?
-  - Teach most useful first -
-    make sure learners do not have to sit through hours of teaching before they
-    learn something really powerful.
-    Try to front load the lesson with the (i.e. the most useful) things the learners want to learn.
-  - Even better, try to front load with things the learners *want* to learn.
+Learners are motivated if you **teach most useful first**.
+As you think about what story your lesson will tell, it is important to put
+the pieces that are most interesting to learners up front.
+If they are able to quickly learn tools or skills that they see as useful from your 
+lesson, they will be more interested in continuing to learn other concepts that are 
+needed.
+You may notice this trend in many of the Software Carpentry lessons.  In particular,
+many of the coding language lessons (R and python) have the learners create a plot
+very early in the lesson and then go back and teach coding fundamentals such as loops
+and conditionals. Visualization of data is often a very motivating and much needed
+skill by learners. Getting to visualization early, keeps learners interested in 
+learning the additional and vital skills where the application might be less clear.
 
 ::::::::::::::::::::::::::::::::::::  testimonial
 
