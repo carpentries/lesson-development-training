@@ -67,7 +67,9 @@ Lessons included in the [Carpentries Incubator][carpentries-incubator] will need
 Even with a CC0 license, you will still want to follow best practice in 
 giving attribution to the data provider or collecting agency.
 
-:::::::::::::::: More CC0 License Reading
+:::::::::::::::: callout
+
+## More CC0 License Reading
 
 If you'd like to read more about CC0 and CC-BY, Katie Fortney wrote an excellent 
 [blogpost on why CC-BY is not always a good fit](https://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/).
