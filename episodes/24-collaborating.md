@@ -100,7 +100,7 @@ The moment your collaborator group exceeds 3 or 4 members (and fewer if the coll
 
 Here are some aspects of governing a project that you should consider. These are borrowed from [the _Working in teams_ chapter](https://merely-useful.tech/py-rse/teams.html) of [_Research Software Engineering with Python_](https://merely-useful.tech/py-rse/index.html), a book on how to work productively in small teams where everyone is welcome:
 
-- [establishing a Code of Conduct](https://merely-useful.tech/py-rse/teams.html#teams-coc)
+- [Codes of Conduct](https://merely-useful.tech/py-rse/teams.html#teams-coc)
 - [meeting rules](https://merely-useful.tech/py-rse/teams.html#teams-meetings)
 - [decision-making process](https://merely-useful.tech/py-rse/teams.html#teams-martha)
 - [handling conflict](https://merely-useful.tech/py-rse/teams.html#teams-conflict)
