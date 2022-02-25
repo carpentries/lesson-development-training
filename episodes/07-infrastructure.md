@@ -113,7 +113,7 @@ following the link above and completing the configuration as follows:
   * the name can always be changed later, via the repository settings
 * in the "Description" field, write the title of your lesson
 * choose "Public" visibility
-* leave "Include all branches" **unchecked**
+* make sure the "Include all branches" box is checked
 
 After pressing the _Create repository using this template_ button,
 you should be presented with a brand new lesson repository.
