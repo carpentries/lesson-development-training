@@ -16,6 +16,11 @@ exercises: 10
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+This training will provide many opportunities for discussion of your lessons.
+Providing some context now for the lessons that you will be creating will
+help the Trainers and other participants get involved in those discussions
+and give you feedback as you follow the process.
+
 :::::::::::::::::::::::::::::::::::::  discussion
 
 ## Discussion (10 minutes)
@@ -35,7 +40,7 @@ Make some notes, then share a single-sentence answer to each question with the o
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- First key point. Brief Answer to questions. (FIXME)
+- There can be many reasons to create a new lesson. What is important is that the authors are excited about the project.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
