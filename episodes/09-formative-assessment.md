@@ -46,7 +46,7 @@ exercises: 35
 
 ## Exercise: misconceptions (5 minutes)
 
-What is a common misconceptions learners can have about the topic of your lesson?
+What are the common misconceptions learners can have about the topic of your lesson?
 How might you identify that misconception in your learners while they follow your lesson?
 Share your answer in the collaborative notes document.
 
