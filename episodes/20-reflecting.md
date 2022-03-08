@@ -79,7 +79,7 @@ Designing and developing quality lessons is hard - there are many pieces of a pu
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- ["Perfect is the enemy of good."](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good) Your lesson does not need to be perfect before you pilot or release it for community review. Getting early feedback from target audience will help you avoid straying off your lesson plan.
+- ["Perfect is the enemy of good"](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good) - your lesson does not need to be perfect before you pilot or release it for community review. Getting early feedback from target audience will help you avoid straying off your lesson plan.
 - Identify changes and improvements that you want to make as a result of trialling your lesson and schedule co-working sessions to work on these tasks.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
