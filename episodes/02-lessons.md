@@ -40,7 +40,8 @@ Make some notes, then share a single-sentence answer to each question with the o
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- There can be many reasons to create a new lesson. What is important is that the authors are excited about the project.
+- There can be many reasons to create a new lesson.
+- This training will give you a process to follow to ensure your lesson is effective.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
