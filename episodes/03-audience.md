@@ -142,8 +142,10 @@ and answer the following questions in the context of your lesson topic:
 1. What is their background?
 2. What do they already know how to do?
 3. What do they want to do with the skills they will learn from your lesson?
-4. What problem will your lesson help them solve?
-5. What other considerations might you need to make e.g. their primary language differ from yours, etc?
+4. What vocabulary do they use? 
+   It may be that the terms you will teach have different meaing in the learner's research domain.
+6. What problem will your lesson help them solve?
+7. What other considerations might you need to make e.g. their primary language differ from yours, etc?
 
 ::::::::::::::  solution
 
