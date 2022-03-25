@@ -48,6 +48,7 @@ Think about who your lesson is for. Be specific.
 - What kind of background might your learners have?
 - What problems are they facing that your lesson can help them solve?
 - What do they already know about the topic?
+- What vocabulary do they use? I may be that the terms you will teach have different meaing in the learner's research domain.
 - What other considerations might you need to make e.g. their primary language differ from yours, etc?
 
 A callout about mastery rubrics?
