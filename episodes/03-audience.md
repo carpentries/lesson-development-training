@@ -4,9 +4,6 @@ teaching: 25
 exercises: 20
 ---
 
-We will use a modified version of [Nicholl's five phases of curriculum design][f1000-course-design-guide],
-adapted to place an emphasis on assessing learning during a workshop:
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Describe the importance of aligning lesson design with the intended audience.
@@ -22,47 +19,131 @@ adapted to place an emphasis on assessing learning during a workshop:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## A Lesson Design Process
+
+In the next parts of this training,
+we will use a modified version of Nicholl's five phase paradigm for curriculum design [[1][f1000-course-design-guide]].
+Nicholl's paradigm describes a process, commonly referred to as _backward design_,
+where those who wish to develop a new curriculum first begin by defining 
+exactly what their learners will be able to do 
+_after they have completed the lesson/training/course_.
+The subsequent stages of the curriculum design process involve designing content 
+to directly meet those stated outcomes.
+
+1. Select learning outcomes
+2. Choose learning experiences to help learners achieve these outcomes
+3. Develop content to support these experiences
+4. Assess learner progress towards desired outcomes
+5. Evaluate chosen outcomes, experiences, and content based on this assessment
+
+**TODO: replace the list above with a figure, based on Fig. 2 in [f1000-course-design-guide]**
+
+The last two phases of Nicholl's paradigm involve 
+assessing learner progress towards the desired learning outcomes and 
+evaluating the stated objectives and current content in light of the results of that assessment.
+In The Carpentries, most workshops are relatively short-format,
+without room for an extensive assessment after the teaching has finished
+(a _summative_ assessment).
+To account for this, our lessons place an emphasis on _formative_ assessment:
+assessment of learner progress that takes place _while the teaching is still going on_,
+to give instructors opportunities to evaluate the teaching and lesson content
+before the end of the workshop.
+
+
+To account for this, 
+we have adapted Nicholl's five phases in this training,
+to place an emphasis on assessing learning during a workshop:
+
 1. Define desired learning outcomes
 2. Decide with what activities/examples/explanations we will try to teach these skills
 3. Create assessments to determine progress towards desired outcomes
 4. Write content to lead learners from one of these assessments to the next
 5. (After the break) evaluate how closely the outcomes meet the objectives
 
+**TODO: replace the list above with a figure, 
+similar to the one used earlier for Nicholl's original list.**
+
+## Target Audience
+
 Given the limited time in a short-format training,
 it is vital to define the scope of the lesson i.e.
 what people will know before and after the lesson.
-That means thinking carefully about the target audience.
-This will also help attract people with the right motivation and relevant prior knowledge to attend your workshops.
+Thinking carefully about the target audience will help with this.
+Prominently displaying a description of the target audience
+will also help attract people with the right motivation and 
+relevant prior knowledge to attend your workshops.
 
-[The Carpentries model of how people gain expertise][it-skill-acquisition]: novice -> competent practitioner -> expert
+### Expertise
 
-- Why this matters when designing a new lesson
-  - Prior knowledge of audience mental models: what do they already know?
-  - Novices and competent practitioners need to be taught differently
+One of the most important things we can identify about our target audience
+is the level of expertise they will already have in relation to the skills taught by your lesson.
+In The Carpentries Instructor Training curriculum,
+we describe 
+[three different stages of skill acquisition: novice, competent practitioner, and expert][it-skill-acquisition].
 
-Your lesson will also be more effective if it aligns with the motivations of the target audience
-(quote from/link to Ambrose et al).
+Briefly, the novice is someone who does not know what they do not know, i.e., they do not yet know what the key ideas in the domain are or how they relate, the competent practitioner has enough understanding for everyday purposes, and the expert is someone who can easily handle situations that are out of the ordinary.
 
-Think about who your lesson is for. Be specific.
+When designing a new lesson, it is important to think about 
+the level of expertise that you expect learners to arrive with for two reasons:
 
-- What kind of background might your learners have?
-- What problems are they facing that your lesson can help them solve?
-- What do they already know about the topic?
-- What other considerations might you need to make e.g. their primary language differ from yours, etc?
+1. It helps to predict what prior knowledge and 
+   [mental model][it-mental-models] learners will have 
+   of the lesson domain when they arrive. 
+   This can enable you to make progress quickly
+   by 
+   a) working to help learners recall (_activate_) that prior knowledge,
+   b) building on the conceptual understanding they already have and, 
+   c) perhaps most importantly,
+   giving you some idea of what _misconceptions_ they might arrive with.
+   It is vital that misconceptions are identified and corrected early on,
+   before learners try to incorporate new knowledge into a broken mental model.
+2. People at different stages of this process need to be taught differently.
+   For example, novices will learn more from lessons that include worked examples,
+   but the same approach may actually hinder learning for competent practitioners.
 
-A callout about mastery rubrics?
+### Motivation
+
+Furthermore, your lesson will be more effective if 
+it aligns with the motivations of the target audience. 
+Understanding the wants and needs of your target audience, 
+what they know already and what kinds of problems they want to solve, 
+will help you design a lesson that learners can see the value in.
+It will give them the impression that taking the lesson will be worthwhile 
+(called _positive expectancies_ in the literature). 
+
+We will look more at strategies to establish value and build positive expectancies
+in the next chapter.
+
+### Be Specific
+
+It can be tempting to identify a target audience only in vague terms,
+for example by writing that a lesson is aimed at 
+"PhD students" or "early career researchers".
+However,
+taking the time to focus on real people, 
+or imagined personae, 
+who represent your target audience will help you take time to consider 
+the various aspects that can influence how much someone will learn from your lesson.
+It will also help you notice when the assumptions you are making about your target audience 
+are unreasonable.
+
+Most of all, it will help you stay connected to the fact that 
+_you are not your learners_:
+they will arrive at the lesson with different priorities, 
+interests, and challenges than your own.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: thinking about target audience (15 minutes total for both parts)
 
 Part 1 (5 minutes): think about a member of the target audience for your lesson,
-and answer the following questions:
+and answer the following questions in the context of your lesson topic:
 
 1. What is their background?
 2. What do they already know how to do?
 3. What do they want to do with the skills they will learn from your lesson?
 4. What problem will your lesson help them solve?
+5. What other considerations might you need to make e.g. their primary language differ from yours, etc?
 
 ::::::::::::::  solution
 
@@ -88,6 +169,29 @@ to help you assess whether a respondent falls within the intended audience for y
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Defining Prerequisite Knowledge
+
+A very common challenge encountered in workshops is
+heterogeneity of expertise among the audience.
+When learners arrive at a workshop with 
+a wide range of previous experience with the topic,
+it is difficult for the instructors to keep everyone engaged.
+Those who arrive with too little relevant knowledge and experience
+can struggle to follow the lesson content at the pace you expect,
+while those who arrive with too much are likely to become bored 
+and despondent as their expectation of learning new skills is not met.
+
+One way to try to guard against this is to publish 
+the description of your target audience when you advertise a workshop teaching your lesson,
+alongside a list summarising the skills and conceptual knowledge 
+you expect learners to arrive with.
+Another is to use the information you have about your target audience
+to ask questions of potential learners when they apply/register to join the workshop
+(like the diagnostic questionnaire you may have prepared in the exercise above),
+and use the answers they give to filter out those who fall outside
+your intended audience.
+
+
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: defining prerequisite knowledge (5 minutes)
@@ -97,13 +201,14 @@ before they can follow your lesson.
 
 If you are struggling with this exercise because your lesson audience is novices,
 think about skills like touch typing, using a web browser, or interacting with a command line 
-or graphical interface.  These are skills experts or competent practitioners can commonly overlook.
+or graphical interface. 
+These are skills commonly overlooked by experts and competent practitioners.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-
 [f1000-course-design-guide]: https://f1000research.com/documents/9-1377
+[it-mental-models]: https://carpentries.github.io/instructor-training/02-practice-learning/index.html#building-a-mental-model
 [it-skill-acquisition]: https://carpentries.github.io/instructor-training/02-practice-learning/index.html#the-acquisition-of-skill
 
 
