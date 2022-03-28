@@ -49,7 +49,7 @@ the trial run are used to improve the quality of your lesson.
 Look back at the notes you took and feedback you received during your trial run (5 mins).
 
 Now report out to the other participants about that trial run.
-Try to answer the following questions:
+Try to answer some or all of the following questions:
 
 - What worked well both in terms of content and delivery?
 - What did not work as well?
