@@ -79,7 +79,7 @@ One of the most important things we can identify about our target audience
 is the level of expertise they will already have in relation to the skills taught by your lesson.
 In The Carpentries Instructor Training curriculum,
 we describe 
-[three different stages of skill acquisition: novice, competent practitioner, and expert][it-skill-acquisition].
+[three different stages of skill acquisition: novice, competent practitioner, and expert][it-skill-acquisition] and how it directly correlates to the complexity of [mental models][it-mental-models] these different groups have about a domain/topic.
 
 Briefly, the novice is someone who does not know what they do not know, i.e., they do not yet know what the key ideas in the domain are or how they relate, the competent practitioner has enough understanding for everyday purposes, and the expert is someone who can easily handle situations that are out of the ordinary.
 
