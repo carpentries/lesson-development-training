@@ -81,7 +81,7 @@ In The Carpentries Instructor Training curriculum,
 we describe 
 [three different stages of skill acquisition: novice, competent practitioner, and expert][it-skill-acquisition] and how it directly correlates to the complexity of [mental models][it-mental-models] these different groups have about a domain/topic.
 
-Briefly, the novice is someone who does not know what they do not know, i.e., they do not yet know what the key ideas in the domain are or how they relate, the competent practitioner has enough understanding for everyday purposes, and the expert is someone who can easily handle situations that are out of the ordinary.
+Briefly, the novice is someone who does not know what they do not know, i.e., they do not yet know what the key ideas in the domain are or how they relate, the competent practitioner has enough understanding of the domain/topic for everyday purposes, and the expert is someone who can easily handle situations that are out of the ordinary and can immediately use their prior knowledge or skills when presented with a new problem in the domain.
 
 When designing a new lesson, it is important to think about 
 the level of expertise that you expect learners to arrive with for two reasons:
