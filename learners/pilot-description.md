@@ -2,6 +2,8 @@
 title: Collaborative Lesson Development Training Pilot Description
 ---
 
+**13-16 June + 27&28 July 2022**
+
 ## Trainers
 
 - Dr Aleksandra Nenadic, Training Lead at The Software Sustainability Institute
@@ -38,7 +40,7 @@ or another training covering similar topics, e.g. an RStudio Instructor.
 
 This training will take place virtually, combining video and screen sharing on Zoom
 with a collaborative notetaking document for sharing notes, responses to exercises, and links to further resources.
-The first pilot will take place 22-25 March 2022 ([13:00-17:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Collaborative+Lesson+Development+Training+Pilot+1&iso=20220322T13&p1=1440&ah=4)) and 10&11 May 2022 ([12:00-16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Collaborative+Lesson+Development+Training+Pilot+1%2C+pt2+&iso=20220510T12&p1=%3A&ah=4)).
+The first pilot will take place 13-16 June 2022 ([12:00-16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Collaborative+Lesson+Development+Training+Pilot+1&iso=20220613T12&p1=1440&ah=4)) and 27&28 July 2022 ([12:00-16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Collaborative+Lesson+Development+Training+Pilot+1%2C+pt2+&iso=20220727T12&p1=%3A&ah=4)).
 
 There is no fee to join the pilot, but spaces are limited.
 To apply to participate in the training, please fill out this short form: https://forms.gle/9ZXZEjgJGWNQmxY47
