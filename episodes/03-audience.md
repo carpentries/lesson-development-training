@@ -98,8 +98,17 @@ the level of expertise that you expect learners to arrive with for two reasons:
    It is vital that misconceptions are identified and corrected early on,
    before learners try to incorporate new knowledge into a broken mental model.
 2. People at different stages of this process need to be taught differently.
-   For example, novices will learn more from lessons that include worked examples,
-   but the same approach may actually hinder learning for competent practitioners.
+   For example, novices will learn more from lessons that include worked examples 
+   and are more tutorial-like i.e. focused on a specific task, 
+   with step-by-step explanations of the process,
+   but without a lot of extra information that is not directly relevant. 
+   However, the same approach may actually hinder learning for competent practitioners 
+   who may be distracted by a step-by-step explanation 
+   of something they already have the prior knowledge to understand on their own.
+   For learners at this level of expertise, 
+   lessons which include activities offering learners 
+   the freedom to explore options and develop their own solutions,
+   are likely to be more effective.
 
 ### Motivation
 
