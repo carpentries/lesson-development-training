@@ -48,7 +48,7 @@ This means balancing the size and complexity of a dataset
 while avoiding additional cognative load for learners.
 The dataset may need a certain number of observations
 to demonstrate some of the skills you are teaching or have a
-number of variables that is sufficiently similar to what learners many encounter
+number of variables that is sufficiently similar to what learners may encounter
 in their work to feel authentic.
 At the same time, you want your learners to be able to interpret the
 data fairly easily during the lesson so they can focus on the skills
