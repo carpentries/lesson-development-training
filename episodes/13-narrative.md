@@ -27,10 +27,10 @@ exercises: 50
 
 Writing your lesson as a story helps learners stay motivated and engaged.
 The story you create can also help learners more easily connect how the skills they
-are learning to how the skills could be useful after the workshop.
-You can enable learners to make connections between the what they learn in your lesson to their
+are learning now could be useful after the workshop.
+You can enable learners to make connections between what they learn in your lesson and their
 own work by creating a narrative that resembles a situation the learners might
-encounter in their own work.
+encounter there.
 Depending on the tool you are teaching, you might also include a particular dataset as a part of the story you are weaving into your lesson.
 It is common for lessons to include a dataset that is used in examples and discussed throughout.
 This can help you maintain a narrative flow and make the lesson feel more authentic
@@ -48,7 +48,7 @@ This means balancing the size and complexity of a dataset
 while avoiding additional cognative load for learners.
 The dataset may need a certain number of observations
 to demonstrate some of the skills you are teaching or have a
-realistic number of variables to what learners many encounter
+number of variables that is sufficiently similar to what learners many encounter
 in their work to feel authentic.
 At the same time, you want your learners to be able to interpret the
 data fairly easily during the lesson so they can focus on the skills
@@ -58,12 +58,13 @@ observed.
 You may want to also include and review a data dictionary in your lesson,
 explicitly taking the time to review the information included in the
 dataset.
+For inspiration, see the [Social Sciences Data Carpentry data dictionary](https://datacarpentry.org/socialsci-workshop/data/).
 An additional factor to consider when choosing a dataset to include is 
 the license.
 You want to find a dataset where the data provider allows for you to freely use it.
 The best option is a dataset with a CC0 (Public Domain Dedication) license, as
 other licenses may have more ambiguity around data reuse.
-Lessons included in the [Carpentries Incubator][carpentries-incubator] will need to use CC0 licensed data.
+Lessons included in [The Carpentries Incubator][carpentries-incubator] are encouraged to use CC0 licensed data, and may be required to do so to qualify for peer review in [The Carpentries Lab][carpentries-lab].
 Even with a CC0 license, you will still want to follow best practice in 
 giving attribution to the data provider or collecting agency.
 
