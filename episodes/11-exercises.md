@@ -194,8 +194,8 @@ Solution text, code, and other information
 
 ```
 
-For readability, you may want to try to match have final lines match up in length to
-the opening lines.
+For readability, you may want to try to match have final lines approximately match up 
+in length to the opening lines.
 See in the above how the solution and challenge closing lines are similar lengths to the opening lines.
 For more information about creating exercises see the [Workbench Documentation for Exercises](https://carpentries.github.io/sandpaper-docs/episodes.html#exerciseschallenges).
 
