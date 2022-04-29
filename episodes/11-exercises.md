@@ -149,7 +149,7 @@ any time spent on this is well invested.
 
 <!--- will there be an example lesson that the trainer is working on ? -->
 
-To create an exercise in the Carpentries lesson infrastructure, 
+To create an exercise in the Carpentries Workbench, 
 you can use colon-delimited sections called 'fenced divs'.
 In fact there are many types of boxes in the lesson infrastucture, called "special blockquotes", 
 that use fenced divs.
