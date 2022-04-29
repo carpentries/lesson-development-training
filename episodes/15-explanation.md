@@ -4,19 +4,6 @@ teaching: 30
 exercises: 40
 ---
 
-- Explanatory text is the connective tissue between your examples and exercises
-  (I read this way of describing it somewhere - need to find the reference...).
-  The goal is to ensure coherent flow from one exercise to another.
-- How much is too much? I.e. how verbose should your explanatory content be?
-  - A question of personal style, and preference for in-person vs self-directed learning (see below)
-  - but the aim is to provide all the relevant information
-    with a minimum of additional content that is not directly required
-    (extraneous cognitive load and wasted time)
-    to help learners reach the objectives you have set out.
-- In many Carpentries lessons, callout boxes are used for asides and short tangents
-  e.g. points that might be relevant to some audiences but are not essential to the flow of the lesson.
-  (As such, they should be kept to a minimum.)
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Estimate the time required to teach a lesson.
@@ -33,30 +20,54 @@ exercises: 40
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::  callout
 
-## Lesson pages for the instructor and the learner
+Explanatory text helps connect your examples and exercises together into a cohesive lesson.
+If your examples and exercises are train stations and scenic views, 
+the explanatory text is the train tracks that connect them.
+Often times the examples and exercises may seem like a good draft for you to teach.
+However, the explanatory text makes it possible for other instructors and self-directed learners 
+to follow along by providing all the relevant information directly in the lesson.
+It can also help you remember your goals and stay on track teaching.
 
-TODO brief discussion of trade-offs between preparing a lesson site for
-use as an instructional guide vs use as a self-directed learning resource.
-(notes below)
+How much text to include is often a question of personal style while balancing the needs of 
+potential users, both other instructors and learners.
+You want to balance of providing enough information for learners to meet the learning objectives 
+without increasing cognitive load with extraneous information.
+In this section we will explore discuss factors to consider when you are writing explanatory text.
 
-Self-directed learning resources tend to be more verbose,
-where instructional guides can be aimed at an audience more able to "read between the lines."
-Very sparse text is less likely to be re-usable by other Instructors.
-In general, it is not a good idea to assume others (learners or instructors)
+There are trade-offs to consider when preparing a site for use as an instructional guide vs use as a self-directed learning resource.
+Typically, self-directed learning resources are more verbose where instructional guides are aimed at an audience that can fill in the gaps on their own.
+However, very sparse text is less likely to be re-usable by other instructors as instructors
+may have different skill levels with the lesson content or differing mental models.
+In general, it is not a good idea to assume others, learners or instructors, 
 will know what you were thinking when you wrote the content
 so, if in doubt, be explicit.
+
+::::::::::::::::::::::::::::::::::::::::  callout
+
+## Using Callouts
+
+Often lessons have more content than can be reasonable taught in the amount of time allotted.
+This is especially true for collaboratively developed lessons as each contributor/instructor 
+may have additional items they'd like to see included, leading to "scope creep".
+
+To address this issue, in many Carpentries lessons, callout boxes are used for asides and short tangents, 
+e.g. points that might be relevant to some audiences but are not essential to the flow of the lesson.
+These callouts should still be kept to a minimum as they still disruptive to instructors and readers.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::  discussion
 
-## Discussion (10 minutes)
+## Group Discussion (10 minutes)
 
-At what point is a lesson too long?
-How might you prioritise what to keep if you have to cut it down?
+
+- At what point is a lesson too long?
+- How might you prioritise what to keep if you have to cut it down?
+
+Trainer Note: Ask one of the other trainers/helpers to take notes of this discussion in the collaborative
+note-taking document.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -89,6 +100,8 @@ How might you prioritise what to keep if you have to cut it down?
     Then take out the objective(s) and the corresponding assessment(s) and explanatory content.
 - Consider adding suggestions for objectives that can be skipped to the Instructor Notes for the lesson.
 - Managing cognitive load
+
+
 
 ::::::::::::::::::::::::::::::::::::  testimonial
 
