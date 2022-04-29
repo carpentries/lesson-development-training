@@ -157,7 +157,7 @@ To start a challenge fenced div the line must contain at least 3 colons, then th
 Then the content of the challenge is included on the following lines.
 Finally, you can close the fenced div using another line with least 3 colons.
 
-```
+```markdown
 :::::::::::::::::::::::::::::::::::::: challenge
 
 ### Challenge Title
