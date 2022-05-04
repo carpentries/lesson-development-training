@@ -29,7 +29,7 @@ Long-term memory is essentially unlimited storage but slow to access whereas
 working memory is quicker to access but can only hold a limited number of items at a time.
 For instructors, the goal is to help learners move the new things they've learned from 
 working memory into long-term memory.
-One of the ways lesson developers, can aid in this process is through exercises.
+One of the ways lesson developers can aid in this process is through exercises.
 In addition to providing formative assessments for instructors, exercises help move 
 new skills and concepts into long-term memory by providing learners an opportunity 
 to practice what was recently learned.
@@ -42,7 +42,7 @@ You can design exercises based on the actions/skills you described in your
 learning objectives (the learning outcomes you intend for the lesson).
 You can benefit here from creating learning objectives with specific action verbs.
 Specific verbs can help you decide what action you want the learners to perform in the exercise.
-E.g. Actions such as"explain" and "describe" outcomes may be better assessed by discussions 
+E.g. actions such as "explain" and "describe" may be better assessed by discussions 
 and multiple choice questions, while "solve," "construct," "test" and other 
 higher-level cognitive skills may be better assessed by debugging tasks, code-and-run, 
 or use-in-a-different-context exercises.
@@ -194,9 +194,8 @@ Solution text, code, and other information
 
 ```
 
-For readability, you may want to try to match have final lines approximately match up 
-in length to the opening lines.
-See in the above how the solution and challenge closing lines are similar lengths to the opening lines.
+For readability, you may want to have the length of the closing lines match the opening lines.
+See in the above how the challenge and the nested solution's closing lines are similar lengths to the their corresponding opening lines.
 For more information about creating exercises see the [Workbench Documentation for Exercises](https://carpentries.github.io/sandpaper-docs/episodes.html#exerciseschallenges).
 
 ::::::::::::::::::::::::::::::::::::::  challenge
