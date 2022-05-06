@@ -223,6 +223,13 @@ to ask questions of potential learners when they apply/register to join the work
 and use the answers they give to filter out those who fall outside
 your intended audience.
 
+While valuable, this kind of pre-assessment should be approached 
+with caution: 
+[people are often bad at self-assessment i.e. estimating our own ability to perform a task][hacker-2000].
+We can try to mitigate for this when designing the questions for a pre-workshop survey,
+leaving little room for inaccurate self-assessment to confound the results.
+But experience suggests it is very difficult to ensure that
+every learner in a workshop falls within the intended audience of a lesson.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
