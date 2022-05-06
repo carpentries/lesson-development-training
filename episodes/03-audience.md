@@ -151,10 +151,8 @@ and answer the following questions in the context of your lesson topic:
 1. What is their background?
 2. What do they already know how to do?
 3. What do they want to do with the skills they will learn from your lesson?
-4. What vocabulary do they use? 
-   It may be that the terms you will teach have different meaing in the learner's research domain.
-6. What problem will your lesson help them solve?
-7. What other considerations might you need to make e.g. their primary language differ from yours, etc?
+4. What problem will your lesson help them solve?
+
 
 ::::::::::::::  solution
 
@@ -178,7 +176,30 @@ to help you assess whether a respondent falls within the intended audience for y
 
 :::::::::::::::::::::::::
 
+
+
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+::::::::::: callout
+
+## Thinking more about target audience
+
+There is more to consider about your target audience than we could capture 
+with only the questions listed above.
+In your own time, you should think more about the
+other considerations you might need to make when writing a lesson for 
+your audience. 
+
+For example, what vocabulary do they use? 
+The terms you are teaching in your lesson might have a different meaning
+in your learners' domain of expertise,
+and it can be helpful to prepare for and try to avoid confusion arising from this clash.
+Furthermore, might their primary language differ from yours?
+If so, how might this change the way you write the lesson?
+
+:::::::::::::::::::
 
 ## Defining Prerequisite Knowledge
 
