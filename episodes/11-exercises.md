@@ -93,9 +93,19 @@ Share the major points of your discussion in the collaborative notes document.
 As you discussed with your group in the last exercise, 
 different types of learning objectives work better for novices,
 while others are a better fit for competent practitioners or experts.
-For example, novices benefit significantly from worked examples (fully solved example problems)
-as it reduces their cognitive load 
-and worked examples are not as helpful in building skill for individuals with more expertise as they have to match up the information given with their mental model which can increase the cognitive load [Kirschner, 2006](https://github.com/carpentries/instructor-training/blob/gh-pages/files/papers/kirschner-minimal-guidance-fails-2006.pdf) <!--- Maybe this should reference Kalyuga et al 2001 and 2003 instead or in addition? Or the review  of expertise reversal effect - https://doi.org/10.1007/s10648-007-9054-3.  Also might have brought up worked example too soon as it is in the next section of notes -->
+
+This can be understood in terms of the types of exercises that suit the objective:
+exercise types that help manage cognitive load for the learner,
+such as faded examples and Parsons problems
+(which both provide a lot of the process/code and allow the learner to focus on a specific concept or skill)
+are a good fit for a novice, to whom all elements of the topic are new.
+However, these kinds of exercise do not provide an opportunity for learners
+to develop higher-level skills, 
+such as the ability to create whole new functions or scripts,
+or to extrapolate from the examples they have seen to solve a different kind of problem.
+Indeed, example and exercise types that are helpful to novices 
+[may even be counter-productive for learners with a greater level of expertise][kirschner-2006].
+
 Thus you want to choose your objectives to fit your intended audience and your exercise formats to fit your objectives.
 
 
@@ -118,17 +128,6 @@ Create LOs for the specific audience and create assessments for specific LOs."*
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-<!--- I'm not sure how to work in this part of the outline now..
-
-The worked example effect -
-worked examples are more effective than problem-solving for novices,
-less effective (even counter-productive) for competent practitioners.
-Allegra: worked examples cannot be used to achieve high Bloom's levels of cognitive complexity
-(critical thinking/problem solving),
-that's why they are not effective for competent practitioners.
-If you create exercises suitable for low Bloom's level LOs,
-they will be effective for novices but NOT for competent practitioners.
--->
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
