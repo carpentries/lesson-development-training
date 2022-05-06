@@ -36,7 +36,8 @@ to directly meet those stated outcomes.
 4. Assess learner progress towards desired outcomes
 5. Evaluate chosen outcomes, experiences, and content based on this assessment
 
-**TODO: replace the list above with a figure, based on Fig. 2 in [f1000-course-design-guide]**
+**TODO: add a figure illustrating the setps in the list above. 
+could be based on Fig. 2 in [f1000-course-design-guide]**
 
 The last two phases of Nicholl's paradigm involve 
 assessing learner progress towards the desired learning outcomes and 
@@ -60,8 +61,8 @@ to place an emphasis on assessing learning during a workshop:
 4. Write content to lead learners from one of these assessments to the next
 5. (After the break) evaluate how closely the outcomes meet the objectives
 
-**TODO: replace the list above with a figure, 
-similar to the one used earlier for Nicholl's original list.**
+**TODO: add a figure illustrating the process described in the list above. 
+could be similar to the one used earlier for Nicholl's original list.**
 
 ## Target Audience
 
