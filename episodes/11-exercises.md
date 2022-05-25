@@ -146,7 +146,6 @@ and that assesses their ability to do so.
 Well-designed exercises are one of the most valuable resources for an instructor and 
 any time spent on this is well invested.
 
-<!--- will there be an example lesson that the trainer is working on ? -->
 
 To create an exercise in The Carpentries Workbench, 
 you can use colon-delimited sections called 'fenced divs'.
