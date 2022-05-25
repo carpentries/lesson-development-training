@@ -33,14 +33,14 @@ One of the ways lesson developers can aid in this process is through exercises.
 In addition to providing formative assessments for instructors, exercises help move 
 new skills and concepts into long-term memory by providing learners an opportunity 
 to practice what was recently learned.
-Exercises should occur regularly throughout the lesson because they move items 
+Exercises should occur frequently throughout the lesson because they move items 
 to long-term memory and free up learners' working memory for new items.
 
 
 Creating exercises builds upon the learning objectives you created earlier in the lesson design process.
 You can design exercises based on the actions/skills you described in your 
 learning objectives (the learning outcomes you intend for the lesson).
-You can benefit here from creating learning objectives with specific action verbs.
+This will be easier if your wrote learning objectives with specific action verbs.
 Specific verbs can help you decide what action you want the learners to perform in the exercise.
 E.g. actions such as "explain" and "describe" may be better assessed by discussions 
 and multiple choice questions, while "solve," "construct," "test" and other 
@@ -148,10 +148,11 @@ any time spent on this is well invested.
 
 <!--- will there be an example lesson that the trainer is working on ? -->
 
-To create an exercise in the Carpentries Workbench, 
+To create an exercise in The Carpentries Workbench, 
 you can use colon-delimited sections called 'fenced divs'.
-In fact there are many types of boxes in the lesson infrastucture, called "special blockquotes", 
-that use fenced divs.
+In fact [there are many types of boxes in the lesson infrastucture that use fenced divs](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html#callout-blocks).
+In the Workbench, exercises are divided into two categories: _discussions_ (where the main task is for participants to discuss a topic or prompt) and _challenges_ (where the main task is a problem to be solved).
+
 To start a challenge fenced div the line must contain at least 3 colons, then the `challenge` tag.
 Then the content of the challenge is included on the following lines.
 Finally, you can close the fenced div using another line with least 3 colons.
@@ -221,7 +222,9 @@ Then at breaks these stickies can turn into written feedback "minute cards", whe
 writes down one thing they were confused about or that could be improved and one thing that went well
 or they really liked learning.
 - **Reflective assessment** - Learners spend time reflecting on what they have learned so far.
-This can be really helpful for "metacognition", where learners think about the process of learning themselves.
+Reflection aids in transferring newly learned concepts into long-term memory and can be really helpful for "metacognition", where learners think about the process of learning, becoming aware of their progress towards acquiring new skills.
+Developing metacognition improves learners' ability to guide their own learning on a topic after they have finished the lesson.
+Reflection exercises can include using what was taught to label a diagram, draw a concept map, free write, or fill in a guided worksheet. 
 
 
 
