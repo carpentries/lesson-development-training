@@ -31,9 +31,9 @@ It can also help you remember your goals and stay on track teaching.
 
 How much text to include is often a question of personal style while balancing the needs of 
 potential users, both other instructors and learners.
-You want to balance of providing enough information for learners to meet the learning objectives 
+You want to find the balance between providing enough information for learners to meet the learning objectives 
 without increasing cognitive load with extraneous information.
-In this section we will explore discuss factors to consider when you are writing explanatory text.
+In this section we will discuss factors to consider when you are writing explanatory text.
 
 There are trade-offs to consider when preparing a site for use as an instructional guide vs use as a self-directed learning resource.
 Typically, self-directed learning resources are more verbose where instructional guides are aimed at an audience that can fill in the gaps on their own.
@@ -53,7 +53,7 @@ may have additional items they'd like to see included, leading to "scope creep".
 
 To address this issue, in many Carpentries lessons, callout boxes are used for asides and short tangents, 
 e.g. points that might be relevant to some audiences but are not essential to the flow of the lesson.
-These callouts should still be kept to a minimum as they still disruptive to instructors and readers.
+These callouts should still be kept to a minimum as they can still be disruptive to instructors and readers.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
