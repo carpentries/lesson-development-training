@@ -44,7 +44,7 @@ This will be easier if your wrote learning objectives with specific action verbs
 Specific verbs can help you decide what action you want the learners to perform in the exercise.
 E.g. actions such as "explain" and "describe" may be better assessed by discussions 
 and multiple choice questions, while "solve," "construct," "test" and other 
-higher-level cognitive skills may be better assessed by debugging tasks, code-and-run, 
+higher-level cognitive skills may be better assessed by debugging tasks, [code-and-run][code-and-run], 
 or use-in-a-different-context exercises.
 
 ::: callout
@@ -96,7 +96,7 @@ while others are a better fit for competent practitioners or experts.
 
 This can be understood in terms of the types of exercises that suit the objective:
 exercise types that help manage cognitive load for the learner,
-such as faded examples and Parsons problems
+such as [faded examples][faded-ex] and [Parsons problems][parsons]
 (which both provide a lot of the process/code and allow the learner to focus on a specific concept or skill)
 are a good fit for a novice, to whom all elements of the topic are new.
 However, these kinds of exercise do not provide an opportunity for learners
@@ -233,6 +233,8 @@ Reflection exercises can include using what was taught to label a diagram, draw 
 
 Return to the bulleted list of lesson objectives you added to the `index.md` file of your lesson and
 use fenced divs to display it in a formatted box with the `.prereq` class.
+Note that all lesson objectives in fenced divs will be combined into
+one box at the top of each episode.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -240,6 +242,8 @@ use fenced divs to display it in a formatted box with the `.prereq` class.
 
 
 [blanks]: https://teachtogether.tech/en/index.html#fill-in-the-blanks
+[code-and-run]: http://teachtogether.tech/en/index.html#code-run
+[faded-ex]: https://teachtogether.tech/en/index.html#faded-examples
 [parsons]: https://teachtogether.tech/en/index.html#parsons-problem
 [minimal]: https://teachtogether.tech/en/index.html#minimal-fix
 
