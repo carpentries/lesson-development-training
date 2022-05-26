@@ -2,6 +2,8 @@
 [carpentries-website]: https://carpentries.org/
 [dc]: https://datacarpentry.org/
 [github]: https://github.com/
+[glossario]: https://glosario.carpentries.org/
+[pilot-notes-template]: https://codimd.carpentries.org/lesson-pilot-observation-notes-template#
 [lc]: https://librarycarpentry.org/
 [swc]: https://software-carpentry.org/
 [swc-lessons]: https://software-carpentry.org/lessons/

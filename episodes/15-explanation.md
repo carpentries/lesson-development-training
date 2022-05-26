@@ -20,6 +20,7 @@ exercises: 40
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Writing Explanatory Text
 
 Explanatory text helps connect your examples and exercises together into a cohesive lesson.
 If your examples and exercises are train stations and scenic views, 
@@ -72,35 +73,40 @@ note-taking document.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- Reminder: trying to fit too much content into a lesson is counter-productive.
-  It is better to cover less and teach people less,
-  than to cover more and teach people even less
-- Also worth considering the (realistic) maximum viable length of a workshop
-  that would teach your lesson
-  e.g. it is unusual to be able to convince people to attend a workshop that lasts four full days.
-  (and better to teach people two days-worth of material than teach no-one four days-worth.)
-  Carpentries workshops have settled on two days,
-  but many in our community run three-day workshops to cover additional material.
-- What is it essential that you include?
-  What can you leave out if you have to?
-  - Are there intermediate checkpoints that you can write in,
-    so that the workshop is not reliant on getting through the whole lesson to
-    "bring everything together?"
-- In the end, the only way to know for sure is to pilot the lesson,
-  measuring how long it takes to teach. (link to pilot notes template)
-  But, as a general rule,
-  it is better to assume that you are under-estimating
-  rather than over-estimating the length.
-  Experience suggests that that is most likely correct,
-  and anyway it is better to have spare time for discussion,
-  revisiting exercises, etc
-  than to try to rush through the remaining material in limited time.
-  - If, after teaching your new lesson, you find that you did not have time to cover all the content,
-    approach cutting down the lesson by identifying which learning objectives to remove.
-    Then take out the objective(s) and the corresponding assessment(s) and explanatory content.
-- Consider adding suggestions for objectives that can be skipped to the Instructor Notes for the lesson.
-- Managing cognitive load
+## Less is More
 
+Trying to fit too much content into a lesson is counter-productive.
+It is better to cover less and provide a smaller but stable foundation for learners to build upon.
+
+You should also consider a realistic workshop length for teaching your lesson.
+It is difficult to keep learners attentive for many hours over many days.
+Most Carpentries workshops are two work days of lesson material as it is difficult for learners to
+attend 4 full days of a workshop.
+Although, there are some in the community who will run workshops that are three days to cover additional material.
+
+As you consider the length of your lesson discuss with your collaborators and ask yourself: 
+
+- What is essential to include?
+- What can be left out if needed?
+- Are there checkpoints where the lesson could end if needed?
+- Can important concepts be moved up earlier to ensure they are covered?
+
+
+In the end, the only way to know for sure is to teach the lesson, measuring how long it takes to teach.
+Borrowing from television, the Carpentries community calls these early workshops, pilot workshops.
+As you run pilot workshops, you can note the length of time spend in each episode.
+You might find the [template for notes on pilot workshops][pilot-notes-template] helpful as it includes a table for episode and exercise timings.
+Instructors commonly report running short on time in workshops.
+Thus, it is better to assume that you are under-estimating rather than over-estimating the length.
+It is better to have additional time for discussion, review, and wrap-up than to rush through material to fit it into the remaining time.
+
+If, after piloting your new lesson, you find that you did not have time to cover all the 
+content, approach cutting down the lesson by identifying which learning objectives to 
+remove. Then take out the objective(s) and the corresponding assessment(s) and explanatory
+content. You may consider making a [concept map][mental-map-instructor-training] to help identify which objectives depend on one another.
+
+Alternatively, if you decide to keep certain objectives in the lesson, you can add suggestions on which objectives can be skipped to the Instructor Notes for the lesson.
+Remember, reducing the number of lesson objectives can help with managing learner (and instructor) cognitive load.
 
 
 ::::::::::::::::::::::::::::::::::::  testimonial
@@ -118,34 +124,60 @@ note-taking document.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- How can you avoid demotivating your learners?
-  - Dismissive language, stereotypes (check your learner profiles too!)
-  - Expert awareness gap
-  - Think back to 27+15=42 MCQ example and
-    how challenging it can be to remember the common mistakes in something you mastered a long time ago
-- Fluid representations, unexplained or unnecessary jargon, unexplained assumptions, sudden jumps in difficulty/complexity
-- Accessibility
-  - Avoid regional/cultural references and idioms that will not translate across borders/cultures
-  - Contractions
-  - Alternative text for figures/images (including for data visualisations [https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)) - [the Workbench documentation describes how to add alt-text and captions to images in a lesson](https://carpentries.github.io/sandpaper-docs/episodes.html#figures)
-  - Header hierarchy (no h1 headers in the lesson body, no skipped levels e.g. h2 -> h4)
-  - Use descriptive link text - no "click here" or "this page" etc
-  - Image contrast \& tools to check this
+## Other Important Considerations for Lesson Text
+
+When writing your lesson text you also want to avoid unintentionally demotivating your learners.
+It is important to review your text for:
+
+- dismissive language - e.g. 'simply', 'just'
+- use of stereotypes (check learner profiles for stereotypes too)
+- expert awareness gaps, i.e. places where you may be assuming the learners know more than they actually do
+- fluid representations, i.e. using different terms with the same meaning interchangeably
+- unexplained or unnecessary jargon 
+- unexplained assumptions
+- sudden jumps in difficulty/complexity
+
+You should also review your text thinking about accessibility.
+This includes:
+
+  - Avoiding regional/cultural references and idioms that will not translate across borders/cultures
+  - Avoiding contractions
+  - Checking that all figures/images have well written alternative text, including [writing altnerative text for data visualizations](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) - see [the Workbench documentation for directions on how to add alt-text and captions to images in a lesson](https://carpentries.github.io/sandpaper-docs/episodes.html#figures)
+  - Checking the header hierarchy - no h1 headers in the lesson body, no skipped levels
+  - [Using descriptive link text](https://www.imperial.ac.uk/staff/tools-and-reference/web-guide/training-and-events/materials/accessibility/links/) - no "click here" or "this page", etc
+  - [Checking the text and foreground contrast for images](https://contrastchecker.com/)
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: Alternative text for images (5 minutes)
+## Optional Exercise: Alternative Text for Images (5 minutes)
 
-TODO/exclude to free up some time
+Which of the following is a good alt-text option for the image below?
 
-multiple choice question with an example image and a few different options for alt text.
-Ask trainees to choose the most appropriate option.
+![](){alt=""}
+
+1. 
+2. 
+3. 
+4. 
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- Defining key terms and Glosario
-- Questions and key points
-  - what and who are these for? how do they tend to be used?
+## Other Text to Complete an Episode
+
+When writing a lesson, you should also consider adding key terms to the lesson glossary 
+for the lesson.
+Many of these terms may also be useful for other lessons and can be added to [Glossario][glossario], a multilingual glossary for computing and data science terms.
+
+In addition to objectives, a [completed episode also requires](https://carpentries.github.io/sandpaper-docs/episodes.html?#required-elements) 
+fenced divs for the questions the episode answers and the keypoints a lesson covers.
+The questions box helps learners understand what to expect from a lesson as they might 
+not yet understand the learning objectives.
+The keypoints box wraps up the lesson by providing answers to each of the questions.
+Keypoints also help self-directed learners review what they learned, remind instructors to 
+recap what was covered in an episode, and help you ensure you answered all the questions 
+you intended for an episode.
+
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -159,10 +191,9 @@ Add key points and questions to your episode.
 
 ## Reflection Exercise (20 minutes)
 
-TODO based on
-"Map out the relationships between the LOs,
-the LEs via which they will be delivered \& those specific items of content
-(e.g., item A sup- ports LO 1, \& will be delivered using a lecture).
+Map out the relationships between the lesson objectives,
+the LEs via which they will be delivered and those specific items of content
+(e.g., item A supports LO 1, \& will be delivered using a lecture).
 
 - Is there any piece of content that doesn't support any LO(s)?
 - Is there at least one piece of content for each LO?
@@ -174,12 +205,14 @@ What diagram or other visual aid could you add to supplement your text?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+[mental-map-instructor-training]: https://carpentries.github.io/instructor-training/02-practice-learning/#mapping-a-mental-model
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- First key point. Brief Answer to questions. (FIXME)
+- The objectives and assessments provide a good outline for an episode and then the text fills in the gaps to support anyone learning or teaching from the lesson.
+- It is important to review your lesson for demotivating language, cognitive load, and accessibility. 
+- To reduce cognitive load and ensure there is enough time for for the materials, consider which lesson objectives are not needed and remove related content and assessments. 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
 
