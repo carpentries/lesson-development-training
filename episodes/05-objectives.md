@@ -126,20 +126,54 @@ SMART objectives should be:
 - **M**easurable: it should be possible to observe and ascertain when the learner has learned the skill/abilities described in the objectives.
 - **A**ttainable: the learner should realistically be able to acquire the skills or abilities in the time available in a workshop/by following the text of the lesson.
 - **R**elevant: they should be relevant to the overall topic or domain of the lesson as a whole.
-- **T**ime-bound: they should include some target for when the onjective will be reached. For learning objectives, this is built into the approach described above.
+- **T**ime-bound: they should include some timeframe within which the goal will be reached. For learning objectives, this is built into the approach described above.
+
 
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: evaluating learning objectives (15 minutes)
 
-Look at examples of learning objectives and identify how they could be improved.
-Maybe provide a numbered list of objectives,
-with a table beneath for learners to identify the verb,
-whether the objective is specific and measurable.
+Look at the example learning objectives below.
+Fill in the table for each objective, 
+checking off the cells if you think an objective
+meets the criteria or leaving it unchecked if not.
+You should assume each objective is for a lesson to be taught in a two-day workshop.
+Note down any observations you make as you move through the list.
+If you have time, 
+try to imagine the titles of lessons that would have these objectives.
+This part of the exercise should take 10 minutes.
 
-Discuss as a group how each might be improved.
+_At the end of this lesson, learners will be able to:_
 
+1. create formatted page content with Markdown.
+1. program with Rust.
+1. fully understand GitHub Actions.
+
+| Objective | Action verb? | Specific | Measurable | Attainable |
+|-----------|--------------|----------|------------|------------|
+| 1         |              |          |            |            |
+| 2         |              |          |            |            |
+| 3         |              |          |            |            |
+
+In the last five minutes of the exercise, 
+we will discuss as a group how each objective might be improved.
+
+::: solution
+
+| Objective | Action verb? | Specific | Measurable | Attainable |
+|-----------|--------------|----------|------------|------------|
+| 1         | :white_check_mark: |  :question: | :question: | :white_check_mark: |
+| 2         | :question: |  :x: | :x: | :question:  |
+| 3         | :x: | :x: | :x: | :question: |
+
+Objective 1 is the closest to what we ideally want in a lesson objective,
+but it illustrates how difficult it can be to make an objective truly specific.
+For example, a more specific and measurable version of this objective could be:
+
+> _write links, headings and bold and italicised text with Markdown._
+
+::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -180,12 +214,22 @@ because the task can be considered in the context of taking out whole
 learning objectives.
 
 
+## Defining learning objectives
+
+We have discussed the importance of defining objectives early in 
+the lesson design process,
+and looked at some examples of objectives written for other lessons.
+Now it is time to begin defining objectives for your own.
+
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: defining objectives for your lesson (20 minutes)
 
-Write SMART learning objectives for your lesson -
+Write learning objectives for your lesson -
 what do you want learners to be able to do at the end of the workshop?
+When writing these lesson-level objectives,
+try to follow the SMART framework:
+make them specific, measurable, attainable, relevant, and time-bound.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -213,7 +257,6 @@ Do the results match your assessment?
 
 
 
-[lujan-decarlo]: https://journals.physiology.org/doi/pdf/10.1152/advan.00061.2005
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
@@ -223,3 +266,4 @@ Do the results match your assessment?
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+[lujan-decarlo]: https://journals.physiology.org/doi/pdf/10.1152/advan.00061.2005
