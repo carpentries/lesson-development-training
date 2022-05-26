@@ -229,10 +229,10 @@ Reflection exercises can include using what was taught to label a diagram, draw 
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: More Practice with Callout Blocks (10 minutes)
+## Exercise: More Practice with Fenced Divs (10 minutes)
 
 Return to the bulleted list of lesson objectives you added to the `index.md` file of your lesson and
-use callout blocks to display it in a formatted box with the `.prereq` class.
+use fenced divs to display it in a formatted box with the `.prereq` class.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -248,7 +248,7 @@ use callout blocks to display it in a formatted box with the `.prereq` class.
 
 - Exercises are important for learners to move what they've learned to long-term memory.
 - Some types of exercises are better for particular audiences and to address certain objectives.
-- Exercises(and solutions) go in challenge callout blocks using fenced divs in the lesson.
+- Exercises (and solutions) go in blocks using fenced divs in the lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
