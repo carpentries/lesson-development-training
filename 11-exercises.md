@@ -5,24 +5,6 @@ exercises: 70
 start: yes
 ---
 
-- A brief description of working vs long-term memory and
-  why exercises/opportunities to practice are so important to include in a lesson.
-  - Exercises help learners transfer knowledge from working memory to long term memory,
-    clearing space for more new information
-- Exercise formats and when to use them
-  - You can design exercises based on the actions/skills you described in your learning objectives (the learning outcomes you intend for the lesson).
-  - You can benefit here from using specific action verbs in your objectives -
-    it will be much easier to decide what an exercise should ask learners to do
-    if you know what kind of action you expect them to be able to perform.
-    E.g. "explain" and "describe" outcomes may be better assessed by discussions
-    and multiple choice questions, while "solve," "construct," "test" and other
-    higher-level cognitive skills may be better assessed by debugging tasks,
-    code-and-run, or use-in-a-different-context exercises.
-  - resources for further reading:
-    - [https://h5p.org/content-types-and-applications](https://h5p.org/content-types-and-applications)
-    - [https://www.edutopia.org/groups/assessment/250941](https://www.edutopia.org/groups/assessment/250941)
-    - [https://teachtogether.tech/en/index.html#s:exercises](https://teachtogether.tech/en/index.html#s:exercises)
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Choose the format for an exercise based on the outcome it is intended to measure.
@@ -38,9 +20,48 @@ start: yes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+## Exercise Your Memory
+
+A simple model of memory is that individuals have two types of memory, 
+working (also called short-term) and long-term.
+Long-term memory is essentially unlimited storage but slow to access whereas
+working memory is quicker to access but can only hold a limited number of items at a time.
+For instructors, the goal is to help learners move the new things they've learned from 
+working memory into long-term memory.
+One of the ways lesson developers can aid in this process is through exercises.
+In addition to providing formative assessments for instructors, exercises help move 
+new skills and concepts into long-term memory by providing learners an opportunity 
+to practice what was recently learned.
+Exercises should occur frequently throughout the lesson because they move items 
+to long-term memory and free up learners' working memory for new items.
+
+
+Creating exercises builds upon the learning objectives you created earlier in the lesson design process.
+You can design exercises based on the actions/skills you described in your 
+learning objectives (the learning outcomes you intend for the lesson).
+This will be easier if your wrote learning objectives with specific action verbs.
+Specific verbs can help you decide what action you want the learners to perform in the exercise.
+E.g. actions such as "explain" and "describe" may be better assessed by discussions 
+and multiple choice questions, while "solve," "construct," "test" and other 
+higher-level cognitive skills may be better assessed by debugging tasks, [code-and-run][code-and-run], 
+or use-in-a-different-context exercises.
+
+::: callout
+
+### Resources to Explore for More Example Assessment Types
+
+  - [Exercise Types Chapter from Teaching Tech Together](https://teachtogether.tech/en/index.html#s:exercises)
+  - [Edutopia's 56 Examples of Formative Assessment](https://www.edutopia.org/groups/assessment/250941)
+  - [H5P Examples and Downloads for Interactive Content](https://h5p.org/content-types-and-applications)
+
+:::
+
+
+
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: exercise types and when to use them (15 minutes)
+## Exercise: Exercise Types and When to Use Them (15 minutes)
 
 The Trainers will assign you to pairs or small groups,
 and give each group an exercise type to focus on.
@@ -68,11 +89,25 @@ Share the major points of your discussion in the collaborative notes document.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- different types of learning objectives work better for novices,
-  while others are a better fit for competent practitioners, etc
-  [Kirschner, 2006](https://github.com/carpentries/instructor-training/blob/gh-pages/files/papers/kirschner-minimal-guidance-fails-2006.pdf) -
-  choose your objectives to fit your intended audience,
-  and your exercise formats to fit your objectives.
+
+As you discussed with your group in the last exercise, 
+different types of learning objectives work better for novices,
+while others are a better fit for competent practitioners or experts.
+
+This can be understood in terms of the types of exercises that suit the objective:
+exercise types that help manage cognitive load for the learner,
+such as [faded examples][faded-ex] and [Parsons problems][parsons]
+(which both provide a lot of the process/code and allow the learner to focus on a specific concept or skill)
+are a good fit for a novice, to whom all elements of the topic are new.
+However, these kinds of exercise do not provide an opportunity for learners
+to develop higher-level skills, 
+such as the ability to create whole new functions or scripts,
+or to extrapolate from the examples they have seen to solve a different kind of problem.
+Indeed, example and exercise types that are helpful to novices 
+[may even be counter-productive for learners with a greater level of expertise][kirschner-2006].
+
+Thus you want to choose your objectives to fit your intended audience and your exercise formats to fit your objectives.
+
 
 ::::::::::::::::::::::::::::::::::::  testimonial
 
@@ -93,18 +128,10 @@ Create LOs for the specific audience and create assessments for specific LOs."*
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-The worked example effect -
-worked examples are more effective than problem-solving for novices,
-less effective (even counter-productive) for competent practitioners.
-Allegra: worked examples cannot be used to achieve high Bloom's levels of cognitive complexity
-(critical thinking/problem solving),
-that's why they are not effective for competent practitioners.
-If you create exercises suitable for low Bloom's level LOs,
-they will be effective for novices but NOT for competent practitioners.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: assessing an objective (30 minutes)
+## Exercise: Assessing an Objective (30 minutes)
 
 Using one of the exercise formats you have learned about so far,
 design an exercise that will require learners to perform one of the actions
@@ -114,15 +141,65 @@ and that assesses their ability to do so.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Well-designed exercises are one of the most valuable resources for an Instructor:
-time spent on this is well invested.
+## Demo of Writing an Exercise 
 
-Demonstration of how to write an exercise within the lesson infrastructure,
-including how to add a solution box.
+Well-designed exercises are one of the most valuable resources for an instructor and 
+any time spent on this is well invested.
+
+
+To create an exercise in The Carpentries Workbench, 
+you can use colon-delimited sections called 'fenced divs'.
+In fact [there are many types of boxes in the lesson infrastucture that use fenced divs](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html#callout-blocks).
+In the Workbench, exercises are divided into two categories: _discussions_ (where the main task is for participants to discuss a topic or prompt) and _challenges_ (where the main task is a problem to be solved).
+
+To start a challenge fenced div the line must contain at least 3 colons, then the `challenge` tag.
+Then the content of the challenge is included on the following lines.
+Finally, you can close the fenced div using another line with least 3 colons.
+
+```markdown
+:::::::::::::::::::::::::::::::::::::: challenge
+
+### Challenge Title
+
+Challenge text, code, and other information goes here
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+```
+
+If you also want to include an expandable solution box for the challenge you can 
+add a solution fenced div within the challenge box.
+The format is the same as for a challenge except the tag is `solution` instead. 
+Note the solutions can all be expanded for more accessible reading using the "Expand All Solutions"
+option at the top of each episode.
+
+
+```
+:::::::::::::::::::::::::::::::::::::: challenge
+
+### Challenge Title
+
+Challenge text, code, and other information goes here
+
+:::::::::::::: solution
+
+### Solution Title
+
+Solution text, code, and other information
+
+:::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+```
+
+For readability, you may want to have the length of the closing lines match the opening lines.
+See in the above how the challenge and the nested solution's closing lines are similar lengths to the their corresponding opening lines.
+For more information about creating exercises see the [Workbench Documentation for Exercises](https://carpentries.github.io/sandpaper-docs/episodes.html#exerciseschallenges).
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: formatting exercises in a lesson site (15 minutes)
+## Exercise: Formatting Exercises in a Lesson Site (15 minutes)
 
 Using the approach demonstrated above,
 format the MCQ you designed previously as an exercise in your lesson site.
@@ -130,18 +207,34 @@ format the MCQ you designed previously as an exercise in your lesson site.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Other types of formative assessment:
+Some other types of formative assessment include:
 
-- think, pair, share
-- sticky notes and written feedback
-- reflective assessment
+- **Think, pair, share** - Learners _think_ about an answer to a question, _pair_ up
+with a classmate to discuss their answer, and then _share_ out the consensus they came to 
+with the class.
+- **Sticky notes and written feedback** - Learners each get two colors of sticky notes. 
+If they fall behind or run into an issue, they can put up the 
+color that signals they need help.
+If they have completed and exercise or think the instructor could speed up, they put their
+other sticky note up.
+Then at breaks these stickies can turn into written feedback "minute cards", where the learner 
+writes down one thing they were confused about or that could be improved and one thing that went well
+or they really liked learning.
+- **Reflective assessment** - Learners spend time reflecting on what they have learned so far.
+Reflection aids in transferring newly learned concepts into long-term memory and can be really helpful for "metacognition", where learners think about the process of learning, becoming aware of their progress towards acquiring new skills.
+Developing metacognition improves learners' ability to guide their own learning on a topic after they have finished the lesson.
+Reflection exercises can include using what was taught to label a diagram, draw a concept map, free write, or fill in a guided worksheet. 
+
+
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: more practice with special blockquotes (10 minutes)
+## Exercise: More Practice with Fenced Divs (10 minutes)
 
-Return to the bullet list of lesson objectives you added to the `index.md` file of your lesson and
-use special blockquotes to display it in a formatted box with the `.prereq` class.
+Return to the bulleted list of lesson objectives you added to the `index.md` file of your lesson and
+use fenced divs to display it in a formatted box with the `.prereq` class.
+Note that all lesson objectives in fenced divs will be combined into
+one box at the top of each episode.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -149,13 +242,17 @@ use special blockquotes to display it in a formatted box with the `.prereq` clas
 
 
 [blanks]: https://teachtogether.tech/en/index.html#fill-in-the-blanks
+[code-and-run]: http://teachtogether.tech/en/index.html#code-run
+[faded-ex]: https://teachtogether.tech/en/index.html#faded-examples
 [parsons]: https://teachtogether.tech/en/index.html#parsons-problem
 [minimal]: https://teachtogether.tech/en/index.html#minimal-fix
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- First key point. Brief Answer to questions. (FIXME)
+- Exercises are important for learners to move what they've learned to long-term memory.
+- Some types of exercises are better for particular audiences and to address certain objectives.
+- Exercises (and solutions) go in blocks using fenced divs in the lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
