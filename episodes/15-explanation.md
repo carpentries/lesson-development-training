@@ -153,12 +153,14 @@ This includes:
 
 Which of the following is a good alt-text option for the image below?
 
-![](){alt=""}
+![Atmospheric Carbon Dioxide at Mauna Loa Observatory](https://gml.noaa.gov/webdata/ccgg/trends/co2_data_mlo.png){alt="Line graph of increasing carbon dioxide at the Mauna Loa Observatory from 1958 to present"}
 
-1. 
-2. 
-3. 
-4. 
+1. Graph of data
+2. Graph with increasing lines
+2. Line graph of increasing carbon dioxide in ppm at the Mauna Loa Observatory from 1958 to present
+3. Line graph of increasing carbon dioxide in ppm at the Mauna Loa Observatory, Hawaii, United States, from 1959 to present including values from each year. Red line shows variation in each year and black line is average for each year. 1959 = 315.90 ppm, 1960 = 316.91, 1961 = 317.64 ...
+
+_[Data/Image provided by NOAA Global Monitoring Laboratory, Boulder, Colorado, USA] (https://esrl.noaa.gov/)_
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -167,6 +169,11 @@ Which of the following is a good alt-text option for the image below?
 
 When writing a lesson, you should also consider adding key terms to the lesson glossary 
 for the lesson.
+Terms and their definitions should be added to the `references.md` in the following form.
+```markdown
+keyterm
+: definition
+```
 Many of these terms may also be useful for other lessons and can be added to [Glossario][glossario], a multilingual glossary for computing and data science terms.
 
 In addition to objectives, a [completed episode also requires](https://carpentries.github.io/sandpaper-docs/episodes.html?#required-elements) 
@@ -191,17 +198,16 @@ Add key points and questions to your episode.
 
 ## Reflection Exercise (20 minutes)
 
-Map out the relationships between the lesson objectives,
-the LEs via which they will be delivered and those specific items of content
+Map out the relationships between the lesson objectives (LO),
+the learning experiences via which they will be delivered and those specific items of content
 (e.g., item A supports LO 1, \& will be delivered using a lecture).
 
-- Is there any piece of content that doesn't support any LO(s)?
-- Is there at least one piece of content for each LO?
-- Is there at least one LE for each piece of content?"
+- Is there any piece of content that doesn't support any learning objectives?
+- Is there at least one piece of content for each learning objective?
+- Is there at least one learning experience for each piece of content?
 
 What do you still need to add/work on? What can you remove/consider removing?
-What diagram or other visual aid could you add to supplement your text?
-
+What diagram or other visual aids could you add to supplement your text?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
