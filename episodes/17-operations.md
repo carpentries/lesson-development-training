@@ -56,7 +56,7 @@ assess the current state of a lesson in the Incubator,
 The Carpentries encourages lesson developers to indicate the status of their lesson 
 by labeling its progress through a _lesson life cycle_:
 
-
+![The life cycle of a lesson](fig/life_cycle.png){alt="Diagram of the life cycle of a lesson in The Carpentries ecosystem. A lesson is proposed at the beginning of the pre-alpha stage. It enters alpha when it is taught for the first time. In beta, it is taught by other instructors. A full release of the lesson is made when it is stable. Pilot workshops take place during the alpha and beta phases. The Carpentries Lab hosts open peer review of lessons that have completed the beta phase."}
 
 Each life cycle stage indicates the level of maturity of a lesson:
 
