@@ -261,7 +261,9 @@ Do the results match your assessment?
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- First key point. Brief Answer to questions. (FIXME)
+- Defining objectives for a lesson can help to focus your content on the most important outcomes, and outline the scope of the project.
+- Following the SMART framework can help make your learning objectives as useful as possible.
+- Leaving objectives unrealistic or undefined increases the risk of a lesson losing focus or spending time on activities that do not help learners gain the most important skills.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
