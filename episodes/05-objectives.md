@@ -246,7 +246,7 @@ and review them with the following questions in mind:
 - Do they use "action" verbs?
 - Could you directly observe whether a learner had reached this objective?
 
-Now run the objectives through [https://web.cs.manchester.ac.uk/iloadvisor/](https://web.cs.manchester.ac.uk/iloadvisor/)
+Now run the objectives through [this Lesson Objective Advisor tool from the University of Manchester's Faculty of Science and Engineering](https://web.cs.manchester.ac.uk/iloadvisor/).
 Do the results match your assessment?
 
 - Where do the skills described in these objectives sit on the scale?
