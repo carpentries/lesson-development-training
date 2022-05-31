@@ -169,11 +169,9 @@ _[Data/Image provided by NOAA Global Monitoring Laboratory, Boulder, Colorado, U
 
 When writing a lesson, you should also consider adding key terms to the lesson glossary 
 for the lesson.
-Terms and their definitions should be added to the `references.md` in the following form.
-```markdown
-keyterm
-: definition
-```
+Following the instructions on [how to create a glossary in the workbench documetation][sandpaper-docs-learners]
+will help you to create this section of the lesson.
+
 Many of these terms may also be useful for other lessons and can be added to [Glosario][glosario], a multilingual glossary for computing and data science terms.
 
 In addition to objectives, a [completed episode also requires](https://carpentries.github.io/sandpaper-docs/episodes.html?#required-elements) 
@@ -215,7 +213,7 @@ What diagram or other visual aids could you add to supplement your text?
 [dismissive-language-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise/index.html#just-and-other-dismissive-language
 [stereotype-threat-instructor-training]: https://carpentries.github.io/instructor-training/09-eia/index.html#stereotypes
 [expert-awareness-gap-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise/index.html#mind-the-gap
-
+[sandpaper-docs-learners]: https://carpentries.github.io/sandpaper-docs/editing.html#learners
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
