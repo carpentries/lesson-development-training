@@ -171,6 +171,20 @@ Which of the following is a good alt-text option for the image below?
 
 _[Data/Image provided by NOAA Global Monitoring Laboratory, Boulder, Colorado, USA] (https://esrl.noaa.gov/)_
 
+:::::::::::::::::::  solution
+
+The third option, "Line graph of increasing carbon dioxide in ppm at the Mauna Loa 
+Observatory from 1958 to present", is the best option. It describes the type of plot, 
+what is measured, and the trend.
+
+The first two options are too vague. They mention a graph but don't give enough 
+info to know what the graph is actually showing.
+
+The last option is overly descriptive and starts to list the data itself.
+It is better to include a shorter, but informative, description and a link to the 
+data instead.
+
+:::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
