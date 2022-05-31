@@ -63,6 +63,12 @@ but reduces a lot the preparation time of future lessons and are super useful to
     - tips for teaching the lesson/particular sections
     - challenges encountered
     - parts that seem to cause biggest trouble/most confusion for learners (i.e. where to tread carefully), etc
+- Collecting feedback
+  - a reminder of some of the methods for collecting feedback that can be most helpful for a trial run
+    - minute cards
+    - one up, one down
+    - perhaps even some more specific feedback, for a relatively short trial run e.g. how clear were the exercises? were they appropriately challenging i.e. learner felt like they had to think about it to complete the challenge, but not so difficult that they gave up/became frustrated.
+  - link to relevant section of Instructor Training
 
 :::::::::::::::::::::::::::::::::::::  discussion
 
