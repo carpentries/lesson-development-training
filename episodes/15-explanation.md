@@ -105,8 +105,17 @@ content, approach cutting down the lesson by identifying which learning objectiv
 remove. Then take out the objective(s) and the corresponding assessment(s) and explanatory
 content. You may consider making a [concept map][mental-map-instructor-training] to help identify which objectives depend on one another.
 
-Alternatively, if you decide to keep certain objectives in the lesson, you can add suggestions on which objectives can be skipped to the Instructor Notes for the lesson.
-Remember, reducing the number of lesson objectives can help with managing learner (and instructor) cognitive load.
+Alternatively, if you decide to keep certain objectives in the lesson, you can add 
+suggestions on which objectives can be skipped to the Instructor Notes for the lesson.
+The Instructor Notes are added to the `instructors/` folder of a lesson.
+They are pieces of information that are useful for someone prepping to teach or 
+teaching a specific lesson that self-directed learners might not be 
+interested in reading.
+Instructors can see the notes within the lesson and the instructor notes tab by 
+changing the view in the upper right-hand corner of the lesson to "Instructor View".
+
+As you add notes and think about what to cut, remember, reducing the number of lesson 
+objectives can help with managing learner (and instructor) cognitive load.
 
 
 ::::::::::::::::::::::::::::::::::::  testimonial
