@@ -54,7 +54,7 @@ may have additional items they'd like to see included, leading to "scope creep".
 
 To address this issue, in many Carpentries lessons, callout boxes are used for asides and short tangents, 
 e.g. points that might be relevant to some audiences but are not essential to the flow of the lesson.
-These callouts should still be kept to a minimum as they can still be disruptive to instructors and readers.
+These callouts should still be kept to a minimum as they can be disruptive to instructors and readers.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -94,7 +94,7 @@ As you consider the length of your lesson discuss with your collaborators and as
 
 In the end, the only way to know for sure is to teach the lesson, measuring how long it takes to teach.
 Borrowing from television, the Carpentries community calls these early workshops, pilot workshops.
-As you run pilot workshops, you can note the length of time spend in each episode.
+As you run pilot workshops, you can note the length of time spent in each episode.
 You might find the [template for notes on pilot workshops][pilot-notes-template] helpful as it includes a table for episode and exercise timings.
 Instructors commonly report running short on time in workshops.
 Thus, it is better to assume that you are under-estimating rather than over-estimating the length.
@@ -127,11 +127,11 @@ Remember, reducing the number of lesson objectives can help with managing learne
 ## Other Important Considerations for Lesson Text
 
 When writing your lesson text you also want to avoid unintentionally demotivating your learners.
-It is important to review your text for:
+Make time to review your text for:
 
-- dismissive language - e.g. 'simply', 'just'
-- use of stereotypes (check learner profiles for stereotypes too)
-- expert awareness gaps, i.e. places where you may be assuming the learners know more than they actually do
+- [dismissive language][dismissive-language-instructor-training] - e.g. 'simply', 'just'
+- use of [stereotypes][stereotype-threat-instructor-training] (check learner profiles for stereotypes too)
+- [expert awareness gaps][expert-awareness-gap-instructor-training], i.e. places where you may be assuming the learners know more than they actually do
 - fluid representations, i.e. using different terms with the same meaning interchangeably
 - unexplained or unnecessary jargon 
 - unexplained assumptions
@@ -141,7 +141,7 @@ You should also review your text thinking about accessibility.
 This includes:
 
   - Avoiding regional/cultural references and idioms that will not translate across borders/cultures
-  - Avoiding contractions
+  - Avoiding contractions i.e. don't, can't, won't etc
   - Checking that all figures/images have well written alternative text, including [writing altnerative text for data visualizations](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) - see [the Workbench documentation for directions on how to add alt-text and captions to images in a lesson](https://carpentries.github.io/sandpaper-docs/episodes.html#figures)
   - Checking the header hierarchy - no h1 headers in the lesson body, no skipped levels
   - [Using descriptive link text](https://www.imperial.ac.uk/staff/tools-and-reference/web-guide/training-and-events/materials/accessibility/links/) - no "click here" or "this page", etc
@@ -174,7 +174,7 @@ Terms and their definitions should be added to the `references.md` in the follow
 keyterm
 : definition
 ```
-Many of these terms may also be useful for other lessons and can be added to [Glossario][glossario], a multilingual glossary for computing and data science terms.
+Many of these terms may also be useful for other lessons and can be added to [Glosario][glosario], a multilingual glossary for computing and data science terms.
 
 In addition to objectives, a [completed episode also requires](https://carpentries.github.io/sandpaper-docs/episodes.html?#required-elements) 
 fenced divs for the questions the episode answers and the keypoints a lesson covers.
@@ -212,6 +212,9 @@ What diagram or other visual aids could you add to supplement your text?
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [mental-map-instructor-training]: https://carpentries.github.io/instructor-training/02-practice-learning/#mapping-a-mental-model
+[dismissive-language-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise/index.html#just-and-other-dismissive-language
+[stereotype-threat-instructor-training]: https://carpentries.github.io/instructor-training/09-eia/index.html#stereotypes
+[expert-awareness-gap-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise/index.html#mind-the-gap
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
