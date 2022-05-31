@@ -169,7 +169,7 @@ Which of the following is a good alt-text option for the image below?
 2. Line graph of increasing carbon dioxide in ppm at the Mauna Loa Observatory from 1958 to present
 3. Line graph of increasing carbon dioxide in ppm at the Mauna Loa Observatory, Hawaii, United States, from 1959 to present including values from each year. Red line shows variation in each year and black line is average for each year. 1959 = 315.90 ppm, 1960 = 316.91, 1961 = 317.64 ...
 
-_[Data/Image provided by NOAA Global Monitoring Laboratory, Boulder, Colorado, USA] (https://esrl.noaa.gov/)_
+[_Data/Image provided by NOAA Global Monitoring Laboratory, Boulder, Colorado, USA_](https://esrl.noaa.gov/)
 
 :::::::::::::::::::  solution
 
