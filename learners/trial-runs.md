@@ -87,6 +87,8 @@ You will need to return to these notes when you join the second part of the trai
 - What will you change in the material you taught?
 - What will you change in the way you collect feedback in future pilots?  
 
+**When you have completed the trial run and made these notes,
+send them to your trainers using the contact details they will share during the training.**
 
 ## Who should the learners be for a trial run?
 
