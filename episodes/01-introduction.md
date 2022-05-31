@@ -129,14 +129,16 @@ if they are developed collaboratively.
 This training will discuss some of the ways that you can welcome new collaborators 
 and work effectively and efficiently with those you already have.
 
-### Learning how to teach a lesson
+::: callout
+
+## Learning how to teach a lesson
 
 This training will focus on the content - how to prepare a good lesson.
 More about the performance - how to deliver a lesson most effectively -
 is covered in 
 [The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/).
 
-
+:::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
