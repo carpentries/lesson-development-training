@@ -66,7 +66,7 @@ open peer review of lessons that have completed the beta phase."}
 Each life cycle stage indicates the level of maturity of a lesson:
 
 - **pre-alpha**: a first draft of the lesson is still being constructed.
-- **alpha**: the lesson has been/is being taught by the original authors, but has not been well tested.
+- **alpha**: the lesson has been/is being taught by the original authors, but has not been fully tested.
 - **beta**: the lesson is ready to be taught by instructors who have not been significantly involved in its developed to this point.
 - **stable**: the lesson has been extensively tested by the authors and others. It can be considered broadly complete and unlikely to undergo any drastic changes without warning.
 
