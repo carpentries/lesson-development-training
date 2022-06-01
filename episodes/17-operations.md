@@ -124,7 +124,7 @@ The Carpentries community handbook includes
 :::::::::::
 
 
-## Connecting with the lesson developer community
+## Connecting with the Lesson Developer Community
 
 With over 100 lessons under development in The Carpentries Incubator,
 the lesson developer community is thriving.
