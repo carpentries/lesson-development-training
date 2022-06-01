@@ -107,12 +107,25 @@ content. You may consider making a [concept map][mental-map-instructor-training]
 
 Alternatively, if you decide to keep certain objectives in the lesson, you can add 
 suggestions on which objectives can be skipped to the Instructor Notes for the lesson.
-The Instructor Notes are added to the `instructors/` folder of a lesson.
-They are pieces of information that are useful for someone prepping to teach or 
-teaching a specific lesson that self-directed learners might not be 
-interested in reading.
+
+:::::::::::::::::::::::::::::: callout
+
+The Instructor Notes for the whole lesson should be added to the `instructors/instructor-notes.md` file.
+This page is displayed in the header menu when in "Instructor View".
+You can also add notes [in a specific episode of the lesson using fenced divs][instructor-notes].
 Instructors can see the notes within the lesson and the instructor notes tab by 
 changing the view in the upper right-hand corner of the lesson to "Instructor View".
+
+Try out the instructor view by opening this episode seeing the in-line instructor note below.
+
+:::::::::::: instructor
+
+This is the hidden note! Thanks for developing new incubator lessons for others to use!
+
+::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::
+
 
 As you add notes and think about what to cut, remember, reducing the number of lesson 
 objectives can help with managing learner (and instructor) cognitive load.
@@ -232,10 +245,11 @@ What diagram or other visual aids could you add to supplement your text?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[mental-map-instructor-training]: https://carpentries.github.io/instructor-training/02-practice-learning/#mapping-a-mental-model
 [dismissive-language-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise/index.html#just-and-other-dismissive-language
-[stereotype-threat-instructor-training]: https://carpentries.github.io/instructor-training/09-eia/index.html#stereotypes
 [expert-awareness-gap-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise/index.html#mind-the-gap
+[instructor-notes]: https://carpentries.github.io/workbench/transition-guide.html#instructor-notes)
+[mental-map-instructor-training]: https://carpentries.github.io/instructor-training/02-practice-learning/#mapping-a-mental-model
+[stereotype-threat-instructor-training]: https://carpentries.github.io/instructor-training/09-eia/index.html#stereotypes
 [sandpaper-docs-learners]: https://carpentries.github.io/sandpaper-docs/editing.html#learners
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
