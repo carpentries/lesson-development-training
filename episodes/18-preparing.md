@@ -27,12 +27,12 @@ and examples for at least one of the sections in your lesson. In order to prepar
 
 ## Teaching Plan
 
-A teaching plan outlines the structure and details of your teaching session (including estimated duration of each part and any materials and resources needed to deliver them), e.g.:
+A teaching plan outlines the structure of your teaching session, including details, estimated duration and materials needed to deliver it, e.g.:
 
-- welcome, introductions and motivation for the lesson
-- initial setup and troubleshooting
+- welcome, introductions and motivation for the lesson - to introduce yourself, aims and objectives of the lesson and how it will help learners
+- setup - to check if everyone is ready to proceed with the lesson
 - segments of teaching and exercises from the lesson and any other planned activities (e.g. group discussions, wrap-up and feedback)
-- slides, figures and other visual aids
+- slides, figures and other visual aids needed to deliver teaching and other parts of the plan 
 - resources/references/recommended reading
 
 ::::::::::::::::::::::::::::::::::::  testimonial
@@ -93,9 +93,9 @@ TODO: Do we want this as an exercise? Would this make this section too long?
 
 ## Feedback Collection Plan
 
-There is a lot to collect feedback on when trialling a new lesson and this is arguably the most important part of the pilot. It can be hard to capture all this information yourself while you are teaching, hence you will need help from your team - make sure you assign the feedback collection roles ahead of your pilot. Additionally, from the start make sure that participants are aware that this is a new lesson pilot and that they are helping you refine it as well as learning new things themselves. This can help focus their attention on the feedback you need to collect from them. You should be collecting feedback:
+There is a lot to collect feedback on when trialling a new lesson and this is arguably the most important part of your teaching plan. It can be hard to capture all this information yourself while you are teaching, hence you will need help from your team - make sure you assign the feedback collection roles ahead of your pilot. Additionally, from the very beginning (i.e. advertising stage) make it clear to the participants you are piloting a new lesson and that they will be actively helping you refine it as well as learning new things themselves. This can help focus their attention on the feedback you need to collect from them, which you should be doing:
 
-- constantly throughout the workshop - refer to the ["Pilot Workshops" section](17-operations.md#pilot-workshops) for suggestions on things to track and the [pilot workshop notes template](pilot-notes-template) and other suggested feedback collection mechanisms to help you gather such information. To recap, you should be noting down the amount of time used to teach each section, amount of time used for each exercise, technical issues encountered during the lesson, bugs and unexpected behaviour, missing solutions, questions and suggestions from participants, sources of confusion, interesting discussions, etc. These may occur at any point at the workshop, either verbally or in the chat function of the video conferencing tool (for online workshops) - make sure you capture them all.
+- constantly and throughout the workshop - refer to the ["Pilot Workshops" section](17-operations.md#pilot-workshops) for suggestions on things to track and the [pilot workshop notes template](pilot-notes-template) and other suggested feedback collection mechanisms to help you gather such information. To recap, you should be noting down the amount of time used to teach each section, amount of time used for each exercise, technical issues encountered during the lesson, bugs and unexpected behaviour, missing solutions, questions and suggestions from participants, sources of confusion, interesting discussions, etc. These may occur at any point at the workshop, either verbally or in the chat function of the video conferencing tool (for online workshops) - make sure you capture them all.
 - at designated wrap-up and feedback session at the end of the workshop. Here, you can cover any other feedback that was not addressed up to that point and any specific questions you may want to ask your audience (e.g. about the choice of topics for the lesson, difficulty level, workshop operations). You may design a special form that participants can fill in anonymously.
 
 
