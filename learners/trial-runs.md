@@ -75,7 +75,7 @@ gather feedback, e.g.
 ideally immediately afterwards -
 take some time to reflect on the following questions,
 based on the feedback collected and from your own perspective 
-as the instructor and author of the lesson content,
+as the instructor and author of the lesson content.
 Make some notes on your answers to these questions.
 You will need to return to these notes when you join the second part of the training.
 
