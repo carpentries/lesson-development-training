@@ -4,37 +4,36 @@ teaching: 15
 exercises: 30
 ---
 
-By now you should have developed
-objectives,
-exercises/formative assessments,
-and examples
-for at least one of the episodes in your lesson.
+By now you should have developed objectives, exercises/formative assessments,
+and examples for at least one of the sections in your lesson. In order to prepare to teach it (for the first time in particular) you'll need to create a teaching plan and design a method to collect feedback on your lesson.
+
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Summarise lesson content as a teaching plan.
 - Add setup instructions and Instructor Notes to the lesson site.
+- Create a feedback collection plan.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
 - What can I do to prepare to teach my lesson for the first time?
-- What information should be recorded for instructors teaching a lesson?
 - How should I communicate lesson setup instructions to learners?
+- What information should be recorded for instructors teaching a lesson?
+- How should information be collected as part of the feedback process?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::  challenge
+## Teaching Plan
 
-## Exercise: Prepare a teaching plan (15 minutes)
+A teaching plan outlines the structure and details of your teaching session (including estimated duration of each part and any materials and resources needed to deliver them), e.g.:
 
-Create a bullet point list or brief notes describing
-what you will say and do when teaching the episode you have been focussing on
-during this training.
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
+- welcome, introductions and motivation for the lesson
+- initial setup and troubleshooting
+- segments of teaching and exercises from the lesson and any other planned activities (e.g. group discussions, wrap-up and feedback)
+- slides, figures and other visual aids
+- resources/references/recommended reading
 
 ::::::::::::::::::::::::::::::::::::  testimonial
 
@@ -48,21 +47,57 @@ but reduces a lot the preparation time of future lessons and are super useful to
 
 \- Dr. Allegra Via, Carpentries Instructor and Instructor Trainer
 
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+::::::::::::::::::::::::::::::::::::::  challenge
+
+## Exercise: Prepare a teaching plan (15 minutes)
+
+Create a bullet point list or brief notes describing
+what you will say and do when teaching the section you have been focussing on
+during this training.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- Using figures and visual aids
-  - Remember the alt text
-  - Call back to placing explanatory text adjacent to relevant part of visualisation
-- Working with the lesson infrastructure:
-  - Setup instructions
-    - This is time well-invested. Clear instructions now may give you more time when teaching the lesson.
-  - Discuss briefly what belongs in Instructor Notes pages:
-    - strengths and weaknesses of current design
-    - what has been tried before and what worked/did not work
-    - tips for teaching the lesson/particular sections
-    - challenges encountered
-    - parts that seem to cause biggest trouble/most confusion for learners (i.e. where to tread carefully), etc
+Figures and other visual aids are great tools to help participants understand the content being presented and make associations between pieces of information. If you are planning on using these in your lesson or teaching session - remember to enhance them with the ALT text (invisible description of images which are read aloud to blind users on screen readers providing alternative text-based format for images) or place explanatory text adjacent to relevant part of visualisation.
+  
+If your lesson requires participants to use any software or tools - it is worthwhile investing time now into creating clear setup and installation instructions for participants to follow and circulating them ahead of the workshop. This will give you more time at the pilot for teaching the lesson as troubleshooting installation problems on the spot is often time-consuming and stressfull. Each Carpentries lesson has a dedicated place for this purpose within The Carpentries Workbench located in the file `setup.md` in the lesson project root. 
+
+::::::::::::::::::::::::::::::::::::::  challenge
+
+## Exercise: Create setup instructions (10 minutes)
+
+Create `setup.md` file in your lesson project root with a list of software and tools needed by participants to follow your lesson and links on how to install them.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Another standard piece of The Carpentries Workbench are *Instructor Notes* pages - intended to help other instructors deliver your lesson by providing useful tips for delivering or explainng "sticky" points in the lesson. Instructor Notes for your lesson are located in `instructors/instructor-notes.md` file off your lesson project root where you may consider adding the following information:
+
+- rationale, strengths and/or weaknesses of the lesson design
+- what has been tried before and what worked/did not work
+- tips for teaching the lesson/particular sections
+- challenges encountered
+- troubleshooting common setup/installation/exercise issues 
+- parts that seem to cause trouble or most confusion for learners (i.e. where to tread carefully, spend more time explaining)
+    
+It may initially be difficult to create Instructor Notes until you have taught the lesson yourself for the first time - but after the first pilot you will have enough feedback to draft them.
+
+::::::::::::::::::::::::::::::::::::::  challenge
+
+## Exercise: Create Instructor Notes (10 minutes)
+
+TODO: Do we want this as an exercise? Would this make this section too long?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Feedback Collection Plan
+
+There is a lot to collect feedback on when trialling a new lesson and this is arguably the most important part of the pilot. It can be hard to capture all this information yourself while you are teaching, hence you will need help from your team - make sure you assign the feedback collection roles ahead of your pilot. Additionally, from the start make sure that participants are aware that this is a new lesson pilot and that they are helping you refine it as well as learning new things themselves. This can help focus their attention on the feedback you need to collect from them. You should be collecting feedback:
+
+- constantly throughout the workshop - refer to the ["Pilot Workshops" section](17-operations.md#pilot-workshops) for suggestions on things to track and the [pilot workshop notes template](pilot-notes-template) and other suggested feedback collection mechanisms to help you gather such information. To recap, you should be noting down the amount of time used to teach each section, amount of time used for each exercise, technical issues encountered during the lesson, bugs and unexpected behaviour, missing solutions, questions and suggestions from participants, sources of confusion, interesting discussions, etc. These may occur at any point at the workshop, either verbally or in the chat function of the video conferencing tool (for online workshops) - make sure you capture them all.
+- at designated wrap-up and feedback session at the end of the workshop. Here, you can cover any other feedback that was not addressed up to that point and any specific questions you may want to ask your audience (e.g. about the choice of topics for the lesson, difficulty level, workshop operations). You may design a special form that participants can fill in anonymously.
+
 
 :::::::::::::::::::::::::::::::::::::  discussion
 
@@ -114,7 +149,9 @@ during which we would like you to complete the following three tasks:
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- First key point. Brief Answer to questions. (FIXME)
+- Spending time on preparing your teaching and feedback collection plans will make you and your participants get the most out of your workshop pilot.
+- Creating clear setup instructions as part of your lesson and circulating them ahead of the pilot is time well-invested and will give you more time when teaching the lesson.
+- Instructor Notes are included with a lesson to help other instructors, who have the relevant topic knowledge but have not been involved in the lesson design and development, deliver your lesson. 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
