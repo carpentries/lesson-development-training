@@ -63,14 +63,14 @@ Try to answer some or all of the following questions:
 
 Moving forward from your first pilot, the next steps to consider are:
 
-- Recording all the identified changes and improvements that can be made to the lesson material and assigning a person from the team responsible for each task. The above exercise provided some reflection points after a trial run; in terms of lesson content they may translate into the following considerations:
+- Record all the identified changes and improvements that can be made to the lesson material and assigning a person from the team responsible for each task. The above exercise provided some reflection points after a trial run; in terms of lesson content they may translate into the following considerations:
   - is the material too dense, does it need extra explanations?
   - would adding a diagram help explain or curate things better?
   - is there too much content for one episode and do you need to split into smaller teaching units?
   - do you need to re-organise and move some content around to improve the flow and narrative?
   - are there enough exercises and practical work? 
   - do you need to realign your lesson objectives and key messages?
-- Deciding if some of the feedback you will not action. Remember, you do not need to respond to every piece of feedback you receive. For example, it is easy to fall down the rabbit hole of adding extra material just because someone suggested it may be a useful thing - sometimes adding a link to extra reading is sufficient. You need to be able to draw a line under any extra modification suggestions to keep you in scope and on schedule. 
+- Decide if some of the feedback you will not action. Remember, you do not need to respond to every piece of feedback you receive. For example, it is easy to fall down the rabbit hole of adding extra material just because someone suggested it may be a useful thing - sometimes adding a link or a callout to extra reading is sufficient. You need to be able to draw a line under any extra modification suggestions to keep you in scope and on schedule. 
 - Schedule follow-up co-working sessions with your team to carry on working on fixing issues and adding new content to maintain the momentum.
 - Add Instructor Notes to the lesson site based on what you learned and to help other insturctors teach your lesson.
 - Think about the timeline for your next pilot(s), even provisionally, to help you set milestones and targets to work towards.

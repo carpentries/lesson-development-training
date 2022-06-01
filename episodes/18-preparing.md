@@ -1,7 +1,7 @@
 ---
 title: Preparing to teach
-teaching: 15
-exercises: 30
+teaching: 20
+exercises: 50
 ---
 
 By now you should have developed objectives, exercises/formative assessments,
@@ -27,12 +27,12 @@ and examples for at least one of the sections in your lesson. In order to prepar
 
 ## Teaching Plan
 
-A teaching plan outlines the structure of your teaching session, including details, estimated duration and materials needed to deliver it, e.g.:
+A teaching plan outlines the structure of your teaching session, including details, estimated duration and materials needed to deliver it. For example, a teaching plan may contain the following:
 
 - welcome, introductions and motivation for the lesson - to introduce yourself, aims and objectives of the lesson and how it will help learners
 - setup - to check if everyone is ready to proceed with the lesson
 - segments of teaching and exercises from the lesson and any other planned activities (e.g. group discussions, wrap-up and feedback)
-- slides, figures and other visual aids needed to deliver teaching and other parts of the plan 
+- slides, figures and other visual aids needed to deliver teaching and other parts of the teaching plan 
 - resources/references/recommended reading
 
 ::::::::::::::::::::::::::::::::::::  testimonial
@@ -66,7 +66,7 @@ If your lesson requires participants to use any software or tools - it is worthw
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: Create setup instructions (10 minutes)
+## Exercise: Create Setup Instructions (10 minutes)
 
 Create `setup.md` file in your lesson project root with a list of software and tools needed by participants to follow your lesson and links on how to install them.
 
@@ -87,7 +87,7 @@ It may initially be difficult to create Instructor Notes until you have taught t
 
 ## Exercise: Create Instructor Notes (10 minutes)
 
-TODO: Do we want this as an exercise? Would this make this section too long?
+Create `instructors/instructor-notes.md` file in your lesson project root with a list of delivery instructions for future instructors.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
