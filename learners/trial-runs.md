@@ -24,8 +24,9 @@ and outlined a narrative to lead learners through that chapter.
 You should use the trial run as an opportunity to teach this chapter of your lesson to a real audience.
 Note that it will probably be helpful to spend some time 
 writing some of the supporting information for your lesson for this trial run.
-For example, it is likely that some setup instructions will need to be provided in
-the `learners/setup.md` file.
+For example, if you did not have time to finish writing the setup instructions
+for your lesson in the `learners/setup.md` file,
+you should try to complete these and share them with your learners before the trial run.
 
 ### For groups of collaborators
 
