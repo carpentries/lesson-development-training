@@ -1,7 +1,7 @@
 ---
 title: Preparing to teach
 teaching: 20
-exercises: 50
+exercises: 45
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -62,18 +62,18 @@ during this training.
 
 Figures and other visual aids are great tools to help participants understand the content being presented and make associations between pieces of information. If you are planning on using these in your lesson or teaching session - remember to enhance them with the ALT text describing the figure for individuals using screen readers or by placing explanatory text adjacent to relevant part of visualisation.
   
-If your lesson requires participants to use any software or tools - it is worthwhile investing time now into creating clear setup and installation instructions for participants to follow and circulating them ahead of the workshop. This will give you more time at the pilot for teaching the lesson as troubleshooting installation problems on the spot is often time-consuming and stressful. Each Carpentries lesson has a dedicated place for setup instructions within The Carpentries Workbench located in the file `setup.md` in the lesson project root.
+If your lesson requires participants to use any software or tools - it is worthwhile investing time now into creating clear setup and installation instructions for participants to follow and circulating them ahead of the workshop. This will give you more time at the pilot for teaching the lesson as troubleshooting installation problems on the spot is often time-consuming and stressful. Each Carpentries lesson has a dedicated place for setup instructions within The Carpentries Workbench located in the file `learners/setup.md` off the lesson project root.
 You may also want to include directions to download any data needed in the setup.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: Create Setup Instructions (10 minutes)
+## Exercise: Add Setup Instructions (10 minutes)
 
-Create the `setup.md` file in your lesson project root with a list of software and tools needed by participants to follow your lesson and links on how to install them.
+Add Setup Instructions (in the `learners/setup.md` file) with a list of software/tools needed by participants to follow your lesson and links on how to install them.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Another standard piece of The Carpentries Workbench are *Instructor Notes* pages - intended to help other instructors deliver your lesson by providing useful tips for delivering or explainng "sticky" points in the lesson. Instructor Notes for your lesson are located in `instructors/instructor-notes.md` file off your lesson project root where you may consider adding the following information:
+Another standard piece of The Carpentries Workbench are *Instructor Notes* pages - intended to help you and other instructors deliver your lesson by providing useful tips for how to best run a workshop or explain "sticky" points in the lesson. Instructor Notes for your lesson are located in the `instructors/instructor-notes.md` file off your lesson project root where you may consider adding the following information:
 
 - rationale, strengths and/or weaknesses of the lesson design
 - what has been tried before and what worked/did not work
@@ -86,9 +86,9 @@ It may initially be difficult to create Instructor Notes until you have taught t
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: Create Instructor Notes (10 minutes)
+## Exercise: Add Instructor Notes (5 minutes)
 
-Create `instructors/instructor-notes.md` file in your lesson project root with a list of delivery instructions for future instructors.
+Add Instructor Notes (in the `instructors/instructor-notes.md` file) with an initial list of points that will help you and other instructors deliver the lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
