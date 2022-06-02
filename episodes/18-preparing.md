@@ -59,7 +59,7 @@ during this training.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Figures and other visual aids are great tools to help participants understand the content being presented and make associations between pieces of information. If you are planning on using these in your lesson or teaching session - remember to enhance them with the ALT text (invisible description of images which are read aloud to blind users on screen readers providing alternative text-based format for images) or place explanatory text adjacent to relevant part of visualisation.
+Figures and other visual aids are great tools to help participants understand the content being presented and make associations between pieces of information. If you are planning on using these in your lesson or teaching session - remember to enhance them with the ALT text describing the figure for individuals using screen readers or by placing explanatory text adjacent to relevant part of visualisation.
   
 If your lesson requires participants to use any software or tools - it is worthwhile investing time now into creating clear setup and installation instructions for participants to follow and circulating them ahead of the workshop. This will give you more time at the pilot for teaching the lesson as troubleshooting installation problems on the spot is often time-consuming and stressfull. Each Carpentries lesson has a dedicated place for this purpose within The Carpentries Workbench located in the file `setup.md` in the lesson project root. 
 
