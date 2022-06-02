@@ -22,7 +22,7 @@ exercises: 45
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 By now you should have developed objectives, exercises/formative assessments,
-and examples for at least one of the sections in your lesson. In order to prepare to teach it (for the first time in particular) you'll need to create a teaching plan and design a method to collect feedback on your lesson.
+and examples for at least one of the episodes in your lesson. In order to prepare to teach it (for the first time in particular) you'll need to create a teaching plan and design a method to collect feedback on your lesson.
 
 ## Teaching Plan
 
@@ -55,7 +55,7 @@ but reduces a lot the preparation time of future lessons and are super useful to
 ## Exercise: Prepare a teaching plan (15 minutes)
 
 Create a bullet point list or brief notes describing
-what you will say and do when teaching the section you have been focussing on
+what you will say and do when teaching the episodes you have been focussing on
 during this training.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -77,7 +77,7 @@ Another standard piece of The Carpentries Workbench are *Instructor Notes* pages
 
 - rationale, strengths and/or weaknesses of the lesson design
 - what has been tried before and what worked/did not work
-- tips for teaching the lesson/particular sections
+- tips for teaching the lesson/particular episodes
 - challenges encountered
 - troubleshooting common setup/installation/exercise issues 
 - parts that seem to cause trouble or most confusion for learners (i.e. where to tread carefully, spend more time explaining)
@@ -96,7 +96,7 @@ Add Instructor Notes (in the `instructors/instructor-notes.md` file) with an ini
 
 There is a lot to collect feedback on when trialling a new lesson and this is arguably the most important part of your teaching plan. It can be hard to capture all this information yourself while you are teaching, hence you will need help from your team - make sure you assign the feedback collection roles ahead of your pilot. Additionally, from the very beginning (i.e. advertising stage) make it clear to the participants you are piloting a new lesson and that they will be actively helping you refine it as well as learning new things themselves. This can help focus their attention on the feedback you need to collect from them, which you should be doing:
 
-- __constantly and throughout the workshop__ - refer to the ["Pilot Workshops" section](17-operations.md#pilot-workshops) for suggestions on things to track and the [pilot workshop notes template][pilot-notes-template] and other suggested feedback collection mechanisms to help you gather such information. To recap, you should be noting down the amount of time used to teach each section, amount of time used for each exercise, technical issues encountered during the lesson, bugs and unexpected behaviour, missing solutions, questions and suggestions from participants, sources of confusion, interesting discussions, etc. These may occur at any point at the workshop, either verbally or in the chat function of the video conferencing tool (for online workshops) - plan to have someone try to capture as much as possible.
+- __constantly and throughout the workshop__ - refer to the ["Pilot Workshops" episode](17-operations.md#pilot-workshops) for suggestions on things to track and the [pilot workshop notes template][pilot-notes-template] and other suggested feedback collection mechanisms to help you gather such information. To recap, you should be noting down the amount of time used to teach each episode, amount of time used for each exercise, technical issues encountered during the lesson, bugs and unexpected behaviour, missing solutions, questions and suggestions from participants, sources of confusion, interesting discussions, etc. These may occur at any point at the workshop, either verbally or in the chat function of the video conferencing tool (for online workshops) - plan to have someone try to capture as much as possible.
 - __at designated wrap-up and feedback session at the end of the workshop.__ Here, you can cover any other feedback that was not addressed up to that point and any specific questions you may want to ask your audience (e.g. about the choice of topics for the lesson, difficulty level, workshop operations). You may design a special form that participants can fill in anonymously.
 
 
@@ -132,7 +132,7 @@ during which we would like you to complete the following three tasks:
    - What did not?
    - What will you do differently next time?
    - What will you change in your material you taught?
-     We will refer to these notes when we reconvene for the last section of this training.
+     We will refer to these notes when we reconvene for the last episode of this training.
 3. Based on your experience teaching the material and the feedback you received from your learners and helpers,
    make a list of issues you have identified with the material you prepared, e.g.
    - examples that did not work as expected,
