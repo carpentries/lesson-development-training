@@ -36,6 +36,7 @@ A teaching plan outlines the structure of your teaching session, including detai
 
 ::::::::::::::::::::::::::::::::::::  testimonial
 
+## Perspective on Preparing a Teaching Plan
 *"I usually create detailed notes organised in a concept map/workflow in order to make everything consistent.
 I also write next to each bit of teaching the time approximately needed.
 For each lesson I create (and reuse when I teach again the same lesson)
