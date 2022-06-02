@@ -118,6 +118,8 @@ changing the view in the upper right-hand corner of the lesson to "Instructor Vi
 
 Try out the instructor view by opening this episode seeing the in-line instructor note below.
 
+We will discuss the content of Instructor Notes in more detail later on in section ["Preparing to Teach"](18-preparing.md).
+
 :::::::::::: instructor
 
 This is the hidden note! Thanks for developing new incubator lessons for others to use!
