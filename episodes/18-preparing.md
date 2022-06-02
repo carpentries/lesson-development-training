@@ -4,10 +4,6 @@ teaching: 20
 exercises: 50
 ---
 
-By now you should have developed objectives, exercises/formative assessments,
-and examples for at least one of the sections in your lesson. In order to prepare to teach it (for the first time in particular) you'll need to create a teaching plan and design a method to collect feedback on your lesson.
-
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Summarise lesson content as a teaching plan.
@@ -24,6 +20,9 @@ and examples for at least one of the sections in your lesson. In order to prepar
 - How should information be collected as part of the feedback process?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+By now you should have developed objectives, exercises/formative assessments,
+and examples for at least one of the sections in your lesson. In order to prepare to teach it (for the first time in particular) you'll need to create a teaching plan and design a method to collect feedback on your lesson.
 
 ## Teaching Plan
 
