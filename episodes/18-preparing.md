@@ -68,7 +68,7 @@ You may also want to include directions to download any data needed in the setup
 
 ## Exercise: Create Setup Instructions (10 minutes)
 
-Create `setup.md` file in your lesson project root with a list of software and tools needed by participants to follow your lesson and links on how to install them.
+Create the `setup.md` file in your lesson project root with a list of software and tools needed by participants to follow your lesson and links on how to install them.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
