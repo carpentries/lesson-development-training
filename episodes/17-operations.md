@@ -40,9 +40,10 @@ and platforms for the community to discuss and collaborate on lesson development
 
 The Carpentries also provides a space for community-developed lessons
 to reside after the initial phases of development have been completed.
-[The Carpentries Lab][carpentries-lab] hosts a repository for open peer-review of lessons,
-and a collection of lessons that have passed through this review process 
-and can be considered ready to teach by any Instructor with sufficient knowledge of the topic.
+[The Carpentries Lab][carpentries-lab] provides a platform for open peer-review of lessons,
+and hosts the collection of lessons that have passed through this review process. 
+These peer-reviewed lessons can be considered ready to teach 
+by any Instructor with sufficient knowledge of the topic.
 In the future, this lesson review process may also be used to determine when a lesson
 in the Incubator is ready to be incorporated into one of The Carpentries _Lesson Programs_,
 the collection of lessons and curricula that can be taught in an official workshop for
