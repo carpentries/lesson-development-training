@@ -99,21 +99,6 @@ There is a lot to collect feedback on when trialling a new lesson and this is ar
 - __at designated wrap-up and feedback session at the end of the workshop.__ Here, you can cover any other feedback that was not addressed up to that point and any specific questions you may want to ask your audience (e.g. about the choice of topics for the lesson, difficulty level, workshop operations). You may design a special form that participants can fill in anonymously - here is an [example post-workshop survey]((https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview)) for workshops that pilot a lesson in The Carpentries Incubator. You can use it as a starting point for a post-workshop survey to be shared with learners when a pilot workshop ends, and can be supplemented with additional questions. 
 
 
-:::::::::::::::::::::::::::::::::::::  discussion
-
-## What questions do you have? (15 minutes)
-
-The homework from this workshop includes a trial run of one of the episodes
-you have been developing in your lesson, to a real audience.
-
-Thinking about this task, what questions do you have about how you should
-approach teaching that trial run?
-Is there anything you are unsure of?
-What resources might help you prepare for that experience?
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: homework
@@ -133,19 +118,33 @@ during which we would like you to complete the following three tasks:
    - What will you change in your material you taught?
      We will refer to these notes when we reconvene for the last episode of this training.
 3. Based on your experience teaching the material and the feedback you received from your learners and helpers,
-   make a list of issues you have identified with the material you prepared, e.g.
+   make a list of issues you have identified with the material you prepared, e.g.:
    - examples that did not work as expected,
    - improvements that could be made to exercises,
    - parts that learners found particularly challenging,
-   - unexpected questions or misconceptions that came up during the trial run,
-   - etc.
-     We will return to these notes during the final training session,
-     so please make sure you save them somewhere you will be able to find them again easily when the time comes.
+   - unexpected questions or misconceptions that came up during the trial run.
+  
+    We will return to these notes during the final training session.
+    so please make sure you save them somewhere you will be able to find them again easily when the time comes.
      
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+:::::::::::::::::::::::::::::::::::::  discussion
+
+## What questions do you have? (15 minutes)
+
+The homework from this workshop includes a trial run of one of the episodes
+you have been developing in your lesson, to a real audience.
+
+Thinking about this task, what questions do you have about how you should
+approach teaching that trial run?
+Is there anything you are unsure of?
+What resources might help you prepare for that experience?
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
