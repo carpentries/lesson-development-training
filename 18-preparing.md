@@ -41,7 +41,7 @@ A teaching plan outlines the structure of your teaching session, including detai
 I also write next to each bit of teaching the time approximately needed.
 For each lesson I create (and reuse when I teach again the same lesson)
 very detailed notes of what happens during the lesson,
-including teaching goals and LO(s) I mean to achieve with each bit of lesson.
+including teaching goals and learning objectives I mean to achieve with each bit of lesson.
 This rich lesson plan requires a lot of work the first time I teach a lesson,
 but reduces a lot the preparation time of future lessons and are super useful to other teachers."*
 
