@@ -7,7 +7,7 @@ exercises: 45
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Summarise lesson content as a teaching plan.
-- Add setup instructions and Instructor Notes to the lesson site.
+- Add Setup Instructions and Instructor Notes to the lesson site.
 - Create a feedback collection plan.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -60,20 +60,19 @@ during this training.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Figures and other visual aids are great tools to help participants understand the content being presented and make associations between pieces of information. If you are planning on using these in your lesson or teaching session - remember to enhance them with the [alternative text (alt)](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) describing the figure for individuals using screen readers or by placing explanatory text adjacent to relevant part of visualisation.
+Figures and other visual aids are great tools to help participants understand the content being presented and make associations between pieces of information. If you are planning on using these in your teaching session/pilot - remember to enhance them with the [alternative text (alt)](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) describing the figure for individuals using screen readers or by placing explanatory text adjacent to relevant part of visualisation.
   
-If your lesson requires participants to use any software or tools - it is worthwhile investing time now into creating clear setup and installation instructions for participants to follow and circulating them ahead of the workshop. This will give you more time at the pilot for teaching the lesson as troubleshooting installation problems on the spot is often time-consuming and stressful. Each Carpentries lesson has a dedicated place for setup instructions within The Carpentries Workbench located in the file `learners/setup.md` off the lesson project root.
-You may also want to include directions to download any data needed in the setup.
+If your lesson requires participants to use any software, tools or data - it is worthwhile investing time now into creating clear download, installation and setup instructions for participants to follow and circulating them ahead of the workshop. This will give you more time at the pilot for teaching the lesson as troubleshooting setup problems on the spot can be time-consuming and stressful. Each Carpentries lesson has a dedicated place for setup instructions within The Carpentries Workbench located in the file `learners/setup.md` off the lesson project root.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: Add Setup Instructions (10 minutes)
 
-Add Setup Instructions (in the `learners/setup.md` file) with a list of software/tools needed by participants to follow your lesson and links on how to install them.
+Add Setup Instructions (in the `learners/setup.md` file) with a list of software/tools/data needed by participants to follow your lesson and links on how to obtain and install them.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Another standard piece of The Carpentries Workbench are *Instructor Notes* pages - intended to help you and other instructors deliver your lesson by providing useful tips for how to best run a workshop or explain "sticky" points in the lesson. Instructor Notes for your lesson are located in the `instructors/instructor-notes.md` file off your lesson project root where you may consider adding the following information:
+Another standard piece of The Carpentries Workbench are the *Instructor Notes* pages - intended to help you and other instructors deliver your lesson by providing useful tips for how to best run a workshop or explain "sticky" points in the lesson. Instructor Notes for your lesson are located in the `instructors/instructor-notes.md` file off your lesson project root where you may consider adding the following information:
 
 - rationale, strengths and/or weaknesses of the lesson design
 - what has been tried before and what worked/did not work
@@ -94,10 +93,10 @@ Add Instructor Notes (in the `instructors/instructor-notes.md` file) with an ini
 
 ## Feedback Collection Plan
 
-There is a lot to collect feedback on when trialling a new lesson and this is arguably the most important part of your teaching plan. It can be hard to capture all this information yourself while you are teaching, hence you will need help from your team - make sure you assign the feedback collection roles ahead of your pilot. Additionally, from the very beginning (i.e. advertising stage) make it clear to the participants you are piloting a new lesson and that they will be actively helping you refine it as well as learning new things themselves. This can help focus their attention on the feedback you need to collect from them, which you should be doing:
+There is a lot to collect feedback on when trialling a new lesson and this is arguably the most important part of your teaching plan. It can be hard to capture all this information yourself while you are teaching, hence you will need help from your team - make sure you assign the feedback collection roles ahead of your pilot. Additionally, when you are advertising your workshop, try and make it clear to the participants you are piloting a new lesson and that they will be actively helping you refine it as well as learning new things themselves. This can help focus their attention on the feedback you need to collect from them, which you should be doing:
 
-- __constantly and throughout the workshop__ - refer to the ["Pilot Workshops" episode](17-operations.md#pilot-workshops) for suggestions on things to track and the [pilot workshop notes template][pilot-notes-template] and other suggested feedback collection mechanisms to help you gather such information. To recap, you should be noting down the amount of time used to teach each episode, amount of time used for each exercise, technical issues encountered during the lesson, bugs and unexpected behaviour, missing solutions, questions and suggestions from participants, sources of confusion, interesting discussions, etc. These may occur at any point at the workshop, either verbally or in the chat function of the video conferencing tool (for online workshops) - plan to have someone try to capture as much as possible.
-- __at designated wrap-up and feedback session at the end of the workshop.__ Here, you can cover any other feedback that was not addressed up to that point and any specific questions you may want to ask your audience (e.g. about the choice of topics for the lesson, difficulty level, workshop operations). You may design a special form that participants can fill in anonymously.
+- __constantly and throughout the workshop__ - refer to the ["Pilot Workshops" episode](17-operations.md#pilot-workshops) for suggestions on things to track and the [pilot workshop notes template](pilot-notes-template) and other suggested feedback collection mechanisms to help you gather such information. To recap, you should be noting down the amount of time used to teach each episode, amount of time used for each exercise, technical issues encountered during the lesson, bugs and unexpected behaviour, missing solutions, questions and suggestions from participants, sources of confusion, interesting discussions, etc. These may occur at any point at the workshop, either verbally or in the chat function of the video conferencing tool (for online workshops) - plan to have someone try to capture as much as possible.
+- __at designated wrap-up and feedback session at the end of the workshop.__ Here, you can cover any other feedback that was not addressed up to that point and any specific questions you may want to ask your audience (e.g. about the choice of topics for the lesson, difficulty level, workshop operations). You may design a special form that participants can fill in anonymously - here is an [example post-workshop survey]((https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview)) for workshops that pilot a lesson in The Carpentries Incubator. You can use it as a starting point for a post-workshop survey to be shared with learners when a pilot workshop ends, and can be supplemented with additional questions. 
 
 
 :::::::::::::::::::::::::::::::::::::  discussion
