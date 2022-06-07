@@ -22,7 +22,7 @@ exercises: 20
 ## A Lesson Design Process
 
 In the next parts of this training,
-we will use a modified version of Nicholl's five phase paradigm for curriculum design [[1][f1000-course-design-guide]].
+we will use a modified version of [Nicholl's five phase paradigm for curriculum design ][f1000-course-design-guide].
 Nicholl's paradigm describes a process, commonly referred to as _backward design_,
 where those who wish to develop a new curriculum first begin by defining 
 exactly what their learners will be able to do 

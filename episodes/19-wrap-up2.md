@@ -46,7 +46,7 @@ of their lesson development.
 
 What questions do you have about the topics and concepts covered in the training so far?
 
-After reading [the information provided about the trial run task](../learners/trial_runs.md),
+After reading [the information provided about the trial run task](../learners/trial-runs.md),
 what questions do you have about this task?
 
 ::::::::::::::

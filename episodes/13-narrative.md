@@ -91,7 +91,7 @@ each dataset considered.  *Does the data contain personally identifiable informa
 If the answer to any of these questions might be yes, you will need to do more
 research on it and continue to look for other options.  Commonly data is misused
 from historically excluded and exploited groups.
-The [CARE Principles for Indigenous Data Governance](http://doi.org/10.5334/dsj-2020-043) (Collective Benefit, Authority to Control, Responsibility, and Ethics) are good starting point
+The [CARE Principles for Indigenous Data Governance](https://doi.org/10.5334/dsj-2020-043) (Collective Benefit, Authority to Control, Responsibility, and Ethics) are good starting point
 for thinking about data sovereignty and considering the ethics of data collected
 about individual or groups of people.
 
