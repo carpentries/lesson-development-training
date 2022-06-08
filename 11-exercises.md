@@ -242,7 +242,7 @@ one box at the top of each episode.
 
 
 [blanks]: https://teachtogether.tech/en/index.html#fill-in-the-blanks
-[code-and-run]: http://teachtogether.tech/en/index.html#code-run
+[code-and-run]: https://teachtogether.tech/en/index.html#code-run
 [faded-ex]: https://teachtogether.tech/en/index.html#faded-examples
 [parsons]: https://teachtogether.tech/en/index.html#parsons-problem
 [minimal]: https://teachtogether.tech/en/index.html#minimal-fix
