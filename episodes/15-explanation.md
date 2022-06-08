@@ -157,7 +157,7 @@ Make time to review your text for:
 - use of [stereotypes][stereotype-threat-instructor-training] (check learner profiles for stereotypes too)
 - [expert awareness gaps][expert-awareness-gap-instructor-training], i.e. places where you may be assuming the learners know more than they actually do
 - fluid representations, i.e. using different terms with the same meaning interchangeably
-- unexplained or unnecessary jargon 
+- unexplained or unnecessary jargon/terminology (as your learners may come from different backgrounds, may be novices, not native English speakers, and a term in one domain/topic may mean something else entirely in another) 
 - unexplained assumptions
 - sudden jumps in difficulty/complexity
 
@@ -207,7 +207,7 @@ data instead.
 
 When writing a lesson, you should also consider adding key terms to the lesson glossary 
 for the lesson.
-Following the instructions on [how to create a glossary in the workbench documetation][sandpaper-docs-learners]
+Following the instructions on [how to create a glossary in the Workbench documetation][sandpaper-docs-learners]
 will help you to create this section of the lesson.
 
 Many of these terms may also be useful for other lessons and can be added to [Glosario][glosario], a multilingual glossary for computing and data science terms.

@@ -23,19 +23,17 @@ start: yes
 
 ## Exercise Your Memory
 
-A simple model of memory is that individuals have two types of memory, 
+In a simplified model of memory individuals are equipped with two types of memory:  
 working (also called short-term) and long-term.
-Long-term memory is essentially unlimited storage but slow to access whereas
+Long-term memory essentially has unlimited storage but is slow to access, whereas
 working memory is quicker to access but can only hold a limited number of items at a time.
-For instructors, the goal is to help learners move the new things they've learned from 
+For teaching, the goal is to help learners move the new things they've learned from 
 working memory into long-term memory.
 One of the ways lesson developers can aid in this process is through exercises.
-In addition to providing formative assessments for instructors, exercises help move 
-new skills and concepts into long-term memory by providing learners an opportunity 
-to practice what was recently learned.
+In addition to providing formative assessments for instructors and check for misconceptions and broken
+mental models, exercises help move new skills and concepts into long-term memory by providing learners an opportunity to practice what was recently learned.
 Exercises should occur frequently throughout the lesson because they move items 
 to long-term memory and free up learners' working memory for new items.
-
 
 Creating exercises builds upon the learning objectives you created earlier in the lesson design process.
 You can design exercises based on the actions/skills you described in your 
@@ -97,7 +95,7 @@ while others are a better fit for competent practitioners or experts.
 This can be understood in terms of the types of exercises that suit the objective:
 exercise types that help manage cognitive load for the learner,
 such as [faded examples][faded-ex] and [Parsons problems][parsons]
-(which both provide a lot of the process/code and allow the learner to focus on a specific concept or skill)
+(which both provide a lot of the guiding process/scaffolding code and allow the learner to focus on a specific concept or skill)
 are a good fit for a novice, to whom all elements of the topic are new.
 However, these kinds of exercise do not provide an opportunity for learners
 to develop higher-level skills, 
@@ -111,8 +109,8 @@ Thus you want to choose your objectives to fit your intended audience and your e
 
 ::::::::::::::::::::::::::::::::::::  testimonial
 
-*"Different types of LOs are better fit for novices,
-while others are better fit for competent practitioners, etc and
+*"Different types of lesson objectives (LOs) are better fit for novices,
+while others are better fit for competent practitioners, etc. and
 if exercises (formative assessments) are well aligned to LOs,
 [they] will automatically serve the corresponding audience.
 Thinking in terms of LOs
@@ -123,7 +121,7 @@ LOs should be tailored to the audience, and,
 if this is well done, you may stop worrying about the audience.
 Create LOs for the specific audience and create assessments for specific LOs."*
 
-\- Dr. Allegra Via, Carpentries Instructor Trainer
+\- Dr. Allegra Via, The Carpentries Instructor Trainer
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -209,19 +207,19 @@ format the MCQ you designed previously as an exercise in your lesson site.
 
 Some other types of formative assessment include:
 
-- **Think, pair, share** - Learners _think_ about an answer to a question, _pair_ up
+- **Think, pair, share** - learners _think_ about an answer to a question, _pair_ up
 with a classmate to discuss their answer, and then _share_ out the consensus they came to 
 with the class.
-- **Sticky notes and written feedback** - Learners each get two colors of sticky notes. 
+- **Sticky/post-it notes and written feedback** - learners each get two colors of sticky notes. 
 If they fall behind or run into an issue, they can put up the 
 color that signals they need help.
 If they have completed and exercise or think the instructor could speed up, they put their
 other sticky note up.
-Then at breaks these stickies can turn into written feedback "minute cards", where the learner 
+Then at breaks these stickies can turn into written feedback **minute cards**, where the learner 
 writes down one thing they were confused about or that could be improved and one thing that went well
 or they really liked learning.
-- **Reflective assessment** - Learners spend time reflecting on what they have learned so far.
-Reflection aids in transferring newly learned concepts into long-term memory and can be really helpful for "metacognition", where learners think about the process of learning, becoming aware of their progress towards acquiring new skills.
+- **Reflective assessment** - learners spend time reflecting on what they have learned so far.
+Reflection aids in transferring newly learned concepts into long-term memory and can be really helpful for *metacognition*, where learners think about the process of learning, becoming aware of their progress towards acquiring new skills.
 Developing metacognition improves learners' ability to guide their own learning on a topic after they have finished the lesson.
 Reflection exercises can include using what was taught to label a diagram, draw a concept map, free write, or fill in a guided worksheet. 
 

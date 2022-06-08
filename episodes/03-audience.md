@@ -104,8 +104,8 @@ the level of expertise that you expect learners to arrive with for two reasons:
    with step-by-step explanations of the process,
    but without a lot of extra information that is not directly relevant. 
    However, the same approach may actually hinder learning for competent practitioners 
-   who may be distracted by a step-by-step explanation 
-   of something they already have the prior knowledge of.
+   [who may be distracted by a step-by-step explanation 
+   of something they already have the prior knowledge of][kirschner-2006].
    For learners at this level of expertise, 
    lessons which include activities offering learners 
    the freedom to explore options and develop their own solutions,
