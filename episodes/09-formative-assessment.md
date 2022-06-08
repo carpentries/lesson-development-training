@@ -70,7 +70,7 @@ Exercises are one important type of formative assessments. We will now have a lo
 
 ## Detecting Misconceptions
 
-Detecting and correcting [misconceptions](https://carpentries.github.io/instructor-training/02-practice-learning/#misconceptions) and fixing learners' incorrect/broken [mental models](https://carpentries.github.io/instructor-training/02-practice-learning/#building-a-mental-model) is as important as presenting your learners with new knowledge and correct information. Why is it important to identify misconceptions as early as possible? When mental models are broken, learning can occur slower than you might expect. The longer a prior incorrect model was in use, and the more extensively it has to be "unlearned", the more it can actively interfere with the incorporation of the new correct knowledge (since it will contradict the misconceptions already present in the mental model). 
+Detecting and correcting [misconceptions](https://carpentries.github.io/instructor-training/02-practice-learning/#misconceptions) and fixing learners' incorrect/broken [mental models](https://carpentries.github.io/instructor-training/02-practice-learning/#building-a-mental-model) is as important as presenting your learners with new knowledge and correct information. _Why is it important to identify misconceptions as early as possible?_ When mental models are broken, learning can occur slower than you might expect. The longer a prior incorrect model is in use, and the more extensively it has to be "unlearned", the more it can actively interfere with the incorporation of the new correct knowledge (since it will contradict the misconceptions already present in the mental model). 
 
 
 ::::::::::::::::::::::::::::::::::::::  challenge
