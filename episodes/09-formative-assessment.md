@@ -46,7 +46,7 @@ instruction, to provide feedback and insight into the learners' developing menta
 - **summative assessments** - used to verify whether learners achieved
 the stated learning objectives after instruction.
 
-Summative assessments sum up what learning has been achieved after 
+**Summative assessments** sum up what learning has been achieved after 
 training (e.g. via exams). They give valuable
 data about learning attainment by individuals and entire cohorts but are not used to guide further progress. They may not be as suitable for short courses, but may be necessary for those that give marks/grades or certificates of completion. 
 
