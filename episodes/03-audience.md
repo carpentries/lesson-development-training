@@ -22,7 +22,7 @@ exercises: 20
 ## A Lesson Design Process
 
 In the next parts of this training,
-we will use a modified version of Nicholl's five phase paradigm for curriculum design [[1][f1000-course-design-guide]].
+we will use a modified version of [Nicholl's five phase paradigm for curriculum design ][f1000-course-design-guide].
 Nicholl's paradigm describes a process, commonly referred to as _backward design_,
 where those who wish to develop a new curriculum first begin by defining 
 exactly what their learners will be able to do 
@@ -254,7 +254,9 @@ These are skills commonly overlooked by experts and competent practitioners.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- First key point. Brief Answer to questions. (FIXME)
+- We recommend an iterative lesson design process that begins with identifying the target audience, before defining learning outcomes, then creating assessments, writing explanatory content, and evaluating the lesson in a workshop.
+- Thinking about the target audience early in the design process helps to ensure that your lesson is built around the needs and motivations of real people.
+- Use the description of your target audience to help attract people with the appropriate interests and prior knowledge to your lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
