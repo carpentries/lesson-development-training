@@ -28,8 +28,8 @@ by the time they leave:
 these are the _learning outcomes_ of your lesson.
 It can feel strange to jump from one end of the process to the other like this,
 but clearly defining your goals early in the lesson development process is vital.
-As we will see in this chapter,
-it helps you to determine the activities, examples, etc 
+As we will see in this episode,
+it helps you to determine the activities, examples, etc. 
 that are appropriate for the lesson content,
 and provides a scope for what should and should not be included.
 
@@ -108,11 +108,11 @@ which divides cognitive skills into several categories.
 The original taxonomy arranged these categories in a strict hierarchy,
 which has since been disputed.
 Regardless of whether these skills conform to such a hierarchy,
-the Taxonomy serves as a very useful bank of action verbs for use 
+Bloom's Taxonomy serves as a very useful bank of action verbs for use 
 in learning objectives.
 
 We will see how helpful it can be to use action verbs in learning objectives
-when we begin talking about exercise design in the coming chapters.
+when we begin talking about exercise design in the coming episodes.
 
 
 ## SMART objectives
@@ -206,7 +206,7 @@ with the relevant foundational knowledge and understanding,
 it is probably unrealistic to aim to have learners 
 completing creative tasks before its end.
 
-As should become clear through activities in the upcoming chapters,
+As should become clear through activities in the upcoming episodes,
 lessons can be broadly considered as blocks of content associated with
 a particular learning objective. 
 This can be helpful when making choices about content to remove,

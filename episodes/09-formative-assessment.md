@@ -21,7 +21,7 @@ exercises: 35
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-As we have seen previously, defining objectives for a lesson (or a teaching episode) can help to focus your content on the most important learning outcomes and outline the scope of your lesson project. With learning objectives you have defined your **intended (or planned) curriculum** - what you set out to accomplish with your lesson. The skills and knowledge your learners actually leave with and can demonstrate after the workshop having followed the **implemented curriculum** in the classroom is called the **attained curriculum**. **Implemented curriculum** includes the concepts, relationships and skills that are explicitly covered in your lesson and translated into classroom practices - i.e. the teaching and learning activities that should lead to your learners attaining knowldge.
+As we have seen previously, defining objectives for a lesson (or a teaching episode) can help to focus your content on the most important learning outcomes and outline the scope of your lesson project. With learning objectives you have defined your **intended (or planned) curriculum** - what you set out to accomplish with your lesson. The skills and knowledge your learners actually leave with and can demonstrate after the workshop having followed the **implemented curriculum** in the classroom is called the **attained curriculum**. **Implemented curriculum** includes the concepts, relationships and skills that are explicitly covered in your lesson and translated into classroom practices - i.e. the teaching and learning activities that should lead to your learners attaining knowledge.
 
 ::::::::::::::::::::::::::::::::::::::  callout
 
@@ -107,7 +107,7 @@ The correct answer is 42, but each of the other answers provides a valuable insi
 
 Their diagnostic power means that each of the wrong choices helps an instructor figure out precisely what misconceptions learners had adopted and in which ways their mental models are broken. As a result the instructor may decide to review a particular concept or change the pace of instruction. At the same time, learners get feedback about what they have misunderstood and what they need to focus their study efforts on - we call this **guided practice**.
 
-When designing a lesson, for diagnostic assessments you can think about problems or questions from previous training events and what people struggled with, or think about your own misconceptions in the past or ask colleagues about their experiences. You should aim to create all your assessments before you have written the explanatory content of your lesson ([backward design](https://en.wikipedia.org/wiki/Backward_design)). These assessments will guide your lesson design process by knowing exactly which knowledge you'd expect from your learners at any point in the lesson.
+When designing a lesson, for diagnostic assessments you can think about problems or questions from previous training events and what people struggled with, or think about your own misconceptions in the past or ask colleagues about their experiences. You should aim to create all your assessments before you have written the explanatory content of your lesson (recall Nicholl's [backward design](https://en.wikipedia.org/wiki/Backward_design)). These assessments will guide your lesson design process by knowing exactly which knowledge you'd expect from your learners at any point in the lesson.
 
 
 ::::::::::::::::::::::::::::::::::::::  challenge
