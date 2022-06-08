@@ -56,7 +56,7 @@ Ideally, they should be used often (e.g. after every 15-20 minutes of teaching),
 refocus  learners’ attention. For short courses, formative assessments are usually more valuable and easier to implement in practice than summative assessements - they need  not  be 
 complex  or  time-consuming, just  informative  enough about  learning for instructors and learners. 
 
-The most effective way to test learner understanding is  to do such assessments in class - they engange all learners and allow you to check their confidence with the content and its delivery, can help you deal with any potential misunderstandings as soon as they arise, and maximise the value of workshop for everyone. Such formative assessments also help with *metacognition* -
+The most effective way to test learner understanding is  to do such assessments in class - they engage all learners and allow you to check their confidence with the content and its delivery, can help you deal with any potential misunderstandings as soon as they arise, and maximise the value of workshop for everyone. Such formative assessments also help with *metacognition* -
 the awareness a learner has that they are succeeding in learning something new. 
 Any instructional tool that generates feedback and is used in a formative way to check for learners' understanding can be described as “formative assessment”. For example, 
 
