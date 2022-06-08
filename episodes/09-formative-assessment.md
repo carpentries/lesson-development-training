@@ -66,7 +66,7 @@ Any instructional tool that generates feedback and is used in a formative way to
 
 Many other formative assessment tools can be found in Briggs’ list of ["21 ways to check for student understanding"](https://www.opencolleges.edu.au/informed/features/21-ways-to-check-for-student-understanding/).
 
-Exercises are one important type of formative assessments. We will now have a look into exercises that perform misconception checks and ask students diagnostic questions; we will cover a few other types of exercises in one of the later episodes.
+Exercises are one important type of formative assessment. We will now have a look into exercises that perform misconception checks and ask students diagnostic questions; we will cover a few other types of exercises in one of the later episodes.
 
 ## Detecting Misconceptions
 
