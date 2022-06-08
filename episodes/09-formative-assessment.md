@@ -50,7 +50,7 @@ the stated learning objectives after instruction.
 training (e.g. via exams). They give valuable
 data about learning attainment by individuals and entire cohorts but are not used to guide further progress. They may not be as suitable for short courses, but may be necessary for those that give marks/grades or certificates of completion. 
 
-Formative assessments are applied throughout a course; they
+**Formative assessments** are applied throughout a course; they
 can inform decisions about how to modify instruction to better promote learning; they can also inform learners about changes they may need to make to improve their learning.
 Ideally, they should be used often (e.g. after every 15-20 minutes of teaching),  providing opportunities to instructors to change  pace  and
 refocus  learners’ attention. For short courses, formative assessments are usually more valuable and easier to implement in practice than summative assessements - they need  not  be 
