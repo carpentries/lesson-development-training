@@ -21,7 +21,7 @@ exercises: 35
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-As we have seen previously, defining objectives for a lesson (or a teaching episode) can help to focus your content on the most important learning outcomes and outline the scope of your lesson project. With learning objectives you have defined your **intended (or planned) curriculum** - what you set out to accomplish with your lesson. The skills and knowledge your learners actually leave with and can demonstrate after the workshop having followed the **implemented curriculum** in the classroom is called the **attained curriculum**. **Implemented curriculum** includes the concepts, relationships and skills that are explicitly covered in your lesson and translated into classroom practices - i.e. the teaching and learning activities - that should lead to your learners attaining knowldge.
+As we have seen previously, defining objectives for a lesson (or a teaching episode) can help to focus your content on the most important learning outcomes and outline the scope of your lesson project. With learning objectives you have defined your **intended (or planned) curriculum** - what you set out to accomplish with your lesson. The skills and knowledge your learners actually leave with and can demonstrate after the workshop having followed the **implemented curriculum** in the classroom is called the **attained curriculum**. **Implemented curriculum** includes the concepts, relationships and skills that are explicitly covered in your lesson and translated into classroom practices - i.e. the teaching and learning activities that should lead to your learners attaining knowldge.
 
 ::::::::::::::::::::::::::::::::::::::  callout
 
@@ -55,11 +55,7 @@ the stated learning objectives after instruction.
 training (e.g. via exams). They give valuable
 data about learning attainment by individuals and entire cohorts but are not used to guide further progress. They may not be as suitable for short courses, but may be necessary for those that give marks/grades or certificates of completion. 
 
-**Formative assessments** are applied throughout a course; they
-can inform decisions about how to modify instruction to better promote learning; they can also inform learners about changes they may need to make to improve their learning.
-Ideally, they should be used often (e.g. after every 15-20 minutes of teaching),  providing opportunities to instructors to change  pace  and
-refocus  learners’ attention. For short courses, formative assessments are usually more valuable and easier to implement in practice than summative assessements - they need  not  be 
-complex  or  time-consuming, just  informative  enough about  learning for both instructors and learners. 
+**Formative assessments** are applied throughout a course and with different purposes: they provide a way to move [new information from working memory to long-term memory](https://carpentries.github.io/instructor-training/05-memory/index.html#using-formative-assessment-to-support-memory-consolidation); they can inform instructors' decisions about how to modify instruction to better promote learning; they also inform learners about changes they may need to make to improve their learning. Ideally, they should be used often (e.g. after every 15-20 minutes of teaching), providing opportunities to instructors to change pace and refocus  learners’ attention. For short courses, formative assessments are usually more valuable and easier to implement in practice than summative assessements - they need not be complex or time-consuming, just informative enough about learning for both instructors and learners. 
 
 The most effective way to test learner understanding is  to do such assessments in class - they engage all learners and allow instructors to check learners' confidence with the content and its delivery, can help you deal with any potential misunderstandings as soon as they arise, and maximise the value of workshop for everyone. Such formative assessments also help with *metacognition* -
 the awareness a learner has that they are succeeding in learning something new. 
@@ -71,7 +67,8 @@ Any instructional tool that generates feedback and is used in a formative way to
 
 Many other formative assessment tools can be found in Briggs’ list of ["21 ways to check for student understanding"](https://www.opencolleges.edu.au/informed/features/21-ways-to-check-for-student-understanding/).
 
-Exercises are one important type of formative assessment. We will now have a look into exercises that perform misconception checks and ask students diagnostic questions; we will cover a few other types of exercises in one of the later episodes.
+Exercises are one important type of formative assessment. We will now have a look into exercises that perform misconception checks and ask students diagnostic questions; we will cover a few other types of exercises that help with retaining 
+new knowledge in one of the later episodes.
 
 ## Detecting Misconceptions
 
