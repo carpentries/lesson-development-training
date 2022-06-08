@@ -99,9 +99,9 @@ the topic you are teaching.
 
 The correct answer is 42, but each of the other answers provides a valuable insight:
 
-b) they do not understand the concept of a carry and are throwing it away completely
-c) understand the concept of a carry and know that they cannot just discard the carried ‘1’, but do not understand that it is actually a ten and needs to be added into the next column - they are treating each column of numbers as unconnected to its neighbours.
-d) they understand that they need to carry ‘1’ but are adding it to the wrong column
+> b) they do not understand the concept of a carry and are throwing it away completely
+> c) understand the concept of a carry and know that they cannot just discard the carried ‘1’, but do not understand that it is actually a ten and needs to be added into the next column - they are treating each column of numbers as unconnected to its neighbours.
+> d) they understand that they need to carry ‘1’ but are adding it to the wrong column
 
 Their diagnostic power means that each of the wrong choices helps an instructor figure out precisely what misconceptions learners had adopted and in which ways their mental models are broken. As a result the instructor may decide to review a particular concept or change the pace of instruction. At the same time, learners get feedback about what they have misunderstood and what they need to focus their study efforts on - we call this **guided practice**.
 
