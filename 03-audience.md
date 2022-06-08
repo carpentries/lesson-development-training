@@ -254,7 +254,9 @@ These are skills commonly overlooked by experts and competent practitioners.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- First key point. Brief Answer to questions. (FIXME)
+- We recommend an iterative lesson design process that begins with identifying the target audience, before defining learning outcomes, then creating assessments, writing explanatory content, and evaluating the lesson in a workshop.
+- Thinking about the target audience early in the design process helps to ensure that your lesson is built around the needs and motivations of real people.
+- Use the description of your target audience to help attract people with the appropriate interests and prior knowledge to your lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
