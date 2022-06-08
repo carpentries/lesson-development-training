@@ -21,10 +21,15 @@ exercises: 35
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-As we have seen previously, defining objectives for a lesson (or a teaching episode) can help to focus your content on the most important learning outcomes and outline the scope of your lesson project. With learning objectives you have defined your **intended (or planned) curriculum** - what you set out to accomplish. What skills and knowledge your learners actually leave with and can demonstrate after the workshop - the **attained curriculum** - will be a combination of **implemented** and **hidden** curricula:
+As we have seen previously, defining objectives for a lesson (or a teaching episode) can help to focus your content on the most important learning outcomes and outline the scope of your lesson project. With learning objectives you have defined your **intended (or planned) curriculum** - what you set out to accomplish with your lesson. The skills and knowledge your learners actually leave with and can demonstrate after the workshop having followed the **implemented curriculum** in the classroom is called the **attained curriculum**. **Implemented curriculum** includes the concepts, relationships and skills that are explicitly covered in your lesson and translated into classroom practices - i.e. the teaching and learning activities - that should lead to your learners attaining knowldge.
 
-  - **implemented curriculum** is the concepts, relationships and skills that are explicitly covered in your lesson and translated into classroom practices - i.e. the teaching & learning activities,
-  - **hidden curriculum** includes all unintended curricular effects that influence learning but are not explicitly  addressed in the lesson content - e.g. (unofficial) social and cultural norms, behaviours and values that are transferred by instructors to learners, often unconsciously. These are all the additional things that people learn about the topic from *the way* your lesson is taught, rather than from its official content. You can use Instructor Notes (covered in more detail in ["Preparing to Teach"](18-preparing.md) episode) to guide instructors on some of the aspects of the hidden curriculum, e.g. to encourage them to follow certain tried and tested practices.
+::::::::::::::::::::::::::::::::::::::  callout
+
+## Hidden Curriculum
+
+There is one more curriculum at play here - **hidden curriculum** includes all unintended curricular effects that influence learning but are not explicitly  addressed in the lesson content - e.g. (unofficial) social and cultural norms, behaviours and values that are transferred by instructors to learners, often unconsciously. These are all the additional things that people learn about the topic from *the way* your lesson is taught, rather than from its official content. You can use Instructor Notes (covered in more detail in ["Preparing to Teach"](18-preparing.md) episode) to guide instructors on some of the aspects of the hidden curriculum, e.g. to encourage them to follow certain tried and tested practices.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
   
 The goal of the remaining steps of lesson development is to ensure that the attained curriculum matches the intended curriculum as closely as possible. To do so, you need to develop assessments to ensure progression towards your learning outcomes.
 
@@ -54,14 +59,14 @@ data about learning attainment by individuals and entire cohorts but are not use
 can inform decisions about how to modify instruction to better promote learning; they can also inform learners about changes they may need to make to improve their learning.
 Ideally, they should be used often (e.g. after every 15-20 minutes of teaching),  providing opportunities to instructors to change  pace  and
 refocus  learners’ attention. For short courses, formative assessments are usually more valuable and easier to implement in practice than summative assessements - they need  not  be 
-complex  or  time-consuming, just  informative  enough about  learning for instructors and learners. 
+complex  or  time-consuming, just  informative  enough about  learning for both instructors and learners. 
 
-The most effective way to test learner understanding is  to do such assessments in class - they engage all learners and allow you to check their confidence with the content and its delivery, can help you deal with any potential misunderstandings as soon as they arise, and maximise the value of workshop for everyone. Such formative assessments also help with *metacognition* -
+The most effective way to test learner understanding is  to do such assessments in class - they engage all learners and allow instructors to check learners' confidence with the content and its delivery, can help you deal with any potential misunderstandings as soon as they arise, and maximise the value of workshop for everyone. Such formative assessments also help with *metacognition* -
 the awareness a learner has that they are succeeding in learning something new. 
 Any instructional tool that generates feedback and is used in a formative way to check for learners' understanding can be described as “formative assessment”. For example, 
 
 - reflection at the end of a session to help process learning - e.g. asking learners to write down things they learned, things they want to know more about and any questions they still have
-- concept maps - asking learners to reflect by drawing a diagram or writing down a list of new concepts and skills they’ve learned and how they connect with previous knowledge
+- concept maps - asking learners to reflect by drawing a diagram or writing down a list of new concepts and skills they’ve learned and (optionally) how they connect with previous knowledge
 - minute cards - gauging learners’ satisfaction and understanding using agreed signals (e.g. raising different coloured post-it notes to indicate that the pace is too fast/slow, that they completed/have not completed an exercise).
 
 Many other formative assessment tools can be found in Briggs’ list of ["21 ways to check for student understanding"](https://www.opencolleges.edu.au/informed/features/21-ways-to-check-for-student-understanding/).
@@ -100,8 +105,8 @@ the topic you are teaching.
 The correct answer is 42, but each of the other answers provides a valuable insight:
 
 > b) they do not understand the concept of a carry and are throwing it away completely
-> c) understand the concept of a carry and know that they cannot just discard the carried ‘1’, but do not understand that it is actually a ten and needs to be added into the next column - they are treating each column of numbers as unconnected to its neighbours.
-> d) they understand that they need to carry ‘1’ but are adding it to the wrong column
+> c) they understand the concept of a carry and know that they cannot just discard the carried ‘1’, but do not understand that it is actually a ten and needs to be added into the next column - they are treating each column of numbers as unconnected to its neighbours.
+> d) they understand that they need to carry ‘1’ but are adding it to the wrong column.
 
 Their diagnostic power means that each of the wrong choices helps an instructor figure out precisely what misconceptions learners had adopted and in which ways their mental models are broken. As a result the instructor may decide to review a particular concept or change the pace of instruction. At the same time, learners get feedback about what they have misunderstood and what they need to focus their study efforts on - we call this **guided practice**.
 
