@@ -64,7 +64,7 @@ Any instructional tool that generates feedback and is used in a formative way to
 - concept maps - asking learners to reflect by drawing a diagram or writing down a list of new concepts and skills they’ve learned and how they connect with previous knowledge
 - minute cards - gauging learners’ satisfaction and understanding using agreed signals (e.g. raising different coloured post-it notes to indicate that the pace is too fast/slow, that they completed/have not completed an exercise).
 
-Many other formative assessment tools can be found in Briggs’ list of ["21 ways to check for student understanding"](ww.opencolleges.edu.au/informed/features/21-way).
+Many other formative assessment tools can be found in Briggs’ list of ["21 ways to check for student understanding"](https://www.opencolleges.edu.au/informed/features/21-ways-to-check-for-student-understanding/).
 
 Exercises are one important type of formative assessments. We will now have a look into exercises that perform misconception checks and ask students diagnostic questions; we will cover a few other types of exercises in one of the later episodes.
 
