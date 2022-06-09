@@ -55,7 +55,7 @@ Software, Library, or Data Carpentry.
 To make it easier for other community members to 
 assess the current state of a lesson in the Incubator,
 The Carpentries encourages lesson developers to indicate the status of their lesson 
-by labeling its progress through a _lesson life cycle_:
+by labelling its progress through a _lesson life cycle_:
 
 ![The life cycle of a lesson](fig/life_cycle.png){alt="Diagram of the life cycle of a
 lesson in The Carpentries ecosystem. A lesson is proposed at the beginning of the 
@@ -75,6 +75,26 @@ The life cycle stage of a lesson is displayed as a banner on the lesson site,
 as a label on the lesson GitHub repository,
 and alongside the lesson whenever it is shown on The Carpentries websites
 and lesson listings.
+
+The life cycle stage for a lesson is configured in the `config.yaml` file we
+encountered when we were first introduced to [The Carpentries Workbench](07-infrastructure.md),
+as a value for the `life_cycle` field. 
+For new lesson repositories, this value is already set to 'pre-alpha', 
+so you should not have to change it yet.
+
+::: callout
+### The `carpentry` Field
+
+The `config,yaml` file also contains a `carpentry` field, which can be used to adjust
+the styling applied to a lesson website e.g. to make it look like a lesson from the
+Software, Library, or Data Carpentry Lesson Programs.
+
+For community-developed lessons, where no official relationship exists with one of these
+Lesson Programs, you should keep using the `incubator` setting, before potentially switching
+over to another styling when the lesson moves e.g. into The Carpentries Lab.
+
+
+:::::::::::
 
 
 ## Pilot Workshops
