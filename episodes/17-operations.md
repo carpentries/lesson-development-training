@@ -85,7 +85,7 @@ so you should not have to change it yet.
 ::: callout
 ### The `carpentry` Field
 
-The `config,yaml` file also contains a `carpentry` field, which can be used to adjust
+The `config.yaml` file also contains a `carpentry` field, which can be used to adjust
 the styling applied to a lesson website e.g. to make it look like a lesson from the
 Software, Library, or Data Carpentry Lesson Programs.
 
