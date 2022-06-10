@@ -20,7 +20,14 @@ start: yes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-**Note:** most of the content in this chapter is reproduced or adapted from
+::: instructor
+
+You might like to make a copy of [the template CodiMD notetaking page](https://codimd.carpentries.org/cldt-notes-template) 
+and share your link with trainees so that you can take notes together during the training.
+
+:::
+
+**Note:** most of the content in this episode is reproduced or adapted from
 [The Carpentries Instructor Training curriculum](https://carpentries.github.io/instructor-training/01-welcome/index.html).
 
 ::: discussion
