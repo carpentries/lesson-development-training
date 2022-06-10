@@ -27,8 +27,7 @@ and share your link with trainees so that you can take notes together during the
 
 :::
 
-
-**Note:** most of the content in this chapter is reproduced or adapted from
+**Note:** most of the content in this episode is reproduced or adapted from
 [The Carpentries Instructor Training curriculum](https://carpentries.github.io/instructor-training/01-welcome/index.html).
 
 ::: discussion
