@@ -9,7 +9,6 @@ exercises: 20
 - Identify the key tools used in The Carpentries lesson infrastructure.
 - Complete the fundamental setup steps for a new lesson repository.
 - Edit Markdown files using the GitHub web interface.
-- Define the objectives of a section within a whole lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
