@@ -1,7 +1,7 @@
 ---
 title: The Carpentries Workbench
-teaching: 50
-exercises: 50
+teaching: 45
+exercises: 20
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -48,7 +48,7 @@ this has been how The Carpentries presents its lesson websites to the world.
 
 ## Using The Carpentries Workbench
 
-Carpentries lesson websites are built with [**The Carpentries Workbench**](https://carpentries.github.io/sandpaper-docs/),
+Carpentries lesson websites are built with [**The Carpentries Workbench**][workbench],
 a toolkit that converts Markdown and RMarkdown files into the HTML
 that can be served by GitHub Pages.
 We will use it now to initialise a new lesson.
@@ -75,7 +75,7 @@ to also support [Data Carpentry][dc-home], [Library Carpentry][lc-home], and man
 In 2022, we adopted a new infrastructure for our lesson sites: **The Carpentries Workbench**.
 Lesson sites built on the Workbench are still hosted with GitHub Pages,
 but no longer use Jekyll.
-Instead, the lessons are built using a programming language, _[R]_, and _[pandoc]_, 
+Instead, the lessons are built using [a programming language, _R_][R], and _[pandoc]_, 
 a software designed for converting content between file formats.
 The Workbench combines three R packages:
 
@@ -407,89 +407,11 @@ Using this approach, we can build up our lesson one episode at a time.
 We have now learned everything we need to be able to use The Carpentries Workbench,
 and our focus can return to the process of developing a new lesson.
 
-## Defining Episode Objectives
-
-In _Defining Lesson Objectives_,
-you created a list of the learning objectives for your lesson as a whole.
-This process is helpful as a way to set the end goal and,
-coupled with the expected prior knowledge of the target audience you identified,
-describe the scope of the lesson.
-
-We can use the same approach for the individual episodes of a lesson,
-defining objectives for the episode to make clear what we intend to teach in that section.
-Defining these objectives _before writing the episode content_ helps us to:
-
-- stay focused in the episode, without spending time on non-essential topics
-- determine whether learners are attaining the skills we wish to teach them 
-  (we will discuss this more in the next two episodes)
-- summarise the skills the learner can expect to gain by following this section of the lesson
-
-::: challenge
-
-### Exercise: define objectives for your episode (30 minutes)
-
-1. Using the same approach as you did for your whole-lesson objectives,
-   define a set of SMART objectives for your chosen episode. (15 minutes)
-1. Add this list of objectives to replace 
-   the `TODO` in the `objectives` fenced div of your episode file (5 minutes)
-1. Compare your list with those created by your collaborators on the lesson:
-    - are there any gaps in these objectives, 
-      i.e. anything that should be covered in these episodes but is not captured in the objectives?
-    - are there any overlaps, i.e. anything that looks like it will be covered more than once?
-1. As a group, discuss how you will address any problems identified in the previous step,
-   and edit your objectives accordingly.
-
-:::::: solution
-
-After you have defined the episode objectives, you can add them to the `objectives` div as follows:
-
-```markdown
-::::::::::::::::::::::::::::::::::::: objectives
-
-- objective 1
-- objective 2
-- ...
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-```
-
-::::::
-
-:::
-
-::: challenge
-
-### More Practice with Fenced Divs (optional)
-
-The Carpentries Workbench provides another type of fenced div, `prereq`,
-that can be used to create a block highlighting the preprequisites for a lesson.
-
-Use one of these `prereq` fenced divs to format the list of
-prerequisite skills you added to your `index.md` file earlier.
-
-:::::: solution
-
-In `index.md`:
-
-```markdown
-:::::::::: prereq
-- prerequisite 1
-- prerequisite 2
-- ...
-:::::::::::::::::
-```
-
-::::::
-
-:::
-
-Now that we have defined objectives for our episodes,
-we can start working on the next step in developing an effective lesson:
-designing exercises that will assess whether a learner has learned what you aimed to teach them.
-
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- First key point. Brief Answer to questions. (FIXME)
+- Lesson sites are built from source repositories with GitHub Pages.
+- A new lesson repository can be created from a template maintained by The Carpentries, and configured by adjusting the `config.yaml` file.
+- The main pages of a lesson website are created from Markdown or RMarkdown files in the `episodes` folder. 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

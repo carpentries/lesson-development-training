@@ -20,6 +20,13 @@ start: yes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::: instructor
+
+You might like to make a copy of [the template CodiMD notetaking page](https://codimd.carpentries.org/cldt-notes-template) 
+and share your link with trainees so that you can take notes together during the training.
+
+:::
+
 **Note:** some of the content in this course is reproduced or adapted from
 [The Carpentries Instructor Training curriculum](https://carpentries.github.io/instructor-training/01-welcome/index.html).
 
@@ -142,7 +149,8 @@ is covered in
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- This training aims to teach you a process for designing and developing an online lesson material, in collaboration with others.
+- This training aims to teach you a process for designing a lesson and the skills to develop it as an open source 
+website, in collaboration with others.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

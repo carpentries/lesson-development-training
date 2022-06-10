@@ -12,3 +12,4 @@
 [pilot-notes-template]: https://codimd.carpentries.org/lesson-pilot-observation-notes-template#
 [swc]: https://software-carpentry.org/
 [swc-lessons]: https://software-carpentry.org/lessons/
+[workbench]: https://carpentries.github.io/workbench/

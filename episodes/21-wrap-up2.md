@@ -39,18 +39,7 @@ there will be an opportunity for trainees to share their experiences and reflect
 from those trial runs, and to discuss what impact that will have on the next stages
 of their lesson development.
 
-
-::: discussion
-
-## What questions do you have? (5-10 min)
-
-What questions do you have about the topics and concepts covered in the training so far?
-
-After reading [the information provided about the trial run task](../learners/trial_runs.md),
-what questions do you have about this task?
-
-::::::::::::::
-
+Please provide another round of feedback and spend some time reflecting.
 
 ::: challenge
 
@@ -63,7 +52,7 @@ Take some time to provide this feedback, before moving onto the second part of t
 
 ::: challenge
 
-## Organise your knowledge (10-15 min)
+## Organise Your Knowledge (10-15 min)
 
 Take some time to think back on what has been covered so far, 
 then make some notes on the most important points and actions you want to take away from that.
@@ -78,6 +67,8 @@ If you do not know where to start, consider the following list for a starting po
 - write down one thing that struck you the most
 
 :::::::::::::
+
+Please stay in touch as you plan for your trial run.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 

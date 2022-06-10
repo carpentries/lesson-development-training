@@ -121,7 +121,7 @@ LOs should be tailored to the audience, and,
 if this is well done, you may stop worrying about the audience.
 Create LOs for the specific audience and create assessments for specific LOs."*
 
-\- Dr. Allegra Via, The Carpentries Instructor Trainer
+\- Dr. Allegra Via, Carpentries Instructor Trainer
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -240,7 +240,7 @@ one box at the top of each episode.
 
 
 [blanks]: https://teachtogether.tech/en/index.html#fill-in-the-blanks
-[code-and-run]: http://teachtogether.tech/en/index.html#code-run
+[code-and-run]: https://teachtogether.tech/en/index.html#code-run
 [faded-ex]: https://teachtogether.tech/en/index.html#faded-examples
 [parsons]: https://teachtogether.tech/en/index.html#parsons-problem
 [minimal]: https://teachtogether.tech/en/index.html#minimal-fix

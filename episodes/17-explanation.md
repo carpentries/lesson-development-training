@@ -118,7 +118,7 @@ changing the view in the upper right-hand corner of the lesson to "Instructor Vi
 
 Try out the instructor view by opening this episode seeing the in-line instructor note below.
 
-We will discuss the content of Instructor Notes in more detail later on in section ["Preparing to Teach"](18-preparing.md).
+We will discuss the content of Instructor Notes in more detail later on in section ["Preparing to Teach"](20-preparing.md).
 
 :::::::::::: instructor
 
@@ -207,7 +207,7 @@ data instead.
 
 When writing a lesson, you should also consider adding key terms to the lesson glossary 
 for the lesson.
-Following the instructions on [how to create a glossary in the Workbench documetation][sandpaper-docs-learners]
+Following the instructions on [how to create a glossary in the Workbench documentation][sandpaper-docs-learners]
 will help you to create this section of the lesson.
 
 Many of these terms may also be useful for other lessons and can be added to [Glosario][glosario], a multilingual glossary for computing and data science terms.
