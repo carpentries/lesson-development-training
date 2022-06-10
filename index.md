@@ -22,7 +22,7 @@ Before joining Collaborative Lesson Development training, participants should be
 
 After attending this training, participants will be able to:
 
-- collaboratively develop and publish lessons using The Carpentries lesson infrastructure:
+- collaboratively develop and publish lessons using The Carpentries lesson infrastructure (aka [The Carpentries Workbench][workbench]):
   lesson template, GitHub, GitHub Pages, etc.
 - identify and characterise the target audience for a lesson.
 - define SMART learning objectives.

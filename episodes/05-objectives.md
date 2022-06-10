@@ -29,7 +29,7 @@ these are the _learning outcomes_ of your lesson.
 It can feel strange to jump from one end of the process to the other like this,
 but clearly defining your goals early in the lesson development process is vital.
 As we will see in this episode,
-it helps you to determine the activities, examples, etc 
+it helps you to determine the activities, examples, etc. 
 that are appropriate for the lesson content,
 and provides a scope for what should and should not be included.
 
@@ -108,7 +108,7 @@ which divides cognitive skills into several categories.
 The original taxonomy arranged these categories in a strict hierarchy,
 which has since been disputed.
 Regardless of whether these skills conform to such a hierarchy,
-the Taxonomy serves as a very useful bank of action verbs for use 
+Bloom's Taxonomy serves as a very useful bank of action verbs for use 
 in learning objectives.
 
 We will see how helpful it can be to use action verbs in learning objectives
