@@ -138,7 +138,7 @@ during which we would like you to complete the following three tasks:
 The homework from this workshop includes a trial run of one of the episodes
 you have been developing in your lesson, to a real audience.
 
-After reading [the information provided about the trial run task](../learners/trial_runs.md) and thinking about this task, 
+After reading [the information provided about the trial run task](../learners/trial-runs.md) and thinking about this task, 
 what questions do you have about how you should
 approach teaching that trial run?
 Is there anything you are unsure of?

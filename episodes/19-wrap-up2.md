@@ -39,7 +39,7 @@ there will be an opportunity for trainees to share their experiences and reflect
 from those trial runs, and to discuss what impact that will have on the next stages
 of their lesson development.
 
-Please provide another round of feedback and spend sometime reflecting.
+Please provide another round of feedback and spend some time reflecting.
 
 ::: challenge
 
