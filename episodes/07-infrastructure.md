@@ -75,7 +75,7 @@ to also support [Data Carpentry][dc-home], [Library Carpentry][lc-home], and man
 In 2022, we adopted a new infrastructure for our lesson sites: **The Carpentries Workbench**.
 Lesson sites built on the Workbench are still hosted with GitHub Pages,
 but no longer use Jekyll.
-Instead, the lessons are built using a programming language, _[R]_, and _[pandoc]_, 
+Instead, the lessons are built using [a programming language, _R_][R], and _[pandoc]_, 
 a software designed for converting content between file formats.
 The Workbench combines three R packages:
 
@@ -489,7 +489,9 @@ designing exercises that will assess whether a learner has learned what you aime
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- First key point. Brief Answer to questions. (FIXME)
+- Lesson sites are built from source repositories with GitHub Pages.
+- A new lesson repository can be created from a template maintained by The Carpentries, and configured by adjusting the `config.yaml` file.
+- The main pages of a lesson website are created from Markdown or RMarkdown files in the `episodes` folder. 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
