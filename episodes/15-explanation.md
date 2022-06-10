@@ -207,7 +207,7 @@ data instead.
 
 When writing a lesson, you should also consider adding key terms to the lesson glossary 
 for the lesson.
-Following the instructions on [how to create a glossary in the Workbench documetation][sandpaper-docs-learners]
+Following the instructions on [how to create a glossary in the Workbench documentation][sandpaper-docs-learners]
 will help you to create this section of the lesson.
 
 Many of these terms may also be useful for other lessons and can be added to [Glosario][glosario], a multilingual glossary for computing and data science terms.
