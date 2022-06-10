@@ -13,63 +13,19 @@ exercises: 20
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- What are the recommended steps to take when developing a new lesson?
 - Why is it so important to think about the target audience early in the process?
 - How can you ensure that your lesson reaches the right audience?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## A Lesson Design Process
-
-In the next parts of this training,
-we will use a modified version of [Nicholl's five phase paradigm for curriculum design ][f1000-course-design-guide].
-Nicholl's paradigm describes a process, commonly referred to as _backward design_,
-where those who wish to develop a new curriculum first begin by defining 
-exactly what their learners will be able to do 
-_after they have completed the lesson/training/course_.
-The subsequent stages of the curriculum design process involve designing content 
-to directly meet those stated outcomes.
-
-1. Select learning outcomes
-2. Choose learning experiences to help learners achieve these outcomes
-3. Develop content to support these experiences
-4. Assess learner progress towards desired outcomes
-5. Evaluate chosen outcomes, experiences, and content based on this assessment
-
-**TODO: add a figure illustrating the setps in the list above. 
-could be based on Fig. 2 in [f1000-course-design-guide]**
-
-The last two phases of Nicholl's paradigm involve 
-assessing learner progress towards the desired learning outcomes and 
-evaluating the stated objectives and current content in light of the results of that assessment.
-In The Carpentries, most workshops are relatively short-format,
-without room for an extensive assessment after the teaching has finished
-(a _summative_ assessment).
-To account for this, our lessons place an emphasis on _formative_ assessment:
-assessment of learner progress that takes place _while the teaching is still going on_,
-to give instructors opportunities to evaluate the teaching and lesson content
-before the end of the workshop.
-
-
-To account for this, 
-we have adapted Nicholl's five phases in this training,
-to place an emphasis on assessing learning during a workshop:
-
-1. Define desired learning outcomes
-2. Decide with what activities/examples/explanations we will try to teach these skills
-3. Create assessments to determine progress towards desired outcomes
-4. Write content to lead learners from one of these assessments to the next
-5. (After the break) evaluate how closely the outcomes meet the objectives
-
-**TODO: add a figure illustrating the process described in the list above. 
-could be similar to the one used earlier for Nicholl's original list.**
 
 ## Target Audience
 
 Given the limited time in a short-format training,
 it is vital to define the scope of the lesson i.e.
 what people will know before and after the lesson.
-Thinking carefully about the target audience will help with this.
+Thinking carefully about the target audience will help you with this and 
+defining desired learning outcomes (the first step of the lesson design).
 Prominently displaying a description of the target audience
 will also help attract people with the right motivation and 
 relevant prior knowledge to attend your workshops.
