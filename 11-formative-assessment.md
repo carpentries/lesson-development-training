@@ -21,7 +21,7 @@ exercises: 35
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-As we have seen previously, defining objectives for a lesson (or a teaching episode) can help to focus your content on the most important learning outcomes and outline the scope of your lesson project. With learning objectives you have defined your **intended (or planned) curriculum** - what you set out to accomplish with your lesson. The skills and knowledge your learners actually leave with and can demonstrate after the workshop having followed the **implemented curriculum** in the classroom is called the **attained curriculum**. **Implemented curriculum** includes the concepts, relationships and skills that are explicitly covered in your lesson and translated into classroom practices - i.e. the teaching and learning activities that should lead to your learners attaining knowldge.
+As we have seen previously, defining objectives for a lesson (or a teaching episode) can help to focus your content on the most important learning outcomes and outline the scope of your lesson project. With learning objectives you have defined your **intended (or planned) curriculum** - what you set out to accomplish with your lesson. The skills and knowledge your learners actually leave with and can demonstrate after the workshop having followed the **implemented curriculum** in the classroom is called the **attained curriculum**. **Implemented curriculum** includes the concepts, relationships and skills that are explicitly covered in your lesson and translated into classroom practices - i.e. the teaching and learning activities that should lead to your learners attaining knowledge.
 
 ::::::::::::::::::::::::::::::::::::::  callout
 
@@ -61,11 +61,11 @@ The most effective way to test learner understanding is  to do such assessments 
 the awareness a learner has that they are succeeding in learning something new. 
 Any instructional tool that generates feedback and is used in a formative way to check for learners' understanding can be described as “formative assessment”. For example, 
 
-- reflection at the end of a session to help process learning - e.g. asking learners to write down things they learned, things they want to know more about and any questions they still have
-- concept maps - asking learners to reflect by drawing a diagram or writing down a list of new concepts and skills they’ve learned and (optionally) how they connect with previous knowledge
-- minute cards - gauging learners’ satisfaction and understanding using agreed signals (e.g. raising different coloured post-it notes to indicate that the pace is too fast/slow, that they completed/have not completed an exercise).
+- **reflection** at the end of a session to help process learning - e.g. asking learners to write down things they learned, things they want to know more about and any questions they still have
+- **concept maps and diagrams** - asking learners to reflect by drawing/labeling a concept map/diagram or writing down a list of new concepts and skills they’ve learned and (optionally) how they relate to one another or connect with previous knowledge
+- **minute cards** - gauging learners’ satisfaction and understanding using agreed signals (e.g. raising different coloured post-it/sticky notes to indicate that the pace is too fast/slow, that they completed/have not completed an exercise).
 
-Many other formative assessment tools can be found in Briggs’ list of ["21 ways to check for student understanding"](https://www.opencolleges.edu.au/informed/features/21-ways-to-check-for-student-understanding/).
+Many other formative assessment tools can be found in Briggs’ list of ["21 ways to check for student understanding"](https://www.opencolleges.edu.au/informed/features/21-ways-to-check-for-student-understanding/) or Edutopia's ["56 Examples of Formative Assessment"]https://www.edutopia.org/groups/assessment/250941.
 
 Exercises are one important type of formative assessment. We will now have a look into exercises that perform misconception checks and ask students diagnostic questions; we will cover a few other types of exercises that help with retaining 
 new knowledge in one of the later episodes.
@@ -107,7 +107,7 @@ The correct answer is 42, but each of the other answers provides a valuable insi
 
 Their diagnostic power means that each of the wrong choices helps an instructor figure out precisely what misconceptions learners had adopted and in which ways their mental models are broken. As a result the instructor may decide to review a particular concept or change the pace of instruction. At the same time, learners get feedback about what they have misunderstood and what they need to focus their study efforts on - we call this **guided practice**.
 
-When designing a lesson, for diagnostic assessments you can think about problems or questions from previous training events and what people struggled with, or think about your own misconceptions in the past or ask colleagues about their experiences. You should aim to create all your assessments before you have written the explanatory content of your lesson ([backward design](https://en.wikipedia.org/wiki/Backward_design)). These assessments will guide your lesson design process by knowing exactly which knowledge you'd expect from your learners at any point in the lesson.
+When designing a lesson, for diagnostic assessments you can think about problems or questions from previous training events and what people struggled with, or think about your own misconceptions in the past or ask colleagues about their experiences. You should aim to create all your assessments before you have written the explanatory content of your lesson (recall Nicholl's [backward design](https://en.wikipedia.org/wiki/Backward_design)). These assessments will guide your lesson design process by knowing exactly which knowledge you'd expect from your learners at any point in the lesson.
 
 
 ::::::::::::::::::::::::::::::::::::::  challenge

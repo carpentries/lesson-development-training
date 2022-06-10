@@ -157,7 +157,7 @@ Make time to review your text for:
 - use of [stereotypes][stereotype-threat-instructor-training] (check learner profiles for stereotypes too)
 - [expert awareness gaps][expert-awareness-gap-instructor-training], i.e. places where you may be assuming the learners know more than they actually do
 - fluid representations, i.e. using different terms with the same meaning interchangeably
-- unexplained or unnecessary jargon 
+- unexplained or unnecessary jargon/terminology (as your learners may come from different backgrounds, may be novices, not native English speakers, and a term in one domain/topic may mean something else entirely in another) 
 - unexplained assumptions
 - sudden jumps in difficulty/complexity
 
@@ -165,10 +165,10 @@ You should also review your text thinking about accessibility.
 This includes:
 
   - Avoiding regional/cultural references and idioms that will not translate across borders/cultures
-  - Avoiding contractions i.e. don't, can't, won't etc
+  - Avoiding contractions i.e. don't, can't, won't etc.
   - Checking that all figures/images have well written alternative text, including [writing altnerative text for data visualizations](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81). An alternative text contains an invisible description of an image which is read aloud to blind users by screen readers providing alternative text-based format for images. See [the Workbench documentation for directions on how to add alternative text and captions to images in a lesson](https://carpentries.github.io/sandpaper-docs/episodes.html#figures)
   - Checking the header hierarchy - no h1 headers in the lesson body, no skipped levels
-  - [Using descriptive link text](https://www.imperial.ac.uk/staff/tools-and-reference/web-guide/training-and-events/materials/accessibility/links/) - no "click here" or "this page", etc
+  - [Using descriptive link text](https://www.imperial.ac.uk/staff/tools-and-reference/web-guide/training-and-events/materials/accessibility/links/) - no "click here" or "this page", etc.
   - [Checking the text and foreground contrast for images](https://contrastchecker.com/)
 
 ::::::::::::::::::::::::::::::::::::::  challenge
@@ -207,7 +207,7 @@ data instead.
 
 When writing a lesson, you should also consider adding key terms to the lesson glossary 
 for the lesson.
-Following the instructions on [how to create a glossary in the workbench documetation][sandpaper-docs-learners]
+Following the instructions on [how to create a glossary in the Workbench documentation][sandpaper-docs-learners]
 will help you to create this section of the lesson.
 
 Many of these terms may also be useful for other lessons and can be added to [Glosario][glosario], a multilingual glossary for computing and data science terms.

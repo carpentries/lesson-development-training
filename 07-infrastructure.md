@@ -48,7 +48,7 @@ this has been how The Carpentries presents its lesson websites to the world.
 
 ## Using The Carpentries Workbench
 
-Carpentries lesson websites are built with **The Carpentries Workbench**,
+Carpentries lesson websites are built with [**The Carpentries Workbench**][workbench],
 a toolkit that converts Markdown and RMarkdown files into the HTML
 that can be served by GitHub Pages.
 We will use it now to initialise a new lesson.

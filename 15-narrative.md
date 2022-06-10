@@ -33,7 +33,7 @@ own work by creating a narrative that resembles a situation the learners might
 encounter there.
 Depending on the tool you are teaching, you might also include a particular dataset as a part of the story you are weaving into your lesson.
 It is common for lessons to include a dataset that is used in examples and discussed throughout.
-This can help you maintain a narrative flow and make the lesson feel more authentic
+This can help you maintain a narrative flow and make the lesson feel more authentic.
 Even if your topic doesn't require a dataset, deciding on a consistent narrative will
 help create a flow between lessons and reduce cognitive load for learners.
 
@@ -55,7 +55,8 @@ data fairly easily during the lesson so they can focus on the skills
 you are teaching.
 This may mean you will need to subset your dataset or remove variables
 observed.
-You may want to also include and review a data dictionary in your lesson,
+
+You may also want to include and review a data dictionary in your lesson,
 explicitly taking the time to review the information included in the
 dataset.
 For inspiration, see the [Social Sciences Data Carpentry data dictionary](https://datacarpentry.org/socialsci-workshop/data/).
@@ -93,13 +94,14 @@ research on it and continue to look for other options.  Commonly data is misused
 from historically excluded and exploited groups.
 The [CARE Principles for Indigenous Data Governance](https://doi.org/10.5334/dsj-2020-043) (Collective Benefit, Authority to Control, Responsibility, and Ethics) are good starting point
 for thinking about data sovereignty and considering the ethics of data collected
-about individual or groups of people.
+about an individual or groups of people.
 
 
 ### Examples of Public Repositories
 
 When looking for data to reuse, consider public repositories in the subject area
 for your lesson or general data repositories such as:
+
   - [Dryad](https://datadryad.org/)
   - [The Data Cuartion Network's datasets](https://datacurationnetwork.org/datasets/)
   - [The Offical Portal for European Data](https://data.europa.eu/)
@@ -115,14 +117,14 @@ Identify one or more potential candidates and note down the advantages and disad
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Learners are motivated if you **teach most useful first**.
+Learners are motivated if you **teach most useful things first**.
 As you think about what story your lesson will tell, it is important to put
 the pieces that are most interesting to learners up front.
 If they are able to quickly learn tools or skills that they see as useful from your 
 lesson, they will be more interested in continuing to learn other concepts that are 
 needed.
 You may notice this trend in many of the Software Carpentry lessons.  In particular,
-many of the coding language lessons (R and python) have the learners create a plot
+many of the coding language lessons (R and Python) have the learners create a plot
 very early in the lesson and then go back and teach coding fundamentals such as loops
 and conditionals. Visualization of data is often a very motivating and much needed
 skill by learners. Getting to visualization early, keeps learners interested in 

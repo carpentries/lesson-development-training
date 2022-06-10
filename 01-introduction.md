@@ -27,7 +27,7 @@ and share your link with trainees so that you can take notes together during the
 
 :::
 
-**Note:** most of the content in this episode is reproduced or adapted from
+**Note:** some of the content in this course is reproduced or adapted from
 [The Carpentries Instructor Training curriculum](https://carpentries.github.io/instructor-training/01-welcome/index.html).
 
 ::: discussion
@@ -56,7 +56,7 @@ Do not force people to share their pronouns.
 
 If the Trainer has chosen an
 [icebreaker question](https://carpentries.github.io/instructor-training/icebreakers/index.html),
-participate by writing your answers in the Etherpad.
+participate by writing your answers in the shared document for the workshop.
 
 :::
 
@@ -149,7 +149,8 @@ is covered in
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- This training aims to teach you a process for designing and developing a lesson website, in collaboration with others.
+- This training aims to teach you a process for designing a lesson and the skills to develop it as an open source 
+website, in collaboration with others.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
