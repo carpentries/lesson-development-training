@@ -15,13 +15,13 @@ some guidance on what feedback/information to collect while testing out the less
 ## What should I teach?
 
 During the first stages of the training, you will have completed 
-the early stages of design and development of a chapter of your new lesson.
+the early stages of design and development of a episode of your new lesson.
 After completing the exercises in the training sessions,
 you should have identified a target audience for the lesson,
-defined objectives for the lesson and for a particular chapter within it,
-designed exercises to assess learner progress towards the chapter objectives,
-and outlined a narrative to lead learners through that chapter.
-You should use the trial run as an opportunity to teach this chapter of your lesson to a real audience.
+defined objectives for the lesson and for a particular episode within it,
+designed exercises to assess learner progress towards the episode objectives,
+and outlined a narrative to lead learners through that episode.
+You should use the trial run as an opportunity to teach this episode of your lesson to a real audience.
 Note that it will probably be helpful to spend some time 
 writing some of the supporting information for your lesson for this trial run.
 For example, if you did not have time to finish writing the setup instructions
@@ -30,14 +30,14 @@ you should try to complete these and share them with your learners before the tr
 
 ### For groups of collaborators
 
-During the training, you should have been working on consecutive chapters in your lesson.
+During the training, you should have been working on consecutive episodes in your lesson.
 Use the trail run as an opportunity for you to test the lesson content together,
-with each trainee teaching the chapter they have been working on during the training 
+with each trainee teaching the episode they have been working on during the training 
 in a single trial run event.
 This will give you an opportunity to observe each other teaching,
 to help each other gather feedback and information to help improve the lesson (see below),
 and to identify any gaps or overlaps that become apparent when moving from one
-chapter to the next.
+episode to the next.
 
 ### For Lesson Developers working alone
 
@@ -46,7 +46,7 @@ and it will be difficult to do this while also devoting yourself to delivering t
 For that reason, we recommend that you try to find someone who can attend your trial run
 as an observer, to take notes and give you feedback from their perspective.
 Ideally, this would be someone who you work with and who is already familiar 
-with the topic that will be taught in your lesson chapter.
+with the topic that will be taught in your lesson episode.
 That will make it easier for them to provide their own insights, 
 and to properly capture details in the notes they take during the trial run.
 If you are unable to recruit a colleague or peer to do this for your trial run,
@@ -58,7 +58,7 @@ please discuss it with your trainers and/or send an email to
 
 **During the trial run**, it will be helpful to take notes to answer the following questions:
 
-- How long did it take to teach the chapter?
+- How long did it take to teach the episode?
 - How long did learners need to complete each exercise?
 - What questions did learners have during the trial run?
 - What technical difficulties were encountered during the trial run?
@@ -70,7 +70,7 @@ gather feedback, e.g.
 
 - Minute cards
 - One up, one down
-- Ask learners about the exercises in your chapter
+- Ask learners about the exercises in your episode
 
 **As soon as possible after the trial run** has finished -
 ideally immediately afterwards -

@@ -122,7 +122,7 @@ It will give them the impression that taking the lesson will be worthwhile
 (called _positive expectancies_ in the literature). 
 
 We will look more at strategies to establish value and build positive expectancies
-in the next chapter.
+in the next episode.
 
 ### Be Specific
 
