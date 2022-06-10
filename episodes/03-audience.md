@@ -203,7 +203,6 @@ These are skills commonly overlooked by experts and competent practitioners.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-[f1000-course-design-guide]: https://f1000research.com/documents/9-1377
 [it-mental-models]: https://carpentries.github.io/instructor-training/02-practice-learning/index.html#building-a-mental-model
 [it-skill-acquisition]: https://carpentries.github.io/instructor-training/02-practice-learning/index.html#the-acquisition-of-skill
 
