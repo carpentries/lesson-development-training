@@ -1,6 +1,6 @@
 ---
 title: Lesson design
-teaching: 0
+teaching: 10
 exercises: 10
 ---
 
