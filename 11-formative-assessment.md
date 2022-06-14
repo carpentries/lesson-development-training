@@ -42,20 +42,20 @@ Useful further reading: [Course design: Considerations for Trainers – a Profes
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Assessements
+## Assessments
 
 In order to measure progress and evaluate if and what learning occurred - we use various types of assessments:
 
- - **formative assessments** - used to detect changes in learner performance *during*
-instruction, to provide feedback and insight into the learners' developing mental models of the topic taught and to identify any old or developing misconceptions. 
 - **summative assessments** - used to verify whether learners achieved
 the stated learning objectives after instruction.
+ - **formative assessments** - used to detect changes in learner performance *during*
+instruction, to provide feedback and insight into the learners' developing mental models of the topic taught and to identify any old or developing misconceptions. 
 
 **Summative assessments** sum up what learning has been achieved after 
 training (e.g. via exams). They give valuable
 data about learning attainment by individuals and entire cohorts but are not used to guide further progress. They may not be as suitable for short courses, but may be necessary for those that give marks/grades or certificates of completion. 
 
-**Formative assessments** are applied throughout a course and with different purposes: they provide a way to move [new information from working memory to long-term memory](https://carpentries.github.io/instructor-training/05-memory/index.html#using-formative-assessment-to-support-memory-consolidation); they can inform instructors' decisions about how to modify instruction to better promote learning; they also inform learners about changes they may need to make to improve their learning. Ideally, they should be used often (e.g. after every 15-20 minutes of teaching), providing opportunities to instructors to change pace and refocus  learners’ attention. For short courses, formative assessments are usually more valuable and easier to implement in practice than summative assessements - they need not be complex or time-consuming, just informative enough about learning for both instructors and learners. 
+**Formative assessments** are applied throughout a course and with different purposes: they provide a way to move [new information from working memory to long-term memory](https://carpentries.github.io/instructor-training/05-memory/index.html#using-formative-assessment-to-support-memory-consolidation); they can inform instructors' decisions about how to modify instruction to better promote learning; they also inform learners about changes they may need to make to improve their learning. Ideally, they should be used often (e.g. after every 15-20 minutes of teaching), providing opportunities to instructors to change pace and refocus  learners’ attention. For short courses, formative assessments are usually more valuable and easier to implement in practice than summative assessments - they need not be complex or time-consuming, just informative enough about learning for both instructors and learners. 
 
 The most effective way to test learner understanding is  to do such assessments in class - they engage all learners and allow instructors to check learners' confidence with the content and its delivery, can help you deal with any potential misunderstandings as soon as they arise, and maximise the value of workshop for everyone. Such formative assessments also help with *metacognition* -
 the awareness a learner has that they are succeeding in learning something new. 
