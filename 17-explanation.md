@@ -48,7 +48,7 @@ so, if in doubt, be explicit.
 
 ## Using Callouts
 
-Often lessons have more content than can be reasonable taught in the amount of time allotted.
+Often lessons have more content than can be reasonably taught in the amount of time allotted.
 This is especially true for collaboratively developed lessons as each contributor/instructor 
 may have additional items they'd like to see included, leading to "scope creep".
 
