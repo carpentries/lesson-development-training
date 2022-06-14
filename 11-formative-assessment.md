@@ -90,7 +90,7 @@ the topic you are teaching.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-[Multiple choice question (MCQ)](https://carpentries.github.io/instructor-training/02-practice-learning/#using-formative-assessment-to-identify-misconceptions) exercises are types of a formative assessment that can help you target anticipated misconceptions. When designed carrefully, each incorrect answer in a MCQ will have diagnostic power and provide valuable insight into how a mental model is broken. For example, suppose we are teaching children multi-digit addition. An example of a well-designed MCQ ([borrowed from The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/02-practice-learning/#using-formative-assessment-to-identify-misconceptions)) in this case could be: 
+[Multiple choice question (MCQ)](https://carpentries.github.io/instructor-training/02-practice-learning/#using-formative-assessment-to-identify-misconceptions) exercises are types of a formative assessment that can help you target anticipated misconceptions. When designed carefully, each incorrect answer in a MCQ will have diagnostic power and provide valuable insight into how a mental model is broken. For example, suppose we are teaching children multi-digit addition. An example of a well-designed MCQ ([borrowed from The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/02-practice-learning/#using-formative-assessment-to-identify-misconceptions)) in this case could be: 
 
 > Q: What is 27 + 15?
 > 
