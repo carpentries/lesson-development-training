@@ -229,7 +229,7 @@ Reflection exercises can include using what was taught to label a diagram, draw 
 
 ## Exercise: More Practice with Fenced Divs (10 minutes)
 
-Return to the bulleted list of lesson objectives you added to the `index.md` file of your lesson and
+Return to the bulleted list of prerequisite knowledge or skills you added to the `index.md` file of your lesson and
 use fenced divs to display it in a formatted box with the `.prereq` class.
 Note that all lesson objectives in fenced divs will be combined into
 one box at the top of each episode.
