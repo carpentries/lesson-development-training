@@ -1,0 +1,61 @@
+#------------------------------------------------------------
+# Values for this lesson.
+#------------------------------------------------------------
+
+# Which carpentry is this (swc, dc, lc, or cp)?
+# swc: Software Carpentry
+# dc: Data Carpentry
+# lc: Library Carpentry
+# cp: Carpentries (to use for instructor traning for instance)
+carpentry: "cp"
+
+# Overall title for pages.
+title: "Collaborative Lesson Development Training"
+
+# Life cycle stage of the lesson
+# possible values: pre-alpha, alpha, beta, stable
+life_cycle: alpha
+
+# License of the lesson
+license: CC-BY 4.0
+
+# Link to the source repository for this lesson
+source: https://github.com/carpentries/lesson-development-training
+
+# Default branch of your lesson
+branch: main
+
+# Who to contact if there are any issues
+contact: team@carpentries.org
+
+# Navigation ------------------------------------------------
+# The menu bar will be in the following order:
+#
+# - Code of Conduct      (CODE_OF_CONDUCT.md)
+# - Setup                (setup.md)
+# - Episodes             (episodes/)
+# - Learner Resources    (learners/)
+# - Instructor Resources (instructors/)
+# - Learner Profiles     (profiles/)
+# - License              (LICENSE.md)
+#
+# Use the following menu items to specify the order of
+# individual pages in each dropdown section
+
+# Order of episodes in your lesson
+episodes:
+
+# Information for Learners
+learners:
+- setup.md
+- pilot-description.md
+- markdown-github-primer.md
+- trial-runs.md
+- reference.md
+
+# Information for Instructors
+instructors:
+
+# Learner Profiles
+profiles:
+
