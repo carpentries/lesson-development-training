@@ -1,5 +1,5 @@
 ---
-title: Collaborating with people you already know
+title: Collaborating with Your Team
 teaching: 45
 exercises: 30
 ---
