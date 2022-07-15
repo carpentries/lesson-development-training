@@ -1,7 +1,7 @@
 ---
 title: Collaborating with people you already know
-teaching: 45
-exercises: 30
+teaching: 75
+exercises: 45
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -56,6 +56,142 @@ you may also want to assign these issues to a member of your lesson development 
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+## Pull Requests
+
+Although it is possible (for collaborators with sufficient access to the project)
+to make changes to a lesson directly on the `main` branch of the repository,
+doing so is not recommended:
+
+1. It increases the likelihood of unintentional conflicts being created when two
+   collaborators work on the same file simultaneously.
+1. It does not provide an opportunity for changes to be checked and discussed 
+   before they are included in the lesson. 
+   This makes it much more likely that mistakes will be included in the lesson,
+   and that the commit history of the project will include many
+   changes made only to fix/polish/undo previous commits.
+1. It prevents your team from benefiting from the powerful features that Git and GitHub
+   provide to support and foster collaboration.
+
+Instead, it is recommended practice to do most work in _branches_:
+sets of changes that build on the work in the `main` branch (or another)
+but are not included in that branch until they are explicitly _merged_ into it.
+GitHub provides a way for this merging process to be managed,
+by giving a platform for the changes to be described, discussed and reviewed,
+before a decision is made to integrate or not integrate the changes 
+in the default branch of the project and the associated lesson.
+
+On GitHub, these units of discussion, review, 
+and acceptance/rejection of the changes within a branch
+are called _Pull Requests_.
+
+:::::: callout
+
+## Why "Pull Request"?
+
+The name is slightly anachronistic now, because a project maintainer can often
+manage the whole process of reviewing a contribution in GitHub's web interface,
+but the term _Pull Request_ originates from the early days of GitHub, when
+a contributor would be requesting that the project maintainer(s)
+use Git to fetch or _pull_ the new branch to their local version of the project
+repository, to further explore and test the changes before deciding whether to
+merge them or not.
+
+::::::::::::::
+
+
+### Protecting `main`
+
+As the maintainer of a project, you can enforce this workflow by
+_protecting_ the default branch of the GitHub repository:
+this will prevent anyone without _Admin_ access from committing changes directly to
+that branch.
+
+To activate this branch protection:
+
+1. Open the _Settings_ tab of the repository and select _Branches_ in the left sidebar,
+under _Code and automation_.
+2. Click the "Add branch protection rule" button.
+3. Type the name of the branch your GitHub Pages are being built from (`main`) 
+   into the "Branch name pattern" box.
+4. Check the "Require a pull request before merging" option, 
+   but leave the others unchecked for now. 
+
+
+### Submitting and Reviewing Pull Requests
+
+The Trainers will collaborate on a demonstration of the process laid out below.
+
+
+#### Pull Request Activity
+
+_Note: This activity is designed to be carried out by two Trainers acting in two different roles:
+"(S)" denotes the Pull Request Submitter role, "(R)" the Pull Request Reviewer._
+
+1. \(S) Explore list of issues on repository, choose issue to fix, make note of issue number.
+1. \(S) Edit a file to fix the issue, commit changes to a new branch with an appropriate name.
+        Ensure that the changes include some typo etc that the Reviewer
+        will be able to comment on and/or suggest a fix/improvement to.
+1. \(S) Show how to open a pull request from that new branch to `main`.
+1. \(S) In Pull Request description, reference the number of the issue being fixed, 
+        using a keyword ("Fixes", "Resolves") to ensure automatic closure.
+1. \(S) Demonstrate how to mark the PR as a draft, 
+        and then how to mark as it as ready for review.
+1. \(S) Request a review from the Pull Request Reviewer.
+1. \(R) Open the new Pull Request in GitHub.
+1. \(R) Explore the diff of the PR, 
+        by opening the _Files changed_ tab and talking through the display.
+1. \(R) Comment on a line in the diff.
+1. \(R) Suggest a change to the diff, 
+        using the "Add suggestion" button or three backticks marked `suggestion`.
+1. \(R) Complete your review by adding some summary text and selecting "Request changes".
+1. \(R) Return to _Conversation_ tab, 
+        to show how the PR thread looks after the review has been submitted.
+1. \(S) Navigate to PR and the _Files changed_ tab.
+1. \(S) Respond to Reviewer's comment(s), accept their suggested changes
+        (draw attention to the option to batch multiple suggestions into a single commit).
+1. \(S) Return to the _Conversation_ tab and request a new review from the Reviewer.
+1. \(R) Look again at the PR diff (_Files changed_) 
+        and ensure that requested changes have been made.
+1. \(R) Approve the PR.
+1. \(R) Thank the Submitter for their contribution.
+1. \(R) Merge the PR.
+1. \(R) Navigate to issue listing to confirm that the relevant issue has been 
+        automatically closed.
+
+
+:::::: challenge
+
+### Practice with Pull Requests (15 minutes)
+
+In breakout groups, assign yourselves the role of Submitter (S) and Reviewer (R),
+and repeat the process described above by completing the steps below.
+If anythere are any issues open on the repository that can be solved very quickly,
+feel free to address those with this exercise.
+Otherwise, the Submitter can open a Pull Request to make simple changes:
+typo fixes, or some completely arbitrary changes to a file.
+If the changes made for the exercise are not improvements to the lesson,
+the Reviewer should follow all the steps but close the PR at the end instead of merging it.
+
+1. \(S) Edit a file and commit the changes to a new branch.
+2. \(S) Open a new Pull Request from this new branch to `main`.
+        If your PR will fix an open issue on your repository,
+        include "Fixes #X" at the start of the PR description,
+        where _X_ is the issue number.
+3. \(S) Request a review from the Reviewer.
+4. \(R) Review the PR, making comments and suggesting changes as appropriate.
+        When you have finished, approve the PR or request changes, based on your review.
+5. \(S) Respond to any comments from the Reviewer and/or, if any changes were requested,
+        make those and re-request a review when you have finished.
+6. \(R) When all changes have been made to your satisfaction,
+        approve the PR, thank the Submitter for their contribution,
+        and merge the PR
+        (Or close it if the changes were made for practice but should not
+        be included in the actual lesson.)
+
+::::::::::::::::
+
 
 ## Managing communication
 
