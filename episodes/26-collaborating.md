@@ -135,7 +135,7 @@ _Note: This activity is designed to be carried out by two Trainers acting in two
         will be able to comment on and/or suggest a fix/improvement to.
 1. \(S) Show how to open a pull request from that new branch to `main`.
 1. \(S) In Pull Request description, reference the number of the issue being fixed, 
-        using a keyword ("Fixes", "Resolves") to ensure automatic closure.
+        using a keyword "Fixes #X" or "Resolves #X" (where _X_ is the issue number) to ensure automatic closure. 
 1. \(S) Demonstrate how to mark the PR as a draft, 
         and then how to mark as it as ready for review.
 1. \(S) Request a review from the Pull Request Reviewer.
