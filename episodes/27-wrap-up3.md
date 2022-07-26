@@ -26,7 +26,7 @@ By now, you should have made good progress towards a first draft of your lesson.
 
 Referring back to [the life cycle stages for lessons](19-operations.md) 
 described earlier in the curriculum, 
-the lesson is still in _pre-alpha_ but hopefully approaching _alpha_,
+your lesson is still in _pre-alpha_ but hopefully approaching _alpha_,
 when it is ready to be taught in full for the first time.
 
 As you and your collaborators continue to iterate over the lesson -
