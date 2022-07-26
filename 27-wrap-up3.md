@@ -1,5 +1,5 @@
 ---
-title: Wrap-up
+title: Final Wrap-up
 teaching: 5
 exercises: 25
 ---
@@ -18,6 +18,43 @@ exercises: 25
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+## Looking Ahead
+
+We have reached the end of this training.
+By now, you should have made good progress towards a first draft of your lesson.
+
+Referring back to [the life cycle stages for lessons](19-operations.md) 
+described earlier in the curriculum, 
+your lesson is still in _pre-alpha_ but hopefully approaching _alpha_,
+when it is ready to be taught in full for the first time.
+
+As you and your collaborators continue to iterate over the lesson -
+teaching it, gathering feedback, reflecting on the experience, 
+and improving it for next time -
+the lesson will pass through _alpha_ into the _beta_ and _stable_ stages
+(perhaps via [peer review in The Carpentries Lab][carpentries-lab]).
+
+Your role as the original developers of the lesson,
+and the kind of interactions/contributions taking place on your repository,
+will change as you move through these stages.
+
+| Life cycle stage | Type of contribution | Your role |
+|------------------|----------------------|-----------|
+| pre-alpha        | new content and whole new episodes; changes/additions to lesson objectives | active development; onboarding new collaborators; project management |
+| alpha            | improving existing content; adding/expanding/removing content; polishing changes/typo fixes | active development; reviewing changes; documenting feedback/actions based on pilot workshops; project management |
+| beta             | feedback from pilot workshops; polishing changes; expanding instructor notes; suggestions for major overhauls/reorganisations | recruiting pilot instructors; reviewing changes; guiding contributors |
+| stable           | feedback from workshops; polishing changes; new/updated content | reviewing changes; guiding contributors; onboarding new maintainers; stepping away from the project |
+
+## Farewell and Feedback
+
+Thank you for following this training.
+We hope you found it helpful to build a foundation for your current lesson project
+and to prepare you to collaborate on other projects in the future.
+
+To bring the training to a close, 
+the Trainers will lead a number of activities to gather feedback 
+and help you reflect on the experience.
 
 ::: challenge
 
