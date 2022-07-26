@@ -40,7 +40,7 @@ When you create an issue, you can add a range of details to it. An issue can be 
 - `wontfix` - indicates that work won't continue on an issue, pull request, or discussion
 
 Check the [GitHub documentaiton on Issues](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) for the full reference.
-We have already seen some of these labels - recall the `help wanted` and `good first issue` labels aimed at  newcomers to your project discussed in the previous episode. You can also create your own custom labels to help with classifying issues. There are no rules really about naming the labels - use whatever makes sense for your project. Some conventional custom labels include: `status:in progress` (to indicate that someone started working on the issue), `status:blocked` (to indicate that the progress on addressing issue is blocked by another issue or activity), etc.
+We have already seen some of these labels - recall the `help wanted` and `good first issue` labels aimed at  newcomers to your project discussed in the previous episode. You can also create your own custom labels to help with classifying issues. There are no rules really about naming the labels - use whatever makes sense for your project. Some conventional custom labels include: `status:in progress` (to indicate that someone started working on the issue), `status:blocked` (to indicate that the progress on addressing the issue is blocked by another issue or activity), etc.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
