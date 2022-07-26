@@ -54,7 +54,7 @@ Carpentries lesson repositories already have a generic Carpentries `CONTRIBUTING
 
 ### Issue and pull request templates
 
-Consider setting up issue and pull request templates to help newcomers who may not have much experience working on collaborative projects in GitHub. Such templates can provide a structure for the issue/pull request description, and/or prompt them to fill in answers to pre-set questions. Both can help contributors raise issues or submit pull requests in a way that is clear, helpful and provides enough information for maintainers to act upon (without going back and forth to extract it). GitHub provides a range of default templates, but you can also [write your own](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository).
+Consider setting up [issue and pull request templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)) to help newcomers who may not have much experience working on collaborative projects in GitHub. Such templates can provide a structure for the issue/pull request description, and/or prompt them to fill in answers to pre-set questions. Both can help contributors raise issues or submit pull requests in a way that is clear, helpful and provides enough information for maintainers to act upon (without going back and forth to extract it). GitHub provides a range of default templates, but you can also [write your own](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository).
 
 ### Other documentation
 
@@ -104,6 +104,33 @@ You can encourage contributions to your lesson from newcomers by using specific 
 GitHub implements a comprehensive [notifications system](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) to keep you up-to-date with activities in the lesson repository. GitHub also provides an additional useful notification feature for collaborative work - **Mentions**. The mention system notifies team members when somebody else references them in an issue, comment or pull request - you can use this to notify people when you want to check a detail with them, or let them know something has been fixed or changed (much easier than writing out all the same information again in an email!). You can use the mention system to link to individual GitHub accounts or whole teams for mentioning multiple people. Typing `@` in GitHub will bring up a list of all accounts and teams linked to the repository that can be "mentioned".
 
 Check out [GitHub's documentation on setting notifications on individual repository](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository). You can choose whether to watch or unwatch an individual repository, or can choose to only be notified of certain event types such as issues, pull requests, mentions, etc.
+
+
+### Saying "No"
+
+Not every contribution is a good fit for a project and,
+especially as your lesson becomes more stable,
+you will probably not want to accept every suggested change.
+If you receive a pull request or issue that does not fit to your lesson,
+consider the following points to help you politely decline 
+without demotivating the contributor from contributing to your lesson 
+(or another open source project) again:
+
+1. **Thank them** for taking the time to contribute.
+2. **Explain why the contribution does not fit** into the lesson, 
+   and offer suggestions for improvement if you're able.
+3. **Link to relevant documentation**, if you have it.
+   Notes about the design of the lesson (e.g. from this training) and 
+   any relevant discussion threads can be very helpful here.
+   If you notice similar repeated requests/contributions, 
+   you might want to address them in your documentation
+   (e.g. in the `CONTRIBUTING.md` file) to save yourself time in future.
+4. **Close the request**.
+
+The advice above is taken from [The Carpentries Maintainer Onboarding curriculum](https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors/index.html).
+That resource, and [the _Best Practices for Maintainers_ guide from GitHub](https://opensource.guide/best-practices/#learning-to-say-no) on which it is based,
+make excellent further reading as you prepare to transition from your role as an active developer
+into another as a responsive and responsible maintainer of your lesson.
 
 
 ### Making progress

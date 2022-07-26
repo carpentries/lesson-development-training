@@ -1,7 +1,7 @@
 ---
-title: Collaborating with people you already know
-teaching: 75
-exercises: 45
+title: Collaborating with Your Team
+teaching: 45
+exercises: 30
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
