@@ -76,7 +76,7 @@ Spend some time doing **one of the following**:
    - guidance on how people should contribute, and what kinds of contribution you are most interested in receiving (CONTRIBUTING)
    - links to any important background information (README)
    - links to any funding bodies or host institutes that are supporting the development of the lesson (README)
-2. Create a new issue or pull request template, or modfy an existing one,
+2. Create a new issue or pull request template, or modify an existing one,
    to guide contributors on how best to begin collaborating with you on GitHub.
 
 Groups of collaborators taking this training together should discuss first how they will assign these tasks between them.
