@@ -78,13 +78,13 @@ GitHub provides two project management tools for this purpose - **Milestones** a
 Both Milestones and Project Boards implement an agile development/project management system 
 to help you keep track of different components of the project and their current status.
 Milestones are good for [scrum-style project development and management](https://www.atlassian.com/agile/scrum) -
-i.e. timeboxed, structured iterations and working in short sprints on batches of issues. Project Boards implement
+i.e. time-bound, structured iterations and working in short sprints on batches of issues. Project Boards implement
 a [Kanban methodology](https://www.atlassian.com/agile/kanban) - good for managing continuous delivery and steady flow of work in a project.
 
 Both Project Boards and Milestones are a way of organising issues into smaller "sub-projects" (i.e.
 smaller than the "project" represented by the whole repository). When should you use one over the other?
-Project Boards provide a way of visualising and organising the work on an higher level (e.g. more suitable for
-project management tasks) and are not timeboxed (i.e. time-bound). Milestones are a way to
+Project Boards provide a way of visualising and organising the work on a higher level (e.g. more suitable for
+project management tasks that are not time-bound). Milestones are a way to
 organise lower-level tasks that have deadlines and progress of which needs to be closely tracked
 (e.g. release management). How you organise and partition your project work is up to you and the size
 of your project. For example, you could create a project per
@@ -92,7 +92,7 @@ milestone or have several milestones in a single project, and split milestones i
 
 ### Milestones
 
-A Milestone is a collection of issues to be worked on in a given time period (or timebox). Milestones are good for
+A Milestone is a collection of issues to be worked on in a given time period. Milestones are good for
 tracking progress as they provide an ordered list of issues which must all be resolved for the overall task to be
 considered complete. Milestones work like labels - they mark and group issues that are expected to be closed at
 some point in time.
