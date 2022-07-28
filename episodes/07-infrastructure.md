@@ -121,7 +121,7 @@ TODO insert screenshot of repository structure here
 
 ::: instructor
 
-Remind learners to paste URL of their lesson repository to the collaborative document.
+Remind learners to paste URL of their lesson repository and the rendered version of the lesson to the collaborative document.
 
 :::
 
