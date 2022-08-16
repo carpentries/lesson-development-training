@@ -102,11 +102,12 @@ about an individual or groups of people.
 When looking for data to reuse, consider public repositories in the subject area
 for your lesson or general data repositories such as:
 
-  - [Dryad](https://datadryad.org/)
-  - [The Data Cuartion Network's datasets](https://datacurationnetwork.org/datasets/)
-  - [The Offical Portal for European Data](https://data.europa.eu/)
-  - [DataONE](https://www.dataone.org/)
+- [Dryad](https://datadryad.org/)
+- [The Data Curation Network's datasets](https://datacurationnetwork.org/datasets/)
+- [The Offical Portal for European Data](https://data.europa.eu/)
+- [DataONE](https://www.dataone.org/)
 - [The Official Portal for Argentina Data](https://www.datos.gob.ar/) - (In Spanish)
+- [LANFRICA](https://lanfrica.com/)
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
