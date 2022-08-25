@@ -251,10 +251,10 @@ GitHub provides template boards that by default contain the three ‘basic’ co
 If you add an issue or pull request to a card in the board, it will automatically be moved to ‘Done’ for you when you close the issue or merge the pull request. One common extra column is `On hold` or `Waiting`. If you have tasks that get held up by waiting on other people (e.g. to respond to your questions) then moving them to a separate column makes their current state clearer. 
 
 You can also create a card without an issue. Such cards (or notes) can have detailed content like checklists or ideas 
-which are not necessary suitable for inclusion in your issue tracker. However, GitHub also allows you to convert a card to an issue, should you wish to do so, 
+which are not necessarily suitable for inclusion in your issue tracker. However, GitHub also allows you to convert a card to an issue, should you wish to do so, 
 so you can add labels or detailed comments to it. Sometimes, a card you thought was simple and self-contained might turn out to be a bigger task than you anticipated - in that case, it is sensible to create new cards that reference the one they broke off from.
 
-Once your project board has a large number of cards on it, you might want to begin priorisiting them. Not all tasks are going to be equally important, and some will require others to be completed before they can even be begun. Common methods of prioritisation include:
+Once your project board has a large number of cards on it, you might want to begin prioritising them. Not all tasks are going to be equally important, and some will require others to be completed before they can even be begun. Common methods of prioritisation include:
 
 - **Vertical position**: the vertical arrangement of cards in a column implicitly represents their importance. High-priority bugs go to the top of `To Do`, whilst tasks that depend on others go beneath them. This is the easiest one to implement, though you have to remember to correctly place cards when you add them.
 - **Priority columns**: instead of a single `To Do` column, you can have two or more, for example - `To Do: Low Priority` and `To Do: High Priority`. When adding a card, you pick which is the appropriate column for it. You can even add a Triage column for newly-added issues that you’ve not yet had time to classify. This format works well for project boards devoted to bugs.
