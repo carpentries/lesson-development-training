@@ -174,7 +174,13 @@ Examples:
 In the Software Carpentry Plotting and Programming with Python Lesson:
 Exercise to load and inspect americas csv -> In the lesson, load the oceania data table and explore the values with a few different functions.
 In the Python Interactive Data Visualization Lesson in the Incubator:
-Exercise to find the correct widget (a slider widget) for an action and modify the script to use it -> In the lesson the instructor introduces the cheatsheet and documentation and then creates a dropdown widget for the application.
+Exercise to find the correct widget (a slider) for an action and modify the script to use it -> 
+In the lesson the instructor introduces a cheatsheet and documentation for interactive widgets and 
+then creates a dropdown widget for the application. 
+The slider widget required in the exercise has not been demonstrated but
+the preceding example shows all of the necessary steps to add a widget, 
+and provides the supporting information that learners can consult to discover
+how to implement the specific tool.
 
 Outline one of these examples in your episode file.
 
