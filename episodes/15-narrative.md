@@ -104,7 +104,7 @@ Outline covering the above paragraph - also used in codiMD template.
 
 - Ethical use (see prompts below)
 - License - CC0 Recommended
-- Complexity - Is it easy to understand? Is it sufficiuently authentic?
+- Complexity - Is it easy to understand? Is it sufficiently authentic?
 - Number and types of variables
 
 ### Questions about Ethical Use of Datasets
