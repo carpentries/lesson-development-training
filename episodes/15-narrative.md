@@ -172,7 +172,11 @@ they will need to apply to complete the formative assessments you have designed?
 
 Examples:  
 In the Software Carpentry Plotting and Programming with Python Lesson:
-Exercise to load and inspect americas csv -> In the lesson, load the oceania data table and explore the values with a few different functions.
+Exercise to load and inspect CSV file for Americas -> 
+In the lesson, the Instructor demonstrates how to load the data table for another continent (Oceania)
+and explores the values with a few different functions.
+This shows learners how to call the function to load the CSV into a data frame,
+and demonstrates what success looks like for this task.
 In the Python Interactive Data Visualization Lesson in the Incubator:
 Exercise to find the correct widget (a slider) for an action and modify the script to use it -> 
 In the lesson the instructor introduces a cheatsheet and documentation for interactive widgets and 
