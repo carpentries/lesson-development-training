@@ -31,12 +31,28 @@ are learning now could be useful after the workshop.
 You can enable learners to make connections between what they learn in your lesson and their
 own work by creating a narrative that resembles a situation the learners might
 encounter there.
+
+You may find that images and figures enhance your narrative. Images are powerful communicators, conveying a lot of information with few or no words. Images can also be distracting for learners. If you choose to include images as part of the narrative of your lesson, be sure that they are consistent with the situation you are describing so that they do not increase learners' cognitive load.
+
 Depending on the tool you are teaching, you might also include a particular dataset as a part of the story you are weaving into your lesson.
 It is common for lessons to include a dataset that is used in examples and discussed throughout.
 This can help you maintain a narrative flow and make the lesson feel more authentic.
 Even if your topic doesn't require a dataset, deciding on a consistent narrative will
 help create a flow between lessons and reduce cognitive load for learners.
 
+## Finding images
+
+Copying an image from a website is technologically simple, but can be legally and ethically complex. Images are intellectual property and are subject to intellectual property laws, including, but not limited to, copyright and trademark laws. These laws differ by country but are consistent in theme: do not take intellectual property that does not belong to you without permission. 
+
+When searching for images to use in your lesson, look for images that carry a permissive license such as CC0 or CC-BY. Such a license means that the image creator is allowing reuse of their image without requiring the user to seek explicit permission. If you do not see a license associated with an image, assume that you cannot reuse the image without seeking permission from the image creator or owner.
+
+In general, your options are:
+
+- Use images carrying a permissive license and abide by the terms of the license when including the image in your lesson.
+- Seek permission from the creator or owner of an image. Keep a record of any permission you received and include a note about the permission in your lesson.
+- Create your own images for your lesson or seek help from others in the Carpentries community. When creating your own images, license these images to be compatible with the license on the rest of your lesson material.
+
+The guidance in this section is not a substitute for legal advice.
 
 ## Finding a dataset
 
