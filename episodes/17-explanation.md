@@ -247,7 +247,7 @@ Map out the relationships between the lesson objectives (LO),
 the learning experiences via which they will be delivered and those specific items of content
 e.g., item A supports LO 1, \& will be delivered using a lecture  
 OR more specifically  
-The read CSV and inspect demo supports Objective 2 (Use Pandas to load a simple CSV data set) and will be delivered using a lecture.
+The read CSV and inspect demo supports Objective 2 (Use Pandas to load a simple CSV data set) and will be delivered using participatory live coding.
 
 - Is there any piece of content that doesn't support any learning objectives?
 - Is there at least one piece of content for each learning objective?
