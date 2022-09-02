@@ -201,6 +201,13 @@ data instead.
 
 :::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::: instructor
+
+May want to point out that the answers in the current version of this exercise do not 
+have diagnostic power.
+
+:::::::::::::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Other Text to Complete an Episode
@@ -228,6 +235,8 @@ you intended for an episode.
 
 Add key points and questions to your episode.
 
+To check the formatting requirements, see the Introduction Episode example in your lesson or [the Workbench Documentation](https://carpentries.github.io/sandpaper-docs/episodes.html#questions-objectives-keypoints)
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::  challenge
@@ -236,7 +245,9 @@ Add key points and questions to your episode.
 
 Map out the relationships between the lesson objectives (LO),
 the learning experiences via which they will be delivered and those specific items of content
-(e.g., item A supports LO 1, \& will be delivered using a lecture).
+e.g., item A supports LO 1, \& will be delivered using a lecture  
+OR more specifically  
+The read CSV and inspect demo supports Objective 2 (Use Pandas to load a simple CSV data set) and will be delivered using participatory live coding.
 
 - Is there any piece of content that doesn't support any learning objectives?
 - Is there at least one piece of content for each learning objective?
