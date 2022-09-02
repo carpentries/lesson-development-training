@@ -42,17 +42,25 @@ help create a flow between lessons and reduce cognitive load for learners.
 
 ## Finding images
 
-Copying an image from a website is technologically simple, but can be legally and ethically complex. Images are intellectual property and are subject to intellectual property laws, including, but not limited to, copyright and trademark laws. These laws differ by country but are consistent in theme: do not take intellectual property that does not belong to you without permission. 
+Copying an image from a website is technologically simple but can be legally and ethically complex. Images are intellectual property and are subject to intellectual property laws including, but not limited to, copyright and trademark laws. These laws differ by country but are consistent in theme: do not take intellectual property that does not belong to you without permission. 
 
-When searching for images to use in your lesson, look for images that carry a permissive license such as CC0 or CC-BY. Such a license means that the image creator is allowing reuse of their image without requiring the user to seek explicit permission. If you do not see a license associated with an image, assume that you cannot reuse the image without seeking permission from the image creator or owner.
+When looking for images that illustrate the narrative of your lesson, avoid copying images that do not include a reuse license. Assume that you cannot reuse these images unless you seek written permission from the image creator or owner. Instead, look for images that indicate that they are in the public domain or carry a permissive reuse license such as CC0 or CC-BY. Public domain images can be freely reused and adapted. Images carrying a reuse license can be used and adapted in accordance with their license terms.
 
-In general, your options are:
-
-- Use images carrying a permissive license and abide by the terms of the license when including the image in your lesson.
-- Seek permission from the creator or owner of an image. Keep a record of any permission you received and include a note about the permission in your lesson.
-- Create your own images for your lesson or seek help from others in the Carpentries community. When creating your own images, license these images to be compatible with the license on the rest of your lesson material.
+If you cannot find reusable images that match your narrative, you can create your own images or seek help from others in the Carpentries community. When incorporating original images into your lesson, be sure to license these images to be compatible with the license on the rest of your lesson materials.
 
 The guidance in this section is not a substitute for legal advice.
+
+:::::::::::::::: callout
+
+## Compatible Licenses
+
+Creative Commons offers a chart that identifies which CC licenses are compatible with each other for adaptation ("remix") purposes:
+[Creative Commons license comparison chart](https://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work).
+
+GNU offers commentary about a variety of licenses for free software; this resource may be valuable when considering a license for code:
+[GNU: Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.en.html)
+
+::::::::::::::::::
 
 ## Finding a dataset
 
