@@ -96,6 +96,27 @@ The [CARE Principles for Indigenous Data Governance](https://doi.org/10.5334/dsj
 for thinking about data sovereignty and considering the ethics of data collected
 about an individual or groups of people.
 
+::::::::::::::::::::::::::::::::: instructor 
+
+Outline covering the above paragraph - also used in codiMD template.
+
+### Dataset considerations
+
+- Ethical use (see prompts below)
+- License - CC0 Recommended
+- Complexity - Is it easy to understand? Is it sufficiently authentic?
+- Number and types of variables
+
+### Questions about Ethical Use of Datasets
+
+- Does the data contain personally identifiable information?
+- Was the data collected without permission from the groups or individuals included?
+- Will the data be upsetting to learners in the workshop?
+
+
+::::::::::::::::::::::::::::::
+
+
 
 ### Examples of Public Repositories
 
@@ -148,6 +169,22 @@ learning the additional and vital skills where the application might be less cle
 Looking back at one of the exercises you designed before:
 what examples could you include in your narrative to teach learners the skills
 they will need to apply to complete the formative assessments you have designed?
+
+Examples:  
+In the Software Carpentry Plotting and Programming with Python Lesson:
+Exercise to load and inspect CSV file for Americas -> 
+In the lesson, the Instructor demonstrates how to load the data table for another continent (Oceania)
+and explores the values with a few different functions.
+This shows learners how to call the function to load the CSV into a data frame,
+and demonstrates what success looks like for this task.
+In the Python Interactive Data Visualization Lesson in the Incubator:
+Exercise to find the correct widget (a slider) for an action and modify the script to use it -> 
+In the lesson the instructor introduces a cheatsheet and documentation for interactive widgets and 
+then creates a dropdown widget for the application. 
+The slider widget required in the exercise has not been demonstrated but
+the preceding example shows all of the necessary steps to add a widget, 
+and provides the supporting information that learners can consult to discover
+how to implement the specific tool.
 
 Outline one of these examples in your episode file.
 
