@@ -32,7 +32,12 @@ You can enable learners to make connections between what they learn in your less
 own work by creating a narrative that resembles a situation the learners might
 encounter there.
 
-You may find that images and figures enhance your narrative. Images are powerful communicators, conveying a lot of information with few or no words. Images can also be distracting for learners. If you choose to include images as part of the narrative of your lesson, be sure that they are consistent with the situation you are describing so that they do not increase learners' cognitive load.
+You may find that images and figures enhance your narrative. 
+Images are powerful communicators, conveying a lot of information with few or no words. 
+Images can also be distracting for learners. 
+If you choose to include images as part of the narrative of your lesson, 
+be sure that they are consistent with the situation you are describing 
+so that they do not increase learners' cognitive load.
 
 Depending on the tool you are teaching, you might also include a particular dataset as a part of the story you are weaving into your lesson.
 It is common for lessons to include a dataset that is used in examples and discussed throughout.
@@ -42,11 +47,24 @@ help create a flow between lessons and reduce cognitive load for learners.
 
 ## Finding images
 
-Copying an image from a website is technologically simple but can be legally and ethically complex. Images are intellectual property and are subject to intellectual property laws including, but not limited to, copyright and trademark laws. These laws differ by country but are consistent in theme: do not take intellectual property that does not belong to you without permission. 
+Copying an image from a website is technologically simple but can be legally and ethically complex. 
+Images are intellectual property and are subject to intellectual property laws 
+including, but not limited to, copyright and trademark laws. 
+These laws differ by country but are consistent in theme: 
+do not take intellectual property that does not belong to you without permission. 
 
-When looking for images that illustrate the narrative of your lesson, avoid copying images that do not include a reuse license. Assume that you cannot reuse these images unless you seek written permission from the image creator or owner. Instead, look for images that indicate that they are in the public domain or carry a permissive reuse license such as CC0 or CC-BY. Public domain images can be freely reused and adapted. Images carrying a reuse license can be used and adapted in accordance with their license terms.
+When looking for images that illustrate the narrative of your lesson, 
+avoid copying images that do not include a reuse license. 
+Assume that you cannot reuse these images unless you seek written permission from the image creator or owner. 
+Instead, look for images that indicate that they are in the public domain 
+or carry a permissive reuse license such as CC0 or CC-BY. 
+Public domain images can be freely reused and adapted. 
+Images carrying a reuse license can be used and adapted in accordance with their license terms.
 
-If you cannot find reusable images that match your narrative, you can create your own images or seek help from others in the Carpentries community. When incorporating original images into your lesson, be sure to license these images to be compatible with the license on the rest of your lesson materials.
+If you cannot find reusable images that match your narrative, you can 
+create your own images or seek help from others in the Carpentries community. 
+When incorporating original images into your lesson, be sure to license these images 
+to be compatible with the license on the rest of your lesson materials.
 
 The guidance in this section is not a substitute for legal advice.
 
