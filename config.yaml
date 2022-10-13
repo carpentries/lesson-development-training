@@ -44,6 +44,33 @@ contact: team@carpentries.org
 
 # Order of episodes in your lesson
 episodes:
+- introduction.md
+- lesson-design.md
+- audience.md
+- short-break.md
+- objectives.md
+- long-break.md
+- infrastructure.md
+- short-break.md
+- episode-objectives.md
+- short-break.md
+- formative-assessment.md
+- wrap-up1.md
+- exercises.md
+- short-break.md
+- narrative.md
+- long-break.md
+- explanation.md
+- short-break.md
+- operations.md
+- preparing.md
+- wrap-up2.md
+- reflecting.md
+- short-break.md
+- external.md
+- long-break.md
+- collaborating.md
+- wrap-up3.md
 
 # Information for Learners
 learners:
