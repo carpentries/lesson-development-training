@@ -31,8 +31,21 @@ A teaching plan outlines the structure of your teaching session, including detai
 - welcome, introductions and motivation for the lesson - to introduce yourself, aims and objectives of the lesson and how it will help learners
 - setup - to check if everyone is ready to proceed with the lesson
 - segments of teaching and exercises from the lesson and any other planned activities (e.g. group discussions, wrap-up and feedback)
+- checkpoints - places where you have planned to stop to check-in with learners
 - slides, figures and other visual aids needed to deliver teaching and other parts of the teaching plan 
 - resources/references/recommended reading
+
+::: callout
+
+## Checkpoints in a Teaching Plan
+
+Checkpoints are especially useful at the beginning of a lesson 
+when you may not have as many exercises 
+but the learners need to have the data downloaded or tool opened to be able to follow along.
+A checkpoint could include stopping to ask what questions learners have or having them 
+indicate if they have completed the most recent step shown by the instructor.
+
+:::
 
 ::::::::::::::::::::::::::::::::::::  testimonial
 
