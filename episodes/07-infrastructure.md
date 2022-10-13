@@ -283,6 +283,8 @@ as a bullet list in the `index.md` file of your lesson repository.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Episodes
+
 The main body of the lesson is written in _episodes_: 
 the individual chunks or sections that the lesson is separated into.
 The episode pages of the lesson site will be constructed from Markdown files
@@ -312,6 +314,8 @@ There are two important things to note:
    Each fenced div starts and ends with a string of colons. 
    A word at the end of the starting colons indicates what kind of block it is. 
    We will explore them in more detail later in the training.
+
+### Creating a new episode
 
 Let's create a new episode file, for one of the episodes you have just identified.
 First, open the "raw" view of the `introduction.md` example episode,
@@ -379,33 +383,62 @@ exercises: 0
 ::::::::::::::::::::::::::::::::::::::::::::::::
 ```
 
+### Adding a new episode to the lesson navigation
 
+A few minutes after the new file has been created, 
+a new episode page should become available on your lesson site.
+To check, navigate with your web browser to 
+`https://username.github.io/lesson-name/episode-name.html`,
+where `https://username.github.io/lesson-name/` is the URL of your lesson homepage,
+and `episode-name` is the name of the new episode file you created
+(without the `.md` or `.Rmd` extension).
 
-::::::::::::::::::::::::::::::::::::::  challenge
+However, this new episode will not yet appear in the navigation of your lesson site.
+To enable this, we need to specify where the episode should appear 
+in the order of the lesson.
+That episode order is defined in the `episodes` field of the `config.yaml` file:
 
-## Exercise: practice creating episodes (10 minutes)
+```YAML
+# Order of episodes in your lesson
+episodes: 
+- introduction.md
 
-Repeat the steps you just saw, to create another new episode file.
-If you know what another episode in your lesson will be about,
-create the page for that.
-Otherwise, feel free to use any values you like for the file name and episode title.
+```
 
-::::::::::::::::::::::::::::::::::::::::::::::::::
+Add the name of the new episode file you created to this list in `config.yaml`
+and commit this change, for example:
 
+```yaml
+# Order of episodes in your lesson
+episodes: 
+- introduction.md
+- data-visualisation.md
 
-When these episode files have been created,
-you can navigate back to the lesson website.
-Refresh the page and,
-under _Chapters_ in the left sidebar,
-you should find the titles of all the episodes in
-the `episodes` folder of your repository.
-Clicking on one of those titles will take you to the episode page built from the file you created.
+```
+
+After the lesson site has been rebuilt on GitHub,
+you should see the episode title appear under _Chapters_
+in the left sidebar navigation of your lesson site
+after refreshing the webpage
+Clicking on that title will take you to the episode page built from the file you created.
 At the top of the page body, you will find the episode title 
 and an _Overview_ box containing a list of the questions and objectives
 defined for the episode.
 Later, we will add more content to your chosen episodes.
 
 TODO add a labelled screenshot of a new episode page
+
+::::::::::::::::::::::::::::::::::::::  challenge
+
+## Exercise: practice creating episodes (10 minutes)
+
+Repeat the steps you just saw, to create another new episode file
+and add it to the lesson site navigation.
+If you know what another episode in your lesson will be about,
+create the page for that.
+Otherwise, feel free to use any values you like for the file name and episode title.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Using this approach, we can build up our lesson one episode at a time.
 
