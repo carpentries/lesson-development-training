@@ -129,6 +129,28 @@ SMART objectives should be:
 - **T**ime-bound: they should include some timeframe within which the goal will be reached. For learning objectives, this is built into the approach described above.
 
 
+:::::: instructor
+
+## Markdown Table Template for Exercise
+
+You may find this template of a Markdown table useful to share with your trainees
+before they complete the next exercise.
+
+```Markdown
+| Objective | Action verb? | Specific | Measurable | Attainable |
+|-----------|--------------|----------|------------|------------|
+| 1         |              |          |            |            |
+| 2         |              |          |            |            |
+| 3         |              |          |            |            |
+```
+
+_Note: if you are using the [template CodiMD for notes][codimd-notes-template], 
+you will find [this template table for the exercise](https://codimd.carpentries.org/cldt-notes-template?both#Exercise-evaluating-learning-objectives-15-minutes) included there._
+
+If you are using Etherpad for collaborative notes in your training, 
+you can use [the template table for Etherpad](https://pad.carpentries.org/1QL-h8z-s70J8cemD0J1) instead.
+
+:::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
