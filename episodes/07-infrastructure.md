@@ -296,8 +296,8 @@ TODO: add context and explanation for our use of "episodes" to describe chunks o
 
 :::
 
-The `episodes` folder of the new repository contains a single file,
-`01-introduction.md`. 
+The `episodes` folder of the new repository contains a single file, 
+`introduction.md`. 
 The content of this file includes examples of how to write Markdown files
 for The Carpentries Workbench.
 
@@ -314,7 +314,7 @@ There are two important things to note:
    We will explore them in more detail later in the training.
 
 Let's create a new episode file, for one of the episodes you have just identified.
-First, open the "raw" view of the `01-introduction.md` example episode,
+First, open the "raw" view of the `introduction.md` example episode,
 and copy the first 19 lines, 
 down to the blank line under the closing string of the `objectives` div.
 
@@ -349,16 +349,14 @@ do not create conflicts e.g. by editing the same file or creating files with ide
 
 Now create a new file in the `episodes` folder and,
 based on the episodes you planned out in _Defining lesson objectives_,
-choose a name for it that concisely describes the intended content.
-To control the order of episodes in the lesson,
-the name should start with two digits, 
-e.g. `02-data-visualisation.md`.
+choose a name for it that concisely describes the intended content,
+e.g. `data-visualisation.md`.
 
-For page content, paste those first 19 lines of the `01-introduction.md` file and:
+For page content, paste those first 19 lines of the `introduction.md` file and:
 
 1. replace the title
 2. set the `teaching` and `exercises` fields to zero for now
-3. replace the contents of the `questions` and `objectives` divs with "TODO"
+3. replace the contents of the `questions` and `objectives` divs with "- TODO"
 
 
 ```markdown
@@ -380,6 +378,8 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 ```
+
+
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
