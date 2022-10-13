@@ -77,7 +77,7 @@ and alongside the lesson whenever it is shown on The Carpentries websites
 and lesson listings.
 
 The life cycle stage for a lesson is configured in the `config.yaml` file we
-encountered when we were first introduced to [The Carpentries Workbench](07-infrastructure.md),
+encountered when we were first introduced to [The Carpentries Workbench](infrastructure.md),
 as a value for the `life_cycle` field. 
 For new lesson repositories, this value is already set to 'pre-alpha', 
 so you should not have to change it yet.
@@ -99,7 +99,7 @@ over to another styling when the lesson moves e.g. into The Carpentries Lab.
 
 ## Pilot Workshops
 
-In line with [the importance we placed on evaluation of lesson content earlier in this training](03-audience.md),
+In line with [the importance we placed on evaluation of lesson content earlier in this training](audience.md),
 the life cycle described above places considerable emphasis on 
 the testing of lessons in **pilot workshops**.
 

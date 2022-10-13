@@ -27,7 +27,7 @@ As we have seen previously, defining objectives for a lesson (or a teaching epis
 
 ## Hidden Curriculum
 
-There is one more curriculum at play here - **hidden curriculum** includes all unintended curricular effects that influence learning but are not explicitly  addressed in the lesson content - e.g. (unofficial) social and cultural norms, behaviours and values that are transferred by instructors to learners, often unconsciously. These are all the additional things that people learn about the topic from *the way* your lesson is taught, rather than from its official content. You can use Instructor Notes (covered in more detail in ["Preparing to Teach"](20-preparing.md) episode) to guide instructors on some of the aspects of the hidden curriculum, e.g. to encourage them to follow certain tried and tested practices.
+There is one more curriculum at play here - **hidden curriculum** includes all unintended curricular effects that influence learning but are not explicitly  addressed in the lesson content - e.g. (unofficial) social and cultural norms, behaviours and values that are transferred by instructors to learners, often unconsciously. These are all the additional things that people learn about the topic from *the way* your lesson is taught, rather than from its official content. You can use Instructor Notes (covered in more detail in ["Preparing to Teach"](preparing.md) episode) to guide instructors on some of the aspects of the hidden curriculum, e.g. to encourage them to follow certain tried and tested practices.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: 
   

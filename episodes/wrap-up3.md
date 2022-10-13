@@ -24,7 +24,7 @@ exercises: 25
 We have reached the end of this training.
 By now, you should have made good progress towards a first draft of your lesson.
 
-Referring back to [the life cycle stages for lessons](19-operations.md) 
+Referring back to [the life cycle stages for lessons](operations.md) 
 described earlier in the curriculum, 
 your lesson is still in _pre-alpha_ but hopefully approaching _alpha_,
 when it is ready to be taught in full for the first time.
