@@ -101,7 +101,7 @@ that the Workbench needs in order to build a lesson site.
 There are currently two templates to choose between:
 
 1. [A Markdown template][md-template]
-2. [An RMarkdown template][rmd-template], best suited to lessons that will include R source code that will generate output.
+2. [An RMarkdown template][rmd-template], best suited to lessons you expect to include R source code that will generate output.
 
 **One member of each participating lesson team** should choose one of these templates, 
 following the link above and completing the configuration as follows:
