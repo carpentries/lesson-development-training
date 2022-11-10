@@ -1,10 +1,19 @@
 ---
-title: FIXME
+title: Trainer Notes
 ---
 
-### Training Themes
+## Schedule
 
-#### Lesson Development as a Learning Process
+The curriculum was piloted in six half-days, 
+with an extended break for lesson trial runs between half-days 4 & 5.
+Below is the schedule for the pilot, showing a break down of episodes
+across each half-day.
+
+
+
+## Training Themes
+
+### Lesson Development as a Learning Process
 
 A recurring theme in this training is the discussion of the benefits of piloting a new 
 lesson and treating teaching as an opportunity to learn and improve the lesson. 
