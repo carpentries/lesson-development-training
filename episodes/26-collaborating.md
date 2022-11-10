@@ -90,13 +90,14 @@ are called _Pull Requests_.
 
 ## Why "Pull Request"?
 
-The name is slightly anachronistic now, because a project maintainer can often
-manage the whole process of reviewing a contribution in GitHub's web interface,
-but the term _Pull Request_ originates from the early days of GitHub, when
+The term _Pull Request_ originates from the early days of GitHub, when
 a contributor would be requesting that the project maintainer(s)
-use Git to fetch or _pull_ the new branch to their local version of the project
-repository, to further explore and test the changes before deciding whether to
-merge them or not.
+use Git to fetch (download) their branch and merge the changes 
+into the main branch of the project.
+In the terminlogy of Git, this combination of fetching and merging a set of changes 
+is called _pulling_.
+The name Pull Request is slightly anachronistic now, because a project maintainer can often
+manage the whole process of reviewing a contribution in GitHub's web interface.
 
 ::::::::::::::
 
