@@ -272,7 +272,8 @@ What diagram or other visual aids could you add to supplement your text?
 
 [dismissive-language-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise/index.html#just-and-other-dismissive-language
 [expert-awareness-gap-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise/index.html#mind-the-gap
-[instructor-notes]: https://carpentries.github.io/workbench/transition-guide.html#instructor-notes)
+[instructor-notes]: https://carpentries.github.io/workbench/transition-guide.html#instructor-notes
+[lab-reviewer-checklist]: https://github.com/carpentries-lab/reviews/blob/main/docs/reviewer_guide.md#reviewer-checklist
 [mental-map-instructor-training]: https://carpentries.github.io/instructor-training/02-practice-learning/#mapping-a-mental-model
 [stereotype-threat-instructor-training]: https://carpentries.github.io/instructor-training/09-eia/index.html#stereotypes
 [sandpaper-docs-learners]: https://carpentries.github.io/sandpaper-docs/editing.html#learners
