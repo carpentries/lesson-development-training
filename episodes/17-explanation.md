@@ -239,6 +239,18 @@ To check the formatting requirements, see the Introduction Episode example in yo
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Polishing a lesson
+
+You should not aim to make a polished lesson at the first attempt:
+keeping things relatively basic makes sense while you run through the first few iterations
+of teaching the lesson, collecting feedback, and usinhg that to guide improvements.
+
+However, once you find that the lesson is beginning to reach something like a stable state,
+you may find [the checklist for lesson reviewers in The Carpentries Lab][lab-reviewer-checklist]
+useful as a guide for polishing the design and content.
+The checklist describes criteria for a lesson to meet a high standard in terms of its
+accessibility, design, content, and supporting information.
+
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Reflection Exercise (20 minutes)
