@@ -93,6 +93,18 @@ In `index.md`:
 
 :::
 
+::: callout
+
+### Full List of Fenced Divs
+
+[The Workbench Component Guide][component-guide] provides a full list of
+all the different classes of fenced div that can be included using the lesson infrastructure.
+The guide specifies which divs are required for an episode
+(`objectives`, `questions`, and `keypoints`),
+and which are optional.
+
+:::
+
 Now that we have defined objectives for our episodes,
 we can start working on the next step in developing an effective lesson:
 designing exercises that will assess whether a learner has learned what you aimed to teach them.
