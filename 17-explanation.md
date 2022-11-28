@@ -239,6 +239,18 @@ To check the formatting requirements, see the Introduction Episode example in yo
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Polishing a lesson
+
+Lessons do not need to be perfected prior to teaching them the first time.
+In fact, keeping things relatively basic leaves you some flexibility while you run through the first few iterations
+of teaching the lesson, collecting feedback, and using that to guide improvements.
+
+However, once you find that the lesson is beginning to reach something like a stable state,
+you may find [the checklist for lesson reviewers in The Carpentries Lab][lab-reviewer-checklist]
+useful as a guide for polishing the design and content.
+The checklist describes criteria for a lesson to meet a high standard in terms of its
+accessibility, design, content, and supporting information.
+
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Reflection Exercise (20 minutes)
@@ -260,7 +272,8 @@ What diagram or other visual aids could you add to supplement your text?
 
 [dismissive-language-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise/index.html#just-and-other-dismissive-language
 [expert-awareness-gap-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise/index.html#mind-the-gap
-[instructor-notes]: https://carpentries.github.io/workbench/transition-guide.html#instructor-notes)
+[instructor-notes]: https://carpentries.github.io/workbench/transition-guide.html#instructor-notes
+[lab-reviewer-checklist]: https://github.com/carpentries-lab/reviews/blob/main/docs/reviewer_guide.md#reviewer-checklist
 [mental-map-instructor-training]: https://carpentries.github.io/instructor-training/02-practice-learning/#mapping-a-mental-model
 [stereotype-threat-instructor-training]: https://carpentries.github.io/instructor-training/09-eia/index.html#stereotypes
 [sandpaper-docs-learners]: https://carpentries.github.io/sandpaper-docs/editing.html#learners
