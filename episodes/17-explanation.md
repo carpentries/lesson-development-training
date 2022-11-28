@@ -241,9 +241,9 @@ To check the formatting requirements, see the Introduction Episode example in yo
 
 ## Polishing a lesson
 
-You should not aim to make a polished lesson at the first attempt:
-keeping things relatively basic makes sense while you run through the first few iterations
-of teaching the lesson, collecting feedback, and usinhg that to guide improvements.
+Lessons do not need to be perfected prior to teaching them the first time.
+In fact, keeping things relatively basic leaves you some flexibility while you run through the first few iterations
+of teaching the lesson, collecting feedback, and using that to guide improvements.
 
 However, once you find that the lesson is beginning to reach something like a stable state,
 you may find [the checklist for lesson reviewers in The Carpentries Lab][lab-reviewer-checklist]
