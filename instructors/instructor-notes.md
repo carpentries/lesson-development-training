@@ -6,9 +6,6 @@ title: Trainer Notes
 
 The curriculum was piloted in six half-days, 
 with an extended break for lesson trial runs between half-days 4 & 5.
-Below is the schedule for the pilot, showing a break down of episodes
-across each half-day.
-
 
 
 ## Training Themes
