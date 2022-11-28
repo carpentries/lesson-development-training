@@ -231,7 +231,7 @@ you intended for an episode.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: Completing episode metadata (5 minutes)
+## Exercise: Completing episode metadata (10 minutes)
 
 Add key points and questions to your episode.
 
