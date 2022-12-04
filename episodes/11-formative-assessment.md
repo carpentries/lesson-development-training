@@ -63,7 +63,7 @@ Any instructional tool that generates feedback and is used in a formative way to
 
 - **reflection** at the end of a session to help process learning - e.g. asking learners to write down things they learned, things they want to know more about and any questions they still have
 - **concept maps and diagrams** - asking learners to reflect by drawing/labeling a concept map/diagram or writing down a list of new concepts and skills they’ve learned and (optionally) how they relate to one another or connect with previous knowledge
-- **minute cards** - gauging learners’ satisfaction and understanding using agreed signals (e.g. raising different coloured post-it/sticky notes to indicate that the pace is too fast/slow, that they completed/have not completed an exercise).
+- **checking in** - gauging learners’ satisfaction and understanding using agreed signals (e.g. raising different coloured post-it/sticky notes or zoom reactions to indicate that the pace is too fast/slow, that they completed/have not completed an exercise).
 
 Many other formative assessment tools can be found in Briggs’ list of ["21 ways to check for student understanding"](https://www.opencolleges.edu.au/informed/features/21-ways-to-check-for-student-understanding/) or Edutopia's ["56 Examples of Formative Assessment"](https://www.edutopia.org/groups/assessment/250941).
 
