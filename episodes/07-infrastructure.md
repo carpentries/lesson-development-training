@@ -83,7 +83,7 @@ The Workbench combines three R packages:
    the structure of a lesson website.
 - `{varnish}`: provides the files and folders that add 
    styling and additional functionality to a lesson website.
-- `{pegboard}`: an programmatic interface to the lesson, 
+- `{pegboard}`: a programmatic interface to the lesson, 
    enabling various automated validation tasks.
 
 For lesson developers, 
