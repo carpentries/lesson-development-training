@@ -1,5 +1,5 @@
 ---
-title: Lesson design
+title: Lesson Design
 teaching: 10
 exercises: 10
 ---
@@ -61,7 +61,7 @@ to place an emphasis on assessing learning during a workshop:
 **TODO: add a figure illustrating the process described in the list above. 
 could be similar to the one used earlier for Nicholl's original list.**
 
-## Your lessons
+## Your Lessons
 
 This training will provide many opportunities for discussion of your lessons.
 Providing some context now for the lessons that you will be creating will
