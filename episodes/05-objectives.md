@@ -1,5 +1,5 @@
 ---
-title: Defining lesson objectives/outcomes
+title: Defining Lesson Objectives/Outcomes
 teaching: 30
 exercises: 50
 ---
@@ -34,7 +34,7 @@ that are appropriate for the lesson content,
 and provides a scope for what should and should not be included.
 
 
-## Why focus on skills?
+## Why Focus on Skills?
 
 To ensure your audience stays motivated, and your lesson feels relevant to them,
 we recommend that lessons focus on teaching skills rather than tools.
@@ -45,7 +45,7 @@ Placing the emphasis on skills over tools will help you prioritise key concepts
 and consider how your lesson can have the biggest impact on the way learners do their work.
 
 
-## Learning objectives
+## Learning Objectives
 
 The desired outcomes (the _learning objectives_) of a lesson should be new skills, 
 i.e. things that the learner can do.
@@ -72,7 +72,7 @@ It will help us ensure we do not miss anything important or, conversely,
 include anything superfluous that could use up valuable time or distract instructors and learners.
 
 
-## What does an objective look like?
+## What Does an Objective Look Like?
 
 Objectives can be defined for a lesson as a whole -
 what should learners be able to do at the end of a workshop teaching this lesson? -
@@ -82,7 +82,7 @@ The objectives for the current section of this training are:
 
 ::::::::: checklist
 
-## Objectives for this section
+## Objectives for This Section
 
 - Explain the importance of defining specific, measurable, attainable, relevant and time-bound objectives for a lesson.
 - Evaluate a written lesson objective according to these criteria.
@@ -115,7 +115,7 @@ We will see how helpful it can be to use action verbs in learning objectives
 when we begin talking about exercise design in the coming episodes.
 
 
-## SMART objectives
+## SMART Objectives
 
 To assist you in defining and writing learning objectives for your lesson,
 it can be helpful to turn to a popular framework for defining goals: _SMART_.
@@ -200,7 +200,7 @@ For example, a more specific and measurable version of this objective could be:
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Lesson scope
+## Lesson Scope
 
 One of the major challenges of lesson design is choosing what to include in a lesson:
 what the main points will be,
@@ -236,7 +236,7 @@ because the task can be considered in the context of taking out whole
 learning objectives.
 
 
-## Defining learning objectives
+## Defining Learning Objectives
 
 We have discussed the importance of defining objectives early in 
 the lesson design process,
