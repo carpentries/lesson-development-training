@@ -57,8 +57,8 @@ playing a musical instrument,
 or making sushi,
 are probably better suited to a different platform than a static website.)
 Cognitive skills cannot be equally easily acquired:
-before we can apply concepts and create something new, we must attain the ability to remember 
-and distinguish between new concepts. 
+before we can *apply* concepts and *create* something new, we must attain the ability to *remember*
+and *distinguish* between new concepts. 
 Remembering and distinguishing are also abilities that are often faster to gain then applying or creating.
 
 We must try to be realistic about how far along this scale we can move learners during a single workshop/lesson.
