@@ -1,5 +1,5 @@
 ---
-title: Identifying your target audience
+title: Identifying Your Target Audience
 teaching: 25
 exercises: 20
 ---
