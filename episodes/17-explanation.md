@@ -1,5 +1,5 @@
 ---
-title: How to write a lesson
+title: How to Write a Lesson
 teaching: 30
 exercises: 40
 ---
