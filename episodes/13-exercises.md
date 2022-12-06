@@ -38,7 +38,7 @@ to long-term memory and free up learners' working memory for new items.
 Creating exercises builds upon the learning objectives you created earlier in the lesson design process.
 You can design exercises based on the actions/skills you described in your 
 learning objectives (the learning outcomes you intend for the lesson).
-This will be easier if your wrote learning objectives with specific action verbs.
+This will be easier if you wrote learning objectives with specific action verbs.
 Specific verbs can help you decide what action you want the learners to perform in the exercise.
 E.g. actions such as "explain" and "describe" may be better assessed by discussions 
 and multiple choice questions, while "solve," "construct," "test" and other 
