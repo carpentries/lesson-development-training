@@ -74,7 +74,7 @@ include anything superfluous that could use up valuable time or distract instruc
 
 ## What does an objective look like?
 
-![This diagram highlights the most important elements of a learning objective.](fig/objective.svg){alt="An example 
+![This diagram highlights the most important elements of a learning objective.](fig/objective.svg){alt='An example 
 learning objective, "import data into an indexed DataFrame with read_csv", with emphasis placed on the action verb 
 ("import") and the specificity ("indexed") of the objective.'}
 
