@@ -161,7 +161,7 @@ For now, we will move on to complete the basic setup of the lesson.
 
 ::: instructor
 
-Note that at this point we are mentioning only the files/folders that are strictly "repository internal", i.e. they are not part of the lesson site built from the repository. The `config.yaml` file is half-and-half in that it is not part of the built lesson, but its contents are relevant to the lesson site as the configuration applies to the site. You do not have to dwell on the list too long, because these and other files and folders relevant to the lesson (including `config.yaml`) will be covered before the end of the training.
+Note that at this point we are mentioning only the files/folders that are strictly "repository internal", i.e. they are not part of the lesson site built from the repository. You do not have to dwell on the list for too long, because these and other files and folders relevant to the lesson itself (including `config.yaml`) will be covered before the end of the training.
 
 :::
 
