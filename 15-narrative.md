@@ -1,5 +1,5 @@
 ---
-title: Example data and narrative
+title: Example Data and Narrative
 teaching: 15
 exercises: 50
 ---
@@ -21,7 +21,7 @@ exercises: 50
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Creating a narrative
+## Creating a Narrative
 
 <!--- Should this section go before LO and questions? -->
 
@@ -45,7 +45,7 @@ This can help you maintain a narrative flow and make the lesson feel more authen
 Even if your topic doesn't require a dataset, deciding on a consistent narrative will
 help create a flow between lessons and reduce cognitive load for learners.
 
-## Finding images
+## Finding Images
 
 Copying an image from a website is technologically simple but can be legally and ethically complex. 
 Images are intellectual property and are subject to intellectual property laws 
@@ -80,7 +80,7 @@ GNU offers commentary about a variety of licenses for free software; this resour
 
 ::::::::::::::::::
 
-## Finding a dataset
+## Finding a Dataset
 
 When searching for a dataset to use in your lesson, 
 there are a number of factors to consider.
@@ -142,7 +142,7 @@ about an individual or groups of people.
 
 Outline covering the above paragraph - also used in codiMD template.
 
-### Dataset considerations
+### Dataset Considerations
 
 - Ethical use (see prompts below)
 - License - CC0 Recommended

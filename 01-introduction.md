@@ -52,7 +52,7 @@ Do not force people to share their pronouns.
 
 ::: challenge
 
-### Getting to know each other
+### Getting to Know Each Other
 
 If the Trainer has chosen an
 [icebreaker question](https://carpentries.github.io/instructor-training/icebreakers/index.html),
@@ -123,13 +123,13 @@ We will explore how defining the specific skills you wish to teach
 early on in the development process 
 provides a foundation from which you can build a stronger, more impactful lesson.
 
-### Building a lesson website
+### Building a Lesson Website
 
 Throughout the training, while you design and begin developing the content of your lessons, 
 we will teach you how to incorporate this into an organised and accessible website
 using our lesson infrastructure.
 
-### Collaborating effectively
+### Collaborating Effectively
 
 We believe that lessons are much more likely to succeed, and to remain useful in the long term,
 if they are developed collaboratively. 
@@ -138,7 +138,7 @@ and work effectively and efficiently with those you already have.
 
 ::: callout
 
-## Learning how to teach a lesson
+## Learning How to Teach a Lesson
 
 This training will focus on the content - how to prepare a good lesson.
 More about the performance - how to deliver a lesson most effectively -

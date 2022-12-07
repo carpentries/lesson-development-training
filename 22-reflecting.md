@@ -1,5 +1,5 @@
 ---
-title: Reflecting on trial runs
+title: Reflecting on Trial Runs
 teaching: 10
 exercises: 45
 start: yes
