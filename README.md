@@ -1,6 +1,7 @@
 # Collaborative Lesson Development Training Curriculum
 
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
+[![Build and Deploy Site](https://github.com/carpentries/lesson-development-training/actions/workflows/sandpaper-main.yaml/badge.svg)](https://github.com/carpentries/lesson-development-training/actions/workflows/sandpaper-main.yaml)
 
 Curriculum for a short (~3 days) workshop teaching skills required for
 collaborative lesson development. The lesson is visible at: https://carpentries.github.io/lesson-development-training/. 
