@@ -169,7 +169,7 @@ for your lesson or general data repositories such as:
 - [The Data Curation Network's datasets](https://datacurationnetwork.org/datasets/)
 - [The Offical Portal for European Data](https://data.europa.eu/)
 - [DataONE](https://www.dataone.org/)
-- [The Official Portal for Argentina Data](https://www.datos.gob.ar/) - (In Spanish)
+- [The Official Portal for Argentina Data](https://www.datos.gob.ar/) (in Spanish)
 - [LANFRICA](https://lanfrica.com/)
 
 ::::::::::::::::::::::::::::::::::::::  challenge
