@@ -147,7 +147,7 @@ any time spent on this is well invested.
 
 To create an exercise in The Carpentries Workbench, 
 you can use colon-delimited sections called 'fenced divs'.
-In fact [there are many types of boxes in the lesson infrastucture that use fenced divs](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html#callout-blocks).
+In fact, [there are many types of boxes in the lesson infrastucture that use fenced divs](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html#callout-blocks).
 In the Workbench, exercises are divided into two categories: _discussions_ (where the main task is for participants to discuss a topic or prompt) and _challenges_ (where the main task is a problem to be solved).
 
 To start a challenge fenced div the line must contain at least 3 colons, then the `challenge` tag.

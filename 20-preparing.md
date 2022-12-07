@@ -122,7 +122,7 @@ The final part of this training will focus on the skills needed to collaborate
 effectively. Before that there will be a break,
 during which we would like you to complete the following three tasks:
 
-1. Teach one episode of your lesson (probably the one you have been working on in these two days)
+1. Teach one episode of your lesson (probably the one you have been working on in these two days).
    See the [Lesson Trial Runs](../learners/trial-runs.md) page for full details.
 2. After your trial run has concluded
    (immediately after, or when you have reviewed any feedback you collected from learners),
