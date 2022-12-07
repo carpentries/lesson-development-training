@@ -124,7 +124,7 @@ If you'd like to read more about CC0 and CC-BY, Katie Fortney wrote an excellent
 An example dataset used in the Data Carpentry Ecology lessons is the [Portal
 Project Teaching Database](https://figshare.com/articles/dataset/Portal_Project_Teaching_Database/1314459).  This dataset is an actual ecological research project that was simplified for teaching.
 The reuse of this dataset throughout the Data Carpentry Ecology lessons helps
-stitch together the process of data analysis on throughout the workshop, from
+stitch together the process of data analysis throughout the workshop, from
 data entry and cleaning to analysis and visualization.
 
 When deciding on a dataset, it is also important to consider the ethical use of
