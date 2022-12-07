@@ -1,5 +1,5 @@
 ---
-title: Identifying your target audience
+title: Identifying Your Target Audience
 teaching: 25
 exercises: 20
 ---
@@ -102,7 +102,7 @@ interests, and challenges than your own.
 
 ## Exercise: thinking about target audience (15 minutes total for both parts)
 
-Part 1 (5 minutes): think about a member of the target audience for your lesson,
+Part 1 (all, 5 minutes): think about a member of the target audience for your lesson,
 and answer the following questions in the context of your lesson topic:
 
 1. What is their background?

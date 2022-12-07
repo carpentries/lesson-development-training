@@ -1,5 +1,5 @@
 ---
-title: Preparing to teach
+title: Preparing to Teach
 teaching: 20
 exercises: 45
 ---

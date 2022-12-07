@@ -1,5 +1,5 @@
 ---
-title: How we operate
+title: How we Operate
 teaching: 25
 exercises: 5
 ---

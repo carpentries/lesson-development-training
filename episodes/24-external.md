@@ -1,5 +1,5 @@
 ---
-title: Collaborating with newcomers
+title: Collaborating with Newcomers
 teaching: 30
 exercises: 25
 ---
@@ -26,13 +26,13 @@ You may start working on projects by yourself or with a small group of collabora
 
 Collaboration helps bring different perspectives to solving a problem and share the load of the required work to develop, pilot, and, later on, maintain the lesson. People drop in and out of projects for various reasons and their levels of involvement may vary over time due to other commitments - for this reason it is worth taking time from the outset to make a project welcoming for newcomers in order to achieve a steady number of people working on your project at any time. You should plan to make it easy for new collaborators to join, to set up a local workspace so that they can contribute, help them find tasks so that they know what to contribute, and make the contribution process clear so that they know how to contribute. You also want to make it easy to give people credit for their work on your project as well as for others to reuse and give credit to your project. From this episode on, we cover best practices for collaboration and tools available to us to achieve it.
 
-## Documenting your lesson
+## Documenting Your Lesson
 
 For collaborative projects, it is important to spend the time on ‘external-facing’ features, such as documentation, to make the project as welcoming and as easy to get involved in as possible for newcomers who may not have a deep grasp of the project or know all its existing problems. Such documentation will be useful to yourself and other team members as well, e.g. if you are trying to come back to the project after a break or are reusing it for a new collaboration in the future.
 
 Your lesson documentation should contain the following information, which should be kept up to date.
 
-### Description of the project - `README` file
+### Description of the Project - `README` File
 
 `README`, `README.txt` or `README.md` is a plain text or Markdown file located in the project's root directory representing the default landing or home page for repositories in GitHub (and similar project repositories) by convention. It represents the first piece of documentation that people will see when visiting your lesson repository, hence it should concisely explain what the lesson is about and who it is for, and contain links and pointers to further information. For example, `README` should include:
 
@@ -46,17 +46,17 @@ Your lesson documentation should contain the following information, which should
 Citation can be contained in a plain text file (`CITATION`, `CITATION.txt`), a Markdown file (`CITATION.md`), or in the recently adopted [Citation File Format](https://github.com/citation-file-format/citation-file-format) (`CITATION.cff`). The CFF is defined using [YAML](https://yaml.org/spec/1.2.2/) (which we already encountered in the `config.yaml` file for the lesson website) and is now [the recommended way of storing citations in GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/). Advantages of using CFF are that GitHub will automatically show the citation information in the sidebar, making it more visible and accessible for visitors to your repository. In addition, metadata from `CITATION.cff` files will automatically be used by [Zenodo](https://zenodo.org/) when registering the DOI for your lesson/project. CFF metadata is also recognised by the [Zotero reference manager](https://www.zotero.org/).
 - **license** - a short description of and a link to the lesson’s license typically contained in a separate `LICENSE`, `LICENSE.txt` or `LICENSE.md` file within the repository’s root directory. The lesson repository created from the Carpentries lesson template already contains a default `LICENSE.md` file, but you should modify this to more accurately describe how the lesson content can be re-used by others.
 
-### Instructions for contributors - `CONTRIBUTING` file
+### Instructions for Contributors - `CONTRIBUTING` File
 
 `CONTRIBUTING`, `CONTRIBUTING.txt` or `CONTRIBUTING.md` is a text or Markdown file within the repository's root directory where you should provide detailed description of the ways people can send their contributions, what kinds of contribution will be credited and in what ways. For example, at what point would someone be listed as an author and how you will credit contributions that are not recorded in the commit history of the project. The latter is particularly important for newcomers who may not be proficient with the use of GitHub's features for collaborative work, such as issues, mentions, pull requests and code review, but could still provide valuable input and contributions.
 
 Carpentries lesson repositories already have a generic Carpentries `CONTRIBUTING.md` file to get you started. You should review it and, if need be, modify it to fit your team's needs and way of working. For example, you may want to expand on what contributions you are *not* looking for if your lesson already contains more material than can be covered in a typical workshop. You can also detail all channels on which you are willing to receive contributions on, if they are different from the defaults included in the file.
 
-### Issue and pull request templates
+### Issue and Pull Request Templates
 
 Consider setting up [issue and pull request templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)) to help newcomers who may not have much experience working on collaborative projects in GitHub. Such templates can provide a structure for the issue/pull request description, and/or prompt them to fill in answers to pre-set questions. Both can help contributors raise issues or submit pull requests in a way that is clear, helpful and provides enough information for maintainers to act upon (without going back and forth to extract it). GitHub provides a range of default templates, but you can also [write your own](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository).
 
-### Other documentation
+### Other Documentation
 
 Once you have set up the basic documentation about your lesson, you may consider adding the following useful information to your documentation too:
 
@@ -82,9 +82,9 @@ Spend some time doing **one of the following**:
 Groups of collaborators taking this training together should discuss first how they will assign these tasks between them.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Collaborating on a lesson
+## Collaborating on a Lesson
 
-### Boosting the visibility and attracting new collaborators
+### Boosting the Visibility and Attracting New Collaborators
 
 In addition to having the complete documentation in the lesson repository, The Carpentries community provides a number of ways to further raise the visibility of the lesson among the broader community and encourage community members to contribute to its further development. For example:
 
@@ -95,11 +95,11 @@ In addition to having the complete documentation in the lesson repository, The C
 
 You should also consider including your lesson in [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and similar wider community open source events aimed at encouraging people to contribute to open source projects periodically throughout the year.
 
-### Issue labelling for newcomers
+### Issue Labelling for Newcomers
 
 You can encourage contributions to your lesson from newcomers by using specific labels on issues to highlight suitable opportunities to help. Apply the `good first issue` or `help wanted` labels to issues in your repository to indicate that the maintainers will particularly welcome help or pull requests fixing such issues.
 
-### Noticing when something happens
+### Noticing When Something Happens
 
 GitHub implements a comprehensive [notifications system](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) to keep you up-to-date with activities in the lesson repository. GitHub also provides an additional useful notification feature for collaborative work - **Mentions**. The mention system notifies team members when somebody else references them in an issue, comment or pull request - you can use this to notify people when you want to check a detail with them, or let them know something has been fixed or changed (much easier than writing out all the same information again in an email!). You can use the mention system to link to individual GitHub accounts or whole teams for mentioning multiple people. Typing `@` in GitHub will bring up a list of all accounts and teams linked to the repository that can be "mentioned".
 
@@ -132,8 +132,7 @@ That resource, and [the _Best Practices for Maintainers_ guide from GitHub](http
 make excellent further reading as you prepare to transition from your role as an active developer
 into another as a responsive and responsible maintainer of your lesson.
 
-
-### Making progress
+### Making Progress
 
 The following practices have been shown to help maintain steady progress with lesson development:
 

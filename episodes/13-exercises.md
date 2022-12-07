@@ -1,5 +1,5 @@
 ---
-title: Designing assessments
+title: Designing Assessments
 teaching: 25
 exercises: 70
 start: yes
