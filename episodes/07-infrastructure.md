@@ -219,7 +219,9 @@ We will revisit the `life_cycle` and `carpentry` fields in `config.yaml` later i
 
 #### `README.md`
 
-The README.md file is the “front page” of your lesson repository on GitHub, and is written in Markdown. You should use it to provide basic information about the project, for anyone who finds their way to the source files for your lesson. 
+The README.md file is the “front page” of your lesson repository on GitHub, and is written in Markdown. 
+You should use it to provide basic information about the project, 
+for anyone who finds their way to the source files for your lesson. 
 
 ::: challenge
 
