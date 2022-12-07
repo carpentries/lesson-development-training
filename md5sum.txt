@@ -1,5 +1,5 @@
 "file" "checksum" "built" "date"
-"AUTHORS.md" "d5d195f53225b45bad32ae510c277c4b" "site/built/AUTHORS.md" "2022-07-25"
+"AUTHORS.md" "f8c55cd35b6220fb717263e07ae4ff77" "site/built/AUTHORS.md" "2022-12-07"
 "CODE_OF_CONDUCT.md" "1ce82f3f04c2d64a36b4bbf0b22eb9e5" "site/built/CODE_OF_CONDUCT.md" "2022-02-01"
 "LICENSE.md" "3e2c0d19ace00f148c3bfc2f403fc6c6" "site/built/LICENSE.md" "2022-02-01"
 "config.yaml" "00139b162b46b21b18e29be474ae7f73" "site/built/config.yaml" "2022-06-10"
