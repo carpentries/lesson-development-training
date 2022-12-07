@@ -23,7 +23,7 @@ exercises: 60
 
 In this episode we expand on how to use GitHub effectively among a group of known collaborators, building on top of tools and practices we introduced for working with newcomers. Everything you do to help your lesson be more attractive and informative to newcomers will benefit all collaborators. Here, we explore GitHub features to help you keep track of what needs doing on the lesson, making decisions and managing your project.
 
-## Managing issues
+## Managing Issues
 
 **Issues** are GitHub's framework for managing issue/bug reports, feature requests, and lists of future work. They provide a single shared record of all the problems people have found with the lesson, and improvements that could be made, along with solutions and discussions around them. This helps the team to keep track of what they need to work on later, and reduces the chance of receiving redundant reports of issues you already know about.
 
@@ -194,7 +194,7 @@ the Reviewer should follow all the steps but close the PR at the end instead of 
 ::::::::::::::::
 
 
-## Managing communication
+## Managing Communication
 
 Having an open, publicly-visible list of all the issues with your project is a helpful way of letting people know you are aware of issues and you are working on them. This can indicate to an external audience that the project is active. 
 It also provides you and your collaborators with an "at a glance" view of the state of the project, making it easier to prioritise future work.
@@ -293,7 +293,7 @@ which helps to ensure real concrete progress against project goals and requireme
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Project governance
+## Project Governance
 
 In addition to managing your project on a day-to-day basis, you should consider a governance model for your lesson to describe the ground rules of participation, the roles that project participants can take on and the process for decision making within the project. You may wonder why you'd ever need a formal governance process - after all, everyone in your team is collegial, polite and hard-working. However, even among the most harmonious teams you will likely realise you need an agreed way to make decisions and resolve conflicts when your team encounters their first real disagreement.
 
