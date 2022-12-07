@@ -1,5 +1,5 @@
 ---
-title: Collaborating With Newcomers
+title: Collaborating with Newcomers
 teaching: 30
 exercises: 25
 ---
