@@ -139,7 +139,7 @@ during which we would like you to complete the following three tasks:
    - parts that learners found particularly challenging,
    - unexpected questions or misconceptions that came up during the trial run.
   
-    We will return to these notes during the final training session.
+    We will return to these notes during the final training session, 
     so please make sure you save them somewhere you will be able to find them again easily when the time comes.
      
 
