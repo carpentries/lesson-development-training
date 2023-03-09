@@ -167,7 +167,7 @@ We need to tell GitHub to begin serving the lesson website via GitHub Pages.
 To do this, navigate to _Settings_, then choose _Pages_ from the left sidebar.
 Under _Source_, choose the `gh-pages` branch, leave the folder set to `/ (root)`,
 and click _Save_.
-Now, copy the URL in the box: this will be the address of your lesson site.
+You may copy the URL in this box, this will be the address of your lesson site.
 
 ::: callout
 
@@ -185,7 +185,7 @@ The `gh-pages` branch should never be modified by anyone other than the automate
 Returning to the repository home page 
 (e.g. by clicking the name of the project near the top left of the window),
 click the gear wheel icon near the top right, to edit the _About_ box.
-Paste the Pages URL into the _Website_ box and click _Save changes_.
+Check the box that says "Use your GitHub Pages website" to add the address of your lesson site to the About box.
 
 After following these steps, when you navigate to the pages URL, you should be see a lesson website with The Carpentries logo and "Lesson Title" in the top-left corner.
 You may need to wait a few minutes for the website to be generated.
