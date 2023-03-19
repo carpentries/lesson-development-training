@@ -133,7 +133,7 @@ under the _Code and automation_ section.
 3. Type the name of the branch your GitHub Pages are being built from (`main`) 
    into the "Branch name pattern" box.
 4. Check the "Require a pull request before merging" option, 
-   but leave the others unchecked for now. 
+   but leave the others unchecked for now because we don't need them for this project. 
 
 
 ### Submitting and Reviewing Pull Requests
