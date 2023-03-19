@@ -111,6 +111,13 @@ manage the whole process of reviewing a contribution in GitHub's web interface.
 
 ### Protecting `main`
 
+:::::::::::::::::: instructor
+
+When preparing to teach this section, you should check that you have admin privileges on 
+your example repository.
+
+:::::::::::::::::::::::::::::
+
 As the maintainer of a project, you can enforce this workflow by
 _protecting_ the default branch of the GitHub repository:
 this will prevent anyone without _Admin_ access from committing changes directly to
