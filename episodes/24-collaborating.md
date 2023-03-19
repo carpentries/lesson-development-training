@@ -106,6 +106,8 @@ is called _pulling_.
 The name Pull Request is slightly anachronistic now, because a project maintainer can often
 manage the whole process of reviewing a contribution in GitHub's web interface.
 
+Note: A common nickname for a _Pull Request_ is PR or PRs for _Pull Requests_.
+
 ::::::::::::::
 
 
