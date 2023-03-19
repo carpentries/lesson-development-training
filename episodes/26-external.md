@@ -60,7 +60,7 @@ Consider setting up [issue and pull request templates](https://docs.github.com/e
 
 Once you have set up the basic documentation about your lesson, you may consider adding the following useful information to your documentation too:
 
-- set-up guides for installing and rendering the lesson locally. In most cases, a link to [The Carpentries Workbench documentation](https://carpentries.github.io/sandpaper-docs/) will be sufficient.
+- set-up guides for installing and rendering the lesson locally. In most cases, a link to [The Carpentries Workbench documentation](https://carpentries.github.io/sandpaper-docs/) will be sufficient. You can also contribute to the Workbench documentation to help improve it for the community.
 - how to create and modify the pages in the lesson
 
 
