@@ -184,7 +184,7 @@ _Note: This activity is designed to be carried out by two Trainers acting in two
 
 In breakout groups, assign yourselves the role of Submitter (S) and Reviewer (R),
 and repeat the process described above by completing the steps below.
-If anythere are any issues open on the repository that can be solved very quickly,
+If there are any issues open on the repository that can be solved very quickly,
 feel free to address those with this exercise.
 Otherwise, the Submitter can open a Pull Request to make simple changes:
 typo fixes, or some completely arbitrary changes to a file.
