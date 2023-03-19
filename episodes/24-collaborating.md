@@ -126,7 +126,7 @@ that branch.
 To activate this branch protection:
 
 1. Open the _Settings_ tab of the repository and select _Branches_ in the left sidebar,
-under _Code and automation_.
+under the _Code and automation_ section.
 2. Click the "Add branch protection rule" button.
 3. Type the name of the branch your GitHub Pages are being built from (`main`) 
    into the "Branch name pattern" box.
