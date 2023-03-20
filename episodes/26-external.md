@@ -170,7 +170,7 @@ but you might consider using it to do one or more of the following:
 
 - *"If a project doesn’t make a good first impression, newcomers may wait a long time before giving it a second chance" - Karl Fogel, the author of ["Producing Open Source Software: How to Run a Successful Free Software Project"](https://www.oreilly.com/library/view/producing-open-source/0596007590/)*.
 - You should make an active effort to attract potential collaborators and try to make them all feel welcome and included. [The Carpentries Help Wanted page](https://carpentries.org/help-wanted-issues/) and featuring in [the Incubator Lesson Spotlight](https://docs.carpentries.org/topic_folders/lesson_development/spotlight.html) can boost the visibility of your lesson. Creating the appropriate documentation and using GitHub features such as labels, and issue/pull request templates will help lower the barriers for contributions to your project.
-- When you design your lesson with new contributors and increased accessibility in mind, you make things better for everyone in the process
+- When you design your lesson with new contributors and increased accessibility in mind, you make things better for everyone in the process.
 - Scheduling regular co-working sessions, blocking time in the calendar for issue triage, and setting and being responsive to GitHub notifications will ensure regular progress on the lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
