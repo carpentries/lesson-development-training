@@ -22,9 +22,10 @@ exercises: 60
 
 
 In this episode we expand on how to use GitHub effectively among a group of known 
-collaborators, setting the stage for introducing tools and practices for working with 
-newcomers. Here, we explore GitHub features to help you keep track of what needs doing on 
-the lesson, making decisions and managing your project.
+collaborators on an open source lesson development project, setting the stage for introducing tools and practices for 
+working with newcomers. Here, we explore GitHub features to help you keep track of what needs doing on 
+the lesson, making decisions and managing your project. Collaboration skills covered in this lesson are transferable 
+to any similar open source project you may be involved with.
 
 ## Managing Issues
 
@@ -65,7 +66,7 @@ you may also want to assign these issues to a member of your lesson development 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Pull Requests
+## Managing Contributions - Pull Requests
 
 Although it is possible (for collaborators with sufficient access to the project)
 to make changes to a lesson directly on the `main` branch of the repository,
