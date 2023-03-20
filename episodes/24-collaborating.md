@@ -21,7 +21,11 @@ exercises: 60
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-In this episode we expand on how to use GitHub effectively among a group of known collaborators, building on top of tools and practices we introduced for working with newcomers. Everything you do to help your lesson be more attractive and informative to newcomers will benefit all collaborators. Here, we explore GitHub features to help you keep track of what needs doing on the lesson, making decisions and managing your project.
+In this episode we expand on how to use GitHub effectively among a group of known 
+collaborators on an open source lesson development project, setting the stage for introducing tools and practices for 
+working with newcomers. Here, we explore GitHub features to help you keep track of what needs doing on 
+the lesson, making decisions and managing your project. Collaboration skills covered in this lesson are transferable 
+to any similar open source project you may be involved with.
 
 ## Managing Issues
 
@@ -40,7 +44,11 @@ When you create an issue, you can add a range of details to it. An issue can be 
 - `wontfix` - indicates that work won't continue on an issue, pull request, or discussion
 
 Check the [GitHub documentaiton on Issues](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) for the full reference.
-We have already seen some of these labels - recall the `help wanted` and `good first issue` labels aimed at  newcomers to your project discussed in the previous episode. You can also create your own custom labels to help with classifying issues. There are no rules really about naming the labels - use whatever makes sense for your project. Some conventional custom labels include: `status:in progress` (to indicate that someone started working on the issue), `status:blocked` (to indicate that the progress on addressing the issue is blocked by another issue or activity), etc.
+You can also create your own custom labels to help with classifying issues. 
+There are no rules really about naming the labels - use whatever makes sense for your 
+project. Some conventional custom labels include: `status:in progress` (to indicate that 
+someone started working on the issue), `status:blocked` (to indicate that the progress on 
+addressing the issue is blocked by another issue or activity), etc.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -58,7 +66,7 @@ you may also want to assign these issues to a member of your lesson development 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Pull Requests
+## Managing Contributions - Pull Requests
 
 Although it is possible (for collaborators with sufficient access to the project)
 to make changes to a lesson directly on the `main` branch of the repository,
@@ -99,10 +107,19 @@ is called _pulling_.
 The name Pull Request is slightly anachronistic now, because a project maintainer can often
 manage the whole process of reviewing a contribution in GitHub's web interface.
 
+Note: A common nickname for a _Pull Request_ is PR or PRs for _Pull Requests_.
+
 ::::::::::::::
 
 
 ### Protecting `main`
+
+:::::::::::::::::: instructor
+
+When preparing to teach this section, you should check that you have admin privileges on 
+your example repository.
+
+:::::::::::::::::::::::::::::
 
 As the maintainer of a project, you can enforce this workflow by
 _protecting_ the default branch of the GitHub repository:
@@ -112,12 +129,12 @@ that branch.
 To activate this branch protection:
 
 1. Open the _Settings_ tab of the repository and select _Branches_ in the left sidebar,
-under _Code and automation_.
+under the _Code and automation_ section.
 2. Click the "Add branch protection rule" button.
 3. Type the name of the branch your GitHub Pages are being built from (`main`) 
    into the "Branch name pattern" box.
 4. Check the "Require a pull request before merging" option, 
-   but leave the others unchecked for now. 
+   but leave the others unchecked for now because we don't need them for this project. 
 
 
 ### Submitting and Reviewing Pull Requests
@@ -168,7 +185,7 @@ _Note: This activity is designed to be carried out by two Trainers acting in two
 
 In breakout groups, assign yourselves the role of Submitter (S) and Reviewer (R),
 and repeat the process described above by completing the steps below.
-If anythere are any issues open on the repository that can be solved very quickly,
+If there are any issues open on the repository that can be solved very quickly,
 feel free to address those with this exercise.
 Otherwise, the Submitter can open a Pull Request to make simple changes:
 typo fixes, or some completely arbitrary changes to a file.
