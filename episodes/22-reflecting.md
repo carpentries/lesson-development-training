@@ -5,14 +5,6 @@ exercises: 45
 start: yes
 ---
 
-Welcome back!
-In this section of the training,
-we will learn more about the skills and tools you can use to become
-an effective collaborator on an open source lesson.
-Before moving on to cover that,
-we will spend some time reflecting on and discussing the experience of
-teaching new lesson material for the first time.
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Reflect on the experience of teaching part of a lesson for the first time.
@@ -25,6 +17,15 @@ teaching new lesson material for the first time.
 - What did I learn when I taught my lesson?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+Welcome back!
+In this section of the training,
+we will learn more about the skills and tools you can use to become
+an effective collaborator on an open source lesson.
+Before moving on to cover that,
+we will spend some time reflecting on and discussing the experience of
+teaching new lesson material for the first time.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
