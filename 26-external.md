@@ -126,7 +126,7 @@ without demotivating the contributor from contributing to your lesson
    (e.g. in the `CONTRIBUTING.md` file) to save yourself time in future.
 4. **Close the request**.
 
-The advice above is taken from [The Carpentries Maintainer Onboarding curriculum](https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors/index.html).
+The advice above is taken from [The Carpentries Maintainer Onboarding curriculum](https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors).
 That resource, and [the _Best Practices for Maintainers_ guide from GitHub](https://opensource.guide/best-practices/#learning-to-say-no) on which it is based,
 make excellent further reading as you prepare to transition from your role as an active developer
 into another as a responsive and responsible maintainer of your lesson.
