@@ -187,7 +187,7 @@ Returning to the repository home page
 click the gear wheel icon near the top right, to edit the _About_ box.
 Check the box that says "Use your GitHub Pages website" to add the address of your lesson site to the About box.
 
-After following these steps, when you navigate to the pages URL, you should be see a lesson website with The Carpentries logo and "Lesson Title" in the top-left corner.
+After following these steps, when you navigate to the pages URL, you should see a lesson website with The Carpentries logo and "Lesson Title" in the top-left corner.
 You may need to wait a few minutes for the website to be generated.
 
 #### `config.yaml`
