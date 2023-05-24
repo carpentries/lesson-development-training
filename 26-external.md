@@ -31,7 +31,7 @@ For collaborative projects, it is important to spend the time on ‘external-fac
 
 Your lesson documentation should contain the following information, which should be kept up to date.
 
-### Description of the Project - `README` File
+### Description of the Project - `README` File {#readme}
 
 `README`, `README.txt` or `README.md` is a plain text or Markdown file located in the project's root directory representing the default landing or home page for repositories in GitHub (and similar project repositories) by convention. It represents the first piece of documentation that people will see when visiting your lesson repository, hence it should concisely explain what the lesson is about and who it is for, and contain links and pointers to further information. For example, `README` should include:
 
@@ -45,13 +45,13 @@ Your lesson documentation should contain the following information, which should
 Citation can be contained in a plain text file (`CITATION`, `CITATION.txt`), a Markdown file (`CITATION.md`), or in the recently adopted [Citation File Format](https://github.com/citation-file-format/citation-file-format) (`CITATION.cff`). The CFF is defined using [YAML](https://yaml.org/spec/1.2.2/) (which we already encountered in the `config.yaml` file for the lesson website) and is now [the recommended way of storing citations in GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/). Advantages of using CFF are that GitHub will automatically show the citation information in the sidebar, making it more visible and accessible for visitors to your repository. In addition, metadata from `CITATION.cff` files will automatically be used by [Zenodo](https://zenodo.org/) when registering the DOI for your lesson/project. CFF metadata is also recognised by the [Zotero reference manager](https://www.zotero.org/).
 - **license** - a short description of and a link to the lesson’s license typically contained in a separate `LICENSE`, `LICENSE.txt` or `LICENSE.md` file within the repository’s root directory. The lesson repository created from the Carpentries lesson template already contains a default `LICENSE.md` file, but you should modify this to more accurately describe how the lesson content can be re-used by others.
 
-### Instructions for Contributors - `CONTRIBUTING` File
+### Instructions for Contributors - `CONTRIBUTING` File {#contributing}
 
 `CONTRIBUTING`, `CONTRIBUTING.txt` or `CONTRIBUTING.md` is a text or Markdown file within the repository's root directory where you should provide detailed description of the ways people can send their contributions, what kinds of contribution will be credited and in what ways. For example, at what point would someone be listed as an author and how you will credit contributions that are not recorded in the commit history of the project. The latter is particularly important for newcomers who may not be proficient with the use of GitHub's features for collaborative work, such as issues, mentions, pull requests and code review, but could still provide valuable input and contributions.
 
 Carpentries lesson repositories already have a generic Carpentries `CONTRIBUTING.md` file to get you started. You should review it and, if need be, modify it to fit your team's needs and way of working. For example, you may want to expand on what contributions you are *not* looking for if your lesson already contains more material than can be covered in a typical workshop. You can also detail all channels on which you are willing to receive contributions on, if they are different from the defaults included in the file.
 
-### Issue and Pull Request Templates
+### Issue and Pull Request Templates {#issue-templates}
 
 Consider setting up [issue and pull request templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository) to help newcomers who may not have much experience working on collaborative projects in GitHub. Such templates can provide a structure for the issue/pull request description, and/or prompt them to fill in answers to pre-set questions. Both can help contributors raise issues or submit pull requests in a way that is clear, helpful and provides enough information for maintainers to act upon (without going back and forth to extract it). GitHub provides a range of default templates, but you can also [write your own](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository).
 
