@@ -6,6 +6,8 @@ exercises: 40
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
+After completing this episode, participants should be able to...
+
 - Estimate the time required to teach a lesson.
 - Summarise the content of a lesson as a set of questions and key points.
 - Connect the examples and exercises in a lesson with its learning objectives.
@@ -23,16 +25,16 @@ exercises: 40
 ## Writing Explanatory Text
 
 Explanatory text helps connect your examples and exercises together into a cohesive lesson.
-If your examples and exercises are train stations and scenic views, 
+If your examples and exercises are train stations and scenic views,
 the explanatory text is the train tracks that connect them.
 Often times the examples and exercises may seem like a good draft for you to teach.
-However, the explanatory text makes it possible for other instructors and self-directed learners 
+However, the explanatory text makes it possible for other instructors and self-directed learners
 to follow along by providing all the relevant information directly in the lesson.
 It can also help you remember your goals and stay on track teaching.
 
-How much text to include is often a question of personal style while balancing the needs of 
+How much text to include is often a question of personal style while balancing the needs of
 potential users, both other instructors and learners.
-You want to find the balance between providing enough information for learners to meet the learning objectives 
+You want to find the balance between providing enough information for learners to meet the learning objectives
 without increasing cognitive load with extraneous information.
 In this section we will discuss factors to consider when you are writing explanatory text.
 
@@ -40,7 +42,7 @@ There are trade-offs to consider when preparing a site for use as an instruction
 Typically, self-directed learning resources are more verbose where instructional guides are aimed at an audience that can fill in the gaps on their own.
 However, very sparse text is less likely to be re-usable by other instructors as instructors
 may have different skill levels with the lesson content or differing mental models.
-In general, it is not a good idea to assume others, learners or instructors, 
+In general, it is not a good idea to assume others, learners or instructors,
 will know what you were thinking when you wrote the content
 so, if in doubt, be explicit.
 
@@ -49,10 +51,10 @@ so, if in doubt, be explicit.
 ## Using Callouts
 
 Often lessons have more content than can be reasonably taught in the amount of time allotted.
-This is especially true for collaboratively developed lessons as each contributor/instructor 
+This is especially true for collaboratively developed lessons as each contributor/instructor
 may have additional items they'd like to see included, leading to "scope creep".
 
-To address this issue, in many Carpentries lessons, callout boxes are used for asides and short tangents, 
+To address this issue, in many Carpentries lessons, callout boxes are used for asides and short tangents,
 e.g. points that might be relevant to some audiences but are not essential to the flow of the lesson.
 These callouts should still be kept to a minimum as they can be disruptive to instructors and readers.
 
@@ -84,7 +86,7 @@ Most Carpentries workshops are two work days of lesson material as it is difficu
 attend 4 full days of a workshop.
 Although, there are some in the community who will run workshops that are three days to cover additional material.
 
-As you consider the length of your lesson discuss with your collaborators and ask yourself: 
+As you consider the length of your lesson discuss with your collaborators and ask yourself:
 
 - What is essential to include?
 - What can be left out if needed?
@@ -100,12 +102,12 @@ Instructors commonly report running short on time in workshops.
 Thus, it is better to assume that you are under-estimating rather than over-estimating the length.
 It is better to have additional time for discussion, review, and wrap-up than to rush through material to fit it into the remaining time.
 
-If, after piloting your new lesson, you find that you did not have time to cover all the 
-content, approach cutting down the lesson by identifying which learning objectives to 
+If, after piloting your new lesson, you find that you did not have time to cover all the
+content, approach cutting down the lesson by identifying which learning objectives to
 remove. Then take out the objective(s) and the corresponding assessment(s) and explanatory
 content. You may consider making a [concept map][mental-map-instructor-training] to help identify which objectives depend on one another.
 
-Alternatively, if you decide to keep certain objectives in the lesson, you can add 
+Alternatively, if you decide to keep certain objectives in the lesson, you can add
 suggestions on which objectives can be skipped to the Instructor Notes for the lesson.
 
 :::::::::::::::::::::::::::::: callout
@@ -113,7 +115,7 @@ suggestions on which objectives can be skipped to the Instructor Notes for the l
 The Instructor Notes for the whole lesson should be added to the `instructors/instructor-notes.md` file.
 This page is displayed in the header menu when in "Instructor View".
 You can also add notes [in a specific episode of the lesson using fenced divs][instructor-notes].
-Instructors can see the notes within the lesson and the instructor notes tab by 
+Instructors can see the notes within the lesson and the instructor notes tab by
 changing the view in the upper right-hand corner of the lesson to "Instructor View".
 
 Try out the instructor view by opening this episode seeing the in-line instructor note below.
@@ -129,7 +131,7 @@ This is the hidden note! Thanks for developing new incubator lessons for others 
 ::::::::::::::::::::::::::::::::::::::
 
 
-As you add notes and think about what to cut, remember, reducing the number of lesson 
+As you add notes and think about what to cut, remember, reducing the number of lesson
 objectives can help with managing learner (and instructor) cognitive load.
 
 
@@ -157,7 +159,7 @@ Make time to review your text for:
 - use of [stereotypes][stereotype-threat-instructor-training] (check learner profiles for stereotypes too)
 - [expert awareness gaps][expert-awareness-gap-instructor-training], i.e. places where you may be assuming the learners know more than they actually do
 - fluid representations, i.e. using different terms with the same meaning interchangeably
-- unexplained or unnecessary jargon/terminology (as your learners may come from different backgrounds, may be novices, not native English speakers, and a term in one domain/topic may mean something else entirely in another) 
+- unexplained or unnecessary jargon/terminology (as your learners may come from different backgrounds, may be novices, not native English speakers, and a term in one domain/topic may mean something else entirely in another)
 - unexplained assumptions
 - sudden jumps in difficulty/complexity
 
@@ -188,22 +190,22 @@ Which of the following is a good alt-text option for the image below?
 
 :::::::::::::::::::  solution
 
-The third option, "Line graph of increasing carbon dioxide in ppm at the Mauna Loa 
-Observatory from 1958 to present", is the best option. It describes the type of plot, 
+The third option, "Line graph of increasing carbon dioxide in ppm at the Mauna Loa
+Observatory from 1958 to present", is the best option. It describes the type of plot,
 what is measured, and the trend.
 
-The first two options are too vague. They mention a graph but don't give enough 
+The first two options are too vague. They mention a graph but don't give enough
 info to know what the graph is actually showing.
 
 The last option is overly descriptive and starts to list the data itself.
-It is better to include a shorter, but informative, description and a link to the 
+It is better to include a shorter, but informative, description and a link to the
 data instead.
 
 :::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::: instructor
 
-May want to point out that the answers in the current version of this exercise do not 
+May want to point out that the answers in the current version of this exercise do not
 have diagnostic power.
 
 :::::::::::::::::::::::::::::::::::
@@ -212,20 +214,20 @@ have diagnostic power.
 
 ## Other Text to Complete an Episode
 
-When writing a lesson, you should also consider adding key terms to the lesson glossary 
+When writing a lesson, you should also consider adding key terms to the lesson glossary
 for the lesson.
 Following the instructions on [how to create a glossary in the Workbench documentation][sandpaper-docs-learners]
 will help you to create this section of the lesson.
 
 Many of these terms may also be useful for other lessons and can be added to [Glosario][glosario], a multilingual glossary for computing and data science terms.
 
-In addition to objectives, a [completed episode also requires](https://carpentries.github.io/sandpaper-docs/episodes.html?#required-elements) 
+In addition to objectives, a [completed episode also requires](https://carpentries.github.io/sandpaper-docs/episodes.html?#required-elements)
 fenced divs for the questions the episode answers and the keypoints a lesson covers.
-The questions box helps learners understand what to expect from a lesson as they might 
+The questions box helps learners understand what to expect from a lesson as they might
 not yet understand the learning objectives.
 The keypoints box wraps up the lesson by providing answers to each of the questions.
-Keypoints also help self-directed learners review what they learned, remind instructors to 
-recap what was covered in an episode, and help you ensure you answered all the questions 
+Keypoints also help self-directed learners review what they learned, remind instructors to
+recap what was covered in an episode, and help you ensure you answered all the questions
 you intended for an episode.
 
 
@@ -257,8 +259,8 @@ accessibility, design, content, and supporting information.
 
 Map out the relationships between the lesson objectives (LO),
 the learning experiences via which they will be delivered and those specific items of content
-e.g., item A supports LO 1, \& will be delivered using a lecture  
-OR more specifically  
+e.g., item A supports LO 1, \& will be delivered using a lecture
+OR more specifically
 The read CSV and inspect demo supports Objective 2 (Use Pandas to load a simple CSV data set) and will be delivered using participatory live coding.
 
 - Is there any piece of content that doesn't support any learning objectives?
@@ -281,8 +283,7 @@ What diagram or other visual aids could you add to supplement your text?
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - The objectives and assessments provide a good outline for an episode and then the text fills in the gaps to support anyone learning or teaching from the lesson.
-- It is important to review your lesson for demotivating language, cognitive load, and accessibility. 
-- To reduce cognitive load and ensure there is enough time for for the materials, consider which lesson objectives are not needed and remove related content and assessments. 
+- It is important to review your lesson for demotivating language, cognitive load, and accessibility.
+- To reduce cognitive load and ensure there is enough time for for the materials, consider which lesson objectives are not needed and remove related content and assessments.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-

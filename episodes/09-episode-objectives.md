@@ -5,7 +5,7 @@ exercises: 30
 ---
 
 
-:::::::::::::::::::::::::::::::::::::: questions 
+:::::::::::::::::::::::::::::::::::::: questions
 
 - How should objectives be written for a smaller part of a whole lesson?
 - How are objectives added to an episode page?
@@ -13,6 +13,8 @@ exercises: 30
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
+
+After completing this episode, participants should be able to...
 
 - Define learning objectives for a section of a lesson.
 - Format objectives in the individual pages of a lesson website.
@@ -30,7 +32,7 @@ defining objectives for the episode to make clear what we intend to teach in tha
 Defining these objectives _before writing the episode content_ helps us to:
 
 - stay focused in the episode, without spending time on non-essential topics
-- determine whether learners are attaining the skills we wish to teach them 
+- determine whether learners are attaining the skills we wish to teach them
   (we will discuss this more in the next two episodes)
 - summarise the skills the learner can expect to gain by following this section of the lesson
 
@@ -40,10 +42,10 @@ Defining these objectives _before writing the episode content_ helps us to:
 
 1. Using the same approach as you did for your whole-lesson objectives,
    define a set of SMART objectives for your chosen episode. (15 minutes)
-1. Add this list of objectives to replace 
+1. Add this list of objectives to replace
    the `TODO` in the `objectives` fenced div of your episode file (5 minutes)
 1. Compare your list with those created by your collaborators on the lesson:
-    - are there any gaps in these objectives, 
+    - are there any gaps in these objectives,
       i.e. anything that should be covered in these episodes but is not captured in the objectives?
     - are there any overlaps, i.e. anything that looks like it will be covered more than once?
 1. As a group, discuss how you will address any problems identified in the previous step,
@@ -55,6 +57,8 @@ After you have defined the episode objectives, you can add them to the `objectiv
 
 ```markdown
 ::::::::::::::::::::::::::::::::::::: objectives
+
+After completing this episode, participants should be able to...
 
 - objective 1
 - objective 2
@@ -109,10 +113,9 @@ Now that we have defined objectives for our episodes,
 we can start working on the next step in developing an effective lesson:
 designing exercises that will assess whether a learner has learned what you aimed to teach them.
 
-::::::::::::::::::::::::::::::::::::: keypoints 
+::::::::::::::::::::::::::::::::::::: keypoints
 
 - Objectives can be defined for episodes within a lesson, to guide individual steps along the pathway of the lesson.
 - Objectives should be included in each episode page as an `objectives` fenced div.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
-

@@ -6,6 +6,8 @@ exercises: 25
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
+After completing this episode, participants should be able to...
+
 - Adjust a lesson repository to attract potential collaborators.
 - Create and modify issue and pull request templates in GitHub.
 - Identify strategies to encourage regular development and maintenance of a lesson.
@@ -22,8 +24,8 @@ exercises: 25
 
 You may start working on projects by yourself or with a small group of collaborators you already know, but open source projects in the Carpentries community often grow beyond that small group. Community collaboration is the cornerstone of The Carpentries - all curricula and various programmes are developed together by the community members across borders, domains and backgrounds. Most initiatives are done through community consultation and collaboration is used as a pathway to empower people, give members a sense of purpose in the community and realise shared goals.
 
-Collaboration helps bring different perspectives to solving a problem and share the load of the required work to develop, pilot, and, later on, maintain the lesson. People drop in and out of projects for various reasons and their levels of involvement may vary over time due to other commitments - for this reason it is worth taking time from the outset to make a project welcoming for newcomers in order to achieve a steady number of people working on your project at any time. You should plan to make it easy for new collaborators to join, to set up a local workspace so that they can contribute, help them find tasks so that they know what to contribute, and make the contribution process clear so that they know how to contribute. You also want to make it easy to give people credit for their work on your project as well as for others to reuse and give credit to your project. In this episode, we cover best practices for collaborating with newcomers and tools available to help. And remember, anything you do to make it easier for 
-newcomers to contribute will be [universally useful for all collaborators](https://carpentries.github.io/instructor-training/09-eia/index.html#from-accommodation-to-universal-design). 
+Collaboration helps bring different perspectives to solving a problem and share the load of the required work to develop, pilot, and, later on, maintain the lesson. People drop in and out of projects for various reasons and their levels of involvement may vary over time due to other commitments - for this reason it is worth taking time from the outset to make a project welcoming for newcomers in order to achieve a steady number of people working on your project at any time. You should plan to make it easy for new collaborators to join, to set up a local workspace so that they can contribute, help them find tasks so that they know what to contribute, and make the contribution process clear so that they know how to contribute. You also want to make it easy to give people credit for their work on your project as well as for others to reuse and give credit to your project. In this episode, we cover best practices for collaborating with newcomers and tools available to help. And remember, anything you do to make it easier for
+newcomers to contribute will be [universally useful for all collaborators](https://carpentries.github.io/instructor-training/09-eia/index.html#from-accommodation-to-universal-design).
 
 ## Documenting Your Lesson
 
@@ -41,7 +43,7 @@ Your lesson documentation should contain the following information, which should
 - **contact information** - include up-to-date email addresses or mailing lists or other details on how to get in touch with the lesson maintainers
 - **contributing information** - this is an opportunity to list what kinds of contributions are sought and how to get involved in lesson development for new contributors. You can provide more details in a separate `CONTRIBUTING` file within the repository’s root directory and link to it from `README`
 - **credits/acknowledgements** - make sure to credit those who have helped in the lesson's development or inspired it, and/or any resources/templates that you have reused. You can also link to a separate `AUTHORS.md` file within the repository’s root directory to list all the people who contributed to the lesson content (if this list starts to become too large to include in the `README` itself)
-- **citation** - a convention is to include the citation information for your lesson in a separate `CITATION` file within the repository’s root directory (and link to it from `README`) so others can cite the use of the lesson in their own publications and media and it can also be automatically discovered by other applications. Citation can be a Digital Object Identifier (DOI) issued by a reputable DOI-issuing repository such as [Zenodo](https://zenodo.org/), which should be obtained as a permanent identifier as soon as your lesson reaches the beta stage, or an appropriate academic publication once your lesson becomes stable and is peer-reviewed. 
+- **citation** - a convention is to include the citation information for your lesson in a separate `CITATION` file within the repository’s root directory (and link to it from `README`) so others can cite the use of the lesson in their own publications and media and it can also be automatically discovered by other applications. Citation can be a Digital Object Identifier (DOI) issued by a reputable DOI-issuing repository such as [Zenodo](https://zenodo.org/), which should be obtained as a permanent identifier as soon as your lesson reaches the beta stage, or an appropriate academic publication once your lesson becomes stable and is peer-reviewed.
 Citation can be contained in a plain text file (`CITATION`, `CITATION.txt`), a Markdown file (`CITATION.md`), or in the recently adopted [Citation File Format](https://github.com/citation-file-format/citation-file-format) (`CITATION.cff`). The CFF is defined using [YAML](https://yaml.org/spec/1.2.2/) (which we already encountered in the `config.yaml` file for the lesson website) and is now [the recommended way of storing citations in GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/). Advantages of using CFF are that GitHub will automatically show the citation information in the sidebar, making it more visible and accessible for visitors to your repository. In addition, metadata from `CITATION.cff` files will automatically be used by [Zenodo](https://zenodo.org/) when registering the DOI for your lesson/project. CFF metadata is also recognised by the [Zotero reference manager](https://www.zotero.org/).
 - **license** - a short description of and a link to the lesson’s license typically contained in a separate `LICENSE`, `LICENSE.txt` or `LICENSE.md` file within the repository’s root directory. The lesson repository created from the Carpentries lesson template already contains a default `LICENSE.md` file, but you should modify this to more accurately describe how the lesson content can be re-used by others.
 
@@ -111,17 +113,17 @@ Not every contribution is a good fit for a project and,
 especially as your lesson becomes more stable,
 you will probably not want to accept every suggested change.
 If you receive a pull request or issue that does not fit to your lesson,
-consider the following points to help you politely decline 
-without demotivating the contributor from contributing to your lesson 
+consider the following points to help you politely decline
+without demotivating the contributor from contributing to your lesson
 (or another open source project) again:
 
 1. **Thank them** for taking the time to contribute.
-2. **Explain why the contribution does not fit** into the lesson, 
+2. **Explain why the contribution does not fit** into the lesson,
    and offer suggestions for improvement if you're able.
 3. **Link to relevant documentation**, if you have it.
-   Notes about the design of the lesson (e.g. from this training) and 
+   Notes about the design of the lesson (e.g. from this training) and
    any relevant discussion threads can be very helpful here.
-   If you notice similar repeated requests/contributions, 
+   If you notice similar repeated requests/contributions,
    you might want to address them in your documentation
    (e.g. in the `CONTRIBUTING.md` file) to save yourself time in future.
 4. **Close the request**.
@@ -174,4 +176,3 @@ but you might consider using it to do one or more of the following:
 - Scheduling regular co-working sessions, blocking time in the calendar for issue triage, and setting and being responsive to GitHub notifications will ensure regular progress on the lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-

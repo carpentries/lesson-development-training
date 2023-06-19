@@ -6,6 +6,8 @@ exercises: 60
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
+After completing this episode, participants should be able to...
+
 - Report and track issues with the GitHub interface.
 - Review and provide feedback on contributions from collaborators.
 - Prepare for a decision-making meeting between collaborators.
@@ -21,10 +23,10 @@ exercises: 60
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-In this episode we expand on how to use GitHub effectively among a group of known 
-collaborators on an open source lesson development project, setting the stage for introducing tools and practices for 
-working with newcomers. Here, we explore GitHub features to help you keep track of what needs doing on 
-the lesson, making decisions and managing your project. Collaboration skills covered in this lesson are transferable 
+In this episode we expand on how to use GitHub effectively among a group of known
+collaborators on an open source lesson development project, setting the stage for introducing tools and practices for
+working with newcomers. Here, we explore GitHub features to help you keep track of what needs doing on
+the lesson, making decisions and managing your project. Collaboration skills covered in this lesson are transferable
 to any similar open source project you may be involved with.
 
 ## Managing Issues
@@ -44,10 +46,10 @@ When you create an issue, you can add a range of details to it. An issue can be 
 - `wontfix` - indicates that work won't continue on an issue, pull request, or discussion
 
 Check the [GitHub documentaiton on Issues](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) for the full reference.
-You can also create your own custom labels to help with classifying issues. 
-There are no rules really about naming the labels - use whatever makes sense for your 
-project. Some conventional custom labels include: `status:in progress` (to indicate that 
-someone started working on the issue), `status:blocked` (to indicate that the progress on 
+You can also create your own custom labels to help with classifying issues.
+There are no rules really about naming the labels - use whatever makes sense for your
+project. Some conventional custom labels include: `status:in progress` (to indicate that
+someone started working on the issue), `status:blocked` (to indicate that the progress on
 addressing the issue is blocked by another issue or activity), etc.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
@@ -74,8 +76,8 @@ doing so is not recommended:
 
 1. It increases the likelihood of unintentional conflicts being created when two
    collaborators work on the same file simultaneously.
-1. It does not provide an opportunity for changes to be checked and discussed 
-   before they are included in the lesson. 
+1. It does not provide an opportunity for changes to be checked and discussed
+   before they are included in the lesson.
    This makes it much more likely that mistakes will be included in the lesson,
    and that the commit history of the project will include many
    changes made only to fix/polish/undo previous commits.
@@ -87,10 +89,10 @@ sets of changes that build on the work in the `main` branch (or another)
 but are not included in that branch until they are explicitly _merged_ into it.
 GitHub provides a way for this merging process to be managed,
 by giving a platform for the changes to be described, discussed and reviewed,
-before a decision is made to integrate or not integrate the changes 
+before a decision is made to integrate or not integrate the changes
 in the default branch of the project and the associated lesson.
 
-On GitHub, these units of discussion, review, 
+On GitHub, these units of discussion, review,
 and acceptance/rejection of the changes within a branch
 are called _Pull Requests_.
 
@@ -100,9 +102,9 @@ are called _Pull Requests_.
 
 The term _Pull Request_ originates from the early days of GitHub, when
 a contributor would be requesting that the project maintainer(s)
-use Git to fetch (download) their branch and merge the changes 
+use Git to fetch (download) their branch and merge the changes
 into the main branch of the project.
-In the terminlogy of Git, this combination of fetching and merging a set of changes 
+In the terminlogy of Git, this combination of fetching and merging a set of changes
 is called _pulling_.
 The name Pull Request is slightly anachronistic now, because a project maintainer can often
 manage the whole process of reviewing a contribution in GitHub's web interface.
@@ -116,7 +118,7 @@ Note: A common nickname for a _Pull Request_ is PR or PRs for _Pull Requests_.
 
 :::::::::::::::::: instructor
 
-When preparing to teach this section, you should check that you have admin privileges on 
+When preparing to teach this section, you should check that you have admin privileges on
 your example repository.
 
 :::::::::::::::::::::::::::::
@@ -131,10 +133,10 @@ To activate this branch protection:
 1. Open the _Settings_ tab of the repository and select _Branches_ in the left sidebar,
 under the _Code and automation_ section.
 2. Click the "Add branch protection rule" button.
-3. Type the name of the branch your GitHub Pages are being built from (`main`) 
+3. Type the name of the branch your GitHub Pages are being built from (`main`)
    into the "Branch name pattern" box.
-4. Check the "Require a pull request before merging" option, 
-   but leave the others unchecked for now because we don't need them for this project. 
+4. Check the "Require a pull request before merging" option,
+   but leave the others unchecked for now because we don't need them for this project.
 
 
 ### Submitting and Reviewing Pull Requests
@@ -152,30 +154,30 @@ _Note: This activity is designed to be carried out by two Trainers acting in two
         Ensure that the changes include some typo etc that the Reviewer
         will be able to comment on and/or suggest a fix/improvement to.
 1. \(S) Show how to open a pull request from that new branch to `main`.
-1. \(S) In Pull Request description, reference the number of the issue being fixed, 
-        using a keyword "Fixes #X" or "Resolves #X" (where _X_ is the issue number) to ensure automatic closure. 
-1. \(S) Demonstrate how to mark the PR as a draft, 
+1. \(S) In Pull Request description, reference the number of the issue being fixed,
+        using a keyword "Fixes #X" or "Resolves #X" (where _X_ is the issue number) to ensure automatic closure.
+1. \(S) Demonstrate how to mark the PR as a draft,
         and then how to mark as it as ready for review.
 1. \(S) Request a review from the Pull Request Reviewer.
 1. \(R) Open the new Pull Request in GitHub.
-1. \(R) Explore the diff of the PR, 
+1. \(R) Explore the diff of the PR,
         by opening the _Files changed_ tab and talking through the display.
 1. \(R) Comment on a line in the diff.
-1. \(R) Suggest a change to the diff, 
+1. \(R) Suggest a change to the diff,
         using the "Add suggestion" button or three backticks marked `suggestion`.
 1. \(R) Complete your review by adding some summary text and selecting "Request changes".
-1. \(R) Return to _Conversation_ tab, 
+1. \(R) Return to _Conversation_ tab,
         to show how the PR thread looks after the review has been submitted.
 1. \(S) Navigate to PR and the _Files changed_ tab.
 1. \(S) Respond to Reviewer's comment(s), accept their suggested changes
         (draw attention to the option to batch multiple suggestions into a single commit).
 1. \(S) Return to the _Conversation_ tab and request a new review from the Reviewer.
-1. \(R) Look again at the PR diff (_Files changed_) 
+1. \(R) Look again at the PR diff (_Files changed_)
         and ensure that requested changes have been made.
 1. \(R) Approve the PR.
 1. \(R) Thank the Submitter for their contribution.
 1. \(R) Merge the PR.
-1. \(R) Navigate to issue listing to confirm that the relevant issue has been 
+1. \(R) Navigate to issue listing to confirm that the relevant issue has been
         automatically closed.
 
 
@@ -213,12 +215,12 @@ the Reviewer should follow all the steps but close the PR at the end instead of 
 
 ## Managing Communication
 
-Having an open, publicly-visible list of all the issues with your project is a helpful way of letting people know you are aware of issues and you are working on them. This can indicate to an external audience that the project is active. 
+Having an open, publicly-visible list of all the issues with your project is a helpful way of letting people know you are aware of issues and you are working on them. This can indicate to an external audience that the project is active.
 It also provides you and your collaborators with an "at a glance" view of the state of the project, making it easier to prioritise future work.
 
 As we have seen in the previous episode, GitHub's notifications framework **Mentions** plays an important part in communicating between collaborators and is used as a way of alerting team members of activities and referencing one issue/comment/pull requests from another.
 
-[Slack](https://slack.com/) is commonly used in the Carpentries community for quick, day-to-day message exchange among teams. You can create your own [Slack workspace for free](https://slack.com/intl/en-gb/) or create a channel for your lesson development project under [the Carpentries public Slack workspace](https://swcarpentry.slack.com/). Note that the Carpentries Slack is an enterprise workspace so all messages and files will be retained and no messages will be lost (for free workspaces only the most recent 10,000 messages can be viewed and searched and file storage limit is 5 GB). 
+[Slack](https://slack.com/) is commonly used in the Carpentries community for quick, day-to-day message exchange among teams. You can create your own [Slack workspace for free](https://slack.com/intl/en-gb/) or create a channel for your lesson development project under [the Carpentries public Slack workspace](https://swcarpentry.slack.com/). Note that the Carpentries Slack is an enterprise workspace so all messages and files will be retained and no messages will be lost (for free workspaces only the most recent 10,000 messages can be viewed and searched and file storage limit is 5 GB).
 
 Collaborators can also use other platforms to discuss lesson development or receive contributions from newcomers who are not yet fluent in using GitHub's systems of communication. The Carpentries can assist with creating a mailing list specific to the development of your lesson on their [TopicBox](https://carpentries.topicbox.com/) platform for managing threaded email discussions. Also make sure to join the [Incubator lesson developers mailing list](https://carpentries.topicbox.com/groups/incubator-developers) on TopicBox to keep an eye on announcements and discussions relating to lesson development in general within the Carpentries community.
 
@@ -229,7 +231,7 @@ Meeting minutes are a useful way of providing a permanent record of the purpose 
 Developing a lesson is a project and, like most projects, it consists of multiple tasks. Keeping track of the list of tasks the team has to do, progress on each, prioritising tasks for future development, sprints and releases, etc., quickly becomes a non-trivial task in itself. Without a good project management framework, it can be hard to keep track of what’s done, or what needs doing, and particularly difficult to convey that to others in the team or share the responsibilities.
 
 GitHub provides two project management tools for this purpose - **Milestones** and **Project Boards**.
-Both Milestones and Project Boards implement an agile development/project management system 
+Both Milestones and Project Boards implement an agile development/project management system
 to help you keep track of different components of the project and their current status.
 Milestones are good for [scrum-style project development and management](https://www.atlassian.com/agile/scrum) -
 i.e. time-bound, structured iterations and working in short sprints on batches of issues. Project Boards implement
@@ -257,7 +259,7 @@ You can also sort milestones by due date and prioritise issues within a particul
 Back on the `Issues` page, you can assign issues to milestones and filter your issues by milestones.
 
 ### Project Boards
-A Project Board (or Kanban board, from the Japanese word for 'card') uses columns and cards to keep track of tasks 
+A Project Board (or Kanban board, from the Japanese word for 'card') uses columns and cards to keep track of tasks
 - you break your project down into tasks which you write on cards, then move the cards between columns that describe the status of each task. Cards are usually small, descriptive and self-contained tasks that build on each other. Breaking a project down into clearly-defined tasks makes it a lot easier to manage and develop. GitHub project boards interact and integrate with the other features of the site such as issues and pull requests - cards can be added to track the progress of such tasks and automatically moved between columns based on their progress or status.
 
 GitHub provides template boards that by default contain the three ‘basic’ columns, with pretty self-explanatory names:
@@ -266,10 +268,10 @@ GitHub provides template boards that by default contain the three ‘basic’ co
 - `In Progress`
 - `Done`
 
-If you add an issue or pull request to a card in the board, it will automatically be moved to ‘Done’ for you when you close the issue or merge the pull request. One common extra column is `On hold` or `Waiting`. If you have tasks that get held up by waiting on other people (e.g. to respond to your questions) then moving them to a separate column makes their current state clearer. 
+If you add an issue or pull request to a card in the board, it will automatically be moved to ‘Done’ for you when you close the issue or merge the pull request. One common extra column is `On hold` or `Waiting`. If you have tasks that get held up by waiting on other people (e.g. to respond to your questions) then moving them to a separate column makes their current state clearer.
 
-You can also create a card without an issue. Such cards (or notes) can have detailed content like checklists or ideas 
-which are not necessarily suitable for inclusion in your issue tracker. However, GitHub also allows you to convert a card to an issue, should you wish to do so, 
+You can also create a card without an issue. Such cards (or notes) can have detailed content like checklists or ideas
+which are not necessarily suitable for inclusion in your issue tracker. However, GitHub also allows you to convert a card to an issue, should you wish to do so,
 so you can add labels or detailed comments to it. Sometimes, a card you thought was simple and self-contained might turn out to be a bigger task than you anticipated - in that case, it is sensible to create new cards that reference the one they broke off from.
 
 Once your project board has a large number of cards on it, you might want to begin prioritising them. Not all tasks are going to be equally important, and some will require others to be completed before they can even be begun. Common methods of prioritisation include:
@@ -297,15 +299,15 @@ A Milestone answers the question:
 
 ## Exercise: prioritising issues & planning work (15 minutes)
 
-Use Project Boards and/or Milestones to prioritise issues and plan the first sprint and/or the first lesson release 
+Use Project Boards and/or Milestones to prioritise issues and plan the first sprint and/or the first lesson release
 with your team.
 
-Depending on how many issues were registered on your repository, it is possible that you will not be able to work on 
-all the issues in the first sprint. As the development of your lesson progresses, any remaining unresolved issues can 
+Depending on how many issues were registered on your repository, it is possible that you will not be able to work on
+all the issues in the first sprint. As the development of your lesson progresses, any remaining unresolved issues can
 be reconsidered and prioritised for another milestone and you can use a Project Board to plan them.
 
-This process of receiving new issues and requirements, prioritisation, and working on them is naturally continuous - 
-with the benefit that at key stages your team is repeatedly re-evaluating what is important and needs to be worked on 
+This process of receiving new issues and requirements, prioritisation, and working on them is naturally continuous -
+with the benefit that at key stages your team is repeatedly re-evaluating what is important and needs to be worked on
 which helps to ensure real concrete progress against project goals and requirements which may change over time.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -336,7 +338,7 @@ For some other examples and inspirations of governance processes, consider the f
 
 As a team read [Greg Wilson's explanation of Martha's rules on running decision making meetings](https://third-bit.com/files/2020/08/marthas/).
 
-Discuss with your colleagues if it would work for your team and if not - what would you propose. Write down any 
+Discuss with your colleagues if it would work for your team and if not - what would you propose. Write down any
 questions you may have for your trainers.
 
 :::::::::::::::::::::::::::::::::::::::
@@ -351,5 +353,3 @@ questions you may have for your trainers.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
