@@ -181,7 +181,8 @@ Identify one or more potential candidates and note down the advantages and disad
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Learners are motivated if you **teach most useful things first**.
+People learn faster if they are motivated[^1],
+and learners will be motivated if you **teach most useful things first**.
 As you think about what story your lesson will tell, it is important to put
 the pieces that are most interesting to learners up front.
 If they are able to quickly learn tools or skills that they see as useful from your 
@@ -199,7 +200,6 @@ learning the additional and vital skills where the application might be less cle
 [*"Let them eat cake (first)."*](https://www.youtube.com/watch?v=fQ4t7p6ZXDg)
 
 \- Dr. Mine Çetinkaya-Rundel
-
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -255,4 +255,11 @@ for a lesson dataset.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+[^1]: The evidence for this is summarised well in chapter 3,
+      _What Factors Motivate Students to Learn?_,
+      of [Ambrose et al. 2010](learners/reference.md#litref).
+      The Carpentries Instructor Training curriculum also includes
+      a helpful summary of 
+      [how lesson content can influence Learner motivation](https://carpentries.github.io/instructor-training/08-motivation.html#how-can-content-influence-motivation).
 

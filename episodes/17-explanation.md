@@ -143,7 +143,7 @@ objectives can help with managing learner (and instructor) cognitive load.
 - *place printed text next to corresponding parts of graphics (spatial contiguity principle), and*
 - *eliminate the need to hold essential material in working memory for long periods of time (temporal contiguity principle)."*
 
-\- [Renkl (2014)](https://www.cambridge.org/core/books/cambridge-handbook-of-multimedia-learning/worked-examples-principle-in-multimedia-learning/8753055D1FB47CF1E2BB897FD44FBEF8)
+\- [Renkl (2014)](learners/reference.md#litref)
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::

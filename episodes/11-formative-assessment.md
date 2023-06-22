@@ -72,7 +72,7 @@ new knowledge in one of the later episodes.
 
 ## Detecting Misconceptions
 
-Detecting and correcting [misconceptions](https://carpentries.github.io/instructor-training/02-practice-learning/#misconceptions) and fixing learners' incorrect/broken [mental models](https://carpentries.github.io/instructor-training/02-practice-learning/#building-a-mental-model) is as important as presenting your learners with new knowledge and correct information. _Why is it important to identify misconceptions as early as possible?_ When mental models are broken, learning can occur slower than you might expect. The longer a prior incorrect model is in use, and the more extensively it has to be "unlearned", the more it can actively interfere with the incorporation of the new correct knowledge (since it will contradict the misconceptions already present in the mental model). 
+Detecting and correcting [misconceptions](https://carpentries.github.io/instructor-training/02-practice-learning/#misconceptions) and fixing learners' incorrect/broken [mental models](https://carpentries.github.io/instructor-training/02-practice-learning/#building-a-mental-model) is as important as presenting your learners with new knowledge and correct information. _Why is it important to identify misconceptions as early as possible?_ When mental models are broken, learning can occur slower than you might expect[^1]. The longer a prior incorrect model is in use, and the more extensively it has to be "unlearned", the more it can actively interfere with the incorporation of the new correct knowledge (since it will contradict the misconceptions already present in the mental model).
 
 
 ::::::::::::::::::::::::::::::::::::::  challenge
@@ -158,3 +158,5 @@ Share your feedback in the collaborative notes document.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+[^1]: See chapter 1, _How Does Students' Prior Knowledge Affect Their Learning?_,
+      of [Ambrose et al. 2010](learners/reference.md#litref).
