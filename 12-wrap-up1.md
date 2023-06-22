@@ -6,6 +6,8 @@ exercises: 10
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
+After completing this episode, participants should be able to...
+
 - Identify some actions that can be taken to build a strong foundation for a lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -18,7 +20,7 @@ exercises: 10
 
 
 Up to now, we have focused on some good practices for designing a lesson,
-and provided opportunities to implement these practices. 
+and provided opportunities to implement these practices.
 We also progressed through the first stages of building a lesson website
 with The Carpentries Workbench.
 
@@ -45,7 +47,7 @@ that you hope will be answered before the end.
 
 ## Reflection exercise (5 min)
 
-Take some time to think back on what has been covered so far, 
+Take some time to think back on what has been covered so far,
 then make some notes on the most important points and actions you want to take away from that.
 The Trainers and other participants will not look at this - it is only for you.
 
@@ -64,5 +66,3 @@ If you do not know where to start, consider the following list for a starting po
 - So far, we have learned about the importance of defining a target audience and objectives for a lesson, how assessments can be designed to provide specific feedback about learner progress, and how to use The Carpentries Workbench to build an open source lesson website.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
