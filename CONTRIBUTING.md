@@ -140,8 +140,8 @@ You can also [reach us by email][email].
 
 [email]: mailto:team@carpentries.org
 [dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
-[dc-lessons]: http://datacarpentry.org/lessons/
-[dc-site]: http://datacarpentry.org/
+[dc-lessons]: https://datacarpentry.org/lessons/
+[dc-site]: https://datacarpentry.org/
 [discuss-list]: https://carpentries.topicbox.com/groups/discuss
 [github]: https://github.com
 [github-flow]: https://guides.github.com/introduction/flow/
