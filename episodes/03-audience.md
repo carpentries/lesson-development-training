@@ -6,6 +6,8 @@ exercises: 20
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
+After completing this episode, participants should be able to...
+
 - Describe the importance of aligning lesson design with the intended audience.
 - Compose a list of prior knowledge required to follow a lesson.
 
@@ -24,10 +26,10 @@ exercises: 20
 Given the limited time in a short-format training,
 it is vital to define the scope of the lesson i.e.
 what people will know before and after the lesson.
-Thinking carefully about the target audience will help you with this and 
+Thinking carefully about the target audience will help you with this and
 defining desired learning outcomes (the first step of the lesson design).
 Prominently displaying a description of the target audience
-will also help attract people with the right motivation and 
+will also help attract people with the right motivation and
 relevant prior knowledge to attend your workshops.
 
 ### Expertise
@@ -35,12 +37,12 @@ relevant prior knowledge to attend your workshops.
 One of the most important things we can identify about our target audience
 is the level of expertise they will already have in relation to the skills taught by your lesson.
 In The Carpentries Instructor Training curriculum,
-we describe 
+we describe
 [three different stages of skill acquisition: novice, competent practitioner, and expert][it-skill-acquisition] and how it directly correlates to the complexity of [mental models][it-mental-models] these different groups have about a domain/topic.
 
 Briefly, the novice is someone who does not know what they do not know, i.e., they do not yet know what the key ideas in the domain are or how they relate, the competent practitioner has enough understanding of the domain/topic for everyday purposes, and the expert is someone who can easily handle situations that are out of the ordinary and can immediately use their prior knowledge or skills when presented with a new problem in the domain.
 
-When designing a new lesson, it is important to think about 
+When designing a new lesson, it is important to think about
 the level of expertise that you expect learners to arrive with for two reasons:
 
 1. It helps to predict what prior knowledge and 
@@ -55,8 +57,8 @@ the level of expertise that you expect learners to arrive with for two reasons:
    before learners try to incorporate new knowledge into a broken mental model.
    (More on this in [_Stay On Target_](episodes/11-formative-assessment.md).)
 2. People at different stages of this process need to be taught differently.
-   For example, novices will learn more from lessons that include worked examples 
-   and are more tutorial-like i.e. focused on a specific task, 
+   For example, novices will learn more from lessons that include worked examples
+   and are more tutorial-like i.e. focused on a specific task,
    with step-by-step explanations of the process,
    but without a lot of extra information that is not directly relevant.
    However, the same approach may actually hinder learning for competent practitioners
@@ -69,13 +71,13 @@ the level of expertise that you expect learners to arrive with for two reasons:
 
 ### Motivation
 
-Furthermore, your lesson will be more effective if 
-it aligns with the motivations of the target audience. 
-Understanding the wants and needs of your target audience, 
-what they know already and what kinds of problems they want to solve, 
+Furthermore, your lesson will be more effective if
+it aligns with the motivations of the target audience.
+Understanding the wants and needs of your target audience,
+what they know already and what kinds of problems they want to solve,
 will help you design a lesson that learners can see the value in.
-It will give them the impression that taking the lesson will be worthwhile 
-(called _positive expectancies_ in the literature). 
+It will give them the impression that taking the lesson will be worthwhile
+(called _positive expectancies_ in the literature).
 
 We will look more at strategies to establish value and build positive expectancies
 in the next episode.
@@ -83,19 +85,19 @@ in the next episode.
 ### Be Specific
 
 It can be tempting to identify a target audience only in vague terms,
-for example by writing that a lesson is aimed at 
+for example by writing that a lesson is aimed at
 "PhD students" or "early career researchers".
 However,
-taking the time to focus on real people, 
-or imagined personae, 
-who represent your target audience will help you take time to consider 
+taking the time to focus on real people,
+or imagined personae,
+who represent your target audience will help you take time to consider
 the various aspects that can influence how much someone will learn from your lesson.
-It will also help you notice when the assumptions you are making about your target audience 
+It will also help you notice when the assumptions you are making about your target audience
 are unreasonable.
 
-Most of all, it will help you stay connected to the fact that 
+Most of all, it will help you stay connected to the fact that
 _you are not your learners_:
-they will arrive at the lesson with different priorities, 
+they will arrive at the lesson with different priorities,
 interests, and challenges than your own.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
@@ -143,13 +145,13 @@ to help you assess whether a respondent falls within the intended audience for y
 
 ## Thinking more about target audience
 
-There is more to consider about your target audience than we could capture 
+There is more to consider about your target audience than we could capture
 with only the questions listed above.
 In your own time, you should think more about the
-other considerations you might need to make when writing a lesson for 
-your audience. 
+other considerations you might need to make when writing a lesson for
+your audience.
 
-For example, what vocabulary do they use? 
+For example, what vocabulary do they use?
 The terms you are teaching in your lesson might have a different meaning
 in your learners' domain of expertise,
 and it can be helpful to prepare for and try to avoid confusion arising from this clash.
@@ -162,17 +164,17 @@ If so, how might this change the way you write the lesson?
 
 A very common challenge encountered in workshops is
 heterogeneity of expertise among the audience.
-When learners arrive at a workshop with 
+When learners arrive at a workshop with
 a wide range of previous experience with the topic,
 it is difficult for the instructors to keep everyone engaged.
 Those who arrive with too little relevant knowledge and experience
 can struggle to follow the lesson content at the pace you expect,
-while those who arrive with too much are likely to become bored 
+while those who arrive with too much are likely to become bored
 and despondent as their expectation of learning new skills is not met.
 
-One way to try to guard against this is to publish 
+One way to try to guard against this is to publish
 the description of your target audience when you advertise a workshop teaching your lesson,
-alongside a list summarising the skills and conceptual knowledge 
+alongside a list summarising the skills and conceptual knowledge
 you expect learners to arrive with.
 Another is to use the information you have about your target audience
 to ask questions of potential learners when they apply/register to join the workshop
@@ -196,8 +198,8 @@ Write a list of the skills/knowledge your learners will be required to have
 before they can follow your lesson.
 
 If you are struggling with this exercise because your lesson audience is novices,
-think about skills like touch typing, using a web browser, or interacting with a command line 
-or graphical interface. 
+think about skills like touch typing, using a web browser, or interacting with a command line
+or graphical interface.
 These are skills commonly overlooked by experts and competent practitioners.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::

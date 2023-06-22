@@ -6,6 +6,8 @@ exercises: 45
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
+After completing this episode, participants should be able to...
+
 - Summarise lesson content as a teaching plan.
 - Add Setup Instructions and Instructor Notes to the lesson site.
 - Create a feedback collection plan.
@@ -32,17 +34,17 @@ A teaching plan outlines the structure of your teaching session, including detai
 - setup - to check if everyone is ready to proceed with the lesson
 - segments of teaching and exercises from the lesson and any other planned activities (e.g. group discussions, wrap-up and feedback)
 - checkpoints - places where you have planned to stop to check-in with learners
-- slides, figures and other visual aids needed to deliver teaching and other parts of the teaching plan 
+- slides, figures and other visual aids needed to deliver teaching and other parts of the teaching plan
 - resources/references/recommended reading
 
 ::: callout
 
 ## Checkpoints in a Teaching Plan
 
-Checkpoints are especially useful at the beginning of a lesson 
-when you may not have as many exercises 
+Checkpoints are especially useful at the beginning of a lesson
+when you may not have as many exercises
 but the learners need to have the data downloaded or tool opened to be able to follow along.
-A checkpoint could include stopping to ask what questions learners have or having them 
+A checkpoint could include stopping to ask what questions learners have or having them
 indicate if they have completed the most recent step shown by the instructor.
 
 :::
@@ -74,7 +76,7 @@ during this training.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Figures and other visual aids are great tools to help participants understand the content being presented and make associations between pieces of information. If you are planning on using these in your teaching session/pilot - remember to enhance them with the [alternative text (alt)](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) describing the figure for individuals using screen readers or by placing explanatory text adjacent to relevant parts of visualisation.
-  
+
 If your lesson requires participants to use any software, tools or data - it is worthwhile investing time now into creating clear download, installation and setup instructions for participants to follow and circulating them ahead of the workshop. This will give you more time at the pilot for teaching the lesson as troubleshooting setup problems on the spot can be time-consuming and stressful. Each Carpentries lesson has a dedicated place for setup instructions within The Carpentries Workbench located in the file `learners/setup.md` off the lesson project root.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
@@ -91,9 +93,9 @@ Another standard piece of The Carpentries Workbench are the *Instructor Notes* p
 - what has been tried before and what worked/did not work
 - tips for teaching the lesson/particular episodes
 - challenges encountered
-- troubleshooting common setup/installation/exercise issues 
+- troubleshooting common setup/installation/exercise issues
 - parts that seem to cause trouble or most confusion for learners (i.e. where to tread carefully, spend more time explaining)
-    
+
 It may initially be difficult to create Instructor Notes until you have taught the lesson yourself for the first time - but after the first pilot you will have enough feedback to draft them.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
@@ -108,10 +110,10 @@ Add Instructor Notes (in the `instructors/instructor-notes.md` file) with an ini
 
 There is a lot to collect feedback on when trialling a new lesson and this is arguably the most important part of your teaching plan. It can be hard to capture all this information yourself while you are teaching, hence you will need help from your team - make sure you assign the feedback collection roles ahead of your pilot. Additionally, when you are advertising your workshop, try and make it clear to the participants you are piloting a new lesson and that they will be actively helping you refine it as well as learning new things themselves. This can help focus their attention on the feedback you need to collect from them, which you should be doing:
 
-- __constantly and throughout the workshop__ 
+- __constantly and throughout the workshop__
   - As notes taken by an observer/co-instructor - refer to the ["Pilot Workshops" episode](19-operations.md#pilot-workshops) for suggestions on things to track and the [pilot workshop notes template][pilot-notes-template] and other suggested feedback collection mechanisms to help you gather such information.
   - As "minute card" feedback from learners - minute cards are short comments from learners on what is working well and what could be improved, provided frequently (e.g. at the end of each session). Like exercises used as formative assessment, minute card feedback can be provided by learners while there is still time for instructors to act on it and adjust their approach. You may find [the Virtual Minute Card template][minute-card-template] helpful for workshops run online, and [the Instructor Training curriculum describes how sticky notes can be used at in-person events][it-minute-cards].
-- __at a designated wrap-up and feedback session at the end of the workshop.__ Here, you can cover any other feedback that was not addressed up to that point and any specific questions you may want to ask your audience (e.g. about the choice of topics for the lesson, difficulty level, workshop operations). You may design a special form that participants can fill in anonymously - here is a [post-workshop survey template](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview) for workshops that pilot a lesson in The Carpentries Incubator. You can use it as a starting point for a post-workshop survey to be shared with your learners at the end of the pilot workshop and you can supplement it with additional questions. 
+- __at a designated wrap-up and feedback session at the end of the workshop.__ Here, you can cover any other feedback that was not addressed up to that point and any specific questions you may want to ask your audience (e.g. about the choice of topics for the lesson, difficulty level, workshop operations). You may design a special form that participants can fill in anonymously - here is a [post-workshop survey template](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview) for workshops that pilot a lesson in The Carpentries Incubator. You can use it as a starting point for a post-workshop survey to be shared with your learners at the end of the pilot workshop and you can supplement it with additional questions.
 
 
 ::::::::::::::::::::::::::::::::::::::  challenge
@@ -138,10 +140,10 @@ during which we would like you to complete the following three tasks:
    - improvements that could be made to exercises,
    - parts that learners found particularly challenging,
    - unexpected questions or misconceptions that came up during the trial run.
-  
-    We will return to these notes during the final training session, 
+
+    We will return to these notes during the final training session,
     so please make sure you save them somewhere you will be able to find them again easily when the time comes.
-     
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -153,7 +155,7 @@ during which we would like you to complete the following three tasks:
 The homework from this workshop includes a trial run of one of the episodes
 you have been developing in your lesson, to a real audience.
 
-After reading [the information provided about the trial run task](../learners/trial-runs.md) and thinking about this task, 
+After reading [the information provided about the trial run task](../learners/trial-runs.md) and thinking about this task,
 what questions do you have about how you should
 approach teaching that trial run?
 Is there anything you are unsure of?
@@ -166,7 +168,7 @@ What resources might help you prepare for that experience?
 
 - Spending time on preparing your teaching and feedback collection will make you and your participants get the most out of your workshop pilot.
 - Creating clear setup instructions as part of your lesson and circulating them ahead of the pilot is time well-invested and will give you more time when teaching the lesson.
-- Instructor Notes are teaching tips that you should include with your lesson to help you (a few months down the line) and other instructors, who have the relevant topic knowledge but have not been involved in the lesson design and development, deliver your lesson more successfully. 
+- Instructor Notes are teaching tips that you should include with your lesson to help you (a few months down the line) and other instructors, who have the relevant topic knowledge but have not been involved in the lesson design and development, deliver your lesson more successfully.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

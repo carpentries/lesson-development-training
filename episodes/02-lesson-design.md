@@ -6,6 +6,8 @@ exercises: 10
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
+After completing this episode, participants should be able to...
+
 - Explain the lesson design process we will be adopting for this course.
 - Summarise the lessons that participants will be working on.
 
@@ -22,10 +24,10 @@ exercises: 10
 
 In order to design an effective lesson, we need a structured approach with the learner in mind and  clearly identified goals. Throughout this training, we will use a modified version of Nicholl's five phase paradigm for curriculum design[^1].
 Nicholl's paradigm describes a process, commonly referred to as _backward design_,
-where those who wish to develop a new curriculum first begin by defining 
-exactly what their learners will be able to do 
+where those who wish to develop a new curriculum first begin by defining
+exactly what their learners will be able to do
 _after they have completed the lesson/training/course_.
-The subsequent stages of the curriculum design process involve designing content 
+The subsequent stages of the curriculum design process involve designing content
 to directly meet those stated outcomes.
 
 1. Select learning outcomes
@@ -34,11 +36,11 @@ to directly meet those stated outcomes.
 4. Assess learner progress towards desired outcomes
 5. Evaluate chosen outcomes, experiences, and content based on this assessment
 
-**TODO: add a figure illustrating the setps in the list above. 
+**TODO: add a figure illustrating the setps in the list above.
 could be based on Fig. 2 in [f1000-course-design-guide]**
 
-The last two phases of Nicholl's paradigm involve 
-assessing learner progress towards the desired learning outcomes and 
+The last two phases of Nicholl's paradigm involve
+assessing learner progress towards the desired learning outcomes and
 evaluating the stated objectives and current content in light of the results of that assessment.
 In The Carpentries, most workshops are relatively short-format,
 without room for an extensive assessment after the teaching has finished
@@ -48,7 +50,7 @@ assessment of learner progress that takes place _while the teaching is still goi
 to give instructors opportunities to evaluate the teaching and lesson content
 before the end of the workshop.
 
-To account for this, 
+To account for this,
 we have adapted Nicholl's five phases in this training,
 to place an emphasis on assessing learning during a workshop:
 
@@ -58,7 +60,7 @@ to place an emphasis on assessing learning during a workshop:
 4. Write content to lead learners from one of these assessments to the next
 5. (After the break) evaluate how closely the outcomes meet the objectives
 
-**TODO: add a figure illustrating the process described in the list above. 
+**TODO: add a figure illustrating the process described in the list above.
 could be similar to the one used earlier for Nicholl's original list.**
 
 ## Your Lessons
@@ -87,7 +89,7 @@ Make some notes, then share a single-sentence answer to each question with the o
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- We will learn to develop lessons based on the (slightly adapted) Nicholl’s backward lesson design  process. 
+- We will learn to develop lessons based on the (slightly adapted) Nicholl’s backward lesson design  process.
 - There can be many reasons to create a new lesson.
 - This training will give you a process to follow to ensure your lesson is effective.
 

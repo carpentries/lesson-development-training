@@ -6,6 +6,8 @@ exercises: 50
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
+After completing this episode, participants should be able to...
+
 - Find candidate datasets to use in a lesson.
 - Evaluate the suitability of a dataset to be used in a lesson.
 - Choose examples that will prepare learners for formative assessments in the lesson.
@@ -32,11 +34,11 @@ You can enable learners to make connections between what they learn in your less
 own work by creating a narrative that resembles a situation the learners might
 encounter there.
 
-You may find that images and figures enhance your narrative. 
-Images are powerful communicators, conveying a lot of information with few or no words. 
-Images can also be distracting for learners. 
-If you choose to include images as part of the narrative of your lesson, 
-be sure that they are consistent with the situation you are describing 
+You may find that images and figures enhance your narrative.
+Images are powerful communicators, conveying a lot of information with few or no words.
+Images can also be distracting for learners.
+If you choose to include images as part of the narrative of your lesson,
+be sure that they are consistent with the situation you are describing
 so that they do not increase learners' cognitive load.
 
 Depending on the tool you are teaching, you might also include a particular dataset as a part of the story you are weaving into your lesson.
@@ -47,23 +49,23 @@ help create a flow between lessons and reduce cognitive load for learners.
 
 ## Finding Images
 
-Copying an image from a website is technologically simple but can be legally and ethically complex. 
-Images are intellectual property and are subject to intellectual property laws 
-including, but not limited to, copyright and trademark laws. 
-These laws differ by country but are consistent in theme: 
-do not take intellectual property that does not belong to you without permission. 
+Copying an image from a website is technologically simple but can be legally and ethically complex.
+Images are intellectual property and are subject to intellectual property laws
+including, but not limited to, copyright and trademark laws.
+These laws differ by country but are consistent in theme:
+do not take intellectual property that does not belong to you without permission.
 
-When looking for images that illustrate the narrative of your lesson, 
-avoid copying images that do not include a reuse license. 
-Assume that you cannot reuse these images unless you seek written permission from the image creator or owner. 
-Instead, look for images that indicate that they are in the public domain 
-or carry a permissive reuse license such as CC0 or CC-BY. 
-Public domain images can be freely reused and adapted. 
+When looking for images that illustrate the narrative of your lesson,
+avoid copying images that do not include a reuse license.
+Assume that you cannot reuse these images unless you seek written permission from the image creator or owner.
+Instead, look for images that indicate that they are in the public domain
+or carry a permissive reuse license such as CC0 or CC-BY.
+Public domain images can be freely reused and adapted.
 Images carrying a reuse license can be used and adapted in accordance with their license terms.
 
-If you cannot find reusable images that match your narrative, you can 
-create your own images or seek help from others in the Carpentries community. 
-When incorporating original images into your lesson, be sure to license these images 
+If you cannot find reusable images that match your narrative, you can
+create your own images or seek help from others in the Carpentries community.
+When incorporating original images into your lesson, be sure to license these images
 to be compatible with the license on the rest of your lesson materials.
 
 The guidance in this section is not a substitute for legal advice.
@@ -82,7 +84,7 @@ GNU offers commentary about a variety of licenses for free software; this resour
 
 ## Finding a Dataset
 
-When searching for a dataset to use in your lesson, 
+When searching for a dataset to use in your lesson,
 there are a number of factors to consider.
 First, if possible you want the dataset to be an authentic use
 case for researchers in your target audience.
@@ -102,20 +104,20 @@ You may also want to include and review a data dictionary in your lesson,
 explicitly taking the time to review the information included in the
 dataset.
 For inspiration, see the [Social Sciences Data Carpentry data dictionary](https://datacarpentry.org/socialsci-workshop/data/).
-An additional factor to consider when choosing a dataset to include is 
+An additional factor to consider when choosing a dataset to include is
 the license.
 You want to find a dataset where the data provider allows for you to freely use it.
 The best option is a dataset with a CC0 (Public Domain Dedication) license, as
 other licenses may have more ambiguity around data reuse.
 Lessons included in [The Carpentries Incubator][carpentries-incubator] are encouraged to use CC0 licensed data, and may be required to do so to qualify for peer review in [The Carpentries Lab][carpentries-lab].
-Even with a CC0 license, you will still want to follow best practice in 
+Even with a CC0 license, you will still want to follow best practice in
 giving attribution to the data provider or collecting agency.
 
 :::::::::::::::: callout
 
 ## More CC0 License Reading
 
-If you'd like to read more about CC0 and CC-BY, Katie Fortney wrote an excellent 
+If you'd like to read more about CC0 and CC-BY, Katie Fortney wrote an excellent
 [blogpost on why CC-BY is not always a good fit](https://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/).
 
 ::::::::::::::::::
@@ -138,7 +140,7 @@ The CARE Principles for Indigenous Data Governance[^1] (Collective Benefit, Auth
 for thinking about data sovereignty and considering the ethics of data collected
 about an individual or groups of people.
 
-::::::::::::::::::::::::::::::::: instructor 
+::::::::::::::::::::::::::::::::: instructor
 
 Outline covering the above paragraph - also used in codiMD template.
 
@@ -185,14 +187,14 @@ People learn faster if they are motivated[^2],
 and learners will be motivated if you **teach most useful things first**.
 As you think about what story your lesson will tell, it is important to put
 the pieces that are most interesting to learners up front.
-If they are able to quickly learn tools or skills that they see as useful from your 
-lesson, they will be more interested in continuing to learn other concepts that are 
+If they are able to quickly learn tools or skills that they see as useful from your
+lesson, they will be more interested in continuing to learn other concepts that are
 needed.
 You may notice this trend in many of the Software Carpentry lessons.  In particular,
 many of the coding language lessons (R and Python) have the learners create a plot
 very early in the lesson and then go back and teach coding fundamentals such as loops
 and conditionals. Visualization of data is often a very motivating and much needed
-skill by learners. Getting to visualization early, keeps learners interested in 
+skill by learners. Getting to visualization early, keeps learners interested in
 learning the additional and vital skills where the application might be less clear.
 
 ::::::::::::::::::::::::::::::::::::  testimonial
@@ -212,19 +214,19 @@ Looking back at one of the exercises you designed before:
 what examples could you include in your narrative to teach learners the skills
 they will need to apply to complete the formative assessments you have designed?
 
-Examples:  
+Examples:
 In the Software Carpentry Plotting and Programming with Python Lesson:
-Exercise to load and inspect CSV file for Americas -> 
+Exercise to load and inspect CSV file for Americas ->
 In the lesson, the Instructor demonstrates how to load the data table for another continent (Oceania)
 and explores the values with a few different functions.
 This shows learners how to call the function to load the CSV into a data frame,
 and demonstrates what success looks like for this task.
 In the Python Interactive Data Visualization Lesson in the Incubator:
-Exercise to find the correct widget (a slider) for an action and modify the script to use it -> 
-In the lesson the instructor introduces a cheatsheet and documentation for interactive widgets and 
-then creates a dropdown widget for the application. 
+Exercise to find the correct widget (a slider) for an action and modify the script to use it ->
+In the lesson the instructor introduces a cheatsheet and documentation for interactive widgets and
+then creates a dropdown widget for the application.
 The slider widget required in the exercise has not been demonstrated but
-the preceding example shows all of the necessary steps to add a widget, 
+the preceding example shows all of the necessary steps to add a widget,
 and provides the supporting information that learners can consult to discover
 how to implement the specific tool.
 
@@ -236,14 +238,14 @@ Outline one of these examples in your episode file.
 
 ## Summary
 
-Remember, even if you do not need a dataset for your lesson, you should 
+Remember, even if you do not need a dataset for your lesson, you should
 decide on a narrative.
-Centering your lesson around a central example reduces the cognitive load of 
+Centering your lesson around a central example reduces the cognitive load of
 switching between examples throughout the lesson.
 Using an authentic, yet simple, dataset will also help reduce cognitive
 load and help learners to see how they might apply what they learned to their own
 projects.
-It is also important to consider licensing and ethical considerations when looking 
+It is also important to consider licensing and ethical considerations when looking
 for a lesson dataset.
 
 

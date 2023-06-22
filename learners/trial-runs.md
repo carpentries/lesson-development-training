@@ -2,7 +2,7 @@
 title: "Lesson Trial Runs"
 ---
 
-[Teaching a lesson for the first time is an important intermediate step in the lesson development process](../episodes/17-operations.md).
+[Teaching a lesson for the first time is an important intermediate step in the lesson development process](episodes/19-operations.md).
 During the break between the first and second parts of this training,
 we ask trainees to teach part of the lesson they have been designing to a real audience.
 The purpose of this task is to gather feedback at an early stage of the development process,
@@ -65,7 +65,7 @@ please discuss it with your trainers and/or send an email to
 - What parts of the lesson appeared to be confusing for learners?
 
 **At the end of the trial run**, make sure to capture some feedback from the learners.
-You can use the methods described in [Preparing to teach](../episodes/18-preparing.md) to
+You can use the methods described in [Preparing to teach](episodes/20-preparing.md) to
 gather feedback, e.g.
 
 - Minute cards

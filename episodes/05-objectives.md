@@ -6,6 +6,8 @@ exercises: 50
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
+After completing this episode, participants should be able to...
+
 - Explain the importance of defining specific, measurable, attainable, relevant and time-bound objectives for a lesson.
 - Evaluate a written lesson objective according to these criteria.
 
@@ -20,7 +22,7 @@ exercises: 50
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-At this stage of the training, 
+At this stage of the training,
 you should have a clear idea of who the target audience is for your lesson,
 and what knowledge, skills, and abilities you expect them to arrive with.
 Now it is time to consider the additional knowledge, skills, and abilities they will have
@@ -29,7 +31,7 @@ these are the _learning outcomes_ of your lesson.
 It can feel strange to jump from one end of the process to the other like this,
 but clearly defining your goals early in the lesson development process is vital.
 As we will see in this episode,
-it helps you to determine the activities, examples, etc. 
+it helps you to determine the activities, examples, etc.
 that are appropriate for the lesson content,
 and provides a scope for what should and should not be included.
 
@@ -41,24 +43,24 @@ we recommend that lessons focus on teaching skills rather than tools.
 Lessons should be centred around what you are empowering learners to _do_,
 what will be most beneficial to them,
 rather than a list of functions or commands you are teaching them to use.
-Placing the emphasis on skills over tools will help you prioritise key concepts 
+Placing the emphasis on skills over tools will help you prioritise key concepts
 and consider how your lesson can have the biggest impact on the way learners do their work.
 
 
 ## Learning Objectives
 
-The desired outcomes (the _learning objectives_) of a lesson should be new skills, 
+The desired outcomes (the _learning objectives_) of a lesson should be new skills,
 i.e. things that the learner can do.
-For the vast majority of lessons, 
+For the vast majority of lessons,
 these will be _cognitive skills_: things learners can do with their minds.
-(Lessons intended to teach other kinds of skill, 
-such as woodwork, 
-playing a musical instrument, 
+(Lessons intended to teach other kinds of skill,
+such as woodwork,
+playing a musical instrument,
 or making sushi,
 are probably better suited to a different platform than a static website.)
 Cognitive skills cannot be equally easily acquired:
 before we can *apply* concepts and *create* something new, we must attain the ability to *remember*
-and *distinguish* between new concepts. 
+and *distinguish* between new concepts.
 Remembering and distinguishing are also abilities that are often faster to gain then applying or creating.
 
 We must try to be realistic about how far along this scale we can move learners during a single workshop/lesson.
@@ -74,8 +76,8 @@ include anything superfluous that could use up valuable time or distract instruc
 
 ## What Does an Objective Look Like?
 
-![This diagram highlights the most important elements of a learning objective.](fig/objective.svg){alt='An example 
-learning objective, "import data into an indexed DataFrame with read_csv", with emphasis placed on the action verb 
+![This diagram highlights the most important elements of a learning objective.](fig/objective.svg){alt='An example
+learning objective, "import data into an indexed DataFrame with read_csv", with emphasis placed on the action verb
 ("import") and the specificity ("indexed") of the objective.'}
 
 Objectives can be defined for a lesson as a whole -
@@ -93,14 +95,14 @@ The objectives for the current section of this training are:
 
 ::::::::::::::::::::
 
-These should be read as if they were endings to a sentence beginning 
+These should be read as if they were endings to a sentence beginning
 
 > "At the end of this session, learners should be able to ..."
 
 Each objective starts with a verb and describes one (and only one) skill the learner will obtain.
 
 For objectives to be as helpful as possible,
-they need to be written in a way that will allow us to directly observe whether 
+they need to be written in a way that will allow us to directly observe whether
 or not a learner has attained the skills we want them to.
 This means that the skills described by our objectives should be measurable:
 as a general rule, action verbs such as "explain," "choose," or "predict,"
@@ -112,7 +114,7 @@ which divides cognitive skills into several categories.
 The original taxonomy arranged these categories in a strict hierarchy,
 which has since been disputed.
 Regardless of whether these skills conform to such a hierarchy,
-Bloom's Taxonomy serves as a very useful bank of action verbs for use 
+Bloom's Taxonomy serves as a very useful bank of action verbs for use
 in learning objectives.
 
 We will see how helpful it can be to use action verbs in learning objectives
@@ -148,10 +150,10 @@ before they complete the next exercise.
 | 3         |              |          |            |            |
 ```
 
-_Note: if you are using the [template CodiMD for notes][codimd-notes-template], 
+_Note: if you are using the [template CodiMD for notes][codimd-notes-template],
 you will find [this template table for the exercise](https://codimd.carpentries.org/cldt-notes-template?both#Exercise-evaluating-learning-objectives-15-minutes) included there._
 
-If you are using Etherpad for collaborative notes in your training, 
+If you are using Etherpad for collaborative notes in your training,
 you can use [the template table for Etherpad](https://pad.carpentries.org/1QL-h8z-s70J8cemD0J1) instead.
 
 :::::::::::::::::
@@ -161,12 +163,12 @@ you can use [the template table for Etherpad](https://pad.carpentries.org/1QL-h8
 ## Exercise: evaluating learning objectives (15 minutes)
 
 Look at the example learning objectives below.
-Fill in the table for each objective, 
+Fill in the table for each objective,
 checking off the cells if you think an objective
 meets the criteria or leaving it unchecked if not.
 You should assume each objective is for a lesson to be taught in a two-day workshop.
 Note down any observations you make as you move through the list.
-If you have time, 
+If you have time,
 try to imagine the titles of lessons that would have these objectives.
 This part of the exercise should take 10 minutes.
 
@@ -182,7 +184,7 @@ _At the end of this lesson, learners will be able to:_
 | 2         |              |          |            |            |
 | 3         |              |          |            |            |
 
-In the last five minutes of the exercise, 
+In the last five minutes of the exercise,
 we will discuss as a group how each objective might be improved.
 
 ::: solution
@@ -218,23 +220,23 @@ so it is good to avoid the temptation to cram in more content than you
 have time to cover properly.
 
 Writing learning objectives is a good opportunity to begin thinking about
-this lesson scope, 
+this lesson scope,
 and can provide assistance when you are faced with a difficult decision
 about what content to cut out.
 
 For instance, consider the order in which new skills must be acquired.
 Before learners can begin to acquire "higher-level" cognitive skills
-to perform creative and analytical tasks, they must first acquire 
+to perform creative and analytical tasks, they must first acquire
 the foundational knowledge and conceptual understanding of the domain.
 Furthermore, these higher-level skills take longer to acquire so,
 unless you can expect your target audience to arrive at the lesson
 with the relevant foundational knowledge and understanding,
-it is probably unrealistic to aim to have learners 
+it is probably unrealistic to aim to have learners
 completing creative tasks before its end.
 
 As should become clear through activities in the upcoming episodes,
 lessons can be broadly considered as blocks of content associated with
-a particular learning objective. 
+a particular learning objective.
 This can be helpful when making choices about content to remove,
 because the task can be considered in the context of taking out whole
 learning objectives.
@@ -242,7 +244,7 @@ learning objectives.
 
 ## Defining Learning Objectives
 
-We have discussed the importance of defining objectives early in 
+We have discussed the importance of defining objectives early in
 the lesson design process,
 and looked at some examples of objectives written for other lessons.
 Now it is time to begin defining objectives for your own.
@@ -277,7 +279,7 @@ Do the results match your assessment?
 
 - Where do the skills described in these objectives sit on the scale?
 - (optional) Are these objectives realistic, given the target audience of the lesson?
-  
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
