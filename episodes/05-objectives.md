@@ -213,7 +213,7 @@ how much detail can be provided,
 and how much time can be spent on each point.
 Especially when writing lessons for short form training like a Carpentries workshop,
 difficult decisions often need to be made about what can and cannot be included.
-[Trying to fit too much content into a lesson is counter-productive][lujan-decarlo],
+Trying to fit too much content into a lesson is counter-productive[^1],
 so it is good to avoid the temptation to cram in more content than you
 have time to cover properly.
 
@@ -294,4 +294,4 @@ Do the results match your assessment?
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-[lujan-decarlo]: https://journals.physiology.org/doi/pdf/10.1152/advan.00061.2005
+[^1]: [Lujan & DiCarlo (2005)](learners/reference.md#litref)

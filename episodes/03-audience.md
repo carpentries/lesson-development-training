@@ -60,8 +60,8 @@ the level of expertise that you expect learners to arrive with for two reasons:
    with step-by-step explanations of the process,
    but without a lot of extra information that is not directly relevant.
    However, the same approach may actually hinder learning for competent practitioners
-   [who may be distracted by a step-by-step explanation
-   of something they already have the prior knowledge of][^3].
+   who may be distracted by a step-by-step explanation
+   of something they already have the prior knowledge of[^3].
    For learners at this level of expertise,
    lessons which include activities offering learners
    the freedom to explore options and develop their own solutions,
@@ -182,7 +182,7 @@ your intended audience.
 
 While valuable, this kind of pre-assessment should be approached 
 with caution: 
-[people are often bad at self-assessment i.e. estimating our own ability to perform a task][hacker-2000].
+people are often bad at self-assessment i.e. estimating our own ability to perform a task[^4].
 We can try to mitigate for this when designing the questions for a pre-workshop survey,
 leaving little room for inaccurate self-assessment to confound the results.
 But experience suggests it is very difficult to ensure that
@@ -221,4 +221,5 @@ These are skills commonly overlooked by experts and competent practitioners.
 [^2]: See chapter 2, _How Does the Way Students Organize Knowledge Affect Their Learning?_,
       of [Ambrose et al. 2010](learners/reference.md#litref).
 [^3]: [Kirschner et al. 2006](learners/reference.md#litref)
+[^4]: [Hacker et al. 2000](learners/reference.md#litref)
 

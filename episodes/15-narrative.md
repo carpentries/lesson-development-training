@@ -134,7 +134,7 @@ each dataset considered.  *Does the data contain personally identifiable informa
 If the answer to any of these questions might be yes, you will need to do more
 research on it and continue to look for other options.  Commonly data is misused
 from historically excluded and exploited groups.
-The [CARE Principles for Indigenous Data Governance](https://doi.org/10.5334/dsj-2020-043) (Collective Benefit, Authority to Control, Responsibility, and Ethics) are good starting point
+The CARE Principles for Indigenous Data Governance[^1] (Collective Benefit, Authority to Control, Responsibility, and Ethics) are good starting point
 for thinking about data sovereignty and considering the ethics of data collected
 about an individual or groups of people.
 
@@ -181,7 +181,7 @@ Identify one or more potential candidates and note down the advantages and disad
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-People learn faster if they are motivated[^1],
+People learn faster if they are motivated[^2],
 and learners will be motivated if you **teach most useful things first**.
 As you think about what story your lesson will tell, it is important to put
 the pieces that are most interesting to learners up front.
@@ -256,7 +256,8 @@ for a lesson dataset.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-[^1]: The evidence for this is summarised well in chapter 3,
+[^1]: [Carroll et al. (2020)](learners/reference.md#litref)
+[^2]: The evidence for this is summarised well in chapter 3,
       _What Factors Motivate Students to Learn?_,
       of [Ambrose et al. 2010](learners/reference.md#litref).
       The Carpentries Instructor Training curriculum also includes

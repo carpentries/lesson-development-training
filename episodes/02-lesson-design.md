@@ -20,7 +20,7 @@ exercises: 10
 
 ## A Lesson Design Process
 
-In order to design an effective lesson, we need a structured approach with the learner in mind and  clearly identified goals. Throughout this training, we will use a modified version of [Nicholl's five phase paradigm for curriculum design ][f1000-course-design-guide].
+In order to design an effective lesson, we need a structured approach with the learner in mind and  clearly identified goals. Throughout this training, we will use a modified version of Nicholl's five phase paradigm for curriculum design[^1].
 Nicholl's paradigm describes a process, commonly referred to as _backward design_,
 where those who wish to develop a new curriculum first begin by defining 
 exactly what their learners will be able to do 
@@ -94,3 +94,4 @@ Make some notes, then share a single-sentence answer to each question with the o
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+[^1]: [Nicholls (2002)](learners/reference.md#litref)
