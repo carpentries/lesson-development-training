@@ -6,6 +6,8 @@ exercises: 25
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
+After completing this episode, participants should be able to...
+
 - Draw a diagram or compose a written summary of the key concepts from this training.
 - Articulate constructive feedback.
 
@@ -24,13 +26,13 @@ exercises: 25
 We have reached the end of this training.
 By now, you should have made good progress towards a first draft of your lesson.
 
-Referring back to [the life cycle stages for lessons](19-operations.md) 
-described earlier in the curriculum, 
+Referring back to [the life cycle stages for lessons](19-operations.md)
+described earlier in the curriculum,
 your lesson is still in _pre-alpha_ but hopefully approaching _alpha_,
 when it is ready to be taught in full for the first time.
 
 As you and your collaborators continue to iterate over the lesson -
-teaching it, gathering feedback, reflecting on the experience, 
+teaching it, gathering feedback, reflecting on the experience,
 and improving it for next time -
 the lesson will pass through _alpha_ into the _beta_ and _stable_ stages
 (perhaps via [peer review in The Carpentries Lab][carpentries-lab]).
@@ -52,20 +54,20 @@ Thank you for following this training.
 We hope you found it helpful to build a foundation for your current lesson project
 and to prepare you to collaborate on other projects in the future.
 
-To bring the training to a close, 
-the Trainers will lead a number of activities to gather feedback 
+To bring the training to a close,
+the Trainers will lead a number of activities to gather feedback
 and help you reflect on the experience.
 
 ::: challenge
 
 ## One Up, One Down (10 min)
 
-Provide one up, one down feedback on the entire Collaborative Lesson Development Training. 
+Provide one up, one down feedback on the entire Collaborative Lesson Development Training.
 Remember:
 
 - Say only one thing, and try not to duplicate.
   This gets harder for those who come later!
-- Trainers should try not to respond, only record responses (e.g. in the Etherpad). 
+- Trainers should try not to respond, only record responses (e.g. in the Etherpad).
   This is also hard, but important!
 
 :::::::::::::
@@ -80,17 +82,17 @@ and take some action to plan to successfully complete the development of your le
 after you leave.
 It is up to you how you use this time, but you might find some inspiration in the prompts below.
 
-- How could you use the project management features of GitHub to 
+- How could you use the project management features of GitHub to
   prepare for the next stage of the lesson development process?
 - If you have been working in a collaborative group,
   what steps could your group take to improve the way you work together
   for the remainder of the project?
 - If you have been working on the lesson alone so far,
-  what steps could you take to find new collaborators to help you 
+  what steps could you take to find new collaborators to help you
   with the further development of your lesson?
 - Based on the experience of teaching a section of your lesson,
   do the objectives you wrote for your lesson still seem realistic?
-  Can you identify anything that can be added or removed 
+  Can you identify anything that can be added or removed
   now that you have completed a trial run?
 
 :::::::::::::
@@ -102,5 +104,3 @@ It is up to you how you use this time, but you might find some inspiration in th
 - Any lesson can be improved with feedback, including this one.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-

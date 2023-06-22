@@ -6,6 +6,8 @@ exercises: 25
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
+After completing this episode, participants should be able to...
+
 - Summarise the lesson development process introduced in this training.
 - Describe the trial run task to be completed before the next part of the training
 - Identify remaining tasks that should be completed before trialling lesson content.
@@ -54,7 +56,7 @@ Take some time to provide this feedback, before moving onto the second part of t
 
 ## Organise Your Knowledge (10-15 min)
 
-Take some time to think back on what has been covered so far, 
+Take some time to think back on what has been covered so far,
 then make some notes on the most important points and actions you want to take away from that.
 The Trainers and other participants will not look at this - it is only for you.
 
@@ -76,5 +78,3 @@ Please stay in touch as you plan for your trial run.
 - Before the next part of the training, you should teach a part of your new lesson to a real audience and reflect on the experience.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-

@@ -7,6 +7,8 @@ start: yes
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
+After completing this episode, participants should be able to...
+
 - Reflect on the experience of teaching part of a lesson for the first time.
 - Identify changes and improvements that can be made as a result of trialling lesson material.
 
@@ -58,7 +60,7 @@ Try to answer some or all of the following questions:
 - How did the audience perceive the difficulty level of the material?
 - What will you do differently next time?
 - What will you change in the material you taught?
-- What will you change in the way you collect feedback in future pilots?  
+- What will you change in the way you collect feedback in future pilots?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -69,9 +71,9 @@ Moving forward from your first pilot, the next steps to consider are:
   - would adding a diagram help explain or curate things better?
   - is there too much content for one episode, and do you need to split it into smaller teaching units?
   - do you need to re-organise and move some content around to improve the flow and narrative?
-  - are there enough exercises and practical work? 
+  - are there enough exercises and practical work?
   - do you need to realign your lesson objectives and key messages?
-- Decide if for some of the feedback you will not take action. Remember, you do not need to respond to every piece of feedback you receive. For example, it is easy to fall down the rabbit hole of adding extra material just because someone suggested it may be a useful thing - sometimes, adding a link or a callout to extra reading is sufficient. You need to be able to draw a line under any extra modification suggestions to keep you in scope and on schedule. 
+- Decide if for some of the feedback you will not take action. Remember, you do not need to respond to every piece of feedback you receive. For example, it is easy to fall down the rabbit hole of adding extra material just because someone suggested it may be a useful thing - sometimes, adding a link or a callout to extra reading is sufficient. You need to be able to draw a line under any extra modification suggestions to keep you in scope and on schedule.
 - Schedule follow-up co-working sessions with your team to carry on working on fixing issues and adding new content to maintain the momentum.
 - Add/Update your lessons' Instructor Notes based on what you learned and to help other instructors who will teach your lesson in the future.
 - Think about the timeline for your next pilot(s), even provisionally, to help you set milestones and targets to work towards.
@@ -85,5 +87,3 @@ Designing and developing quality lessons is hard - there are many pieces of a pu
 - Identify changes and improvements you want to make as a result of trialling your lesson and schedule co-working sessions to work on these tasks.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-

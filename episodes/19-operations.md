@@ -6,6 +6,8 @@ exercises: 5
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
+After completing this episode, participants should be able to...
+
 - Describe the life cycle of a lesson.
 - Summarise the path a new lesson can take through The Carpentries Incubator and Lab.
 - Connect with other members of the community.
@@ -27,7 +29,7 @@ Now it is time to consider the context in which this lesson development can take
 
 [The Carpentries Incubator][carpentries-incubator] is a space for The Carpentries community
 to collaborate on lessons.
-It provides a single location where our community can come to 
+It provides a single location where our community can come to
 find lessons that are being developed by the community,
 and to create new lessons using The Carpentries Workbench.
 Community members retain ownership of their lessons hosted in the Incubator,
@@ -41,8 +43,8 @@ and platforms for the community to discuss and collaborate on lesson development
 The Carpentries also provides a space for community-developed lessons
 to reside after the initial phases of development have been completed.
 [The Carpentries Lab][carpentries-lab] provides a platform for open peer-review of lessons,
-and hosts the collection of lessons that have passed through this review process. 
-These peer-reviewed lessons can be considered ready to teach 
+and hosts the collection of lessons that have passed through this review process.
+These peer-reviewed lessons can be considered ready to teach
 by any Instructor with sufficient knowledge of the topic.
 In the future, this lesson review process may also be used to determine when a lesson
 in the Incubator is ready to be incorporated into one of The Carpentries _Lesson Programs_,
@@ -52,16 +54,16 @@ Software, Library, or Data Carpentry.
 
 ## The Lesson Life Cycle
 
-To make it easier for other community members to 
+To make it easier for other community members to
 assess the current state of a lesson in the Incubator,
-The Carpentries encourages lesson developers to indicate the status of their lesson 
+The Carpentries encourages lesson developers to indicate the status of their lesson
 by labelling its progress through a _lesson life cycle_:
 
 ![The life cycle of a lesson](fig/life_cycle.png){alt="Diagram of the life cycle of a
-lesson in The Carpentries ecosystem. A lesson is proposed at the beginning of the 
-pre-alpha stage. It enters alpha when it is taught for the first time. In beta, it is 
-taught by other instructors. A full release of the lesson is made when it is stable. 
-Pilot workshops take place during the alpha and beta phases. The Carpentries Lab hosts 
+lesson in The Carpentries ecosystem. A lesson is proposed at the beginning of the
+pre-alpha stage. It enters alpha when it is taught for the first time. In beta, it is
+taught by other instructors. A full release of the lesson is made when it is stable.
+Pilot workshops take place during the alpha and beta phases. The Carpentries Lab hosts
 open peer review of lessons that have completed the beta phase."}
 
 Each life cycle stage indicates the level of maturity of a lesson:
@@ -78,8 +80,8 @@ and lesson listings.
 
 The life cycle stage for a lesson is configured in the `config.yaml` file we
 encountered when we were first introduced to [The Carpentries Workbench](07-infrastructure.md),
-as a value for the `life_cycle` field. 
-For new lesson repositories, this value is already set to 'pre-alpha', 
+as a value for the `life_cycle` field.
+For new lesson repositories, this value is already set to 'pre-alpha',
 so you should not have to change it yet.
 
 ::: callout
@@ -100,7 +102,7 @@ over to another styling when the lesson moves e.g. into The Carpentries Lab.
 ## Pilot Workshops
 
 In line with [the importance we placed on evaluation of lesson content earlier in this training](03-audience.md),
-the life cycle described above places considerable emphasis on 
+the life cycle described above places considerable emphasis on
 the testing of lessons in **pilot workshops**.
 
 For these pilot workshops to provide an effective evaluation of the lesson,
@@ -110,28 +112,28 @@ For example, a pilot workshop offers a chance to answer questions like:
 - How much time does it take to teach each section of the lesson?
 - How much time is required for each exercise?
 - What technical issues were encountered during the lesson?
-- What questions did learners ask during the workshop? 
+- What questions did learners ask during the workshop?
 - Which parts of the lesson were confusing for learners?
 - Which exercises could be improved to provide more information to the instructors?
 
 [The pilot workshop notes template][pilot-notes-template] provides a starting point,
 but it takes a lot of time and effort to keep track of all this information
-during a pilot workshop. 
+during a pilot workshop.
 It can be helpful to assign this task to a member of the lesson development team,
 who can dedicate themselves to observing the pilot and taking notes.
 As soon as the pilot has finished,
 it is a good idea to take some time to share the notes with the other lesson authors,
 to reflect on and discuss the experience of teaching the lesson,
-and to synthesise the lesson notes and any action items that come from this debrief 
+and to synthesise the lesson notes and any action items that come from this debrief
 into specific action items to improve the lesson.
 These should be added as new issues on the lesson repository,
 to help you keep track of the work that needs doing for the next iteration.
 
-For beta pilot workshops, 
+For beta pilot workshops,
 where the lesson is taught by instructors who have not yet made a major contribution to its development,
-it is vital that instructors have the opportunity before the workshop 
+it is vital that instructors have the opportunity before the workshop
 to learn about the lesson from the authors,
-and to debrief with the authors afterwards so that they can 
+and to debrief with the authors afterwards so that they can
 share their experience and observations about how the lesson could be further improved.
 
 
@@ -139,7 +141,7 @@ share their experience and observations about how the lesson could be further im
 
 ## Hosting and Teaching Pilot Workshops
 
-The Carpentries community handbook includes 
+The Carpentries community handbook includes
 [guidance for community members who want to teach and/or host pilot workshops][handbook-pilot-workshops].
 
 :::::::::::
@@ -166,7 +168,7 @@ Here are a community activities and channels that you might be interested in joi
 
 ## Exercise: join relevant channels (5 minutes)
 
-Use this time to explore the options listed above 
+Use this time to explore the options listed above
 and join/subscribe to any communication channels that you find interesting.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -180,5 +182,3 @@ and join/subscribe to any communication channels that you find interesting.
 - The Carpentries lesson developer community shares their experience on multiple communication channels.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
