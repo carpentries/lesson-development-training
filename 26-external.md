@@ -25,7 +25,7 @@ After completing this episode, participants should be able to...
 You may start working on projects by yourself or with a small group of collaborators you already know, but open source projects in the Carpentries community often grow beyond that small group. Community collaboration is the cornerstone of The Carpentries - all curricula and various programmes are developed together by the community members across borders, domains and backgrounds. Most initiatives are done through community consultation and collaboration is used as a pathway to empower people, give members a sense of purpose in the community and realise shared goals.
 
 Collaboration helps bring different perspectives to solving a problem and share the load of the required work to develop, pilot, and, later on, maintain the lesson. People drop in and out of projects for various reasons and their levels of involvement may vary over time due to other commitments - for this reason it is worth taking time from the outset to make a project welcoming for newcomers in order to achieve a steady number of people working on your project at any time. You should plan to make it easy for new collaborators to join, to set up a local workspace so that they can contribute, help them find tasks so that they know what to contribute, and make the contribution process clear so that they know how to contribute. You also want to make it easy to give people credit for their work on your project as well as for others to reuse and give credit to your project. In this episode, we cover best practices for collaborating with newcomers and tools available to help. And remember, anything you do to make it easier for
-newcomers to contribute will be [universally useful for all collaborators](https://carpentries.github.io/instructor-training/09-eia/index.html#from-accommodation-to-universal-design).
+newcomers to contribute will be [universally useful for all collaborators](https://carpentries.github.io/instructor-training/09-eia.html#from-accommodation-to-universal-design).
 
 ## Documenting Your Lesson
 
@@ -128,7 +128,7 @@ without demotivating the contributor from contributing to your lesson
    (e.g. in the `CONTRIBUTING.md` file) to save yourself time in future.
 4. **Close the request**.
 
-The advice above is taken from [The Carpentries Maintainer Onboarding curriculum](https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors).
+The advice above is taken from [The Carpentries Maintainer Onboarding curriculum](https://carpentries.github.io/maintainer-onboarding/02-communicate-contributors.html).
 That resource, and [the _Best Practices for Maintainers_ guide from GitHub](https://opensource.guide/best-practices/#learning-to-say-no) on which it is based,
 make excellent further reading as you prepare to transition from your role as an active developer
 into another as a responsive and responsible maintainer of your lesson.

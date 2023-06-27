@@ -205,8 +205,8 @@ These are skills commonly overlooked by experts and competent practitioners.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-[it-mental-models]: https://carpentries.github.io/instructor-training/02-practice-learning/index.html#building-a-mental-model
-[it-skill-acquisition]: https://carpentries.github.io/instructor-training/02-practice-learning/index.html#the-acquisition-of-skill
+[it-mental-models]: https://carpentries.github.io/instructor-training/02-practice-learning.html#building-a-mental-model
+[it-skill-acquisition]: https://carpentries.github.io/instructor-training/02-practice-learning.html#the-acquisition-of-skill
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
