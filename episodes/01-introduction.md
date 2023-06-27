@@ -30,7 +30,7 @@ and share your link with trainees so that you can take notes together during the
 :::
 
 **Note:** some of the content in this course is reproduced or adapted from
-[The Carpentries Instructor Training curriculum](https://carpentries.github.io/instructor-training/01-welcome/index.html).
+[The Carpentries Instructor Training curriculum](https://carpentries.github.io/instructor-training/01-welcome.html).
 
 ::: discussion
 
@@ -88,7 +88,7 @@ by completing [this form](https://goo.gl/forms/KoUfO53Za3apOuOK2).
 To begin class, each Trainer should give a brief introduction of themselves.
 
 (For some guidelines on introducing yourself, see
-[the _Workshop Introductions_ section of the Instructor Training curriculum](https://carpentries.github.io/instructor-training/23-introductions/index.html)).
+[the _Workshop Introductions_ section of the Instructor Training curriculum](https://carpentries.github.io/instructor-training/23-introductions.html)).
 :::
 
 Now, we would like to get to know all of you.
