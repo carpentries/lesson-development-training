@@ -60,7 +60,7 @@ we have adapted Nicholl's five phases in this training,
 to place an emphasis on assessing learning during a workshop:
 
 1. Define desired learning outcomes
-2. Create assessments to determine progress towards desired outcomes
+2. Design assessments to determine progress towards desired outcomes
 3. Write content to lead learners from one of these assessments to the next
 4. Assess learner progress towards outcomes during teaching
 5. (After the break) evaluate how closely the outcomes meet the objectives
