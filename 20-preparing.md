@@ -75,7 +75,10 @@ during this training.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Figures and other visual aids are great tools to help participants understand the content being presented and make associations between pieces of information. If you are planning on using these in your teaching session/pilot - remember to enhance them with the [alternative text (alt)](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) describing the figure for individuals using screen readers or by placing explanatory text adjacent to relevant parts of visualisation.
+Figures and other visual aids are great tools to help participants understand the content being presented and make associations between pieces of information.
+The Instructor View of the lesson website includes a link in the top menu to _Extract All Images_,
+providing a single page containing all of the images in the lesson and their captions:
+this can be useful as an alternative to a slide deck when refering to figures and other visual aids during a workshop.
 
 If your lesson requires participants to use any software, tools or data - it is worthwhile investing time now into creating clear download, installation and setup instructions for participants to follow and circulating them ahead of the workshop. This will give you more time at the pilot for teaching the lesson as troubleshooting setup problems on the spot can be time-consuming and stressful. Each Carpentries lesson has a dedicated place for setup instructions within The Carpentries Workbench located in the file `learners/setup.md` off the lesson project root.
 
