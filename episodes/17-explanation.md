@@ -277,14 +277,14 @@ For example,
 > requires learners to apply the read_csv function to another file
 > and count the rows in the resulting DataFrame object.
 
-- Is there any of your planned content that does not support any learning objectives?
+- Does any of your planned content not support any learning objectives?
 - Is there at least one piece of content planned for each learning objective?
 - Is there a formative assessment planned for each learning objective?
 
-What do you still need to add/work on? 
-What can you remove/consider removing?
-How will the narrative and example data you have chosen for your lesson support teaching and assessment?
-What diagram or other visual aids could you add to supplement your text?
+- What do you still need to add/work on? 
+- What can you remove/consider removing?
+- How will the narrative and example data you have chosen for your lesson support teaching and assessment?
+- What diagram or other visual aids could you add to supplement your text?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
