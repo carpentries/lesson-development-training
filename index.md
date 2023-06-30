@@ -3,7 +3,10 @@ site: sandpaper::sandpaper_site
 ---
 
 
-![Welcome to The Carpentries Collaborative Lesson Development Training](episodes/fig/CLDT-hex-sticker.png){alt='The Carpentries Collaborative Lesson Development Training'}
+![Welcome to The Carpentries Collaborative Lesson Development Training!
+](episodes/fig/CLDT-hex-sticker.png){
+alt='The Carpentries Collaborative Lesson Development Training'
+style='padding: 2%'}
 
 This is a training curriculum teaching good practices in lesson design and development,
 and open source collaboration skills, using [The Carpentries Workbench][workbench]. 
