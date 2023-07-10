@@ -136,7 +136,7 @@ each dataset considered.  *Does the data contain personally identifiable informa
 If the answer to any of these questions might be yes, you will need to do more
 research on it and continue to look for other options.  Commonly data is misused
 from historically excluded and exploited groups.
-The [CARE Principles for Indigenous Data Governance](https://doi.org/10.5334/dsj-2020-043) (Collective Benefit, Authority to Control, Responsibility, and Ethics) are good starting point
+The CARE Principles for Indigenous Data Governance[^1] (Collective Benefit, Authority to Control, Responsibility, and Ethics) are good starting point
 for thinking about data sovereignty and considering the ethics of data collected
 about an individual or groups of people.
 
@@ -183,7 +183,8 @@ Identify one or more potential candidates and note down the advantages and disad
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Learners are motivated if you **teach most useful things first**.
+People learn faster if they are motivated[^2],
+and learners will be motivated if you **teach most useful things first**.
 As you think about what story your lesson will tell, it is important to put
 the pieces that are most interesting to learners up front.
 If they are able to quickly learn tools or skills that they see as useful from your
@@ -201,7 +202,6 @@ learning the additional and vital skills where the application might be less cle
 [*"Let them eat cake (first)."*](https://www.youtube.com/watch?v=fQ4t7p6ZXDg)
 
 \- Dr. Mine Çetinkaya-Rundel
-
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -256,3 +256,13 @@ for a lesson dataset.
 - Openly-licensed datasets can be found in subject area repositories or general data repositories.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+[^1]: [Carroll et al. (2020)](learners/reference.md#litref)
+[^2]: The evidence for this is summarised well in chapter 3,
+      _What Factors Motivate Students to Learn?_,
+      of [Ambrose et al. 2010](learners/reference.md#litref).
+      The Carpentries Instructor Training curriculum also includes
+      a helpful summary of 
+      [how lesson content can influence Learner motivation](https://carpentries.github.io/instructor-training/08-motivation.html#how-can-content-influence-motivation).
+
