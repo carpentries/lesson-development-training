@@ -103,8 +103,8 @@ However, these kinds of exercise do not provide an opportunity for learners
 to develop higher-level skills,
 such as the ability to create whole new functions or scripts,
 or to extrapolate from the examples they have seen to solve a different kind of problem.
-Indeed, example and exercise types that are helpful to novices
-[may even be counter-productive for learners with a greater level of expertise][kirschner-2006].
+Indeed, example and exercise types that are helpful to novices 
+may even be counter-productive for learners with a greater level of expertise[^1].
 
 Thus you want to choose your objectives to fit your intended audience and your exercise formats to fit your objectives.
 
@@ -255,3 +255,6 @@ one box at the top of each episode.
 - Exercises (and solutions) go in blocks using fenced divs in the lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+[^1]: [Kirschner et al. 2006](learners/reference.md#litref)

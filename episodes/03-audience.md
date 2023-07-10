@@ -45,25 +45,25 @@ Briefly, the novice is someone who does not know what they do not know, i.e., th
 When designing a new lesson, it is important to think about
 the level of expertise that you expect learners to arrive with for two reasons:
 
-1. It helps to predict what prior knowledge and
-   [mental model][it-mental-models] learners will have
-   of the lesson domain when they arrive.
-   This can enable you to make progress quickly
-   by
-   a) working to help learners recall (_activate_) that prior knowledge,
-   b) building on the conceptual understanding they already have and,
+1. It helps to predict what prior knowledge and 
+   [mental model][it-mental-models] learners will have 
+   of the lesson domain when they arrive. 
+   This can enable you to make progress quickly by
+   a) working to help learners recall (_activate_) that prior knowledge[^1],
+   b) building on the conceptual understanding they already have[^2] and,
    c) perhaps most importantly,
    giving you some idea of what _misconceptions_ they might arrive with.
    It is vital that misconceptions are identified and corrected early on,
    before learners try to incorporate new knowledge into a broken mental model.
+   (More on this in [_Stay On Target_](episodes/11-formative-assessment.md).)
 2. People at different stages of this process need to be taught differently.
    For example, novices will learn more from lessons that include worked examples
    and are more tutorial-like i.e. focused on a specific task,
    with step-by-step explanations of the process,
    but without a lot of extra information that is not directly relevant.
    However, the same approach may actually hinder learning for competent practitioners
-   [who may be distracted by a step-by-step explanation
-   of something they already have the prior knowledge of][kirschner-2006].
+   who may be distracted by a step-by-step explanation
+   of something they already have the prior knowledge of[^3].
    For learners at this level of expertise,
    lessons which include activities offering learners
    the freedom to explore options and develop their own solutions,
@@ -182,9 +182,9 @@ to ask questions of potential learners when they apply/register to join the work
 and use the answers they give to filter out those who fall outside
 your intended audience.
 
-While valuable, this kind of pre-assessment should be approached
-with caution:
-[people are often bad at self-assessment i.e. estimating our own ability to perform a task][hacker-2000].
+While valuable, this kind of pre-assessment should be approached 
+with caution: 
+people are often bad at self-assessment i.e. estimating our own ability to perform a task[^4].
 We can try to mitigate for this when designing the questions for a pre-workshop survey,
 leaving little room for inaccurate self-assessment to confound the results.
 But experience suggests it is very difficult to ensure that
@@ -216,3 +216,12 @@ These are skills commonly overlooked by experts and competent practitioners.
 - Use the description of your target audience to help attract people with the appropriate interests and prior knowledge to your lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+[^1]: See chapter 1, _How Does Students' Prior Knowledge Affect Their Learning?_,
+      of [Ambrose et al. 2010](learners/reference.md#litref).
+[^2]: See chapter 2, _How Does the Way Students Organize Knowledge Affect Their Learning?_,
+      of [Ambrose et al. 2010](learners/reference.md#litref).
+[^3]: [Kirschner et al. 2006](learners/reference.md#litref)
+[^4]: [Hacker et al. 2000](learners/reference.md#litref)
+
