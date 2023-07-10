@@ -45,6 +45,21 @@ We will use this session to reflect on that experience,
 and take some steps to ensure that the feedback and notes you gathered during
 the trial run are used to improve the quality of your lesson.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Discussion format
+
+For online trainings, Trainers have found it beneficial to give participants 
+the first 5 minutes together in a breakout room,
+to re-familiarise themselves with the notes from their Trial Runs 
+and discuss what they are going to report out to the rest of the group.
+
+In trainings with a larger cohort of participants,
+try asking groups to assign a reporter who will be responsible for summarising their experience
+and answering the discussion questions on behalf of their collaborators.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::  discussion
 
 ## Discussion: trial runs (35 minutes)

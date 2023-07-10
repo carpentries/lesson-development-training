@@ -257,27 +257,43 @@ accessibility, design, content, and supporting information.
 
 ## Reflection Exercise (20 minutes)
 
-Map out the relationships between the lesson objectives (LO),
-the learning experiences via which they will be delivered and those specific items of content
-e.g., item A supports LO 1, \& will be delivered using a lecture
-OR more specifically
-The read CSV and inspect demo supports Objective 2 (Use Pandas to load a simple CSV data set) and will be delivered using participatory live coding.
+We have reached the end of the time you have to work on the episodes of your lesson in this training. 
+This exercise provides you with a chance to look back over 
+everything you have sketched out for your episode and the lesson as a whole 
+and consider what still needs to be done before it can be taught.
 
-- Is there any piece of content that doesn't support any learning objectives?
-- Is there at least one piece of content for each learning objective?
-- Is there at least one learning experience for each piece of content?
+You can use this time however you judge will be most beneficial
+to your preparations for teaching your episode in a trial run.
 
-What do you still need to add/work on? What can you remove/consider removing?
-What diagram or other visual aids could you add to supplement your text?
+If you are not sure how to start,
+consider mapping out the relationships between the objectives of your episode 
+and the examples and exercises via which they will be taught and assessed.
+For example,
+
+> The read CSV and inspect demo supports Objective 2 
+> (load a simple CSV data set with Pandas) 
+> and will be delivered using participatory live coding.
+> The objective will be assessed with an exercise that 
+> requires learners to apply the read_csv function to another file
+> and count the rows in the resulting DataFrame object.
+
+- Does any of your planned content not support any learning objectives?
+- Is there at least one piece of content planned for each learning objective?
+- Is there a formative assessment planned for each learning objective?
+
+- What do you still need to add/work on? 
+- What can you remove/consider removing?
+- How will the narrative and example data you have chosen for your lesson support teaching and assessment?
+- What diagram or other visual aids could you add to supplement your text?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[dismissive-language-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise/index.html#just-and-other-dismissive-language
-[expert-awareness-gap-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise/index.html#mind-the-gap
+[dismissive-language-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise.html#just-and-other-dismissive-language
+[expert-awareness-gap-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise.html#mind-the-gap
 [instructor-notes]: https://carpentries.github.io/workbench/transition-guide.html#instructor-notes
 [lab-reviewer-checklist]: https://github.com/carpentries-lab/reviews/blob/main/docs/reviewer_guide.md#reviewer-checklist
-[mental-map-instructor-training]: https://carpentries.github.io/instructor-training/02-practice-learning/#mapping-a-mental-model
-[stereotype-threat-instructor-training]: https://carpentries.github.io/instructor-training/09-eia/index.html#stereotypes
+[mental-map-instructor-training]: https://carpentries.github.io/instructor-training/02-practice-learning.html#mapping-a-mental-model
+[stereotype-threat-instructor-training]: https://carpentries.github.io/instructor-training/09-eia.html#stereotypes
 [sandpaper-docs-learners]: https://carpentries.github.io/sandpaper-docs/editing.html#learners
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
