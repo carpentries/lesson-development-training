@@ -102,10 +102,68 @@ You can encourage contributions to your lesson from newcomers by using specific 
 
 ### Noticing When Something Happens
 
-GitHub implements a comprehensive [notifications system](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) to keep you up-to-date with activities in the lesson repository. GitHub also provides an additional useful notification feature for collaborative work - **Mentions**. The mention system notifies team members when somebody else references them in an issue, comment or pull request - you can use this to notify people when you want to check a detail with them, or let them know something has been fixed or changed (much easier than writing out all the same information again in an email!). You can use the mention system to link to individual GitHub accounts or whole teams for mentioning multiple people. Typing `@` in GitHub will bring up a list of all accounts and teams linked to the repository that can be "mentioned".
+GitHub implements a comprehensive [notifications system](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) to keep you up-to-date with activities in the lesson repository. 
 
 Check out [GitHub's documentation on setting notifications on individual repository](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository). You can choose whether to watch or unwatch an individual repository, or can choose to only be notified of certain event types such as issues, pull requests, mentions, etc.
 
+:::::::::::::::::::::::::::::::::::::::::: callout
+
+## Managing GitHub Notifications
+
+If you work on multiple projects,
+or the projects you follow on GitHub are particularly active,
+the volume of notifications you receive can quickly become overwhelming.
+Here are some approaches you can take to help you stay on top of things, 
+and distinguish the high-priority tasks and important updates
+from the regular traffic.
+
+### Email Notifications
+
+If you want to filter, organise, and redirect email notifications from GitHub,
+here are some characteristics of the messages that you make use of:
+
+- All GitHub notifications are sent from the address `notifications@github.com`.
+- Notification emails are sent to the address `repo-name@noreply.github.com`, 
+  where `repo-name` is the name of the repository where the notification was triggered.
+- The email subject begins with `[org-or-user/repo-name]`,
+  where `org-or-user` is the name of the organisation or the username of the user who owns the repository
+  and `repo-name` is the name of the repository where the notification was triggered.
+- In addition to your email address, 
+  the cc field of the message contains an address that describes
+  the type of event that triggered the notification,
+  e.g. `author@noreply.github.com` for activity on an issue or pull request that you opened,
+  `mention@noreply.github.com` for a mention of your username, 
+  or `team-mention@noreply.github.com` for a mention of a team you are a member of,
+  etc.
+
+Most email clients provide configuration for rules that can be set to
+redirect messages to particular folders, and/or to annotate them with a mark or flag,
+based on this kind of information. 
+[Here is the documentation for setting such rules in Gmail](https://support.google.com/mail/answer/6579?hl=en).
+
+### Notifications on GitHub.com
+
+The alternative to using email to keep track of project activity is
+to manage notifications on GitHub.
+Adjust how you receive notifications in [the _Notifications_ section of your account settings](https://github.com/settings/notifications).
+When logged in, you can visit <https://github.com/notifications> to see notifications for your account,
+presented as a table.
+Through this interface, you can:
+
+- group notifications by repository.
+- see notifications for a particular repository.
+- see particular types of notification e.g. mentions, issue assignments, etc.
+- create more sophisticated filters using the search bar, 
+  e.g. all mentions for all repositories in a particular organisation.
+
+The account notification settings allow you to specify 
+certain types of notification that should be sent by email, 
+while everything else is collected in the web interface.
+Whatever strategy you choose, one of the most important habits that will help you
+stay on top of your projects and tasks is 
+to remember to check these notifications frequently.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Saying "No"
 
