@@ -55,7 +55,7 @@ the level of expertise that you expect learners to arrive with for two reasons:
    giving you some idea of what _misconceptions_ they might arrive with.
    It is vital that misconceptions are identified and corrected early on,
    before learners try to incorporate new knowledge into a broken mental model.
-   (More on this in [_Stay On Target_](episodes/11-formative-assessment.md).)
+   (More on this in [_Stay On Target_](episodes/formative-assessment.md).)
 2. People at different stages of this process need to be taught differently.
    For example, novices will learn more from lessons that include worked examples
    and are more tutorial-like i.e. focused on a specific task,
