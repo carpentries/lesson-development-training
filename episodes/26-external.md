@@ -135,6 +135,11 @@ here are some characteristics of the messages that you make use of:
   `mention@noreply.github.com` for a mention of your username, 
   or `team-mention@noreply.github.com` for a mention of a team you are a member of,
   etc.
+- The email header (metadata) includes a `mailing-list` field with an identifier in the form
+  `repo-name.org-or-user.github.com`,
+  which can be used to filter by the project and/or its owner.
+
+[GitHub provides detailed documentation about all of the properties you can use to filter their notification emails](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#filtering-email-notifications).
 
 Most email clients provide configuration for rules that can be set to
 redirect messages to particular folders, and/or to annotate them with a mark or flag,
