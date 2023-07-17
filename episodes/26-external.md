@@ -106,6 +106,21 @@ GitHub implements a comprehensive [notifications system](https://docs.github.com
 
 Check out [GitHub's documentation on setting notifications on individual repository](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository). You can choose whether to watch or unwatch an individual repository, or can choose to only be notified of certain event types such as issues, pull requests, mentions, etc.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Time management tip: share the next callout, do not teach it
+
+The next callout contains a lot of information,
+and can require a lot of time to discuss fully while training.
+We recommend that you do not dwell on these details while teaching
+unless you have time to spare.
+
+Instead, you could share [a link to the callout](#managing-github-notifications) 
+and mention to trainees that this information can be helpful 
+if they are struggling with GitHub notifications.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::::: callout
 
 ## Managing GitHub Notifications
