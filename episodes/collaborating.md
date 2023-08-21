@@ -218,7 +218,15 @@ the Reviewer should follow all the steps but close the PR at the end instead of 
 Having an open, publicly-visible list of all the issues with your project is a helpful way of letting people know you are aware of issues and you are working on them. This can indicate to an external audience that the project is active.
 It also provides you and your collaborators with an "at a glance" view of the state of the project, making it easier to prioritise future work.
 
-As we have seen in the previous episode, GitHub's notifications framework **Mentions** plays an important part in communicating between collaborators and is used as a way of alerting team members of activities and referencing one issue/comment/pull requests from another.
+GitHub provides a useful notification feature for collaborative work - _mentions_. 
+The mention system notifies team members when somebody else references them 
+in an issue, comment or pull request - 
+you can use this to notify people when you want to check a detail with them, 
+or let them know something has been fixed or changed 
+(much easier than writing out all the same information again in an email!). 
+You can use the mention system to link to individual GitHub accounts 
+or whole teams for mentioning multiple people. 
+Typing `@` in GitHub will bring up a list of all accounts and teams linked to the repository that can be "mentioned".
 
 [Slack](https://slack.com/) is commonly used in the Carpentries community for quick, day-to-day message exchange among teams. You can create your own [Slack workspace for free](https://slack.com/intl/en-gb/) or create a channel for your lesson development project under [the Carpentries public Slack workspace](https://swcarpentry.slack.com/). Note that the Carpentries Slack is an enterprise workspace so all messages and files will be retained and no messages will be lost (for free workspaces only the most recent 10,000 messages can be viewed and searched and file storage limit is 5 GB).
 

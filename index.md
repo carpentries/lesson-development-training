@@ -52,7 +52,7 @@ Before joining Collaborative Lesson Development Training, participants should be
 - write formatted text - bold and italic, headings, links, bullet point and numbered lists - with Markdown.
 - log into GitHub.com and create and edit files using the GitHub web interface.
 
-(See [A Primer on Markdown and GitHub](learners/markdown-github-primer.md) for resources to help learn these skills.
+See [A Primer on Markdown and GitHub](learners/markdown-github-primer.md) for resources to help learn these skills.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -22,7 +22,7 @@ After completing this episode, participants should be able to...
 
 ## A Lesson Design Process
 
-In order to design an effective lesson, we need a structured approach with the learner in mind and  clearly identified goals. Throughout this training, we will use a modified version of [Nicholl's five phase paradigm for curriculum design ][f1000-course-design-guide].
+In order to design an effective lesson, we need a structured approach with the learner in mind and  clearly identified goals. Throughout this training, we will use a modified version of Nicholl's five phase paradigm for curriculum design[^1].
 Nicholl's paradigm describes a process, commonly referred to as _backward design_,
 where those who wish to develop a new curriculum first begin by defining
 exactly what their learners will be able to do
@@ -36,8 +36,13 @@ to directly meet those stated outcomes.
 4. Assess learner progress towards desired outcomes
 5. Evaluate chosen outcomes, experiences, and content based on this assessment
 
-**TODO: add a figure illustrating the setps in the list above.
-could be based on Fig. 2 in [f1000-course-design-guide]**
+![Nicholl's five phases of curriculum design[^1], 
+presented as a cycle to reflect that all aspects of the design should be 
+revisited in response to the results of the evaluation that takes place at step 5.
+](fig/nicholls-five-phases.svg){
+alt="A flow diagram presenting the Nicholl's five phases of curriculum design as a cycle."
+width="67%"
+}
 
 The last two phases of Nicholl's paradigm involve
 assessing learner progress towards the desired learning outcomes and
@@ -55,13 +60,19 @@ we have adapted Nicholl's five phases in this training,
 to place an emphasis on assessing learning during a workshop:
 
 1. Define desired learning outcomes
-2. Decide with what activities/examples/explanations we will try to teach these skills
-3. Create assessments to determine progress towards desired outcomes
-4. Write content to lead learners from one of these assessments to the next
+2. Design assessments to determine progress towards desired outcomes
+3. Write content to lead learners from one of these assessments to the next
+4. Assess learner progress towards outcomes during teaching
 5. (After the break) evaluate how closely the outcomes meet the objectives
 
-**TODO: add a figure illustrating the process described in the list above.
-could be similar to the one used earlier for Nicholl's original list.**
+![An overview of the iterative process of lesson design and development 
+, adapted from Nicholl's five phases,
+that will be presented in this training.
+](fig/cldt-design-process.svg){
+alt="A flow diagram presenting the process of lesson design and development used in this training."
+width="67%"
+}
+
 
 ## Your Lessons
 
@@ -94,3 +105,6 @@ Make some notes, then share a single-sentence answer to each question with the o
 - This training will give you a process to follow to ensure your lesson is effective.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+[^1]: [Nicholls (2002)](learners/reference.md#litref)
