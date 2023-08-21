@@ -81,20 +81,36 @@ Providing some context now for the lessons that you will be creating will
 help the Trainers and other participants get involved in those discussions
 and give you feedback as you follow the process.
 
+
 :::::::::::::::::::::::::::::::::::::  discussion
 
 ## Discussion (10 minutes)
 
-Take a few minutes to think about your answers to the following questions:
+Share your answers to the following questions in the shared notes,
+then discuss them with the Trainers, your collaborators, and the other participants.
 
 1. What is the topic of the lesson that you plan to develop based on this training?
 2. Have you created training material on this topic before?
 3. What is motivating you to create this lesson?
 
-Make some notes, then share a single-sentence answer to each question with the other participants.
-
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Trainer Note
+
+Trainees should have received the questions above in advance and arrived at the training with notes prepared.
+Where multiple trainees are working on the same lesson project, 
+ask for a volunteer or call on someone to represent their team,
+leaving space afterwards for their team-mates to speak up if their answers differ.
+
+The main objectives of this discussion are:
+
+- to ensure that the members of each collaborative team share a common vision for the lesson they want to create
+- to help Trainers and collaborators understand each trainee's motivation for attending the training and building their lesson
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 
 
