@@ -17,6 +17,11 @@
    sodipodi:docname="cldt-structure.svg">
   <defs
      id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2979"
+       id="pattern2985"
+       patternTransform="matrix(0.07200287,0.04157074,-0.03490127,0.06045078,275.63774,479.74072)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1054-7">
@@ -39,6 +44,27 @@
        y2="81.554596"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(1.8029174e-4)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="75.590547"
+       height="215.0977"
+       patternTransform="translate(265.53606,457.95881)"
+       id="pattern2979">
+      <rect
+         style="fill:#719eff;fill-opacity:1;stroke:none;stroke-width:3.77951;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+         id="rect915-7"
+         width="37.795277"
+         height="215.0977"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#ffdf70;fill-opacity:1;stroke:none;stroke-width:3.77952;stroke-linejoin:round"
+         id="rect915-84-6"
+         width="37.795273"
+         height="215.0977"
+         x="37.795273"
+         y="0" />
+    </pattern>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -47,17 +73,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.95627381"
-     inkscape:cx="550.76148"
-     inkscape:cy="261.90319"
+     inkscape:zoom="0.75591471"
+     inkscape:cx="557.39238"
+     inkscape:cy="261.23058"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1680"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1147"
+     inkscape:window-width="1470"
+     inkscape:window-height="891"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="37"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -93,28 +119,28 @@
          x="219.63564"
          y="78.083595" />
       <rect
-         style="fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect833-0-5"
          width="6.0544071"
          height="1.7785451"
          x="177.11266"
          y="78.083595" />
       <rect
-         style="fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect833-0-5-4"
          width="6.0544071"
          height="1.7785451"
          x="194.37785"
          y="78.083595" />
       <rect
-         style="fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect833-0-5-1"
          width="6.0544071"
          height="1.7785451"
          x="203.01045"
          y="78.083595" />
       <rect
-         style="fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect833-0-5-7"
          width="6.0544071"
          height="1.7785451"
@@ -132,19 +158,12 @@
            x="20.825266"
            y="99.452858" />
         <rect
-           style="fill:#719eff;fill-opacity:1;stroke:none;stroke-width:0.819081;stroke-linejoin:round"
+           style="fill:url(#pattern2985);fill-opacity:1;stroke:none;stroke-width:0.819081;stroke-linejoin:round"
            id="rect915-8"
            width="74.709663"
-           height="6.5597277"
-           x="66.11824"
-           y="99.452858" />
-        <rect
-           style="fill:#ffdf70;fill-opacity:1;stroke:none;stroke-width:0.819081;stroke-linejoin:round"
-           id="rect915-8-6"
-           width="74.709671"
-           height="6.5597277"
-           x="66.11824"
-           y="106.01258" />
+           height="13.119235"
+           x="66.115601"
+           y="99.453094" />
         <rect
            style="fill:#ffdf70;fill-opacity:1;stroke:none;stroke-width:0.819081;stroke-linejoin:round"
            id="rect915-84"
@@ -267,28 +286,28 @@
            y="88.032875"
            style="font-size:5.16839px;fill:#383838;fill-opacity:1;stroke-width:0.264583">2.5</tspan></text>
       <rect
-         style="fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect833-0-5-13"
          width="6.0544071"
          height="1.7785451"
          x="151.21486"
          y="78.083595" />
       <rect
-         style="fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect833-0-5-4-2"
          width="6.0544071"
          height="1.7785451"
          x="159.84744"
          y="78.083595" />
       <rect
-         style="fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect833-0-5-1-6"
          width="6.0544071"
          height="1.7785451"
          x="168.48007"
          y="78.083595" />
       <rect
-         style="fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect833-0-5-7-9"
          width="6.0544071"
          height="1.7785451"
@@ -318,19 +337,19 @@
            style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.89118px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.264583">training time (days)</tspan></text>
       <text
          xml:space="preserve"
-         style="font-weight:600;font-size:6.02979px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.264583"
-         x="184.89134"
-         y="67.44886"
+         style="font-weight:600;font-size:5.27533000000000030px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.264583;fill:#787878;fill-opacity:0.97254902;"
+         x="184.5367"
+         y="68.294823"
          id="text1412-9"><tspan
            sodipodi:role="line"
            id="tspan1410-3"
-           x="184.89134"
-           y="67.44886"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.02979px;font-family:Mulish;-inkscape-font-specification:'Mulish Bold Italic';text-align:center;text-anchor:middle;fill:#a8a8a8;fill-opacity:1;stroke-width:0.264583">break for trial runs</tspan><tspan
+           x="184.5367"
+           y="68.294823"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.27533000000000030px;font-family:Mulish;-inkscape-font-specification:'Mulish Bold Italic';text-align:center;text-anchor:middle;fill:#787878;fill-opacity:0.97254902;stroke-width:0.264583;">break for lesson trial runs</tspan><tspan
            sodipodi:role="line"
-           x="184.89134"
-           y="74.986099"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.02979px;font-family:Mulish;-inkscape-font-specification:'Mulish Bold Italic';text-align:center;text-anchor:middle;fill:#a8a8a8;fill-opacity:1;stroke-width:0.264583"
+           x="184.5367"
+           y="74.888985"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.27533000000000030px;font-family:Mulish;-inkscape-font-specification:'Mulish Bold Italic';text-align:center;text-anchor:middle;fill:#787878;fill-opacity:0.97254902;stroke-width:0.264583;"
            id="tspan1450">(≥6 weeks)</tspan></text>
       <g
          id="g1582"
