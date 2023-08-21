@@ -88,7 +88,7 @@ note-taking document.
 
 This is a good opportunity to remind trainees about 
 how counter-productive it can be to try to cover more content than the time allows.
-(See [the earlier section on lesson scope](https://carpentries.github.io/lesson-development-training/objectives.html#lesson-scope).)
+(See [the earlier section on lesson scope](./objectives.md#lesson-scope).)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
