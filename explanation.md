@@ -63,17 +63,34 @@ These callouts should still be kept to a minimum as they can be disruptive to in
 
 :::::::::::::::::::::::::::::::::::::  discussion
 
-## Group Discussion (10 minutes)
+## Lesson Time Management (10 minutes)
 
+(5 minutes) In the shared notes document,
+note down your answers to these questions:
 
-- At what point is a lesson too long?
-- How might you prioritise what to keep if you have to cut it down?
+- From a design perspective, at what point is a lesson too long?
+- What factors influence and constrain the length of a lesson?
+- How might you prioritise what to keep if you have to cut lesson content down?
 
-Trainer Note: Ask one of the other trainers/helpers to take notes of this discussion in the collaborative
-note-taking document.
-
+(5 minutes) In the remaining time, 
+your Trainers will lead a discussion based on the responses.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Trainer Note
+
+To get started on the discussion part,
+try reading out an interesting response and asking for more detail from the trainee who wrote it.
+Ask one of the other trainers/helpers to take notes of this discussion in the collaborative
+note-taking document.
+
+This is a good opportunity to remind trainees about 
+how counter-productive it can be to try to cover more content than the time allows.
+(See [the earlier section on lesson scope](./objectives.md#lesson-scope).)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Less is More
 
