@@ -111,6 +111,17 @@ then introduce yourself to the other participants and tell them about it.
 
 The main objective of this training is to teach you the skills you need to
 design and develop an effective lesson, in collaboration with other members of the community.
+
+![Collaborative Lesson Development Training is taught over three days (six half days),
+with an extended break between the first two days ("part 1") and the last day ("part 2").
+The training in part 1 focusses on good practices in lesson design and development,
+and the concepts and skills needed to build a lesson website with The Carpentries lesson infrastructure.
+Part 2 of the training begins with a reflective discussion of lesson deisgn and iterative development,
+before shifting focus to the skills required for effective collaboration on open source projects.
+](fig/cldt-structure.svg){
+alt="A graphical representation of the schedule and structure of collaborative lesson development training."
+width="67%"}
+
 During the training,
 we will introduce the steps you can take to design and develop a lesson
 to meet the needs of your target audience,
