@@ -78,7 +78,7 @@ Creative Commons offers a chart that identifies which CC licenses are compatible
 [Creative Commons license comparison chart](https://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work).
 
 GNU offers commentary about a variety of licenses for free software; this resource may be valuable when considering a license for code:
-[GNU: Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.en.html)
+[GNU: Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.en.html).
 
 ::::::::::::::::::
 
@@ -97,8 +97,8 @@ in their work to feel authentic.
 At the same time, you want your learners to be able to interpret the
 data fairly easily during the lesson so they can focus on the skills
 you are teaching.
-This may mean you will need to subset your dataset or remove variables
-observed.
+This may mean you will need to subset your dataset by removing some observations (rows) or variables
+observed (columns).
 
 You may also want to include and review a data dictionary in your lesson,
 explicitly taking the time to review the information included in the
@@ -130,11 +130,11 @@ stitch together the process of data analysis throughout the workshop, from
 data entry and cleaning to analysis and visualization.
 
 When deciding on a dataset, it is also important to consider the ethical use of
-each dataset considered.  *Does the data contain personally identifiable information?*
+each dataset considered. *Does the data contain personally identifiable information?*
 *Was the data collected without permission from the groups or individuals included?*
 *Will the data be upsetting to learners in the workshop?*
 If the answer to any of these questions might be yes, you will need to do more
-research on it and continue to look for other options.  Commonly data is misused
+research on it and continue to look for other options. Commonly data is misused
 from historically excluded and exploited groups.
 The CARE Principles for Indigenous Data Governance[^1] (Collective Benefit, Authority to Control, Responsibility, and Ethics) are good starting point
 for thinking about data sovereignty and considering the ethics of data collected
@@ -142,7 +142,7 @@ about an individual or groups of people.
 
 ::::::::::::::::::::::::::::::::: instructor
 
-Outline covering the above paragraph - also used in codiMD template.
+Outline covering the above paragraph - also used in CodiMD template.
 
 ### Dataset Considerations
 
@@ -190,7 +190,7 @@ the pieces that are most interesting to learners up front.
 If they are able to quickly learn tools or skills that they see as useful from your
 lesson, they will be more interested in continuing to learn other concepts that are
 needed.
-You may notice this trend in many of the Software Carpentry lessons.  In particular,
+You may notice this trend in many of the Software Carpentry lessons. In particular,
 many of the coding language lessons (R and Python) have the learners create a plot
 very early in the lesson and then go back and teach coding fundamentals such as loops
 and conditionals. Visualization of data is often a very motivating and much needed
