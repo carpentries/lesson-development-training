@@ -52,6 +52,7 @@ Take some time to provide this feedback, before moving onto the second part of t
 
 :::::::::::::
 
+
 ::: challenge
 
 ## Organise Your Knowledge (10-15 min)
@@ -71,6 +72,39 @@ If you do not know where to start, consider the following list for a starting po
 :::::::::::::
 
 Please stay in touch as you plan for your trial run.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Adding Design Notes to the Lesson Site
+
+If trainees would like to add the Design Notes document
+they have been working on to their lesson site,
+they can do the following:
+
+1. replace the first 13 lines with
+
+  ```
+  ---
+  title: Lesson Design Notes
+  ---
+  ```
+2. save the file to the `instructors/` directory
+3. add the filename below `instructors:` in `config.yml` as they have done 
+   [for episode filenames below `episodes:` previously](./infrastructure.html#adding-a-new-episode-to-the-lesson-navigation).
+   For example, if their file is saved with the name 'design-notes.md':
+
+  ```yaml
+  # Information for Instructors
+  instructors:
+  - design-notes.md
+  ```
+
+This will make the page accessible from the 'More' dropdown in Instructor View.
+
+_Note that concept maps with GraphViz are not currently supported by the lesson infrastructure,
+so any concept maps added to the document on CodiMD will not be displayed correctly on the lesson site._
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
