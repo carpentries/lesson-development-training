@@ -47,6 +47,25 @@ This can help you maintain a narrative flow and make the lesson feel more authen
 Even if your topic doesn't require a dataset, deciding on a consistent narrative will
 help create a flow between lessons and reduce cognitive load for learners.
 
+:::::::::::::::::::::::::::::::::::::::::: callout
+
+## Varying Examples
+
+> _Use varied examples if you want to teach abstract concepts._
+> 
+> -- Neil Brown
+> 
+> From [_How Your Mind Learns to Program_](https://neverworkintheory.org/2022/05/25/brown-mind-learns.html), a lightning talk in the _Never Work In Theory_ series
+
+The focus of this episode is on finding 
+one central example to be used throughout a lesson.
+However, where you wish for learners to develop understanding of more abstract concepts,
+you should try to provide a variety of examples with a common theme.
+This could be achieved by providing multiple opportunities 
+to recognise and apply the concept in taught examples, activities, and exercises.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Finding Images
 
 Copying an image from a website is technologically simple but can be legally and ethically complex.
