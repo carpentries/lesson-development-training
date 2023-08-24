@@ -45,6 +45,7 @@ into more finely-grained steps that learners can take towards those end points:
 
 ## Exercise: Defining Episodes for a Lesson (25 minutes)
 
+With your team, 
 1. Based on the lesson-level objectives and your knowledge of the lesson topic,
    divide the lesson up into logical blocks, that should each take no more than 60 minutes to teach.
 2. Next, assign responsibility for one of these episodes to each collaborator in your team.
