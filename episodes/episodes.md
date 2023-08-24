@@ -24,7 +24,7 @@ self-contained units (with their own narrative arc)
 that nevertheless contribute to the larger whole
 (the theme or story that runs through a full season).
 It also helps to think about the typical length of an episode:
-these chunks should not take more than an hour to finish.
+these chunks contain 20-60 minutes of content (teaching + exercises).
 
 Each episode will exist as a page in the website we will build for our lessons.
 
