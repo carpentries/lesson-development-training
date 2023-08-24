@@ -35,7 +35,18 @@ we need to spend some time planning out the number and order of them.
 The learning objectives you defined for your lesson can help with this:
 at the very least, it is probably a good idea to have one episode dedicated to each objective.
 You might also find that you can "decompose" the lesson-level objectives 
-into more finely-grained steps that learners can take towards those end points:
+into more finely-grained steps that learners can take towards those end points.
+For example, the lesson level objective
+
+- _"create formatted page content with Markdown"_ 
+
+may be broken down into, 
+
+- _"create bold, italic, and linked text with Markdown"_
+- _"explain the different header levels in Markdown"_
+- _"add images with a caption and alternative text description to a Markdown document"_
+
+Some questions you might ask yourself to help break down your lesson-level learning objectives include:
 
 - What new knowledge and skills will learners need to acquire to be ready to fulfil the overall objectives for your lesson?
 - What order should these concepts and skills be introduced in? Are some dependent on others?
