@@ -57,14 +57,18 @@ Some questions you might ask yourself to help break down your lesson-level learn
 ## Exercise: Defining Episodes for a Lesson (25 minutes)
 
 With your team, 
+
 1. Based on the lesson-level objectives and your knowledge of the lesson topic,
-   divide the lesson up into logical blocks, that should each take no more than 60 minutes to teach.
+   divide the lesson up into logical blocks, that should each take approximately 20-60 minutes to teach.
 2. Next, assign responsibility for one of these episodes to each collaborator in your team.
    They will focus on this episode for the rest of this training, 
    and you will teach these episodes in a trial run between parts 1 and 2 of this training.
-   
-If the length of the list of episodes you create exceeds the number of collaborators you have on your team,
-do not assign more than one episode to each team member for now, but
+
+If the length of the list of episodes you create is smaller than the number of collaborators you have on your team,
+try assigning two people to a single episode, 
+with each taking responsibility for a subset of the objectives defined for that episode.
+If you plan more episodes than you have people in your team,
+do not assign more than one episode to each collaborator for now, but
 **we strongly recommend that you assign yourselves consecutive episodes at the beginning of your lesson**.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
