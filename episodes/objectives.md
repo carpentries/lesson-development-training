@@ -21,6 +21,16 @@ After completing this episode, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![
+In this episode we will begin the first step of our iterative design process:
+defining the skills and knowledge we want learners to leave with.
+](./fig/cldt-step-1.svg){
+alt="An overview of the iterative process of lesson design and development, 
+adapted from Nicholl's five phases,
+with step 1, 'Define desired learning outcomes' highlighted."
+width="67%"
+}
+
 
 At this stage of the training,
 you should have a clear idea of who the target audience is for your lesson,

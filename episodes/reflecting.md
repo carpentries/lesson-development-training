@@ -20,9 +20,20 @@ After completing this episode, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 Welcome back!
-In this section of the training,
+
+![
+In this episode, we will discuss the final step of the iterative lesson design process:
+how you can use the notes, information, and feedback you collected when trialling your lesson
+to identify ways that the design and content could be improved.
+](./fig/cldt-step-5.svg){
+alt="An overview of the iterative process of lesson design and development, 
+adapted from Nicholl's five phases,
+with step 5, 'Evaluate curriculum' highlighted."
+width="67%"
+}
+
+In part 2 of the training,
 we will learn more about the skills and tools you can use to become
 an effective collaborator on an open source lesson.
 Before moving on to cover that,
