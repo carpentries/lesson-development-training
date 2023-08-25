@@ -69,7 +69,7 @@ The curriculum is relatively new and under active development/refinement,
 so any contribution will be welcome and probably very helpful.
 Ideas for how the existing content could be improved or updated,
 and/or errors that need to be corrected will be particularly useful,
-but we are certainly open to suggestions for new content and all other kinds of feedback.
+and we are certainly open to suggestions for new content and all other kinds of feedback.
 The curriculum currently lacks figures and other visual aids to teaching,
 so these will be particularly appreciated.
 Comments on existing issues and reviews of pull requests are similarly welcome.
@@ -98,7 +98,7 @@ Although most contributions will be welcome at this stage of the curriculum's de
 the time available to deliver the content in a training event is strictly limited
 and needs to be accounted for when considering the addition of any new content.
 If you want to suggest the addition of new content, especially whole new sections or episodes,
-please provide the following information alongside a summary of the content to be added:
+please open an issue to discuss this with the Maintainers first and provide the following information alongside a summary of the content to be added:
 
 1. A suggested location for the new content.
 2. An estimate of how much time you estimate the new content would require in training
