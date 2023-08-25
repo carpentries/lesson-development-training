@@ -32,10 +32,12 @@ The list of authors of the lesson is available in [AUTHORS.md](AUTHORS.md).
 
 Current Maintainers of this lesson are:
 
-* [Toby Hodges](https://github.com/tobyhodges)
+* [Toby Hodges](https://github.com/tobyhodges) (Lead Maintainer)
 * [Mateusz Kuzak](https://github.com/mkuzak)
 * [Aleksandra Nenadic](https://github.com/anenadic)
 * [Sarah Stevens](https://github.com/sstevens2)
+
+The Maintainer Team aims to meet at 12:00 UTC on the fourth Friday of each month.
 
 ## Acknowledgements
 

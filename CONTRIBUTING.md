@@ -14,6 +14,11 @@ your change proposal as promptly as we can, and help you become a member of our
 community. Everyone involved in [The Carpentries][cp-site] agrees to abide by
 our [code of conduct](CODE_OF_CONDUCT.md).
 
+### Who Should Contribute?
+
+Contributions to this curriculum are welcome from anyone with an interest in the project,
+and especially from certified Lesson Developer Trainers for the program.
+
 ### How to Contribute
 
 The easiest way to get started is to file an issue to tell us about a spelling
@@ -67,8 +72,7 @@ and/or errors that need to be corrected will be particularly useful,
 but we are certainly open to suggestions for new content and all other kinds of feedback.
 The curriculum currently lacks figures and other visual aids to teaching,
 so these will be particularly appreciated.
-Comments on existing issues and reviews of pull requests are similarly welcome,
-whether you are a certified Lesson Developer Trainer for the program or not.
+Comments on existing issues and reviews of pull requests are similarly welcome.
 
 If you plan to submit a pull request, please open an issue
 (or comment on an existing thread) first to ensure that effort is not duplicated
@@ -123,6 +127,14 @@ NB: The published copy of the lesson is usually in the `main` branch.
 Each lesson has a team of maintainers who review issues and pull requests or
 encourage others to do so. The maintainers are community volunteers, and have
 final say over what gets merged into the lesson.
+
+#### Merging Policy
+
+Pull requests made to the default branch of this repository
+(from which the lesson site is built)
+can only be merged after at least one approving review from a Maintainer.
+Any Maintainer can merge a pull request that has received at least one approval,
+but they may prefer to wait for further input from others before merging.
 
 ### Other Resources
 

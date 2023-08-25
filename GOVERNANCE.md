@@ -9,16 +9,11 @@ and its reporting and enforcement mechanisms, see [CODE_OF_CONDUCT.md](./CODE_OF
 ## Roles
 
 ### Maintainers
-A team of Maintainers is responsible for the lesson repository
+A team of 3-5 Maintainers is responsible for the lesson repository
 and makes decisions about changes to be incorporated into the default branch.
 Changes to the default branch can only be made by pull request,
 and all pull requests to the default branch require
 review and approval from at least one Maintainer before merging.
-
-Maintainers volunteer to take on the role.
-They should be active Lesson Developer Trainers.
-No formal onboarding exists for new Maintainers,
-but some informal onboarding can be expected from the existing Maintainers.
 
 Responsibilities of Maintainers include:
 
@@ -27,7 +22,7 @@ Responsibilities of Maintainers include:
 * Voting asynchronously on decisions where needed
 
 #### Lead Maintainer
-The Maintainer Team includes one person in a Lead role,
+The Maintainer team includes one person in a Lead role,
 who is responsible for coordinating the activity of the group.
 In addition to the responsibilities listed for all Maintainers above,
 the Lead Maintainer:
@@ -40,17 +35,37 @@ the Lead Maintainer:
 * invites other community members to Maintainer meetings as non-voting participants
 
 Where needed e.g. due to absence,
-the Lead Maintainer may defer any of these responsibilities to another member of the Maintainer Team.
+the Lead Maintainer may defer any of these responsibilities to another member of the Maintainer team.
+
+The Lead Maintainer has a term length of 12 months,
+and it is expected that the role will rotate among members of the Maintainer team.
+If a Maintainer is up next in the rotation and wishes to decline the role of Lead 
+e.g. due to a lack of capacity,
+they should communicate that with the other Maintainers at the earliest opportunity
+to help the team plan accordingly.
 
 #### Current Maintainers
 See [README.md](./README.md) for a list of the current project Maintainers.
+
+#### Joining/Leaving the Maintainer Team
+Maintainers volunteer to take on the role, and should be active Lesson Developer Trainers.
+A Trainer may volunteer to join the Maintainer team at any time,
+or be invited by the existing Maintainers.
+Additions to the Maintainer team will be discussed and approved by the current membership.
+No formal onboarding exists for new Maintainers,
+but some informal onboarding can be expected from the existing Maintainers.
+
+Maintainers may step away from the role at any time,
+but are expected to communicate the decision to the whole Maintainer team
+and to coordinate with other Maintainers to transfer responsibilities, e.g.
+re-assign issues, resolve outstanding pull requests, etc.
 
 ### Trainers
 _Trainers_ are defined here as the group of community members who
 have been certified to teach the curriculum by The Carpentries
 (usually referred to as "Lesson Developer Trainers").
 
-The Maintainer Team occasionally consults with the larger Trainer community,
+The Maintainer team occasionally consults with the larger Trainer community,
 where they judge that a wider range of perspectives is desirable
 or a potential change would have particularly far-reaching consequences.
 
@@ -63,11 +78,14 @@ Maintainers are responsible for ensuring that all such contributions are credite
 e.g. on the curriculum site and/or when a release of the curriculum is made to Zenodo.
 
 ## Maintainer Meetings
-The Maintainer Team meets frequently,
-at minimum for at least 30 minutes every two months.
+The Maintainer team meets frequently,
+at minimum for at least 30 minutes four times per year.
 Meetings provide an opportunity for Maintainers to
 discuss outstanding issues and pull requests
 and co-work on the project where necessary.
+
+### Meeting schedule
+See [README.md](./README.md) for details of the current Maintainer meeting schedule.
 
 ### Meeting agenda
 The agenda for Maintainer meetings will be prepared as a collaborative document,
