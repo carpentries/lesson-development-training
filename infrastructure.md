@@ -295,14 +295,6 @@ the individual chunks or sections that the lesson is separated into.
 The episode pages of the lesson site will be constructed from Markdown files
 in the `episodes` folder of the lesson repository.
 
-::: callout
-
-### Why episodes?
-
-TODO: add context and explanation for our use of "episodes" to describe chunks of a lesson.
-
-:::
-
 The `episodes` folder of the new repository contains a single file,
 `introduction.md`.
 The content of this file includes examples of how to write Markdown files

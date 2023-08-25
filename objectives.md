@@ -134,6 +134,14 @@ SMART objectives should be:
 - **R**elevant: they should be relevant to the overall topic or domain of the lesson as a whole.
 - **T**ime-bound: they should include some timeframe within which the goal will be reached. For learning objectives, this is built into the approach described above.
 
+Note that, for any lesson/curriculum that will be taught in a fixed amount of time,
+_attainable_ and _time-bound_ are overlapping:
+learning objectives for your lesson will answer the question
+"What will learners be able to do by the end of this lesson?"
+and the time available to teach the lesson, 
+combined with the expected prior knowledge of your target audience, 
+will determine how attainable they are.
+
 
 :::::: instructor
 
@@ -248,6 +256,18 @@ We have discussed the importance of defining objectives early in
 the lesson design process,
 and looked at some examples of objectives written for other lessons.
 Now it is time to begin defining objectives for your own.
+
+Here are some recommendations to help you get started:
+
+- Aim for 3-4 objectives for every 6 hours your lesson will take to teach.
+  (For example, this curriculum is designed to be taught in ~18 hours
+  and has [ten learning objectives](index.md#learning-objectives).)
+- These objectives are for your lesson as a whole: 
+  try to define the "end point" knowledge and skills you want learners to acquire.
+  You can think of these as the things you would test in a fictional "final exam"
+  your learners would be able to tackle.
+- Later you will write "episode-level" objectives that should define
+  intermediate steps towards the high-level objectives you identify for your lesson here.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
