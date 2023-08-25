@@ -36,6 +36,19 @@ Defining these objectives _before writing the episode content_ helps us to:
   (we will discuss this more in the next two episodes)
 - summarise the skills the learner can expect to gain by following this section of the lesson
 
+As before, here are some recommendations to help you define these episode-level objectives:
+
+- Aim for 2-4 objectives per episode. 
+  If you need to write more than that,
+  consider breaking this section down into multiple episodes.
+- To ensure your episode content aligns with the overall goals for the lesson,
+  try to identify which lesson-level objective(s) your episode
+  will contribute to.
+- In the context of the previous recommendation,
+  consider how the objectives for your episode fit as a
+  component of the higher-level skills/understanding defined
+  in the lesson-level objective(s).
+
 ::: challenge
 
 ### Exercise: define objectives for your episode (30 minutes)
