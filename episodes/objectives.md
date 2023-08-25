@@ -125,8 +125,17 @@ when we begin talking about exercise design in the coming episodes.
 
 To assist you in defining and writing learning objectives for your lesson,
 it can be helpful to turn to a popular framework for defining goals: _SMART_.
+Originally [proposed to aid managers in the definition of business goals](https://community.mis.temple.edu/mis0855002fall2015/files/2015/10/S.M.A.R.T-Way-Management-Review.pdf),
+and updated and adapted since to [several other domains](https://en.wikipedia.org/wiki/SMART_criteria#Common_usage) including education 
+(see [_How to Write Well-Defined Learning Objectives_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5944406/) for example[^1]),
+the SMART acronym requires goals to be 
+_specific_,
+_measurable_,
+_attainable_,
+_relevant_,
+and _time-bound_.
 
-SMART objectives should be:
+In the context of a lesson, SMART objectives should be:
 
 - **S**pecific: they should clearly describe a particular skill or ability the learner should have.
 - **M**easurable: it should be possible to observe and ascertain when the learner has learned the skill/abilities described in the objectives.
@@ -215,7 +224,7 @@ how much detail can be provided,
 and how much time can be spent on each point.
 Especially when writing lessons for short form training like a Carpentries workshop,
 difficult decisions often need to be made about what can and cannot be included.
-Trying to fit too much content into a lesson is counter-productive[^1],
+Trying to fit too much content into a lesson is counter-productive[^2],
 so it is good to avoid the temptation to cram in more content than you
 have time to cover properly.
 
@@ -296,4 +305,5 @@ Do the results match your assessment?
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-[^1]: [Lujan & DiCarlo (2005)](learners/reference.md#litref)
+[^1]: [Chatterjee & Corral (2017)](learners/reference.md#litref)
+[^2]: [Lujan & DiCarlo (2005)](learners/reference.md#litref)
