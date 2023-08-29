@@ -1,0 +1,8 @@
+An animated version of the How We Operate slides is maintained at [1].
+
+Add comments on that presentation or open an issue on the curriculum repository[2] to report problems,
+request changes, and suggest improvements.
+
+[1]: https://docs.google.com/presentation/d/1Mp7dNR6-Ep966HPLw_7CTDNYIVLxlVC0ygxv8OBWBvA/edit?usp=sharing
+[2]: https://github.com/carpentries/lesson-development-training/issues/new/choose
+
