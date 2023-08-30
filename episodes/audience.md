@@ -100,6 +100,19 @@ _you are not your learners_:
 they will arrive at the lesson with different priorities,
 interests, and challenges than your own.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Lesson Design Notes Document
+
+At this point, it may be helpful to share 
+[the template for a Lesson Design Notes document][design-notes-template]
+with trainees.
+They can make a copy of this document and fill in the lesson title now,
+then populate the document with the notes 
+and information they produce throughout the training.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: thinking about target audience (15 minutes total for both parts)
