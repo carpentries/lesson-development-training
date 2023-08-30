@@ -22,6 +22,15 @@ After completing this episode, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![
+In the next two episodes, we will design assessments to measure learners' attainment 
+of the objectives we defined previously.
+](./fig/cldt-step-2.svg){
+alt="An overview of the iterative process of lesson design and development, 
+adapted from Nicholl's five phases,
+with step 2, 'Design assessments for these outcomes' highlighted."
+width="67%"
+}
 
 As we have seen previously, defining objectives for a lesson (or a teaching episode) can help to focus your content on the most important learning outcomes and outline the scope of your lesson project. With learning objectives you have defined your **intended (or planned) curriculum** - what you set out to accomplish with your lesson. The skills and knowledge your learners actually leave with and can demonstrate after the workshop having followed the **implemented curriculum** in the classroom is called the **attained curriculum**. **Implemented curriculum** includes the concepts, relationships and skills that are explicitly covered in your lesson and translated into classroom practices - i.e. the teaching and learning activities that should lead to your learners attaining knowledge.
 

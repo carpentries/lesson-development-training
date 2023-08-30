@@ -23,6 +23,18 @@ After completing this episode, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![
+In this episode, we will discuss how you can measure learner progress 
+and gather feedback about the effectiveness of your content
+by teaching the lesson.
+](./fig/cldt-step-4.svg){
+alt="An overview of the iterative process of lesson design and development, 
+adapted from Nicholl's five phases,
+with step 4, 'Assess learner progress' highlighted."
+width="67%"
+}
+
+
 By now you should have developed objectives, exercises/formative assessments,
 and examples for at least one of the episodes in your lesson. In order to prepare to teach it (for the first time in particular) you'll need to create a teaching plan and design a method to collect feedback on your lesson.
 
