@@ -129,6 +129,8 @@ and give you time to begin implementing those steps during the workshop itself.
 By the end of the training,
 you can expect to have defined an outline for your whole lesson,
 and begun filling in a detailed plan for some of its individual sections.
+The content you create in the training will exist as an open source lesson website
+similar to [the one this training is based on][cldt-site].
 You should also know how you can continue building on the lesson
 and some plans for how you will collaborate on the project
 after the training ends.
