@@ -23,6 +23,17 @@ After completing this episode, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![
+Now that we have designed assessments to measure attainment of the objectives set for the lesson,
+it is time to begin developing teaching content to give learners the knowledge and skills
+they need to succeed in those assessments.
+](./fig/cldt-step-3.svg){
+alt="An overview of the iterative process of lesson design and development, 
+adapted from Nicholl's five phases,
+with step 3, 'Develop relevant content' highlighted."
+width="67%"
+}
+
 ## Creating a Narrative
 
 <!--- Should this section go before LO and questions? -->
