@@ -88,7 +88,8 @@ they can do the following:
   title: Lesson Design Notes
   ---
   ```
-2. save the file to the `instructors/` directory
+2. save the file to the `instructors/` directory, and any images used in the file to the `episodes/fig` directory
+   (the paths to source files for images will need to be adjusted to begin `episodes/fig/`)
 3. add the filename below `instructors:` in `config.yml` as they have done 
    [for episode filenames below `episodes:` previously](./infrastructure.html#adding-a-new-episode-to-the-lesson-navigation).
    For example, if their file is saved with the name 'design-notes.md':
