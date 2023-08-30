@@ -72,6 +72,7 @@ Read about your given exercise type
 [in the *Exercise Types* chapter of *Teaching Tech Together*](https://teachtogether.tech/en/index.html#s:exercises) by following the relevant link below.
 
 - [fill-in-the-blanks][blanks]
+- [faded examples][faded-ex]
 - [Parsons problems][parsons]
 - [minimal fix][minimal]
 
@@ -96,8 +97,8 @@ while others are a better fit for competent practitioners or experts.
 
 This can be understood in terms of the types of exercises that suit the objective:
 exercise types that help manage cognitive load for the learner,
-such as [faded examples][faded-ex] and [Parsons problems][parsons]
-(which both provide a lot of the guiding process/scaffolding code and allow the learner to focus on a specific concept or skill)
+such as [fill-in-the-blanks][blanks], [faded examples][faded-ex] or [Parsons problems][parsons]
+(which all provide a lot of the guiding process/scaffolding code and allow the learner to focus on a specific concept or skill)
 are a good fit for a novice, to whom all elements of the topic are new.
 However, these kinds of exercise do not provide an opportunity for learners
 to develop higher-level skills,
