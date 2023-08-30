@@ -207,25 +207,6 @@ format the MCQ you designed previously as an exercise in your lesson site.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Some other types of formative assessment include:
-
-- **Think, pair, share** - learners _think_ about an answer to a question, _pair_ up
-with a classmate to discuss their answer, and then _share_ out the consensus they came to
-with the class.
-- **Sticky/post-it notes and written feedback** - learners each get two colors of sticky notes.
-If they fall behind or run into an issue, they can put up the
-color that signals they need help.
-If they have completed and exercise or think the instructor could speed up, they put their
-other sticky note up.
-Then at breaks these stickies can turn into written feedback **minute cards**, where the learner
-writes down one thing they were confused about or that could be improved and one thing that went well
-or they really liked learning.
-- **Reflective assessment** - learners spend time reflecting on what they have learned so far.
-Reflection aids in transferring newly learned concepts into long-term memory and can be really helpful for *metacognition*, where learners think about the process of learning, becoming aware of their progress towards acquiring new skills.
-Developing metacognition improves learners' ability to guide their own learning on a topic after they have finished the lesson.
-Reflection exercises can include using what was taught to label a diagram, draw a concept map, free write, or fill in a guided worksheet.
-
-
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
