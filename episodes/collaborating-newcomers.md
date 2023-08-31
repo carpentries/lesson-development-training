@@ -8,7 +8,7 @@ exercises: 25
 
 After completing this episode, participants should be able to...
 
-- Adjust a lesson repository to attract potential collaborators.
+- Adjust a lesson repository to attract potential new collaborators.
 - Create and modify issue and pull request templates in GitHub.
 - Identify strategies to encourage regular development and maintenance of a lesson.
 
@@ -41,7 +41,7 @@ Your lesson documentation should contain the following information, which should
 - **lesson description**
 - **rendered version of the lesson** - even though this is typically included in the `About` section of the repository, it is always useful to link to the URL where the rendered lesson is available
 - **contact information** - include up-to-date email addresses or mailing lists or other details on how to get in touch with the lesson maintainers
-- **contributing information** - this is an opportunity to list what kinds of contributions are sought and how to get involved in lesson development for new contributors. You can provide more details in a separate `CONTRIBUTING` file within the repository’s root directory and link to it from `README`
+- **contributing information** - this is an opportunity to list what kinds of contributions are sought (and what are not) and how to get involved in lesson development for new contributors. You can provide more details in a separate `CONTRIBUTING` file within the repository’s root directory and link to it from `README`
 - **credits/acknowledgements** - make sure to credit those who have helped in the lesson's development or inspired it, and/or any resources/templates that you have reused. You can also link to a separate `AUTHORS.md` file within the repository’s root directory to list all the people who contributed to the lesson content (if this list starts to become too large to include in the `README` itself)
 - **citation** - a convention is to include the citation information for your lesson in a separate `CITATION` file within the repository’s root directory (and link to it from `README`) so others can cite the use of the lesson in their own publications and media and it can also be automatically discovered by other applications. Citation can be a Digital Object Identifier (DOI) issued by a reputable DOI-issuing repository such as [Zenodo](https://zenodo.org/), which should be obtained as a permanent identifier as soon as your lesson reaches the beta stage, or an appropriate academic publication once your lesson becomes stable and is peer-reviewed.
 Citation can be contained in a plain text file (`CITATION`, `CITATION.txt`), a Markdown file (`CITATION.md`), or in the recently adopted [Citation File Format](https://github.com/citation-file-format/citation-file-format) (`CITATION.cff`). The CFF is defined using [YAML](https://yaml.org/spec/1.2.2/) (which we already encountered in the `config.yaml` file for the lesson website) and is now [the recommended way of storing citations in GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/). Advantages of using CFF are that GitHub will automatically show the citation information in the sidebar, making it more visible and accessible for visitors to your repository. In addition, metadata from `CITATION.cff` files will automatically be used by [Zenodo](https://zenodo.org/) when registering the DOI for your lesson/project. CFF metadata is also recognised by the [Zotero reference manager](https://www.zotero.org/).
@@ -102,9 +102,8 @@ You can encourage contributions to your lesson from newcomers by using specific 
 
 ### Noticing When Something Happens
 
-GitHub implements a comprehensive [notifications system](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) to keep you up-to-date with activities in the lesson repository. 
-
-Check out [GitHub's documentation on setting notifications on individual repository](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository). You can choose whether to watch or unwatch an individual repository, or can choose to only be notified of certain event types such as issues, pull requests, mentions, etc.
+In addition to **Mentions**, GitHub implements a comprehensive [notifications system](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) to keep you up-to-date with activities in the lesson repository so you can react in a timely manner. 
+Check out [GitHub's documentation on setting notifications on individual repository](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository). You can choose whether to watch or unwatch all events on an individual repository, or can choose to only be notified of certain event types such as issues, pull requests, mentions, etc.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -189,7 +188,7 @@ to remember to check these notifications frequently.
 
 Not every contribution is a good fit for a project and,
 especially as your lesson becomes more stable,
-you will probably not want to accept every suggested change.
+you probably will not want to accept every suggested change.
 If you receive a pull request or issue that does not fit to your lesson,
 consider the following points to help you politely decline
 without demotivating the contributor from contributing to your lesson
@@ -197,7 +196,7 @@ without demotivating the contributor from contributing to your lesson
 
 1. **Thank them** for taking the time to contribute.
 2. **Explain why the contribution does not fit** into the lesson,
-   and offer suggestions for improvement if you're able.
+   and offer suggestions for improvement if you're able to.
 3. **Link to relevant documentation**, if you have it.
    Notes about the design of the lesson (e.g. from this training) and
    any relevant discussion threads can be very helpful here.
@@ -216,8 +215,7 @@ into another as a responsive and responsible maintainer of your lesson.
 The following practices have been shown to help maintain steady progress with lesson development:
 
   - being responsive to notifications about activities and mentions
-  - scheduling regular co-working/sprinting sessions with team members
-attaching your sprint sessions to other open source community activities, which may offer goodies, rewards and prizes for participants, can provide motivation and activity spikes
+  - scheduling regular co-working/sprinting sessions with team members (e.g attaching your sprint sessions to other open source community activities, which may offer goodies, rewards and prizes for participants, can provide motivation and activity spikes)
   - working alongside other members of The Carpentries community at Maintainer or lesson development co-working sessions
   - blocking time in your calendar for issue triage/solo material writing
   - planning lesson pilots in advance to help set targets
