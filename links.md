@@ -2,6 +2,7 @@
 [carpentries-incubator]: https://carpentries-incubator.org/
 [carpentries-lab]: https://carpentries-lab.org/
 [carpentries-website]: https://carpentries.org/
+[cldt-site]: https://carpentries.github.io/lesson-development-training/
 [codimd-notes-template]: https://codimd.carpentries.org/cldt-notes-template?both#Exercise-evaluating-learning-objectives-15-minutes
 [component-guide]: https://carpentries.github.io/sandpaper-docs/component-guide.html
 [dc]: https://datacarpentry.org/
