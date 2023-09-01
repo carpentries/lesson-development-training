@@ -265,6 +265,36 @@ one of the components of The Carpentries Workbench,
 and should be left untouched.
 The page content begins after the blank line that follows this header.
 
+:::::::::::::::::::::::::::::::: callout
+
+### Markdown Rendering on GitHub
+
+You might have noticed by now that GitHub provides 
+a preview of content in Markdown files,
+and displays an interpreted ("rendered") version of Markdown file content
+by default in its web interface.
+You might also notice that the content of `index.md` is displayed differently
+when viewed on GitHub
+from how it appears on the homepage of your lesson website:
+the header mentioned above appears in a tabular layout on GitHub,
+but is not visible on the lesson homepage.
+
+This is because the lesson infrastructure accepts an expanded set of
+elements in the source Markdown files:
+syntax for components of a lesson website 
+that are not part of the standard set of Markdown features,
+e.g. page metadata such as the YAML header above,
+or blocks to make exercises and solutions visually distinctive.
+In these cases, you may see GitHub render the content differently
+from how it appears on your website, or not at all.
+
+We will encounter more examples of this throughout the lesson,
+but the important thing to remember for now is that
+**how GitHub displays source (R) Markdown files is not a reliable indicator
+of how content will be displayed in your website**.
+
+::::::::::::::::::::::::::::::::::::::::
+
 To get started on this home page,
 replace the template text with
 the same title and short description you added to your `README.md`.
