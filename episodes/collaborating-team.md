@@ -114,31 +114,6 @@ Note: A common nickname for a _Pull Request_ is PR or PRs for _Pull Requests_.
 ::::::::::::::
 
 
-### Protecting `main` Branch
-
-:::::::::::::::::: instructor
-
-When preparing to teach this section, you should check that you have admin privileges on
-your example repository.
-
-:::::::::::::::::::::::::::::
-
-As the maintainer of a project, you can enforce this workflow by
-_protecting_ the default branch of the GitHub repository:
-this will prevent anyone without _Admin_ access from committing changes directly to
-that branch.
-
-To activate this branch protection:
-
-1. Open the _Settings_ tab of the repository and select _Branches_ in the left sidebar,
-under the _Code and automation_ section.
-2. Click the "Add branch protection rule" button.
-3. Type the name of the branch your GitHub Pages are being built from (`main`)
-   into the "Branch name pattern" box.
-4. Check the "Require a pull request before merging" option,
-   but leave the others unchecked for now because we don't need them for this project.
-
-
 ### Submitting and Reviewing Pull Requests on GitHub
 
 The Trainers will collaborate on a demonstration of the process laid out below.
@@ -211,6 +186,20 @@ the Reviewer should follow all the steps but close the PR at the end instead of 
         be included in the actual lesson.)
 
 ::::::::::::::::
+
+:::::::::::::::::::::::::::::::: callout
+
+### Protecting `main`
+
+Repository administrators can enforce this workflow by
+_protecting_ the default branch of the GitHub repository:
+requiring anyone without _Admin_ access to submit changes by pull request
+instead of committing changes directly to `main`.
+
+The GitHub documentation provides 
+[more information about this feature and other branch protection rules](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/managing-a-branch-protection-rule).
+
+::::::::::::::::::::::::::::::::::::::::
 
 
 :::::: callout
