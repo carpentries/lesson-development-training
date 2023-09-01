@@ -23,7 +23,7 @@ After completing this episode, participants should be able to...
 
 
 In this episode we expand on how to use GitHub effectively among a group of known
-collaborators on an open source lesson development project, setting the stage for introducing tools and practices for
+collaborators, currently your lesson development group, on an open source lesson development project, setting the stage for introducing tools and practices for
 working with newcomers. Here, we explore GitHub features to help you keep track of what needs doing on
 the lesson, manage contributions and prioritise work. Making decisions and managing your project as a whole will
 be covered in a follow-up episode on [project management](./project-management.html).
@@ -34,7 +34,7 @@ to any similar open source project you may be involved with.
 
 **Issues** are GitHub's framework for managing issue/bug reports, feature requests, and lists of future work. They provide a single shared record of all the problems people have found with the lesson, and improvements that could be made, along with solutions and discussions around them. This helps the team to keep track of what they need to work on later, and reduces the chance of receiving redundant reports of issues you already know about.
 
-When you create an issue, you can add a range of details to it. An issue can be assigned to a specific team member - this can be a helpful way to know who is currently working to fix an issue or a way to assign responsibility to someone to deal with it. You can assign one or more labels to issues to classify or group them. Labels can also be given colours, allowing you to see at a glance from the Issues page the state of your project. The default labels available in GitHub include:
+When you create an issue, you can add a range of details to it. An issue can be assigned to a specific team member - this can be a helpful way to know who is currently working to fix an issue or a way to assign responsibility. You can assign one or more labels to issues to classify or group them. Labels can also be given colours, allowing you to see at a glance from the Issues page the state of your project. The default labels available in GitHub include:
 
 - `bug` - indicates an unexpected problem or unintended behavior
 - `documentation` - indicates a need for improvements or additions to documentation
@@ -46,7 +46,7 @@ When you create an issue, you can add a range of details to it. An issue can be 
 - `question` - indicates that an issue, pull request, or discussion needs more information
 - `wontfix` - indicates that work won't continue on an issue, pull request, or discussion
 
-Check the [GitHub documentaiton on Issues](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) for the full reference.
+Check the [GitHub documentation on Issues](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) for the full reference.
 You can also create your own custom labels to help with classifying issues.
 There are no rules really about naming the labels - use whatever makes sense for your
 project. Some conventional custom labels include: `status:in progress` (to indicate that
@@ -215,16 +215,21 @@ the Reviewer should follow all the steps but close the PR at the end instead of 
 
 :::::: callout
 
-## Effective review comments are a learned skill
+## Reviewing is a Skill
 
 Making effective review comments in a PR is something you will get better at with practice - here is some general guidance to help with reviewing a PR from a collaborator:
 
+- Good reviews have empathy - consider the contributor's feelings, identify positives and try not to be judgemental.
+- Aim for improved/better rather than perfect.
 - Make sure your review comments are specific and actionable.
 - Make it clear in the comment what you want changed as part of a PR and, ideally, provide a concrete suggestion.
 - Only request changes if the content is wrong or hard to understand (remember, different does not always mean better).
 - If a conversation on a PR hasn’t been resolved by one or two back-and-forth exchanges, consider scheduling a meeting to discuss further.
-- Good reviews have empathy - consider the contributor's feelings, identify positives and try not to be judgemental.
-- Aim for improved/better rather than perfect.
+
+The Turing Way has more on [reviewing contributions](https://the-turing-way.netlify.app/collaboration/maintain-review/maintain-review-review),
+and a lot of the advice in Alex Hill's blog post,
+[_The Art of Giving and Receiving Code Reviews (Gracefully)_](https://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
+also applies to reviewing prose.
 
 ::::::::::::::::
 
@@ -242,9 +247,10 @@ or let them know something has been fixed or changed
 (much easier than writing out all the same information again in an email!).
 You can use the mention system to notify individual GitHub accounts
 or whole teams (when you need to mention multiple people at once and it is not practical to list them all individually).
-Typing `@` in GitHub will bring up a list of all accounts and teams linked to the repository that can be "mentioned".
+Typing `@` in GitHub will bring up a list of all accounts and teams linked to the repository that can be "mentioned". You can also mention people who aren't linked with the repository but they won't be listed in 
+the `@` drop-down list so you will need to know their GitHub username in order to mention them.
 
-[Slack](https://slack.com/) is commonly used in the Carpentries community for quick, day-to-day message exchange among teams. You can create your own [Slack workspace for free](https://slack.com/intl/en-gb/) or create a channel for your lesson development project under [the Carpentries public Slack workspace](https://carpentries.slack.com/). Note that the Carpentries Slack is an enterprise workspace so all messages and files will be retained and no messages will be lost (for free workspaces only the most recent 10,000 messages can be viewed and searched and file storage limit is 5 GB).
+[Slack](https://slack.com/) is commonly used in the Carpentries community for quick, day-to-day message exchange among teams. You can create a channel for your lesson development project under [the Carpentries public Slack workspace](https://carpentries.slack.com/) or if you need more complex team communications you can create your own [Slack workspace for free](https://slack.com/intl/en-gb/). Note that the Carpentries Slack is an enterprise workspace so all messages and files will be retained and no messages will be lost (for free workspaces only the most recent 10,000 messages can be viewed and searched and file storage limit is 5 GB).
 
 Collaborators can also use other platforms to discuss lesson development or receive contributions from newcomers who are not yet fluent in using GitHub's systems of communication. The Carpentries can assist with creating a mailing list specific to the development of your lesson on their [TopicBox](https://carpentries.topicbox.com/) platform for managing threaded email discussions. Also make sure to join the [Incubator lesson developers mailing list](https://carpentries.topicbox.com/groups/incubator-developers) on TopicBox to keep an eye on announcements and discussions relating to lesson development in general within the Carpentries community.
 
