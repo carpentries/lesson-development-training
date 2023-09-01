@@ -189,7 +189,7 @@ the Reviewer should follow all the steps but close the PR at the end instead of 
 
 :::::::::::::::::::::::::::::::: callout
 
-### Protecting `main`
+### Protecting `main` Branch
 
 Repository administrators can enforce this workflow by
 _protecting_ the default branch of the GitHub repository:
