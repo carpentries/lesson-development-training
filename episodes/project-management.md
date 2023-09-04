@@ -23,83 +23,55 @@ After completing this episode, participants should be able to...
 
 ## Project planning & management
 
-Developing a lesson is a project and, like most projects, it consists of multiple tasks. Keeping track of the list of tasks the team has to do, progress on each, prioritising tasks for future development, sprints and releases, etc., quickly becomes a non-trivial task in itself. Without a good project management framework, it can be hard to keep track of what’s done, or what needs doing, and particularly difficult to convey that to others in the team or share the responsibilities.
+Developing a lesson is a project and, like most projects, it consists of multiple tasks. Keeping track of the list of tasks the team has to do, progress on each, prioritising tasks for future development, sprints and releases, etc., quickly becomes a non-trivial task in itself. Without a project management tool/framework, it can be hard to keep track of what’s done, or what needs doing, and particularly difficult to convey that to others in the team or share the responsibilities.
 
-GitHub provides two project management tools for this purpose - **Milestones** and **Project Boards**.
-Both Milestones and Project Boards implement an agile development/project management system
-to help you keep track of different components of the project and their current status.
-Milestones are good for [scrum-style project development and management](https://www.atlassian.com/agile/scrum) -
-i.e. time-bound, structured iterations and working in short sprints on batches of issues. Project Boards implement
-a [Kanban methodology](https://www.atlassian.com/agile/kanban) - good for managing continuous delivery and steady flow of work in a project.
+Different tools and platforms exist to help you with project planning and management - for example, GitHub's [**Milestones**](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones) and [**Projects**](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects), [Asana](https://www.asana.com), [Trello](https://www.trello.com), [Miro](https://miro.com/), even sticky notes on a white board. Different tools will work best for different teams of collaborators, but making sure you use any tool to plan and manage work on your lesson development project is better than making it up as you go along.
 
-Both Project Boards and Milestones are a way of organising issues into smaller "sub-projects" (i.e.
-smaller than the "project" represented by the whole repository). When should you use one over the other?
-Project Boards provide a way of visualising and organising the work on a higher level (e.g. more suitable for
-project management tasks that are not time-bound). Milestones are a way to
-organise lower-level tasks that have deadlines and progress of which needs to be closely tracked
-(e.g. release management). How you organise and partition your project work is up to you and the size
-of your project. For example, you could create a project per
-milestone or have several milestones in a single project, and split milestones into shorter sprints.
+### Project Management in GitHub
+Carpentries lessons are developed in GitHub so it is convenient (but not a must) to use GitHub's [**Milestones**](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones) and [**Projects**](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) 
+to help you keep track of different components of the project and their current status. 
 
-### Milestones
+Milestones are a way of organising issues on your project into smaller units of work (e.g. deliverables) that have deadlines and progress of which needs to be closely tracked (e.g. release management). Projects provide a way of visualising and organising the work on a higher level and are more suitable for
+project management tasks that are more continuous and not time-bound. While a Milestone is associated with a single repository, a Project can span over multiple Milestones and even different repositories within an organisation in GitHub. 
+
+::: callout
+
+## Milestones vs Projects
+For a good description of differences between the two, have a look at [this answer on StackOverflow](https://stackoverflow.com/questions/39591795/what-is-the-difference-relationship-between-github-projects-and-milestones).
+
+A Milestone answers the question:
+
+> *"What is remaining to finish off this task?"*
+
+A Project answers the question:
+
+> *"What (tasks) are we working on at the moment?"*
+
+:::
+
+Milestones are good for managing time-bound, structured iterations and working in short sprints on batches of issues. Dedicated sprints seem to work well for lesson development, so we will have a look at how Milestones can help with this. We recommend you to also have a look at [GitHub's documentation on Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)  and see if they are suitable for your lesson development workflow.
+
+### GitHub's Milestones
 
 A Milestone is a collection of issues to be worked on in a given time period. Milestones are good for
 tracking progress as they provide an ordered list of issues which must all be resolved for the overall task to be
 considered complete. Milestones work like labels - they mark and group issues that are expected to be closed at
 some point in time.
 
-The `Milestones` page in GitHub is accessible from the `Issues` page -
-from there you can create a new milestone, see the percentage of issues completed for your milestones and their due dates.
-You can also sort milestones by due date and prioritise issues within a particular milestone.
-Back on the `Issues` page, you can assign issues to milestones and filter your issues by milestones.
-
-### Project Boards
-A Project Board (or Kanban board, from the Japanese word for 'card') uses columns and cards to keep track of tasks
-- you break your project down into tasks which you write on cards, then move the cards between columns that describe the status of each task. Cards are usually small, descriptive and self-contained tasks that build on each other. Breaking a project down into clearly-defined tasks makes it a lot easier to manage and develop. GitHub project boards interact and integrate with the other features of the site such as issues and pull requests - cards can be added to track the progress of such tasks and automatically moved between columns based on their progress or status.
-
-GitHub provides template boards that by default contain the three ‘basic’ columns, with pretty self-explanatory names:
-
-- `To Do`
-- `In Progress`
-- `Done`
-
-If you add an issue or pull request to a card in the board, it will automatically be moved to ‘Done’ for you when you close the issue or merge the pull request. One common extra column is `On hold` or `Waiting`. If you have tasks that get held up by waiting on other people (e.g. to respond to your questions) then moving them to a separate column makes their current state clearer.
-
-You can also create a card without an issue. Such cards (or notes) can have detailed content like checklists or ideas
-which are not necessarily suitable for inclusion in your issue tracker. However, GitHub also allows you to convert a card to an issue, should you wish to do so,
-so you can add labels or detailed comments to it. Sometimes, a card you thought was simple and self-contained might turn out to be a bigger task than you anticipated - in that case, it is sensible to create new cards that reference the one they broke off from.
-
-Once your project board has a large number of cards on it, you might want to begin prioritising them. Not all tasks are going to be equally important, and some will require others to be completed before they can even be begun. Common methods of prioritisation include:
-
-- **Vertical position**: the vertical arrangement of cards in a column implicitly represents their importance. High-priority bugs go to the top of `To Do`, whilst tasks that depend on others go beneath them. This is the easiest one to implement, though you have to remember to correctly place cards when you add them.
-- **Priority columns**: instead of a single `To Do` column, you can have two or more, for example - `To Do: Low Priority` and `To Do: High Priority`. When adding a card, you pick which is the appropriate column for it. You can even add a Triage column for newly-added issues that you’ve not yet had time to classify. This format works well for project boards devoted to bugs.
-- **Labels**: if you convert each card into an issue, then you can label them with their priority - remember GitHub lets you create custom labels and set their colours. Label colours can provide a very visually clear indication of issue priority but require more administrative work on the project, as each card has to be an issue to be assigned a label. If you choose this route for issue prioritisation - be aware of accessibility issues for colour-blind people when picking colours.
-
-::: callout
-
-## Project Boards vs Milestones
-For a good description of differences between the two, have a look at [this answer on StackOverflow](https://stackoverflow.com/questions/39591795/what-is-the-difference-relationship-between-github-projects-and-milestones).
-
-A Project Board answers the question:
-
-> *"What are we working on at the moment?"*
-
-A Milestone answers the question:
-
-> *"What is remaining to finish off this task?"*
-
-:::
+The `Milestones` page in GitHub is accessible from the `Issues` or `Pull requests` pages -
+from there you can create a new Milestone, set its description and due date, sort all Milestones by due date and see the percentage of issues completed for your Milestones.
+Within an individual Milestone's page, you can see the list of associated issues and prioritise them by pointing to the left of an issue until the 'hand' pointer appears and then drag-and-dropping it to a new location in the list (with higher position in the list indicating higher priority). Back on the `Issues`/`Pull requests` page, you can assign issues/pull requests to a Milestone and filter your issues/pull requests by Milestones.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: prioritising issues & planning work (15 minutes)
 
-Use Project Boards and/or Milestones to prioritise issues and plan the first sprint and/or the first lesson release
+Use Milestones to prioritise issues and plan the first sprint and/or the first lesson release
 with your team.
 
 Depending on how many issues were registered on your repository, it is possible that you will not be able to work on
 all the issues in the first sprint. As the development of your lesson progresses, any remaining unresolved issues can
-be reconsidered and prioritised for another milestone and you can use a Project Board to plan them.
+be reconsidered and prioritised for another sprint/milestone.
 
 This process of receiving new issues and requirements, prioritisation, and working on them is naturally continuous -
 with the benefit that at key stages your team is repeatedly re-evaluating what is important and needs to be worked on
@@ -141,7 +113,9 @@ questions you may have for your trainers.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- GitHub's **Milestones** and **Project Boards** can be used to effectively manage work sprints and a lesson development project as a whole, respectively.
+- Being intentional about task/project management for your lesson development project is better than making it up as you go along.
+- Different tools and platforms exist to help you with project management - chose one that suits your team best.
+- Dedicated work sprints seem to work well for lesson development and GitHub's **Milestones** can be used effectively to plan and manage such sprints.
 - Make sure to consider and establish a governance model for your project early on - to describe the ground rules of participation and the process for decision making within the project.
 
 :::::::::::::::::::::::::::::::::::::::
