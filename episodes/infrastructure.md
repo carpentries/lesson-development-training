@@ -198,6 +198,7 @@ The lesson title can be adjusted by modifying the `config.yaml` file in the repo
 The `config.yaml` file contains several global parameters for a lesson -
 to determine some of the page styling, contact details for the lesson, etc. 
 `config.yaml` is written in _[YAML]_, a structured file format of key-value pairs in the form `key: value`.
+(E.g. a YAML file of personal data might include lines such as `name: 'Mei'`, `height_m: 1.84`, and `birthdate: 1899-01-12`.)
 As well as the title of the lesson,
 you can and should adjust some of the other values in `config.yaml`,
 but you should not need to add new values or learn a lot about YAML
