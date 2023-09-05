@@ -203,9 +203,12 @@ you can and should adjust some of the other values in `config.yaml`,
 but you should not need to add new values or learn a lot about YAML
 to be able to configure your lesson. You should also only have to add or modify single-line 
 string values and list entries, and not deal with multi-line strings or other data types (e.g. numbers, booleans, dictionaries) 
-that YAML supports. YAML generally does not require quotes (both single (') or double (") are allowed) around string values unless 
-strings contain [reserved characters](https://www.w3schools.io/file/yaml-escape-characters/), though it may be good practice 
-from readability point of view to use quotes if your string contains several words.
+that YAML supports. 
+The template `config.yaml` aims to guide users through examples and annotations
+on how to format the values they provide
+e.g. if you are modifying a value wrapped in quotation marks in the template file,
+it is safest to replace it with another value within quotation marks.
+([Details about when values need to be quoted in YAML](https://www.w3schools.io/file/yaml-escape-characters/).)
 
 ::: challenge
 
