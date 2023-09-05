@@ -162,14 +162,63 @@ For some other examples and inspirations of governance processes, consider the f
   provides a collection of links to further reading material on this topic.
   It includes various guides, blog posts, and examples of community governance that may inform the discussions and decisions for your project.
 
-::::::::::::::::::::::::::::::::::::::  challenge
+::::::::::::::::::::::::::::::::::::::  discussion
 
 ## Exercises: decision making process (15 minutes)
 
-As a team read [Greg Wilson's explanation of Martha's rules on running decision making meetings](https://third-bit.com/files/2020/08/marthas/).
+These activities are intended to help you think about 
+the human relationships between collaborators on a project
+and how your interactions can influence the progress you make.
 
-Discuss with your colleagues if it would work for your team and if not - what would you propose. Write down any
-questions you may have for your trainers.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: spoiler
+
+### For Teams of Collaborators
+
+As a team read 
+[the description of project governance for this training curriculum](https://github.com/carpentries/lesson-development-training/blob/main/GOVERNANCE.md).
+
+Discuss with your colleagues which, if any, aspects of this would work for your team and which would not.
+What model of governance and decision-making might work for your team?
+
+If you have time remaining,
+discuss what factors influence how much power each member of your team has
+in the context of the project.
+This could be "hard"/formalised power, 
+e.g. project collaborators in more or less senior positions within the same workplace, 
+and/or "soft"/informal, 
+e.g. differences in the amount of time each collaborator has available for the project,
+or different levels of expertise in the subject matter of the lesson,
+or the lesson infrastructure and associated tools such as Git and GitHub.
+
+Write down any questions you may have for your trainers.
+
+(**Recommended reading**: the [_Dealing with Disruptive Behaviours_][noaa-ddb] resource
+linked in the exercise for lesson developers working alone, below,
+may also be helpful to ensure smoother project progress in your team.)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: spoiler
+
+### For Lesson Developers Working Alone
+
+The [_Dealing with Disruptive Behaviours_][noaa-ddb] resource from 
+the US National Oceanic and Atmospheric Administration (NOAA) Office for Coastal Management
+provides guidance for meeting facilitators.
+It includes examples of several common behaviours that can be disruptive to meetings
+(and therefore to efficient progress on a project)
+and advice for facilitators on how to intervene and mitigate them.
+
+1. Open the _Dealing with Disruptive Behaviours_ resource, 
+   select each behaviour, and read the descriptions.
+2. Which of these behaviours do you recognise in yourself? 
+   Put another way, which "character" ("Talkative Blowfish", "Apathetic Flounder", etc) do you most resemble?
+3. Think about another project you work on where you are part of a team.
+   Can you identify any of the disruptive behaviours in your colleagues?
+   If so, can you find anything in the suggested interventions for these behaviours
+   that could help you in your shared project?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::
 
@@ -182,3 +231,5 @@ questions you may have for your trainers.
 - Make sure to consider and establish a governance model for your project early on - to describe the ground rules of participation and the process for decision making within the project.
 
 :::::::::::::::::::::::::::::::::::::::
+
+[noaa-ddb]: https://coast.noaa.gov/ddb/
