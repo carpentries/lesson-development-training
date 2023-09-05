@@ -204,8 +204,8 @@ but you should not need to add new values or learn a lot about YAML
 to be able to configure your lesson. You should also only have to add or modify single-line 
 string values and not deal with multi-line strings or other data types (e.g. numbers, booleans, lists, dictionaries) 
 that YAML supports. YAML generally does not require quotes around string values unless 
-they contain [reserved characters](https://www.w3schools.io/file/yaml-escape-characters/). It may also be good practice 
-from the readibility point of view to use quotes if your string contains several words.
+they contain [reserved characters](https://www.w3schools.io/file/yaml-escape-characters/) though it may be good practice 
+from readability point of view to use quotes if your string contains several words.
 
 ::: challenge
 
