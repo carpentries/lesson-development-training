@@ -17,5 +17,7 @@ title: Reference
 
 ## Glossary
 
-FIXME
+sprint
+: A short, intense period of work on a project. (Definition from [_Glosario_](https://glosario.carpentries.org/en/).)
+  
 
