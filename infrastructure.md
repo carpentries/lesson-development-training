@@ -196,12 +196,19 @@ You may need to wait a few minutes for the website to be generated.
 
 The lesson title can be adjusted by modifying the `config.yaml` file in the repository.
 The `config.yaml` file contains several global parameters for a lesson -
-to determine some of the page styling, contact details for the lesson, etc -
-and is written in _[YAML]_, a structured file format of key-pair values.
+to determine some of the page styling, contact details for the lesson, etc. 
+`config.yaml` is written in _[YAML]_, a structured file format of key-value pairs in the form `key: value`.
+For example, a YAML file of personal data might include lines such as `name: 'Mei'`, `height_m: 1.84`, and `birthdate: 1899-01-12`.
 As well as the title of the lesson,
 you can and should adjust some of the other values in `config.yaml`,
 but you should not need to add new values or learn a lot about YAML
-to be able to configure your lesson.
+to be able to configure your lesson. You should also only have to add or modify single-line 
+string values and list entries, and not deal with multi-line strings or other data types (e.g. numbers, booleans, dictionaries) 
+that YAML supports. 
+The template `config.yaml` aims to guide users through examples and annotations
+on how to format the values they provide
+e.g. if you are modifying a value wrapped in quotation marks in the template file,
+it is safest to replace it with another value within quotation marks.
 
 ::: challenge
 
