@@ -209,7 +209,6 @@ The template `config.yaml` aims to guide users through examples and annotations
 on how to format the values they provide
 e.g. if you are modifying a value wrapped in quotation marks in the template file,
 it is safest to replace it with another value within quotation marks.
-([Details about when values need to be quoted in YAML](https://www.w3schools.io/file/yaml-escape-characters/).)
 
 ::: challenge
 
