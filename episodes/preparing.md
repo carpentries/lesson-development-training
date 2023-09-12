@@ -113,6 +113,24 @@ Another standard piece of The Carpentries Workbench are the *Instructor Notes* p
 
 It may initially be difficult to create Instructor Notes until you have taught the lesson yourself for the first time - but after the first pilot you will have enough feedback to draft them.
 
+::::::::::::::::::::::::::::::::::::::  callout
+
+## Hidden Curriculum
+
+The concept of **hidden curriculum** describes curricular effects that influence learning 
+but are not explicitly addressed in the lesson content - 
+e.g. (unofficial) social and cultural norms, behaviours and values 
+that are transferred by instructors to learners, often unconsciously.
+These are all the additional things that people learn about the topic from *the way* your lesson is taught, 
+rather than from its official content.
+It is worthwhile to spend some time thinking about what learners could pick up
+from _the way_ your lesson is taught,
+as well as from its written content. 
+You can use Instructor Notes to guide instructors on some of the aspects of the hidden curriculum of your lesson,
+e.g. to encourage them to follow certain tried and tested practices.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: Add Instructor Notes (5 minutes)

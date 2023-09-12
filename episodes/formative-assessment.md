@@ -32,17 +32,13 @@ with step 2, 'Design assessments for these outcomes' highlighted."
 width="67%"
 }
 
-As we have seen previously, defining objectives for a lesson (or a teaching episode) can help to focus your content on the most important learning outcomes and outline the scope of your lesson project. With learning objectives you have defined your **intended (or planned) curriculum** - what you set out to accomplish with your lesson. The skills and knowledge your learners actually leave with and can demonstrate after the workshop having followed the **implemented curriculum** in the classroom is called the **attained curriculum**. **Implemented curriculum** includes the concepts, relationships and skills that are explicitly covered in your lesson and translated into classroom practices - i.e. the teaching and learning activities that should lead to your learners attaining knowledge.
-
-::::::::::::::::::::::::::::::::::::::  callout
-
-## Hidden Curriculum
-
-There is one more curriculum at play here - **hidden curriculum** includes all unintended curricular effects that influence learning but are not explicitly  addressed in the lesson content - e.g. (unofficial) social and cultural norms, behaviours and values that are transferred by instructors to learners, often unconsciously. These are all the additional things that people learn about the topic from *the way* your lesson is taught, rather than from its official content. You can use Instructor Notes (covered in more detail in ["Preparing to Teach"](preparing.md) episode) to guide instructors on some of the aspects of the hidden curriculum, e.g. to encourage them to follow certain tried and tested practices.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-The goal of the remaining steps of lesson development is to ensure that the attained curriculum matches the intended curriculum as closely as possible. To do so, you need to develop assessments to ensure progression towards your learning outcomes.
+As we have seen previously, defining objectives for a lesson (or a teaching episode) can 
+help to focus your content on the most important learning outcomes 
+and outline the scope of your lesson project. 
+The goal of the remaining steps of lesson development is to ensure that 
+what learners learn from following your lesson 
+matches its defined objectives as closely as possible. 
+To do so, you need to develop assessments to monitor progression towards your learning outcomes.
 
 ::::::::::::::::::::::::::::::::::::::  callout
 
