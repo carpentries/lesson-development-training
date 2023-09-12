@@ -136,9 +136,18 @@ Create LOs for the specific audience and create assessments for specific LOs."*
 
 Using one of the exercise formats you have learned about so far,
 design an exercise that will require learners to perform one of the actions
-described in the objectives you wrote for your lesson,
+described in the objectives you wrote earlier,
 and that assesses their ability to do so.
 
+These should be assessments of the lower-level objectives defined
+for individual episodes in the lesson,
+as opposed to the lesson-level objectives you wrote first.
+
+Trainees working as a team can choose whether to 
+work together on discussing and designing a single exercise to assess a single objective,
+or to divide their efforts and each focus on an exercise for their own episode.
+If you choose to take the latter approach and finish with time to spare,
+spend the remainder reviewing and providing feedback on one another's assessments.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
