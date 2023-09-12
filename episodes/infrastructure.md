@@ -214,7 +214,9 @@ it is safest to replace it with another value within quotation marks.
 
 ### Practice with `config.yaml` (5 minutes)
 
-Complete the configuration of your lesson by adjusting the following fields in `config.yaml`:
+Complete the configuration of your lesson by adjusting the following fields in `config.yaml`. 
+Remember that FIXME values with quotes should be replaced with another value still in quotes and 
+FIXMEs without quotes should be replaced by values without quotes.
 
 - `contact`: add an email address people can contact with questions about the lesson/project.
 - `created`: the date the lesson was created (today's date) in YYYY-MM-DD format.
