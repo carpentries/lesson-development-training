@@ -216,10 +216,11 @@ it is safest to replace it with another value within quotation marks.
 
 Complete the configuration of your lesson by adjusting the following fields in `config.yaml`:
 
-- `email`: add an email address people can contact with questions about the lesson/project.
+- `contact`: add an email address people can contact with questions about the lesson/project.
 - `created`: the date the lesson was created (today's date) in YYYY-MM-DD format.
 - `keywords`: a (short) list of keywords for the lesson,
-   which can help people find your lesson when searching for resources online.
+   which can help people find your lesson when searching for resources online. At a minimum,
+  include 'lesson', ‘carpentries-incubator’, your lesson's life-cycle stage, and your lesson's (human) language.
 - `source`: change this to the URL for your lesson repository.
 
 We will revisit the `life_cycle` and `carpentry` fields in `config.yaml` later in this training.
