@@ -114,6 +114,12 @@ GNU offers commentary about a variety of licenses for free software; this resour
 
 ## Finding a Dataset
 
+:::::::::::::::::: testimonial
+
+> It was very distracting to me in a workshop, when we were given a dataset to work with but no-one explained what that data was and what it meant. It prevented me from following what the instructors were actually trying to teach me, while I tried to figure out the meaning of the numbers, columns names etc on my own.
+
+::::::::::::::::::
+
 When searching for a dataset to use in your lesson,
 there are a number of factors to consider.
 First, if possible you want the dataset to be an authentic use
