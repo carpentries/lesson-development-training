@@ -51,8 +51,8 @@ in the Incubator is ready to be incorporated into one of The Carpentries _Lesson
 the collection of lessons and curricula that can be taught in an official workshop for
 Software, Library, or Data Carpentry.
 
-|                                       | Incubator          | Lab                |
-| ------------------------------------- | ------------------ | ------------------ |
+|                                       | Incubator | Lab |
+|:--------------------------------------|:---:|:---:|
 | lesson owned by community             | :heavy_check_mark: | :heavy_check_mark: |
 | lesson under development              | :heavy_check_mark: | :x:                |
 | lesson stable                         | :x:                | :heavy_check_mark: |
