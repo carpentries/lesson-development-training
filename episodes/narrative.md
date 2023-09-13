@@ -116,7 +116,7 @@ GNU offers commentary about a variety of licenses for free software; this resour
 
 :::::::::::::::::: testimonial
 
-It was very distracting to me in a workshop, when we were given a dataset to work with but no-one explained what that data was and what it meant. It prevented me from following what the instructors were actually trying to teach me, while I tried to figure out the meaning of the numbers, columns names etc on my own.
+> It was very distracting to me in a workshop, when we were given a dataset to work with but no-one explained what that data was and what it meant. It prevented me from following what the instructors were actually trying to teach me, while I tried to figure out the meaning of the numbers, columns names etc on my own.
 
 ::::::::::::::::::
 
