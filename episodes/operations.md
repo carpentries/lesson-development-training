@@ -60,6 +60,7 @@ Software, Library, or Data Carpentry.
 | CC-BY license                         | :heavy_check_mark: | :heavy_check_mark: |
 | The Carpentries Code of Conduct       | :heavy_check_mark: | :heavy_check_mark: |
 | The Carpentries lesson infrastructure | :heavy_check_mark: | :heavy_check_mark: |
+Table: Summary of community-developed lessons in The Carpentries Incubator and Lab.
 
 
 ## The Lesson Life Cycle
