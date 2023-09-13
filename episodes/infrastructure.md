@@ -222,7 +222,7 @@ FIXMEs without quotes should be replaced by values without quotes.
 - `created`: the date the lesson was created (today's date) in YYYY-MM-DD format.
 - `keywords`: a (short) comma-separated list of keywords for the lesson,
    which can help people find your lesson when searching for resources online. At a minimum,
-  include 'lesson', ‘carpentries-incubator’, your lesson's life-cycle stage, and your lesson's (human) language.
+  include 'lesson', 'pre-alpha', and your lesson's (human) language. For example, 'lesson, pre-alpha, español'.
 - `source`: change this to the URL for your lesson repository.
 
 We will revisit the `life_cycle` and `carpentry` fields in `config.yaml` later in this training.
