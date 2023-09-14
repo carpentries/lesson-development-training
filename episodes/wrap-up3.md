@@ -64,7 +64,7 @@ While you will know the best collaboration practices for your team, here are som
   
   8. Be open and welcoming to new contributors and provide different opportunities to get involved with your project 
   (from novice to expert collaborators). Point to upskilling guides (or run upskilling sessions if possible) to bring people 
-  up to speed. Show appreciation for everyone's contributions.
+  up to speed.
   
   9. Manage contributions in a timely manner by noticing when things happen and responding to new issues, comments and 
   Pull Requests (PRs). Show appreciation for everyone's contributions. 
