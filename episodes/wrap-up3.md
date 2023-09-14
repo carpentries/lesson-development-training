@@ -20,10 +20,66 @@ After completing this episode, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+We have reached the end of this training.
+
+## Looking Back
+
+Throughout this training we promoted a collaborative approach to lesson development and maintenance (as many other initiatives in The Carpentries community are conducted). Collaboration helps bring different skills and perspectives to a project and share the load of the work required to bring the project successfully past the finishing line. For lesson projects, this shared effort also extends to maintaining and updating the lesson after the initial development phase.
+
+::::::::::::: challenge
+
+# Exercise: What steps can you take to be a good collaborator? (20 minutes)
+
+Spend some time exploring at least two of the following lesson repositories:
+
+- [Collaborative Lesson Development Training](https://github.com/carpentries/lesson-development-training) (this lesson)
+- [Library Carpentry: Introduction to Working with Data (Regular Expressions)](https://github.com/librarycarpentry/lc-data-intro/) (official Library Carpentry lesson)
+- [Introduction to Geospatial Raster and Vector Data with Python](https://github.com/carpentries-incubator/geospatial-python) (in Carpentries Incubator)
+- [Introduction to R for Metagenomics](https://github.com/carpentries-lab/metagenomics-R) (in Carpentries Lab)
+
+and noting down what things you noticed in these repositories that could aid collaboration. Trainers will then lead a discussion on what people found and steps you could take to improve your lesson repository. 
+
+::: solution 
+
+While you will know the best collaboration practices for your team, here are some suggestions/top tips:
+
+  1. Provide ‘external-facing’ features for your lesson (such as description, objectives, contribution and 'how to get involved' 
+  guides, preferred way of communication) - these will be universally useful for everyone coming to your repository (your team included).
+  
+  2. Find the best tools that work for your team for communication, documentation and knowledge sharing, issue & project management.
+  
+  3. Document and share knowledge within the team to facilitate team collaboration. Share decisions and communicate with your team synchronously and asynchronously.
+  
+  4. Plan your meetings to get the most out of your team (e.g. set agenda, assign meeting roles - chair, note-taker, time-keeper, etc.) 
+  and be appreciative of people's times.
+  
+  5. Record and manage issues with your lesson as you develop, trial and maintain it (e.g. assign people responsible for 
+  issues, categorise and prioritise them).
+  
+  6. Assign tasks and roles to distribute the responsibilities - this includes assigning larger roles (project management 
+  & governance) to team members and assigning specific issues/tasks to collaborators. Progress is much more likely to be made 
+  when people know what they and others should be working on.
+  
+  7. Dedicated sprints where the whole team works on a set of issues towards a milestone work well for lesson development and making progress on projects in general.
+  
+  8. Be open and welcoming to new contributors and provide different opportunities to get involved with your project 
+  (from novice to expert collaborators). Point to upskilling guides (or run upskilling sessions if possible) to bring people 
+  up to speed. Show appreciation for everyone's contributions.
+  
+  9. Manage contributions in a timely manner by noticing when things happen and responding to new issues, comments and 
+  Pull Requests (PRs). Show appreciation for everyone's contributions. 
+  
+  10. People bring different perspectives, expertise and skills to a collaborative project and, while they can be productive 
+  and harmoniously complement each other, having some decision making and conflict resolution process in place will make sure 
+  progress can be made when disagreements arise.
+
+:::
+
+:::::::::::::
+
 
 ## Looking Ahead
 
-We have reached the end of this training.
 By now, you should have made good progress towards a first draft of your lesson.
 
 Referring back to [the life cycle stages for lessons](operations.md)
