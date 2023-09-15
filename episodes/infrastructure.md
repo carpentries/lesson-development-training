@@ -117,9 +117,12 @@ following the link above and completing the configuration as follows:
 * make sure the "Include all branches" box is checked
 
 After pressing the _Create repository using this template_ button,
-you should be presented with a brand new lesson repository.
+you should be presented with a brand new lesson repository, like in the picture below.
 
-TODO insert screenshot of repository structure here
+![Directory structure of new lesson repository created from a lesson template](fig/new-lesson-repository-structure.png){
+alt="Screenshot of a directory structure of a new lesson repository created from a lesson template"
+width="90%"
+}
 
 ::: instructor
 
