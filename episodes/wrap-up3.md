@@ -43,35 +43,26 @@ and noting down what things you noticed in these repositories that could aid col
 
 While you will know the best collaboration practices for your team, here are some suggestions/top tips:
 
-  1. Provide ‘external-facing’ features for your lesson (such as description, objectives, contribution and 'how to get involved' 
-  guides, preferred way of communication) - these will be universally useful for everyone coming to your repository (your team included).
-  
-  2. Find the best tools that work for your team for communication, documentation and knowledge sharing, issue & project management.
-  
-  3. Document and share knowledge within the team to facilitate team collaboration. Share decisions and communicate with your team synchronously and asynchronously.
-  
-  4. Plan your meetings to get the most out of your team (e.g. set agenda, assign meeting roles - chair, note-taker, time-keeper, etc.) 
-  and be appreciative of people's times.
-  
-  5. Record and manage issues with your lesson as you develop, trial and maintain it (e.g. assign people responsible for 
-  issues, categorise and prioritise them).
-  
-  6. Assign tasks and roles to distribute the responsibilities - this includes assigning larger roles (project management 
-  & governance) to team members and assigning specific issues/tasks to collaborators. Progress is much more likely to be made 
-  when people know what they and others should be working on.
-  
-  7. Dedicated sprints where the whole team works on a set of issues towards a milestone work well for lesson development and making progress on projects in general.
-  
-  8. Be open and welcoming to new contributors and provide different opportunities to get involved with your project 
-  (from novice to expert collaborators). Point to upskilling guides (or run upskilling sessions if possible) to bring people 
-  up to speed.
-  
-  9. Manage contributions in a timely manner by noticing when things happen and responding to new issues, comments and 
-  Pull Requests (PRs). Show appreciation for everyone's contributions. 
-  
-  10. People bring different perspectives, expertise and skills to a collaborative project and, while they can be productive 
-  and harmoniously complement each other, having some decision making and conflict resolution process in place will make sure 
-  progress can be made when disagreements arise.
+1. Provide ‘external-facing’ features for your lesson (such as description, objectives, contribution and 'how to get involved'
+   guides, preferred way of communication) - these will be universally useful for everyone coming to your repository (your team included).
+2. Find the best tools that work for your team for communication, documentation and knowledge sharing, issue & project management.
+3. Document and share knowledge within the team to facilitate team collaboration. Share decisions and communicate with your team synchronously and asynchronously.
+4. Plan your meetings to get the most out of your team (e.g. set agenda, assign meeting roles - chair, note-taker, time-keeper, etc.) 
+   and be appreciative of people's times.
+5. Record and manage issues with your lesson as you develop, trial and maintain it (e.g. assign people responsible for 
+   issues, categorise and prioritise them).
+6. Assign tasks and roles to distribute the responsibilities - this includes assigning larger roles (project management 
+   & governance) to team members and assigning specific issues/tasks to collaborators. Progress is much more likely to be made 
+   when people know what they and others should be working on.
+7. Dedicated sprints where the whole team works on a set of issues towards a milestone work well for lesson development and making progress on projects in general.
+8. Be open and welcoming to new contributors and provide different opportunities to get involved with your project 
+   (from novice to expert collaborators). Point to upskilling guides (or run upskilling sessions if possible) to bring people 
+   up to speed.
+9. Manage contributions in a timely manner by noticing when things happen and responding to new issues, comments and 
+   Pull Requests (PRs). Show appreciation for everyone's contributions. 
+10. People bring different perspectives, expertise and skills to a collaborative project and, while they can be productive 
+   and harmoniously complement each other, having some decision making and conflict resolution process in place will make sure 
+   progress can be made when disagreements arise.
 
 :::
 
