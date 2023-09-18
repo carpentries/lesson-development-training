@@ -112,11 +112,13 @@ following the link above and completing the configuration as follows:
   * The name should be descriptive but fairly brief,
     with hyphens (`-`) to separate words
   * the name can always be changed later, via the repository settings
+* make sure the "Include all branches" box is checked to copy all branches from the template 
+repository
+  * this is important as lessons are developed in branch `main` but rendered into websites from branch `gh-pages`
 * in the "Description" field, write the title of your lesson
 * choose "Public" visibility
-* make sure the "Include all branches" box is checked
 
-After pressing the _Create repository using this template_ button,
+After pressing the _Create repository_ button,
 you should be presented with a brand new lesson repository.
 
 TODO insert screenshot of repository structure here
