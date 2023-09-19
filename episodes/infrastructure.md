@@ -119,7 +119,9 @@ following the link above and completing the configuration as follows:
 After pressing the _Create repository using this template_ button,
 you should be presented with a brand new lesson repository, like in the picture below.
 
-![Directory structure of new lesson repository created from a lesson template](fig/new-lesson-repository-structure.png){
+![Directory structure of new lesson repository created from a lesson template.
+Note that new repositories created from the R Markdown lesson template will include an additional `renv/` directory.
+](fig/new-lesson-repository-structure.png){
 alt="Screenshot of a directory structure of a new lesson repository created from a lesson template"
 width="90%"
 }
