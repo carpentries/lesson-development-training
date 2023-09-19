@@ -122,7 +122,7 @@ you should be presented with a brand new lesson repository, like in the picture 
 ![Directory structure of new lesson repository created from a lesson template.
 Note that new repositories created from the R Markdown lesson template will include an additional `renv/` directory.
 ](fig/new-lesson-repository-structure.png){
-alt="Screenshot of a directory structure of a new lesson repository created from a lesson template"
+alt="Directory structure of a new lesson repository created from a lesson template"
 width="90%"
 }
 
