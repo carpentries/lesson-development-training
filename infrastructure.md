@@ -119,9 +119,14 @@ repository
 * choose "Public" visibility
 
 After pressing the _Create repository_ button,
-you should be presented with a brand new lesson repository.
+you should be presented with a brand new lesson repository, like in the picture below.
 
-TODO insert screenshot of repository structure here
+![Directory structure of new lesson repository created from a lesson template.
+Note that new repositories created from the R Markdown lesson template will include an additional `renv/` directory.
+](fig/new-lesson-repository-structure.png){
+alt="Directory structure of a new lesson repository created from a lesson template"
+width="90%"
+}
 
 ::: instructor
 
