@@ -51,6 +51,17 @@ in the Incubator is ready to be incorporated into one of The Carpentries _Lesson
 the collection of lessons and curricula that can be taught in an official workshop for
 Software, Library, or Data Carpentry.
 
+|                                       | Incubator | Lab |
+|:--------------------------------------|:---:|:---:|
+| lesson owned by community             | :heavy_check_mark: | :heavy_check_mark: |
+| lesson under development              | :heavy_check_mark: | :x:                |
+| lesson stable                         | :x:                | :heavy_check_mark: |
+| lesson has passed peer review         | :x:                | :heavy_check_mark: |
+| CC-BY license                         | :heavy_check_mark: | :heavy_check_mark: |
+| The Carpentries Code of Conduct       | :heavy_check_mark: | :heavy_check_mark: |
+| The Carpentries lesson infrastructure | :heavy_check_mark: | :heavy_check_mark: |
+Table: Summary of community-developed lessons in The Carpentries Incubator and Lab.
+
 
 ## The Lesson Life Cycle
 
