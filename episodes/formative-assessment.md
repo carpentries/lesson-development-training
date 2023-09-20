@@ -134,6 +134,28 @@ But choosing incorrect answers can be difficult, especially early in a lesson wh
 to encounter misconceptions that learners have arrived with
 as opposed to those they have picked up while following the lesson.
 
+:::::::::::::::::::::::::::::::: callout
+
+## Prior Knowledge and Plausible Distractors
+
+When identifying plausible distractors,
+it is essential to consider the prior knowledge you expect learners to have of your lesson topic.
+
+The plausible distractors in the MCQ example above
+are chosen on the assumption that learners have been taught
+addition by "carrying" numbers:
+the incorrect answers are designed to diagnose misconceptions
+associated with that method.
+
+However, as [pointed out by Maneesha Sane](https://github.com/carpentries/instructor-training/issues/1403), 
+if a learner has been taught to add numbers by another method,
+e.g. first rounding them up or down to values that are more easy to remember and combine
+(e.g. 27 to 30),
+they might have misconceptions that cause them to arrive at an answer that is incorrect 
+but not represented in the MCQ options.
+
+::::::::::::::::::::::::::::::::::::::::
+
 To help identify plausible distractors, 
 you can think about problems or questions from previous training events and what people struggled with, 
 think about your own misconceptions in the past,
