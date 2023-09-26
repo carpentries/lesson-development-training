@@ -98,7 +98,14 @@ If your lesson requires participants to use any software, tools or data - it is 
 
 ## Exercise: Add Setup Instructions (10 minutes)
 
-Add Setup Instructions (in the `learners/setup.md` file) with a list of software/tools/data needed by participants to follow your lesson and links on how to obtain and install them.
+Add setup instructions (in the `learners/setup.md` file) 
+with a list of software/tools/data needed by participants to follow your lesson 
+and links on how to obtain and install them.
+
+Rather than producing a separate page in the lesson site,
+the contents of `learners/setup.md` 
+will be combined with `index.md` to produce 
+the Learner View of the landing page of your lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
