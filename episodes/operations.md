@@ -8,67 +8,28 @@ exercises: 5
 
 After completing this episode, participants should be able to...
 
-- Describe the life cycle of a lesson.
-- Summarise the path a new lesson can take through The Carpentries Incubator and Lab.
+- Describe the role that feedback plays in the life cycle of a lesson.
 - Connect with other members of the community.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- What does The Carpentries lesson development ecosystem look like?
 - What are the important milestones in the development of a new lesson?
 - How can The Carpentries lesson development community help me complete my lesson?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Until now, this training has focused on the internals of a lesson development project.
-Now it is time to consider the context in which this lesson development can take place.
-
-## The Carpentries Lesson Development Ecosystem
-
-[The Carpentries Incubator][carpentries-incubator] is a space for The Carpentries community
-to collaborate on lessons.
-It provides a single location where our community can come to
-find lessons that are being developed by the community,
-and to create new lessons using The Carpentries Workbench.
-Community members retain ownership of their lessons hosted in the Incubator,
-while benefiting from the increased findability it gives to the lesson.
-
-The Carpentries supports the lesson developer community working in the Incubator
-with training (like this one),
-communications designed to raise awareness of lesson projects within the community,
-and platforms for the community to discuss and collaborate on lesson development.
-
-The Carpentries also provides a space for community-developed lessons
-to reside after the initial phases of development have been completed.
-[The Carpentries Lab][carpentries-lab] provides a platform for open peer-review of lessons,
-and hosts the collection of lessons that have passed through this review process.
-These peer-reviewed lessons can be considered ready to teach
-by any Instructor with sufficient knowledge of the topic.
-In the future, this lesson review process may also be used to determine when a lesson
-in the Incubator is ready to be incorporated into one of The Carpentries _Lesson Programs_,
-the collection of lessons and curricula that can be taught in an official workshop for
-Software, Library, or Data Carpentry.
-
-|                                       | Incubator | Lab |
-|:--------------------------------------|:---:|:---:|
-| lesson owned by community             | :heavy_check_mark: | :heavy_check_mark: |
-| lesson under development              | :heavy_check_mark: | :x:                |
-| lesson stable                         | :x:                | :heavy_check_mark: |
-| lesson has passed peer review         | :x:                | :heavy_check_mark: |
-| CC-BY license                         | :heavy_check_mark: | :heavy_check_mark: |
-| The Carpentries Code of Conduct       | :heavy_check_mark: | :heavy_check_mark: |
-| The Carpentries lesson infrastructure | :heavy_check_mark: | :heavy_check_mark: |
-Table: Summary of community-developed lessons in The Carpentries Incubator and Lab.
-
+Now it is time to consider the evolution of a lesson over time, 
+and the context in which lesson development can take place.
 
 ## The Lesson Life Cycle
 
-To make it easier for other community members to
-assess the current state of a lesson in the Incubator,
-The Carpentries encourages lesson developers to indicate the status of their lesson
-by labelling its progress through a _lesson life cycle_:
+An open source lesson can always be updated and may never be _finished_.
+It can undergo many iterations before it reaches a relatively stable state.
+To reflect this, The Carpentries encourages lesson developers to 
+indicate the status of their lesson by labelling its progress through a _lesson life cycle_:
 
 ![The life cycle of a lesson](fig/life_cycle.png){alt="Diagram of the life cycle of a
 lesson in The Carpentries ecosystem. A lesson is proposed at the beginning of the
@@ -147,7 +108,6 @@ to learn about the lesson from the authors,
 and to debrief with the authors afterwards so that they can
 share their experience and observations about how the lesson could be further improved.
 
-
 ::: callout
 
 ## Hosting and Teaching Pilot Workshops
@@ -160,9 +120,16 @@ The Carpentries community handbook includes
 
 ## Connecting with the Lesson Developer Community
 
-With over 100 lessons under development in The Carpentries Incubator,
-the lesson developer community is thriving.
-Connecting with this community can be a great way to
+[The Carpentries Incubator][carpentries-incubator] hosts a thriving community of lesson developers,
+working on lesson projects at every stage of the life cycle.
+
+You can add your lesson project(s) to the Incubator by submitting an issue
+to [the Incubator Proposals repository][incubator-proposals].
+Lesson developers working in the Incubator benefit from 
+increased visibility for their projects 
+and dedicated support from The Carpentries team.
+
+Connecting with the lesson developer community can be a great way to
 find collaborators to contribute to or test your lesson,
 to stay up to date with the latest support provided to the community,
 and to learn from the experience of others.
@@ -184,11 +151,23 @@ and join/subscribe to any communication channels that you find interesting.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Pathways out of Lesson Incubation
 
+The Carpentries provides pathways for mature lessons to leave the Incubator.
+
+1. A mature lesson may **join an existing lesson program**, 
+   e.g. Data Carpentry, Library Carpentry, or Software Carpentry,
+   subject to review and approval by the relevant [Curriculum Advisory Committee][curriculum-advisors].
+2. Developers can submit their lessons for **open peer review** in [The Carpentries Lab][carpentries-lab],
+   which hosts a growing collection of high-quality, stable lessons created by the community.
+   Developers submitting to the Lab have the option of publishing their lesson in 
+   [The Journal of Open Source Education (JOSE)][jose].
+
+A lesson does not need to be stable to be useful to the community:
+lessons with alpha and beta status are already valuable resources to be taught and reused.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- New lessons are developed in The Carpentries Incubator and reviewed in The Carpentries Lab.
 - Teaching a lesson for the first time is an essential intermediate step in the lesson development process.
 - The Carpentries lesson developer community shares their experience on multiple communication channels.
 
