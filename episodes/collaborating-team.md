@@ -51,7 +51,7 @@ Some of the most frequently used labels include:
 - `good first issue` - indicates that the issue requires relatively little knowledge of the rpoject to fix, making it a good choice for first-time contributors
 - `help wanted` - indicates that a maintainer wants help on an issue or pull request
 
-Check the [GitHub documentation on Issues](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) for the full reference.
+GitHub provides a default set of labels for repositories which can be used "as is" or customised (as done by The Carpentries above) - check the [GitHub documentation on Issues](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) for the full reference.
 You can also create your own custom labels to help with classifying issues.
 
 If you are developing your lesson in [The Carpentries Incubator][carpentries-incubator],
