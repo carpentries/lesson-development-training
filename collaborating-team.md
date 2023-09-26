@@ -34,24 +34,32 @@ to any similar open source project you may be involved with.
 
 **Issues** are GitHub's framework for managing issue/bug reports, feature requests, and lists of future work. They provide a single shared record of all the problems people have found with the lesson, and improvements that could be made, along with solutions and discussions around them. This helps the team to keep track of what they need to work on later, and reduces the chance of receiving redundant reports of issues you already know about.
 
-When you create an issue, you can add a range of details to it. An issue can be assigned to a specific team member - this can be a helpful way to know who is currently working to fix an issue or a way to assign responsibility. You can assign one or more labels to issues to classify or group them. Labels can also be given colours, allowing you to see at a glance from the Issues page the state of your project. The default labels available in GitHub include:
+When you create an issue, you can add a range of details to it. An issue can be assigned to a specific team member - this can be a helpful way to know who is currently working to fix an issue or a way to assign responsibility. You can assign one or more labels to issues to classify or group them. Labels can also be given colours, allowing you to see at a glance from the Issues page the state of your project. 
 
-- `bug` - indicates an unexpected problem or unintended behavior
-- `documentation` - indicates a need for improvements or additions to documentation
-- `duplicate` - indicates similar or already reported issues, pull requests, or discussions
-- `enhancement` - indicates new feature requests, or if they are created by a lesson maintainer, indicate planned new features
-- `good first issue` - indicates a good issue for first-time contributors
+Lesson repositories created from the template are configured with 
+[The Carpentries standard set of labels](https://docs.carpentries.org/topic_folders/maintainers/github_labels.html),
+which are designed to help lesson developers and maintainers
+to indicate the type and current status of issues.
+Some of the most frequently used labels include:
+
+- `type:bug` - indicates something that is broken in the lesson, e.g. a factual error or broken link
+- `type:enhancement` - indicates that the issue is proposing a way for the lesson to be improved
+- `type:accessibility` - indicates that the issue relates to the accessibility of the lesson
+- `status:wait` - indicates that the issue cannot or will not be worked on until something else is resolved, e.g. the solution to the issue is dependent on another change yet to be made (see also: `status:blocked`)
+- `status:waiting for response` - indicates that further progress cannot be made until someone (usually the person who submitted the issue) has responded
+- `status:in progress` - indicates that someone is working on a resolution for the issue, preventing potentially redundant efforts from being made by others
+- `good first issue` - indicates that the issue requires relatively little knowledge of the rpoject to fix, making it a good choice for first-time contributors
 - `help wanted` - indicates that a maintainer wants help on an issue or pull request
-- `invalid` - indicates that an issue, pull request, or discussion is no longer relevant
-- `question` - indicates that an issue, pull request, or discussion needs more information
-- `wontfix` - indicates that work won't continue on an issue, pull request, or discussion
 
-Check the [GitHub documentation on Issues](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) for the full reference.
+GitHub provides a default set of labels for repositories which can be used "as is" or customised (as done by The Carpentries above) - check the [GitHub documentation on Issues](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) for the full reference.
 You can also create your own custom labels to help with classifying issues.
-There are no rules really about naming the labels - use whatever makes sense for your
-project. Some conventional custom labels include: `status:in progress` (to indicate that
-someone started working on the issue), `status:blocked` (to indicate that the progress on
-addressing the issue is blocked by another issue or activity), etc.
+
+If you are developing your lesson in [The Carpentries Incubator][carpentries-incubator],
+you can register the repository for inclusion in The Carpentries
+[Help Wanted Issues page](https://carpentries.org/help-wanted-issues/),
+which will list all issues labeled with `help wanted` and/or `good first issue`.
+Issues listed on this page are more visible to the wider Carpentries community,
+making it a good way to attract spontaneous contributions from newcomers.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
