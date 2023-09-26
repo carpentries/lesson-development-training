@@ -12,6 +12,7 @@
 [glosario]: https://glosario.carpentries.org/
 [hacker-2000]: https://doi.org/10.1037/0022-0663.92.1.160
 [handbook-pilot-workshops]: https://docs.carpentries.org/topic_folders/lesson_development/lesson_pilots.html
+[jose]: jose.theoj.org/
 [kirschner-2006]: https://github.com/carpentries/instructor-training/blob/gh-pages/files/papers/kirschner-minimal-guidance-fails-2006.pdf
 [lc]: https://librarycarpentry.org/
 [pilot-notes-template]: https://codimd.carpentries.org/lesson-pilot-observation-notes-template#
