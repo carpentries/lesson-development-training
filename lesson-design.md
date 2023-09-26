@@ -73,6 +73,13 @@ alt="A flow diagram presenting the process of lesson design and development used
 width="67%"
 }
 
+Note the cyclical nature of this process:
+you will complete one iteration through this cycle during this training
+(though probably for a limited part of your lesson, rather than the whole thing).
+Note also that teaching the content is an essential intermediate step in the process:
+the importance of feedback gathered while teaching the lesson
+will be a common refrain throughout this training.
+
 
 ## Your Lessons
 
