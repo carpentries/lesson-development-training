@@ -306,7 +306,6 @@ For example,
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [dismissive-language-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise.html#just-and-other-dismissive-language
-[expert-awareness-gap-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise.html#mind-the-gap
 [instructor-notes]: https://carpentries.github.io/workbench/transition-guide.html#instructor-notes
 [lab-reviewer-checklist]: https://github.com/carpentries-lab/reviews/blob/main/docs/reviewer_guide.md#reviewer-checklist
 [mental-map-instructor-training]: https://carpentries.github.io/instructor-training/02-practice-learning.html#mapping-a-mental-model

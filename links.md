@@ -7,6 +7,7 @@
 [component-guide]: https://carpentries.github.io/sandpaper-docs/component-guide.html
 [dc]: https://datacarpentry.org/
 [design-notes-template]: https://codimd.carpentries.org/HPwUE3FnTeSQJ9-_5EfU7Q?view#
+[expert-awareness-gap-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise.html#mind-the-gap
 [f1000-course-design-guide]: https://f1000research.com/documents/9-1377
 [github]: https://github.com/
 [glosario]: https://glosario.carpentries.org/

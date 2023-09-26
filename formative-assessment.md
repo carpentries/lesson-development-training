@@ -108,7 +108,6 @@ the topic you are teaching.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 [Multiple choice question (MCQ)](https://carpentries.github.io/instructor-training/02-practice-learning.html#using-formative-assessment-to-identify-misconceptions) exercises are types of a formative assessment that can help you target anticipated misconceptions. When designed carefully, each incorrect answer in a MCQ will have diagnostic power and provide valuable insight into how a mental model is broken. For example, suppose we are teaching children multi-digit addition. An example of a well-designed MCQ ([borrowed from The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/02-practice-learning.html#using-formative-assessment-to-identify-misconceptions)) in this case could be:
 
 > Q: What is 27 + 15?
@@ -126,7 +125,47 @@ The correct answer is 42, but each of the other answers provides a valuable insi
 
 Their diagnostic power means that each of the wrong choices helps an instructor figure out precisely what misconceptions learners had adopted and in which ways their mental models are broken. As a result the instructor may decide to review a particular concept or change the pace of instruction. At the same time, learners get feedback about what they have misunderstood and what they need to focus their study efforts on - we call this **guided practice**.
 
-When designing a lesson, for diagnostic assessments you can think about problems or questions from previous training events and what people struggled with, or think about your own misconceptions in the past or ask colleagues about their experiences. You should aim to create all your assessments before you have written the explanatory content of your lesson (recall Nicholl's [backward design](https://en.wikipedia.org/wiki/Backward_design)). These assessments will guide your lesson design process by knowing exactly which knowledge you'd expect from your learners at any point in the lesson.
+### Choosing Plausible Distractors
+
+When using a multiple choice question for formative assessment,
+the incorrect answers you provide as options are _at least as important_ as the correct answer
+because they offer the most useful insight into the mental model your audience is building.
+But choosing incorrect answers can be difficult, especially early in a lesson where you are more likely
+to encounter misconceptions that learners have arrived with
+as opposed to those they have picked up while following the lesson.
+
+:::::::::::::::::::::::::::::::: callout
+
+## Prior Knowledge and Plausible Distractors
+
+When identifying plausible distractors,
+it is essential to consider the prior knowledge you expect learners to have of your lesson topic.
+
+The plausible distractors in the MCQ example above
+are chosen on the assumption that learners have been taught
+addition by "carrying" numbers:
+the incorrect answers are designed to diagnose misconceptions
+associated with that method.
+
+However, as [pointed out by Maneesha Sane](https://github.com/carpentries/instructor-training/issues/1403), 
+if a learner has been taught to add numbers by another method,
+e.g. first rounding them up or down to values that are more easy to remember and combine
+(e.g. 27 to 30),
+they might have misconceptions that cause them to arrive at an answer that is incorrect 
+but not represented in the MCQ options.
+
+::::::::::::::::::::::::::::::::::::::::
+
+To help identify plausible distractors, 
+you can think about problems or questions from previous training events and what people struggled with, 
+think about your own misconceptions in the past,
+or ask colleagues about their experiences. 
+It is important to consider [_expert awareness gap_][expert-awareness-gap-instructor-training],
+the phenomenon where experts in a topic forget what it is like not to have a good mental model of it.
+Observing how others learn your topic and asking colleagues to review lesson content as you design it
+can help mitigate this.
+
+You should aim to create all your assessments before you have written the explanatory content of your lesson (recall Nicholl's [backward design](https://en.wikipedia.org/wiki/Backward_design)). These assessments will guide your lesson design process by knowing exactly which knowledge you'd expect from your learners at any point in the lesson.
 
 
 ::::::::::::::::::::::::::::::::::::::  challenge
