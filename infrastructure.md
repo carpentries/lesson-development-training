@@ -199,6 +199,16 @@ Check the box that says "Use your GitHub Pages website" to add the address of yo
 After following these steps, when you navigate to the pages URL, you should see a lesson website with The Carpentries logo and "Lesson Title" in the top-left corner.
 You may need to wait a few minutes for the website to be generated.
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+### Show the Default Lesson Site
+
+For trainees unfamiliar with the relationship between a source repository and rendered website,
+it is important to show the default version of the lesson website now
+i.e. before beginning to edit `config.yaml`.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 #### `config.yaml`
 
 The lesson title can be adjusted by modifying the `config.yaml` file in the repository.
