@@ -122,18 +122,18 @@ the topic you are teaching.
 
 [Multiple choice question (MCQ)](https://carpentries.github.io/instructor-training/02-practice-learning.html#using-formative-assessment-to-identify-misconceptions) exercises are types of a formative assessment that can help you target anticipated misconceptions. When designed carefully, each incorrect answer in a MCQ will have diagnostic power and provide valuable insight into how a mental model is broken. For example, suppose we are teaching children multi-digit addition. An example of a well-designed MCQ ([borrowed from The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/02-practice-learning.html#using-formative-assessment-to-identify-misconceptions)) in this case could be:
 
-> Q: What is 27 + 15?
->
-> a) 42
-> b) 32
-> c) 312
-> d) 33
+_MCQ: What is 27 + 15?_
+
+a) 42
+b) 32
+c) 312
+d) 33
 
 The correct answer is 42, but each of the other answers provides a valuable insight:
 
-> b) they do not understand the concept of a carry and are throwing it away completely
-> c) they understand the concept of a carry and know that they cannot just discard the carried ‘1’, but do not understand that it is actually a ten and needs to be added into the next column - they are treating each column of numbers as unconnected to its neighbours.
-> d) they understand that they need to carry ‘1’ but are adding it to the wrong column.
+b) they do not understand the concept of a carry and are throwing it away completely
+c) they understand the concept of a carry and know that they cannot just discard the carried ‘1’, but do not understand that it is actually a ten and needs to be added into the next column - they are treating each column of numbers as unconnected to its neighbours.
+d) they understand that they need to carry ‘1’ but are adding it to the wrong column.
 
 Their diagnostic power means that each of the wrong choices helps an instructor figure out precisely what misconceptions learners had adopted and in which ways their mental models are broken. As a result the instructor may decide to review a particular concept or change the pace of instruction. At the same time, learners get feedback about what they have misunderstood and what they need to focus their study efforts on - we call this **guided practice**.
 
@@ -167,6 +167,36 @@ they might have misconceptions that cause them to arrive at an answer that is in
 but not represented in the MCQ options.
 
 ::::::::::::::::::::::::::::::::::::::::
+
+Thinking back of the misconceptions of how values are assigned, referenced and updated in programming languages, 
+here is an example MCQ that can probe learners for such misconceptions. 
+
+_MCQ: Look at the following 3 assignment statements in Python._
+
+```python
+    n = 300
+    m = n
+    n = -100
+```
+
+_What is the result at the end of the above assignments?_
+
+```python
+    a. n = 300 and m = 300
+    b. n = -100 and m = 300
+    c. n = -100 and m = -100
+    d. n = 300 and m = -100
+```
+
+The correct answer is b., while each of the plausible distractors identify a different misconception:
+
+a) they understand the value held by `n` is now also held by `m` but do not understand the value of 
+`n` has been updated since the initial assignment (e.g. treating it as a constant)
+c) they do not understand `n` and `m` are separate variables/containers for values (which can hold 
+the same values) but rather assume that `m` is referencing variable `n` instead of copying its value 
+at the time of assignment (e.g. behaving as a reference to another cell in a spreadsheet)
+d) looks like a mix of misconceptions a. and c.
+
 
 To help identify plausible distractors, 
 you can think about problems or questions from previous training events and what people struggled with, 
