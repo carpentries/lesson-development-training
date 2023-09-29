@@ -203,11 +203,13 @@ You may need to wait a few minutes for the website to be generated.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-### Show the Default Lesson Site
+### Orientation for GitHub Novices
 
-For trainees unfamiliar with the relationship between a source repository and rendered website,
-it is important to show the default version of the lesson website now
-i.e. before beginning to edit `config.yaml`.
+1. For trainees unfamiliar with the relationship between a source repository and rendered website,
+   it is important to show the default version of the lesson website now
+   i.e. before beginning to edit `config.yaml`.
+2. It is also recommended to take time at this point
+   to demonstrate step-by-step how to edit files in the GitHub web interface.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
