@@ -1,6 +1,6 @@
 ---
 title: The Carpentries Workbench
-teaching: 45
+teaching: 60
 exercises: 20
 ---
 
@@ -498,6 +498,18 @@ Using this approach, we can build up our lesson one episode at a time.
 
 We have now learned everything we need to be able to use The Carpentries Workbench,
 and our focus can return to the process of developing a new lesson.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Troubleshoot Lesson Builds (~10 mins)
+
+This is a good opportunity to pause and check in on 
+how well trainees' lesson builds are running.
+If anyone is having trouble with their workflows, 
+ask them to share their screen 
+and try following the troubleshooting steps to diagnose and fix the issue.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
