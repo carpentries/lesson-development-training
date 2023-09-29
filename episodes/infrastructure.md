@@ -200,7 +200,7 @@ The `gh-pages` branch should never be modified by anyone other than the automate
 
 :::
 
-On repository home page
+On the repository home page
 (e.g. by clicking the name of the project near the top left of the window),
 click the gear wheel icon near the top right, to edit the _About_ box.
 Check the box that says "Use your GitHub Pages website" to add the address of your lesson site to the About box.
