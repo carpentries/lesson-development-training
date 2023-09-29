@@ -250,7 +250,7 @@ We will revisit the `life_cycle` and `carpentry` fields in `config.yaml` later i
 
 #### `.Rproj` file
 
-The repository also contains a file called `FIXME.Rproj`, which should be renamed.
+The repository also contains a file called `FIXME.Rproj`, a project file that RStudio (a commonly-used editor for working on lessons) can use to track some options and preferences for working on your lesson on your local machine. This file should be renamed.
 You can call this file whatever you like,
 but the convention is for its name to match that of the lesson repository.
 
