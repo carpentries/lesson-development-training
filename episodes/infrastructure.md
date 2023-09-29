@@ -499,6 +499,52 @@ Using this approach, we can build up our lesson one episode at a time.
 We have now learned everything we need to be able to use The Carpentries Workbench,
 and our focus can return to the process of developing a new lesson.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: spoiler
+
+## Troubleshooting the Lesson Build Process
+
+Sometimes, formatting errors and typos in the files of your repository can
+cause the process that builds your lesson website to fail. 
+
+You will likely first notice the failure to build the lesson if the lesson website is not showing the changes you made. 
+You may also receive an email from GitHub about the build failure if that is your preferred way of receiving notifications 
+(but it may take you some time to realise this). 
+The good thing is that GitHub keeps your previous lesson version online 
+until the error is fixed and a new build is completed successfully.
+If you are not yet familiar with the GitHub interface,
+it can be difficult to pinpoint the problem.
+
+Here are some points of advice that you can follow to help 
+find and fix the problem when you notice the build process fail.
+
+- When you first notice that there is a problem, **stop** editing your lesson:
+  any subsequent changes that you make will not be included in your lesson site until
+  the problem is fixed, and might introduce additional issues,
+  making it more difficult to find the original cause.
+- **Look at the history** of commits 
+  (the link with a reversing stopwatch icon and "NN commits" 
+  at the top of the listing of files and folders in the repository homepage).
+  Is there a place where the build has a red cross instead of green circle?
+  If so, click on that commit to look at the "diff" 
+  (where it shows which lines have been modified). 
+  The error is likely to have been introduced by these changes.
+- **Ask for help**: you can open an issue on your repository and tag a member of
+  The Carpentries team to ask for help finding the problem.
+  Alternatively, you can also ask for help in The Carpentries
+  Slack workspace. 
+  (More about communication channels for discussing lesson development coming later in this training.)
+- Waiting for the GitHub Actions process that builds the website to run can be tedious,
+  and slow down the process of troubleshooting:
+  it can take a few minutes for the process to reach the point where it encounters the problem.
+  It can be helpful to download the files for your lesson 
+  and try to **build a version of the website on your local computer**,
+  where the build process will be much faster.
+  The Workbench documentation provides 
+  [instructions for installing the infrastructure](https://carpentries.github.io/sandpaper-docs/#installation)
+  and [building a local preview of the lesson website](https://carpentries.github.io/sandpaper-docs/introduction.html#preview).
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 ## Troubleshoot Lesson Builds (~10 mins)
