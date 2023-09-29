@@ -151,6 +151,25 @@ spend the remainder reviewing and providing feedback on one another's assessment
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::: callout
+
+## Assessing Knowledge Before a Workshop
+
+The same approach to designing exercises within a lesson can also be used
+to create a short "re-assessment" questionnaire for potential learners
+to complete when they register for a workshop teaching the lesson
+(or for self-evaluation before following the lesson on their own).
+You can use [the list of prerequisite knowledge that you defined earlier](audience.md#defining-prerequisite-knowledge)
+to help with this.
+
+If you collect the results of this questionnaire,
+use it to follow up with people who have registered for the workshop
+but do not fit the intended target audience,
+to manage their expectations about how useful the workshop will be for them.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 ## Demo of Writing an Exercise
 
 Well-designed exercises are one of the most valuable resources for an instructor and

@@ -323,7 +323,17 @@ Do the results match your assessment?
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+:::::::::::::::::::::::::::::::::::::::::: callout
 
+## Advertising your lesson
+
+These learning objectives,
+as well as [the list of prerequisite knowledge](./audience.md#defining-prerequisite-knowledge) you defined earlier,
+are very useful information to include when advertising a workshop that will teach your lesson.
+It will help people understand whether or not the event is a good fit for them,
+and manage their expectations about what they will learn if they attend.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
