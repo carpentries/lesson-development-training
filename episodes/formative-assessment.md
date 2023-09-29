@@ -178,6 +178,7 @@ As well as the correct answer,
 include 1-3 answer options that are not obviously incorrect (*plausible distractors*)
 and have *diagnostic power*
 i.e. each incorrect answer helps you pinpoint the exact misconception carried by the learner.
+Write down what misconception is being tested for each incorrect answer.
 
 Share your MCQ in the collaborative notes document.
 
