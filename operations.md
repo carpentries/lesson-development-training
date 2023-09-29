@@ -73,6 +73,14 @@ over to another styling when the lesson moves e.g. into The Carpentries Lab.
 
 ## Pilot Workshops
 
+::::::::::::::::::::::::::::::::::::::::::::::: testimonial
+
+"No lesson survives first contact with learners".
+
+--- [Greg Wilson](https://third-bit.com/talks/writing-book/#19)
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 In line with [the importance we placed on evaluation of lesson content earlier in this training](audience.md),
 the life cycle described above places considerable emphasis on
 the testing of lessons in **pilot workshops**.
