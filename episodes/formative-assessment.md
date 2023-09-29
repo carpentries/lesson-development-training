@@ -92,7 +92,8 @@ When mental models are broken, learning can occur slower than you might expect[^
 The longer a prior incorrect model is in use, and the more extensively it has to be "unlearned", 
 the more it can actively interfere with the incorporation of the new correct knowledge 
 (since it will contradict the misconceptions already present in the mental model).
-
+          
+### Example Misconceptions
 An example misconception from everyday life ([borrowed from The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/instructor/02-practice-learning.html#misconceptions)) is, knowing that a 
 bigger object (more volume) pushes out more water out of a basin than a smaller object (less volume), 
 assuming that the similar principle will apply for objects of different weights. Surprisingly, 
@@ -102,8 +103,18 @@ heavier objects of the same volume as lighter ones will not push out more water!
 Another misconception, sometimes encountered by people who are learning programming languages
 such as R and Python having used spreadsheets, is that variables in programs calculated by 
 referencing other variables in formulas will retain the connection and be updated automatically 
-when the referenced variables change. While variables in R or Python programs can be used to 
-reference other variables, they do not behave like cells in spreadsheets!
+when the referenced variables change. While variables in R or Python programs can use values 
+referenced by other variables, they do not behave like cells in spreadsheets!
+
+Misconceptions often arise around topics of copyright and licencing of work/content (e.g. data, 
+software, lesson material). Copyright allows you to state that you own what you have created - 
+it is a declaration on who owns the intellectual property of the work. In theory, 
+copyright exists implicitly without the creator having to do anything to assert it, from the moment of creation. 
+A licence is a legal document which sets down the 
+terms under which you are releasing what you have created for others to use, modify, extend or exploit.
+If this information is not provided, some will not use the work at all (even if this was not the intention 
+of the copyright owner), while others will assume they are free to do whatever they want with the work (as there 
+is nothing to say that they cannot).
 
 
 ::::::::::::::::::::::::::::::::::::::  challenge
@@ -119,6 +130,8 @@ applying that prior knowledge might lead to a misconception with
 the topic you are teaching.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+            
+###  Multiple Choice Questions (MCQs)
 
 [Multiple choice question (MCQ)](https://carpentries.github.io/instructor-training/02-practice-learning.html#using-formative-assessment-to-identify-misconceptions) exercises are types of a formative assessment that can help you target anticipated misconceptions. When designed carefully, each incorrect answer in a MCQ will have diagnostic power and provide valuable insight into how a mental model is broken. For example, suppose we are teaching children multi-digit addition. An example of a well-designed MCQ ([borrowed from The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/02-practice-learning.html#using-formative-assessment-to-identify-misconceptions)) in this case could be:
 
@@ -137,7 +150,7 @@ d) they understand that they need to carry ‘1’ but are adding it to the wron
 
 Their diagnostic power means that each of the wrong choices helps an instructor figure out precisely what misconceptions learners had adopted and in which ways their mental models are broken. As a result the instructor may decide to review a particular concept or change the pace of instruction. At the same time, learners get feedback about what they have misunderstood and what they need to focus their study efforts on - we call this **guided practice**.
 
-### Choosing Plausible Distractors
+### Choosing Plausible Distractors in MCQs
 
 When using a multiple choice question for formative assessment,
 the incorrect answers you provide as options are _at least as important_ as the correct answer
@@ -167,6 +180,8 @@ they might have misconceptions that cause them to arrive at an answer that is in
 but not represented in the MCQ options.
 
 ::::::::::::::::::::::::::::::::::::::::
+                    
+### Example MCQs
 
 Thinking back of the misconceptions of how values are assigned, referenced and updated in programming languages, 
 here is an example MCQ that can probe learners for such misconceptions. 
@@ -191,11 +206,36 @@ _What is the result at the end of the above assignments?_
 The correct answer is b., while each of the plausible distractors identify a different misconception:
 
 a) they understand the value held by `n` is now also held by `m` but do not understand the value of 
-`n` has been updated since the initial assignment (e.g. treating it as a constant)
-c) they do not understand `n` and `m` are separate variables/containers for values (which can hold 
-the same values) but rather assume that `m` is referencing variable `n` instead of copying its value 
-at the time of assignment (e.g. behaving as a reference to another cell in a spreadsheet)
+`n` has been updated since the initial assignment (e.g. treating it as a constant).
+c) they do not understand `n` and `m` are separate variables/containers for values (which can hold the same values) 
+but rather assume that `m` is referencing variable `n` instead of copying its value at the time of assignment (e.g. behaving as a reference to another cell in a spreadsheet).
 d) looks like a mix of misconceptions a. and c.
+
+An example MCQ to check on people's misconceptions around licencing and reusing other people's work
+could be designed as follows.
+
+_MCQ: Which of the following statements are true and which are false?_
+   
+a) I don’t need permission because I am only using the copyrighted work in educational or non-profit purposes  
+b) I should always know the licence of any code, data, libraries, pictures or other work that you reuse or redistribute  
+c) Since I’m planning to give credit to the authors who created the work I reuse, I do not have to worry about or need permission  
+d) Material I obtain from the Internet is publicly accessible so no explicit permission is required  
+e) I don’t need permission because I am only using a small portion of the copyrighted work
+f) The work I want to use does not have a copyright notice on it, so it’s not protected by copyright and I’m free to use it
+g) The work I want to use does not have a licence attached to it, so it’s not protected by copyright and I’m free to use it
+
+
+The correct answers are as follows:
+
+a) False - you always need an explicit permission from the creator to use their work.  
+b) True - you should make sure that you have the permission for all the work that you are reusing, modifying or sharing.  
+c) False - if you give credit to a work’s owner, that only means you are not plagiarising other 
+people's work and claiming it as your own, however that does not mean that you have the permission to use it.  
+d) False - publicly accessible work is not the same the work in the public domain. The owner 
+explicitly must put their work in the public domain but attaching the appropriate licence to it, before you can freely reuse it. 
+e) False - generally you should have a permission to use the portions of work, however small, but this is less clear in case of written material (e.g. borrowing 3 lines out of 1000s).
+f) False - the use of copyright notice is optional as copyright exists implicitly from the moment the work is created.
+e) False - absence of a licence on how the work can be used generally means you have no permission from the creator to reuse it.
 
 
 To help identify plausible distractors, 
