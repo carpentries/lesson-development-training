@@ -22,6 +22,19 @@ After completing this episode, participants should be able to...
 
 Welcome back!
 
+::::::::::::::::::::: instructor 
+
+This episode picks-up after a long break in training for learners, you may need to remind 
+them of the following expectations as part of training.
+
+- The [Carpentries Code of Conduct][coc]
+- How to get in the queue to participate - hand-raising, typing in chat, etc.
+- Microphones muted when you aren't speaking (if virtual)
+- Any other expectations for interaction
+
+::::::::::::::::::::::::::::::::
+
+
 ![
 In this episode, we will discuss the final step of the iterative lesson design process:
 how you can use the notes, information, and feedback you collected when trialling your lesson
@@ -113,3 +126,6 @@ Designing and developing quality lessons is hard - there are many pieces of a pu
 - Identify changes and improvements you want to make as a result of trialling your lesson and schedule co-working sessions to work on these tasks.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+

@@ -66,7 +66,7 @@ participate by writing your answers in the shared document for the workshop.
 
 To make clear what is expected,
 everyone participating in The Carpentries activities is required to abide by our
-[Code of Conduct](../CODE_OF_CONDUCT.md).
+[Code of Conduct][coc].
 Any form of behaviour to exclude, intimidate,
 or cause discomfort is a violation of the Code of Conduct.
 In order to foster a positive and professional learning environment we encourage you to:
