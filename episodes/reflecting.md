@@ -128,5 +128,4 @@ Designing and developing quality lessons is hard - there are many pieces of a pu
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 
