@@ -413,10 +413,14 @@ do not create conflicts e.g. by editing the same file or creating files with ide
 :::
 
 
-Now create a new file in the `episodes` folder and,
-based on the episodes you planned out in _Defining lesson objectives_,
+Now create a new file in the `episodes` folder.
+Based on the episodes you planned out in _Defining lesson objectives_,
 choose a name for it that concisely describes the intended content,
-e.g. `data-visualisation.md`.
+e.g. `data-visualisation.md` 
+(or `data-visualisation.Rmd` for a lesson based on R Markdown).
+It is vital to include the file extension when naming this file:
+only files with the `.md` or `.Rmd` extensions will be built into
+webpages by the lesson infrastructure.
 
 For page content, paste those first 19 lines of the `introduction.md` file and:
 
