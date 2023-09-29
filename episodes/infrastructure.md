@@ -504,7 +504,13 @@ and our focus can return to the process of developing a new lesson.
 ## Troubleshooting the Lesson Build Process
 
 Sometimes, formatting errors and typos in the files of your repository can
-cause the process that builds your lesson website to fail.
+cause the process that builds your lesson website to fail. 
+
+You will likely first notice the failure to build the lesson if the lesson website is not showing the changes you made. 
+You may also receive an email from GitHub about the build failure if that is your preferred way of receiving notifications 
+(but it may take you some time to realise this). 
+The good thing is that GitHub keeps your previous lesson version online 
+until the error is fixed and a new build is completed successfully.
 If you are not yet familiar with the GitHub interface,
 it can be difficult to pinpoint the problem.
 
