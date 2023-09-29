@@ -168,6 +168,8 @@ These are:
 We will address all of the files later in the training.
 For now, we will move on to complete the basic setup of the lesson.
 
+
+
 ### Configuring a Lesson Repository
 
 #### Activating GitHub Pages
@@ -245,6 +247,12 @@ FIXMEs without quotes should be replaced by values without quotes.
 We will revisit the `life_cycle` and `carpentry` fields in `config.yaml` later in this training.
 
 :::
+
+#### `.Rproj` file
+
+The repository also contains a file called `FIXME.Rproj`, a project file that RStudio (a commonly-used editor for working on lessons) can use to track some options and preferences for working on your lesson on your local machine. This file should be renamed.
+You can call this file whatever you like,
+but the convention is for its name to match that of the lesson repository.
 
 #### `README.md`
 
