@@ -93,6 +93,18 @@ The longer a prior incorrect model is in use, and the more extensively it has to
 the more it can actively interfere with the incorporation of the new correct knowledge 
 (since it will contradict the misconceptions already present in the mental model).
 
+An example misconception from everyday life ([borrowed from The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/instructor/02-practice-learning.html#misconceptions)) is, knowing that a 
+bigger object (more volume) pushes out more water out of a basin than a smaller object (less volume), 
+assuming that the similar principle will apply for objects of different weights. Surprisingly, 
+heavier objects of the same volume as lighter ones will not push out more water!
+![A misconception on how objects' mass affects the amount of water it can 'push out'](https://carpentries.github.io/instructor-training/fig/ballwater3a.svg){alt='A concept map similar to the previous one except with "Heavy Ball" and "Light Ball" in the middle, and a red "X" over the arrows labeled "Pushes out MORE" and "Pushes out LESS"'}
+
+Another misconception, sometimes encountered by people who are learning programming languages
+such as R and Python having used spreadsheets, is that variables in programs calculated by 
+referencing other variables in formulas will retain the connection and be updated automatically 
+when the referenced variables change. While variables in R or Python programs can be used to 
+reference other variables, they do not behave like cells in spreadsheets!
+
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
