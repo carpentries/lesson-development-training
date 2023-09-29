@@ -1,6 +1,6 @@
 ---
 title: The Carpentries Workbench
-teaching: 45
+teaching: 60
 exercises: 20
 ---
 
@@ -542,6 +542,18 @@ find and fix the problem when you notice the build process fail.
   The Workbench documentation provides 
   [instructions for installing the infrastructure](https://carpentries.github.io/sandpaper-docs/#installation)
   and [building a local preview of the lesson website](https://carpentries.github.io/sandpaper-docs/introduction.html#preview).
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Troubleshoot Lesson Builds (~10 mins)
+
+This is a good opportunity to pause and check in on 
+how well trainees' lesson builds are running.
+If anyone is having trouble with their workflows, 
+ask them to share their screen 
+and try following the troubleshooting steps to diagnose and fix the issue.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
