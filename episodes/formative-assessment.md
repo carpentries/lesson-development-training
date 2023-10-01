@@ -107,7 +107,7 @@ when the referenced variables change. While variables in R or Python programs ca
 referenced by other variables, they do not behave like cells in spreadsheets!
 
 Misconceptions often arise around topics of copyright and licencing of work/content (e.g. data, 
-software, lesson material). Copyright allows a creator to state that they own the work they have created. This declaration is optional - even if the creator does not explicitly assert it, copyright of the work exists from the moment of creation. A licence is a legal document which sets down the terms under which the creator is releasing what they have created for others to use, modify, extend or exploit.
+software, written material). Copyright allows a creator to state that they own the work they have created. This declaration is optional - even if the creator does not explicitly assert it, copyright of the work exists from the moment of creation. A licence is a legal document which sets down the terms under which the creator is releasing what they have created for others to use, modify, extend or exploit.
 If this information is not provided, some will not reuse the work at all while others will assume they are free to do whatever they want with the work (as there is nothing to say that they cannot). This former is the correct assumption, however, even if this was not the intention of the copyright owner.
 
 
