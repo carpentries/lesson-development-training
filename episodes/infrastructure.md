@@ -189,7 +189,7 @@ You may copy the URL in this box, this will be the address of your lesson site.
 
 ::: callout
 
-### Which branch to use?
+### Which Branch and GitHub Actions
 
 Although we configure GitHub Pages to serve the lesson website from the `gh-pages` branch,
 **the default working branch for a lesson will be `main`**.
@@ -197,6 +197,11 @@ For the rest of this training, you should add and edit files on `main`,
 and in future, when you open Pull Requests to update the lesson content,
 these should also be made to `main`.
 The `gh-pages` branch should never be modified by anyone other than the automated actions-user account.
+
+To see the rendering of the `gh-pages` branch by the automated actions-user, you can click the "Actions" 
+tab from the main repo page.  This tab shows the actions triggered by each commit and if they are in-progress 
+or completed (sucessfully or with an error).  You can also see the details of actions in more depth by clicking 
+on an individual commit in this page.
 
 :::
 
@@ -576,6 +581,9 @@ how well trainees' lesson builds are running.
 If anyone is having trouble with their workflows, 
 ask them to share their screen 
 and try following the troubleshooting steps to diagnose and fix the issue.
+
+This is also a good opporunity to show what the GitHub actions look like when they are in progress, succeed, or fail 
+if you haven't already.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
