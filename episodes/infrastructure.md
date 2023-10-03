@@ -172,8 +172,8 @@ For now, we will move on to complete the basic setup of the lesson.
 
 ### Configuring a Lesson Repository
 
-Since the lesson was created with a `gh-pages` branch.  It should already be generating a rendered version
-of the template repository.  If it isn't, the instructor should work with groups to turn on GitHub Pages.
+Since your lesson was created from a lesson template which contains `gh-pages` branch, GitHub Pages should already be generating a rendered version
+of your lesson from this branch.  If it isn't, the instructor should work with groups to activate GitHub Pages.
 
 ::::::::::::: instructor
 
