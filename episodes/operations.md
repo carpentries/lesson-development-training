@@ -1,6 +1,6 @@
 ---
 title: How we Operate
-teaching: 25
+teaching: 20
 exercises: 5
 ---
 
@@ -24,26 +24,22 @@ Until now, this training has focused on the internals of a lesson development pr
 Now it is time to consider the evolution of a lesson over time, 
 and the context in which lesson development can take place.
 
-## The Lesson Life Cycle
+## The Lesson Life Cycle Revisited
 
-An open source lesson can always be updated and may never be _finished_.
-It can undergo many iterations before it reaches a relatively stable state.
-To reflect this, The Carpentries encourages lesson developers to 
-indicate the status of their lesson by labelling its progress through a _lesson life cycle_:
+At the beginning of this training,
+you were introduced to the concept of a lesson life cycle,
+which The Carpentries promotes to help developers communicate 
+the status of an open source lesson project to instructors and learners.
 
-![The life cycle of a lesson](fig/life_cycle.png){alt="Diagram of the life cycle of a
-lesson in The Carpentries ecosystem. A lesson is proposed at the beginning of the
-pre-alpha stage. It enters alpha when it is taught for the first time. In beta, it is
-taught by other instructors. A full release of the lesson is made when it is stable.
-Pilot workshops take place during the alpha and beta phases. The Carpentries Lab hosts
-open peer review of lessons that have completed the beta phase."}
+![The life cycle of a lesson, annotated to indicate the platforms provided for lesson projects at each stage of the cycle.](fig/life_cycle_annotated.png){
+alt="The life cycle of a lesson in The Carpentries ecosystem, 
+annotated to indicate the platforms provided for lesson projects at each stage of the cycle.
+In the diagram includes the pre-alpha, alpha, beta, and stable stages described earlier,
+and icons showing that pre-alpha through beta development of lessons happens in The Carpentries Incubator,
+while The Carpentries Lab hosts peer-reviewed lessons and provides a platform for open peer review.
+Stable lessons may also be adopted into an official lesson program of The Carpentries."}
 
-Each life cycle stage indicates the level of maturity of a lesson:
-
-- **pre-alpha**: a first draft of the lesson is still being constructed.
-- **alpha**: the lesson has been/is being taught by the original authors, but has not been fully tested.
-- **beta**: the lesson is ready to be taught by instructors who have not been significantly involved in its developed to this point.
-- **stable**: the lesson has been extensively tested by the authors and others. It can be considered broadly complete and unlikely to undergo any drastic changes without warning.
+### Indicating Your Lesson's Progress
 
 The life cycle stage of a lesson is displayed as a banner on the lesson site,
 as a label on the lesson GitHub repository,
@@ -69,6 +65,21 @@ over to another styling when the lesson moves e.g. into The Carpentries Lab.
 
 
 :::::::::::
+
+### Pathways out of Lesson Incubation
+
+The Carpentries provides pathways for mature lessons to leave the Incubator.
+
+1. A mature lesson may **join an existing lesson program**, 
+   e.g. Data Carpentry, Library Carpentry, or Software Carpentry,
+   subject to review and approval by the relevant [Curriculum Advisory Committee][curriculum-advisors].
+2. Developers can submit their lessons for **open peer review** in [The Carpentries Lab][carpentries-lab],
+   which hosts a growing collection of high-quality, stable lessons created by the community.
+   Developers submitting to the Lab have the option of publishing their lesson in 
+   [The Journal of Open Source Education (JOSE)][jose].
+
+A lesson does not need to be stable to be useful to the community:
+lessons with alpha and beta status are already valuable resources to be taught and reused.
 
 
 ## Pilot Workshops
@@ -159,20 +170,6 @@ and join/subscribe to any communication channels that you find interesting.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Pathways out of Lesson Incubation
-
-The Carpentries provides pathways for mature lessons to leave the Incubator.
-
-1. A mature lesson may **join an existing lesson program**, 
-   e.g. Data Carpentry, Library Carpentry, or Software Carpentry,
-   subject to review and approval by the relevant [Curriculum Advisory Committee][curriculum-advisors].
-2. Developers can submit their lessons for **open peer review** in [The Carpentries Lab][carpentries-lab],
-   which hosts a growing collection of high-quality, stable lessons created by the community.
-   Developers submitting to the Lab have the option of publishing their lesson in 
-   [The Journal of Open Source Education (JOSE)][jose].
-
-A lesson does not need to be stable to be useful to the community:
-lessons with alpha and beta status are already valuable resources to be taught and reused.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 

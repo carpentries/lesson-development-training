@@ -1,6 +1,6 @@
 ---
 title: Lesson Design
-teaching: 10
+teaching: 15
 exercises: 10
 ---
 
@@ -118,8 +118,30 @@ The main objectives of this discussion are:
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Iterative Development
 
+The Carpentries community develops open source lessons,
+which can always be updated and may never be _finished_.
+A lesson can undergo many iterations before it reaches a relatively stable state.
+To reflect this, we encourages lesson developers to 
+indicate the status of their lesson by labelling its progress through a _lesson life cycle_:
 
+![The life cycle of a lesson](fig/life_cycle.png){alt="Diagram of the life cycle of a
+lesson in The Carpentries ecosystem. A lesson is proposed at the beginning of the
+pre-alpha stage. It enters alpha when it is taught for the first time. In beta, it is
+taught by other instructors. A full release of the lesson is made when it is stable.
+Pilot workshops take place during the alpha and beta phases."}
+
+Each life cycle stage indicates the level of maturity of a lesson:
+
+- **pre-alpha**: a first draft of the lesson is still being constructed.
+- **alpha**: the lesson has been/is being taught by the original authors, but has not been fully tested.
+- **beta**: the lesson is ready to be taught by instructors who have not been significantly involved in its developed to this point.
+- **stable**: the lesson has been extensively tested by the authors and others. It can be considered broadly complete and unlikely to undergo any drastic changes without warning.
+
+Although your lessons will probably remain in pre-alpha throughout this training,
+some of the content will be equally valuable at later stages 
+and we will also point you towards resources to help with testing the lesson and gathering feedback.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
