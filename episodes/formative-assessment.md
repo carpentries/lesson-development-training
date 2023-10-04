@@ -109,6 +109,7 @@ such as R and Python having used spreadsheets, is that variables in programs cal
 referencing other variables in formulas will retain the connection and be updated automatically 
 when the referenced variables change. While variables in R or Python programs can use values 
 referenced by other variables, they do not behave like cells in spreadsheets!
+#### Copyright / Licencing Example
 
 Misconceptions often arise around topics of copyright and licencing of work/content (e.g. data, 
 software, written material). Copyright allows a creator to state that they own the work they have created. This declaration is optional - even if the creator does not explicitly assert it, copyright of the work exists from the moment of creation. A licence is a legal document which sets down the terms under which the creator is releasing what they have created for others to use, modify, extend or exploit.
