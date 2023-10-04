@@ -193,19 +193,17 @@ here is an example MCQ that can probe learners for such misconceptions.
 _MCQ: Look at the following 3 assignment statements in Python._
 
 ```python
-    n = 300
-    m = n
-    n = -100
+n = 300
+m = n
+n = -100
 ```
 
 _What is the result at the end of the above assignments?_
 
-```python
-    a. n = 300 and m = 300
-    b. n = -100 and m = 300
-    c. n = -100 and m = -100
-    d. n = 200 and m = -100
-```
+a) n = 300 and m = 300
+b) n = -100 and m = 300
+c) n = -100 and m = -100
+d) n = 200 and m = -100
 
 The correct answer is b., while plausible distractors identify different misconceptions:
 
@@ -242,7 +240,7 @@ d) False - publicly accessible work is not the same the work in the public domai
 explicitly must put their work in the public domain but attaching the appropriate licence to it, before you can freely reuse it. 
 e) False - generally you should have a permission to use the portions of work, however small, but this is less clear in case of written material (e.g. borrowing 3 lines out of 1000s).
 f) False - the use of copyright notice is optional as copyright exists implicitly from the moment the work is created.
-e) False - absence of a licence on how the work can be used generally means you have no permission from the creator to reuse it.
+g) False - absence of a licence on how the work can be used generally means you have no permission from the creator to reuse it.
 
 
 To help identify plausible distractors, 
