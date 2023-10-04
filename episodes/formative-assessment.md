@@ -102,13 +102,16 @@ bigger object (more volume) pushes out more water out of a basin than a smaller 
 assuming that the similar principle will apply for objects of different weights. Surprisingly, 
 heavier objects of the same volume as lighter ones will not push out more water.
 ![A misconception on how objects' mass affects the amount of water it can 'push out'](https://carpentries.github.io/instructor-training/fig/ballwater3a.svg){alt='Four sets of words inside rectangles, with labeled arrows connecting them. "Ball" is at the left, and "Water", at right. "Big Ball" and "Small Ball" are stacked vertically between them. Arrows from "Ball" are labeled with "Heavy Ball" and "Light Ball", and arrows to "Water" are labeled as "Pushes out MORE" and "Pushes out "LESS. There is a red "X" over the arrows labeled "Pushes out MORE" and "Pushes out LESS"'}
+
 #### Coding Example
 
 Another misconception, sometimes encountered by people who are learning programming languages
 such as R and Python having used spreadsheets, is that variables in programs calculated by 
 referencing other variables in formulas will retain the connection and be updated automatically 
-when the referenced variables change. While variables in R or Python programs can use values 
-referenced by other variables, they do not behave like cells in spreadsheets!
+when the referenced variables change. Variables in R or Python programs can use other variables 
+in calculations (e.g. `a = b + 3`), but they do not behave like cells in spreadsheets
+and updating the value of variable `b` after the previous assignment will not change the value of `a`.
+
 #### Copyright / Licencing Example
 
 Misconceptions often arise around topics of copyright and licencing of work/content (e.g. data, 
