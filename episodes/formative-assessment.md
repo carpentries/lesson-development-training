@@ -225,9 +225,7 @@ a) I don’t need permission because I am only using the copyrighted work in edu
 b) I should always know the licence of any code, data, libraries, pictures or other work that you reuse or redistribute  
 c) Since I’m planning to give credit to the authors who created the work I reuse, I do not have to worry about or need permission  
 d) Material I obtain from the Internet is publicly accessible so no explicit permission is required  
-e) I don’t need permission because I am only using a small portion of the copyrighted work
-f) The work I want to use does not have a copyright notice on it, so it’s not protected by copyright and I’m free to use it
-g) The work I want to use does not have a licence attached to it, so it’s not protected by copyright and I’m free to use it
+e) The work I want to use does not have a copyright notice on it, so it’s not protected by copyright and I’m free to use it
 
 
 The correct answers are as follows:
