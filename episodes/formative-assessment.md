@@ -1,6 +1,6 @@
 ---
 title: Stay on Target
-teaching: 30
+teaching: 35
 exercises: 35
 ---
 
@@ -92,6 +92,31 @@ When mental models are broken, learning can occur slower than you might expect[^
 The longer a prior incorrect model is in use, and the more extensively it has to be "unlearned", 
 the more it can actively interfere with the incorporation of the new correct knowledge 
 (since it will contradict the misconceptions already present in the mental model).
+          
+### Example Misconceptions
+
+#### Everyday Life Example
+
+An example misconception from everyday life ([borrowed from The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/instructor/02-practice-learning.html#misconceptions)) is, knowing that a 
+bigger object (more volume) pushes out more water out of a basin than a smaller object (less volume), 
+assuming that the similar principle will apply for objects of different weights. Surprisingly, 
+heavier objects of the same volume as lighter ones will not push out more water.
+![A misconception on how objects' mass affects the amount of water it can 'push out'](https://carpentries.github.io/instructor-training/fig/ballwater3a.svg){alt='Four sets of words inside rectangles, with labeled arrows connecting them. "Ball" is at the left, and "Water", at right. "Big Ball" and "Small Ball" are stacked vertically between them. Arrows from "Ball" are labeled with "Heavy Ball" and "Light Ball", and arrows to "Water" are labeled as "Pushes out MORE" and "Pushes out "LESS. There is a red "X" over the arrows labeled "Pushes out MORE" and "Pushes out LESS"'}
+
+#### Coding Example
+
+Another misconception, sometimes encountered by people who are learning programming languages
+such as R and Python having used spreadsheets, is that variables in programs calculated by 
+referencing other variables in formulas will retain the connection and be updated automatically 
+when the referenced variables change. Variables in R or Python programs can use other variables 
+in calculations (e.g. `a = b + 3`), but they do not behave like cells in spreadsheets
+and updating the value of variable `b` after the previous assignment will not change the value of `a`.
+
+#### Copyright / Licencing Example
+
+Misconceptions often arise around topics of copyright and licencing of work/content (e.g. data, 
+software, written material). Copyright allows a creator to state that they own the work they have created. This declaration is optional - even if the creator does not explicitly assert it, copyright of the work exists from the moment of creation. A licence is a legal document which sets down the terms under which the creator is releasing what they have created for others to use, modify, extend or exploit.
+If this information is not provided, some will not reuse the work at all while others will assume they are free to do whatever they want with the work (as there is nothing to say that they cannot). This former is the correct assumption, even if this was not the intention of the copyright owner.
 
 
 ::::::::::::::::::::::::::::::::::::::  challenge
@@ -107,21 +132,23 @@ applying that prior knowledge might lead to a misconception with
 the topic you are teaching.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+            
+###  Multiple Choice Questions (MCQs)
 
 [Multiple choice question (MCQ)](https://carpentries.github.io/instructor-training/02-practice-learning.html#using-formative-assessment-to-identify-misconceptions) exercises are types of a formative assessment that can help you target anticipated misconceptions. When designed carefully, each incorrect answer in a MCQ will have diagnostic power and provide valuable insight into how a mental model is broken. For example, suppose we are teaching children multi-digit addition. An example of a well-designed MCQ ([borrowed from The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/02-practice-learning.html#using-formative-assessment-to-identify-misconceptions)) in this case could be:
 
-> Q: What is 27 + 15?
->
-> a) 42
-> b) 32
-> c) 312
-> d) 33
+_MCQ: What is 27 + 15?_
+
+a) 42
+b) 32
+c) 312
+d) 33
 
 The correct answer is 42, but each of the other answers provides a valuable insight:
 
-> b) they do not understand the concept of a carry and are throwing it away completely
-> c) they understand the concept of a carry and know that they cannot just discard the carried ‘1’, but do not understand that it is actually a ten and needs to be added into the next column - they are treating each column of numbers as unconnected to its neighbours.
-> d) they understand that they need to carry ‘1’ but are adding it to the wrong column.
+b) they do not understand the concept of a carry and are throwing it away completely
+c) they understand the concept of a carry and know that they cannot just discard the carried ‘1’, but do not understand that it is actually a ten and needs to be added into the next column - they are treating each column of numbers as unconnected to its neighbours.
+d) they understand that they need to carry ‘1’ but are adding it to the wrong column.
 
 Their diagnostic power means that each of the wrong choices helps an instructor figure out precisely what misconceptions learners had adopted and in which ways their mental models are broken. As a result the instructor may decide to review a particular concept or change the pace of instruction. At the same time, learners get feedback about what they have misunderstood and what they need to focus their study efforts on - we call this **guided practice**.
 
@@ -155,6 +182,62 @@ they might have misconceptions that cause them to arrive at an answer that is in
 but not represented in the MCQ options.
 
 ::::::::::::::::::::::::::::::::::::::::
+                    
+### Example MCQs
+
+#### Coding MCQ
+
+Thinking back of the misconceptions of how values are assigned, referenced and updated in programming languages, 
+here is an example MCQ that can probe learners for such misconceptions. 
+
+_MCQ: Look at the following 3 assignment statements in Python._
+
+```python
+n = 300
+m = n
+n = -100
+```
+
+_What is the result at the end of the above assignments?_
+
+a) n = 300 and m = 300
+b) n = -100 and m = 300
+c) n = -100 and m = -100
+d) n = 200 and m = -100
+
+The correct answer is b., while plausible distractors identify different misconceptions:
+
+a\) they understand the value held by `n` is now also held by `m` but do not understand the value of `n` has 
+been updated since the initial assignment (e.g. treating it as a constant).
+c\) they do not understand `n` and `m` are separate variables/containers for values (which can hold the same values) 
+but rather assume that `m` is referencing variable `n` instead of copying its value at the time of assignment 
+(e.g. behaving as a reference to another cell in a spreadsheet).
+d\) they think that the reassignment for `n` actually subtracts `100` from the original value.
+
+#### Copyright / Licencing MCQ
+
+An example MCQ to check on people's misconceptions around licencing and reusing other people's work
+could be designed as follows.
+
+_MCQ: Which of the following statements are true and which are false?_
+   
+a) I don’t need permission because I am only using the copyrighted work in educational or non-profit purposes  
+b) I should always know the licence of any code, data, libraries, pictures or other work that you reuse or redistribute  
+c) Since I’m planning to give credit to the authors who created the work I reuse, I do not have to worry about or need permission  
+d) Material I obtain from the Internet is publicly accessible so no explicit permission is required  
+e) The work I want to use does not have a copyright notice on it, so it’s not protected by copyright and I’m free to use it
+
+
+The correct answers are as follows:
+
+a) False - you always need an explicit permission from the creator to use their work.  
+b) True - you should make sure that you have the permission for all the work that you are reusing, modifying or sharing.  
+c) False - if you give credit to a work’s owner, that only means you are not plagiarising other 
+people's work and claiming it as your own, however that does not mean that you have the permission to use it.  
+d) False - publicly accessible work is not the same the work in the public domain. The owner 
+explicitly must put their work in the public domain but attaching the appropriate licence to it, before you can freely reuse it. 
+e) False - the use of copyright notice is optional as copyright exists implicitly from the moment the work is created.
+
 
 To help identify plausible distractors, 
 you can think about problems or questions from previous training events and what people struggled with, 
