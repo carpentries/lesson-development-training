@@ -202,7 +202,7 @@ _What is the result at the end of the above assignments?_
     a. n = 300 and m = 300
     b. n = -100 and m = 300
     c. n = -100 and m = -100
-    d. n = 300 and m = -100
+    d. n = 200 and m = -100
 ```
 
 The correct answer is b., while each of the plausible distractors identify a different misconception:
@@ -211,7 +211,7 @@ a) they understand the value held by `n` is now also held by `m` but do not unde
 `n` has been updated since the initial assignment (e.g. treating it as a constant).
 c) they do not understand `n` and `m` are separate variables/containers for values (which can hold the same values) 
 but rather assume that `m` is referencing variable `n` instead of copying its value at the time of assignment (e.g. behaving as a reference to another cell in a spreadsheet).
-d) looks like a mix of misconceptions a. and c.
+d) they think that the reassignment for `n` actually subtracts `100` from the original value.
 
 An example MCQ to check on people's misconceptions around licencing and reusing other people's work
 could be designed as follows.
