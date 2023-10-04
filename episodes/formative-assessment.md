@@ -152,7 +152,7 @@ d) they understand that they need to carry ‘1’ but are adding it to the wron
 
 Their diagnostic power means that each of the wrong choices helps an instructor figure out precisely what misconceptions learners had adopted and in which ways their mental models are broken. As a result the instructor may decide to review a particular concept or change the pace of instruction. At the same time, learners get feedback about what they have misunderstood and what they need to focus their study efforts on - we call this **guided practice**.
 
-### Choosing Plausible Distractors in MCQs
+### Choosing Plausible Distractors
 
 When using a multiple choice question for formative assessment,
 the incorrect answers you provide as options are _at least as important_ as the correct answer
