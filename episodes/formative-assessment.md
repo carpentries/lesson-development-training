@@ -95,7 +95,7 @@ the more it can actively interfere with the incorporation of the new correct kno
           
 ### Example Misconceptions
 
-#### Everyday life example
+#### Everyday Life Example
 
 An example misconception from everyday life ([borrowed from The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/instructor/02-practice-learning.html#misconceptions)) is, knowing that a 
 bigger object (more volume) pushes out more water out of a basin than a smaller object (less volume), 
