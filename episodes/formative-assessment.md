@@ -207,13 +207,14 @@ _What is the result at the end of the above assignments?_
     d. n = 200 and m = -100
 ```
 
-The correct answer is b., while each of the plausible distractors identify a different misconception:
+The correct answer is b., while plausible distractors identify different misconceptions:
 
-a) they understand the value held by `n` is now also held by `m` but do not understand the value of 
-`n` has been updated since the initial assignment (e.g. treating it as a constant).
-c) they do not understand `n` and `m` are separate variables/containers for values (which can hold the same values) 
-but rather assume that `m` is referencing variable `n` instead of copying its value at the time of assignment (e.g. behaving as a reference to another cell in a spreadsheet).
-d) they think that the reassignment for `n` actually subtracts `100` from the original value.
+a\) they understand the value held by `n` is now also held by `m` but do not understand the value of `n` has 
+been updated since the initial assignment (e.g. treating it as a constant).
+c\) they do not understand `n` and `m` are separate variables/containers for values (which can hold the same values) 
+but rather assume that `m` is referencing variable `n` instead of copying its value at the time of assignment 
+(e.g. behaving as a reference to another cell in a spreadsheet).
+d\) they think that the reassignment for `n` actually subtracts `100` from the original value.
 
 #### Copyright / Licencing MCQ
 
