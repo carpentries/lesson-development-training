@@ -236,9 +236,7 @@ c) False - if you give credit to a work’s owner, that only means you are not p
 people's work and claiming it as your own, however that does not mean that you have the permission to use it.  
 d) False - publicly accessible work is not the same the work in the public domain. The owner 
 explicitly must put their work in the public domain but attaching the appropriate licence to it, before you can freely reuse it. 
-e) False - generally you should have a permission to use the portions of work, however small, but this is less clear in case of written material (e.g. borrowing 3 lines out of 1000s).
-f) False - the use of copyright notice is optional as copyright exists implicitly from the moment the work is created.
-g) False - absence of a licence on how the work can be used generally means you have no permission from the creator to reuse it.
+e) False - the use of copyright notice is optional as copyright exists implicitly from the moment the work is created.
 
 
 To help identify plausible distractors, 
