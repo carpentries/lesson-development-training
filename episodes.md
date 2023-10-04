@@ -4,6 +4,20 @@ teaching: 5
 exercises: 25
 ---
 
+:::::::::::::::::::::::::::::::::::::::: questions
+
+- How can the objectives for a lesson be used to break its content into sections?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::: objectives
+
+After completing this episode, participants should be able to...
+
+- identify appropriate parts of their lesson to break into individual sections
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 At the end of the previous section,
 you defined the learning objectives for your lesson as a whole.
 
@@ -70,5 +84,11 @@ with each taking responsibility for a subset of the objectives defined for that 
 If you plan more episodes than you have people in your team,
 do not assign more than one episode to each collaborator for now, but
 **we strongly recommend that you assign yourselves consecutive episodes at the beginning of your lesson**.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: keypoints
+
+- Learning objectives for a lesson can help you split up its content into chunks
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
