@@ -185,6 +185,8 @@ but not represented in the MCQ options.
                     
 ### Example MCQs
 
+#### Coding MCQ
+
 Thinking back of the misconceptions of how values are assigned, referenced and updated in programming languages, 
 here is an example MCQ that can probe learners for such misconceptions. 
 
@@ -212,6 +214,8 @@ a) they understand the value held by `n` is now also held by `m` but do not unde
 c) they do not understand `n` and `m` are separate variables/containers for values (which can hold the same values) 
 but rather assume that `m` is referencing variable `n` instead of copying its value at the time of assignment (e.g. behaving as a reference to another cell in a spreadsheet).
 d) they think that the reassignment for `n` actually subtracts `100` from the original value.
+
+#### Copyright / Licencing MCQ
 
 An example MCQ to check on people's misconceptions around licencing and reusing other people's work
 could be designed as follows.
