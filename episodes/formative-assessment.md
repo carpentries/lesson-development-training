@@ -1,6 +1,6 @@
 ---
 title: Stay on Target
-teaching: 30
+teaching: 35
 exercises: 35
 ---
 
