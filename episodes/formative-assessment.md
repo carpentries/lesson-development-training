@@ -102,6 +102,7 @@ bigger object (more volume) pushes out more water out of a basin than a smaller 
 assuming that the similar principle will apply for objects of different weights. Surprisingly, 
 heavier objects of the same volume as lighter ones will not push out more water!
 ![A misconception on how objects' mass affects the amount of water it can 'push out'](https://carpentries.github.io/instructor-training/fig/ballwater3a.svg){alt='Four sets of words inside rectangles, with labeled arrows connecting them. "Ball" is at the left, and "Water", at right. "Big Ball" and "Small Ball" are stacked vertically between them. Arrows from "Ball" are labeled with "Heavy Ball" and "Light Ball", and arrows to "water" are labeled as "Pushes out MORE" and "Pushes out "LESS. There is a red "X" over the arrows labeled "Pushes out MORE" and "Pushes out LESS"'}
+#### Coding Example
 
 Another misconception, sometimes encountered by people who are learning programming languages
 such as R and Python having used spreadsheets, is that variables in programs calculated by 
