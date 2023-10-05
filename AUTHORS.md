@@ -1,5 +1,0 @@
-- [Toby Hodges](https://github.com/tobyhodges), The Carpentries
-- [Mateusz Kuzak](https://github.com/mkuzak), The Netherlands eScience Center
-- [Aleksandra Nenadic](https://github.com/anenadic), UK Software Sustainability Institute
-- [Sarah Stevens](https://github.com/sstevens2), University of Wisconsin–Madison
-- [Jamene Brooks-Kieffer](https://github.com/jbkieffer), University of Kansas

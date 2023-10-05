@@ -1,0 +1,121 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: The Carpentries Collaborative Lesson Development Training
+message: >-
+  Please cite this curriculum using the information in this
+  file if you publish a lesson/curriculum after using this
+  curriculum or attending a training where it was taught.
+type: dataset
+authors:
+  - given-names: Erin
+    family-names: Becker
+    affiliation: The Carpentries
+    orcid: 'https://orcid.org/0000-0002-6832-0233'
+  - given-names: Yanina
+    name-particle: Noemí
+    family-names: Bellini Saibene
+    affiliation: ROpenSci
+    orcid: 'https://orcid.org/0000-0002-4522-7466'
+  - orcid: 'https://orcid.org/0000-0001-6280-124X'
+    given-names: Jamene
+    family-names: Brooks-Kieffer
+    affiliation: University of Kansas
+  - given-names: Ben
+    family-names: Companjen
+    affiliation: Leiden University Libraries
+    orcid: 'https://orcid.org/0000-0002-7023-9047'
+  - given-names: Rob
+    family-names: Davey
+    affiliation: The Carpentries
+    orcid: 'https://orcid.org/0000-0002-5589-7754'
+  - given-names: Toby
+    family-names: Hodges
+    email: tobyhodges@carpentries.org
+    affiliation: The Carpentries
+    orcid: 'https://orcid.org/0000-0003-1766-456X'
+  - given-names: Zhian
+    family-names: Kamvar
+    affiliation: The Carpentries
+    orcid: 'https://orcid.org/0000-0003-1458-7108'
+  - given-names: Mateusz
+    family-names: Kuzak
+    affiliation: The Netherlands eScience Center
+    orcid: 'https://orcid.org/0000-0003-0087-6021'
+  - given-names: Aleksandra
+    family-names: Nenadic
+    affiliation: >-
+      Software Sustainability Institute / The University of
+      Manchester
+    orcid: 'https://orcid.org/0000-0002-2269-3894'
+  - given-names: Sarah
+    family-names: Stevens
+    affiliation: The University of Wisconsin-Madison
+    orcid: 'https://orcid.org/0000-0002-7040-548X'
+  - given-names: Angelique
+    family-names: Trusler
+    affiliation: The Carpentries
+    orcid: 'https://orcid.org/0000-0003-2340-8538'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8410626
+    description: Zenodo Concept DOI (always resolves to latest version)
+repository-code: 'https://github.com/carpentries/lesson-development-training'
+url: 'https://carpentries.github.io/lesson-development-training'
+abstract: >
+  A training curriculum teaching good practices in lesson
+  design and development, and open source collaboration
+  skills, using The Carpentries Workbench. The curriculum is
+  designed to be taught over six half-days. The target
+  audience is Carpentries Instructors with an idea for a new
+  lesson they would like to create, especially if that
+  lesson is intended for short-format training (e.g. part or
+  all of a two-day workshop).
+
+  We believe that lesson development is easier and more
+  successful when it is a joint effort among collaborators,
+  so the activities and examples used in this training are
+  best suited to groups of trainees who want to collaborate
+  on a lesson project. Efforts have been made to also cater
+  to lesson developers working alone.
+
+  After attending this training, participants will be able
+  to:
+
+  * collaboratively develop and publish lessons using The
+  Carpentries lesson infrastructure (aka The Carpentries
+  Workbench): lesson template, GitHub, GitHub Pages, etc.
+
+  * identify and characterise the target audience for a
+  lesson.
+
+  * define SMART learning objectives.
+
+  * explain the pedagogical value of authentic tasks.
+
+  * create exercises for formative assessment.
+
+  * explain how considerations of cognitive load can
+  influence the pacing, length, and organisation of a
+  lesson.
+
+  * configure and maintain accessible and usable lesson
+  repositories using best practices, readily available for
+  collaboration.
+
+  * identify and correct accessibility issues in a
+  Carpentries lesson.
+
+  * update and improve lesson material guided by feedback
+  and reflection from teaching.
+
+  * review and provide constructive feedback on lessons.
+keywords:
+  - carpentries
+  - curriculum-development
+  - backward-design
+  - collaboration-skills
+license: CC-BY-4.0
+version: v2023-beta
+date-released: '2023-10-09'
