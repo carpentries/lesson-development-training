@@ -59,7 +59,7 @@ by providing suggestions, reviews, and inspiration:
 
 
 ## Citation
-See [CITATION.cff](CITATION.cff) for citation information.
+See [CITATION.cff](CITATION.cff) for citation information, including a list of authors.
 ([Read more about the Citation File Format and how to use it](https://citation-file-format.github.io/).)
 
 
