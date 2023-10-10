@@ -123,7 +123,7 @@ The main objectives of this discussion are:
 The Carpentries community develops open source lessons,
 which can always be updated and may never be _finished_.
 A lesson can undergo many iterations before it reaches a relatively stable state.
-To reflect this, we encourages lesson developers to 
+To reflect this, we encourage lesson developers to 
 indicate the status of their lesson by labelling its progress through a _lesson life cycle_:
 
 ![The life cycle of a lesson](fig/life_cycle.png){alt="Diagram of the life cycle of a
