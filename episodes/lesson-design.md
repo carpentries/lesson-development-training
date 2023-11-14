@@ -36,7 +36,7 @@ to directly meet those stated outcomes.
 4. Assess learner progress towards desired outcomes
 5. Evaluate chosen outcomes, experiences, and content based on this assessment
 
-![Nicholl's five phases of curriculum design[^1], 
+![Nicholl's five phases of curriculum design, 
 presented as a cycle to reflect that all aspects of the design should be 
 revisited in response to the results of the evaluation that takes place at step 5.
 ](fig/nicholls-five-phases.svg){
