@@ -23,7 +23,7 @@ After completing this episode, participants should be able to...
 ## A Lesson Design Process
 
 In order to design an effective lesson, we need a structured approach with the learner in mind and  clearly identified goals. Throughout this training, we will use a modified version of Nicholl's five phase paradigm for curriculum design[^1].
-Nicholl's paradigm describes a process, commonly referred to as _backward design_,
+Nicholls' paradigm describes a process, commonly referred to as _backward design_,
 where those who wish to develop a new curriculum first begin by defining
 exactly what their learners will be able to do
 _after they have completed the lesson/training/course_.
@@ -36,15 +36,15 @@ to directly meet those stated outcomes.
 4. Assess learner progress towards desired outcomes
 5. Evaluate chosen outcomes, experiences, and content based on this assessment
 
-![Nicholl's five phases of curriculum design[^1], 
+![Nicholls' five phases of curriculum design[^1], 
 presented as a cycle to reflect that all aspects of the design should be 
 revisited in response to the results of the evaluation that takes place at step 5.
 ](fig/nicholls-five-phases.svg){
-alt="A flow diagram presenting the Nicholl's five phases of curriculum design as a cycle."
+alt="A flow diagram presenting the Nicholls' five phases of curriculum design as a cycle."
 width="67%"
 }
 
-The last two phases of Nicholl's paradigm involve
+The last two phases of Nicholls' paradigm involve
 assessing learner progress towards the desired learning outcomes and
 evaluating the stated objectives and current content in light of the results of that assessment.
 In The Carpentries, most workshops are relatively short-format,
@@ -56,7 +56,7 @@ to give instructors opportunities to evaluate the teaching and lesson content
 before the end of the workshop.
 
 To account for this,
-we have adapted Nicholl's five phases in this training,
+we have adapted Nicholls' five phases in this training,
 to place an emphasis on assessing learning during a workshop:
 
 1. Define desired learning outcomes
@@ -145,7 +145,7 @@ and we will also point you towards resources to help with testing the lesson and
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- We will learn to develop lessons based on the (slightly adapted) Nicholl’s backward lesson design  process.
+- We will learn to develop lessons based on the (slightly adapted) Nicholls' backward lesson design  process.
 - There can be many reasons to create a new lesson.
 - This training will give you a process to follow to ensure your lesson is effective.
 
