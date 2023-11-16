@@ -466,15 +466,7 @@ exercises: 0
 
 ### Adding a new episode to the lesson navigation
 
-A few minutes after the new file has been created,
-a new episode page should become available on your lesson site.
-To check, navigate with your web browser to
-`https://username.github.io/lesson-name/episode-name.html`,
-where `https://username.github.io/lesson-name/` is the URL of your lesson homepage,
-and `episode-name` is the name of the new episode file you created
-(without the `.md` or `.Rmd` extension).
-
-However, this new episode will not yet appear in the navigation of your lesson site.
+This new episode will not yet appear in the navigation of your lesson site.
 To enable this, we need to specify where the episode should appear
 in the order of the lesson.
 That episode order is defined in the `episodes` field of the `config.yaml` file:
@@ -500,7 +492,7 @@ episodes:
 After the lesson site has been rebuilt on GitHub,
 you should see the episode title appear under _Chapters_
 in the left sidebar navigation of your lesson site
-after refreshing the webpage
+after refreshing the webpage.
 Clicking on that title will take you to the episode page built from the file you created.
 At the top of the page body, you will find the episode title
 and an _Overview_ box containing a list of the questions and objectives
