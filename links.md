@@ -6,6 +6,7 @@
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [codimd-notes-template]: https://codimd.carpentries.org/cldt-notes-template?both#Exercise-evaluating-learning-objectives-15-minutes
 [component-guide]: https://carpentries.github.io/sandpaper-docs/component-guide.html
+[curriculum-advisors]: https://carpentries.org/curriculum-advisors/
 [dc]: https://datacarpentry.org/
 [design-notes-template]: https://codimd.carpentries.org/HPwUE3FnTeSQJ9-_5EfU7Q?view#
 [expert-awareness-gap-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise.html#mind-the-gap
