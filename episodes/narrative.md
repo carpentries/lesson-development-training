@@ -56,7 +56,7 @@ Depending on the tool you are teaching, you might also include a particular data
 It is common for lessons to include a dataset that is used in examples and discussed throughout.
 This can help you maintain a narrative flow and make the lesson feel more authentic.
 Even if your topic doesn't require a dataset, deciding on a consistent narrative will
-help create a flow between lessons and reduce cognitive load for learners.
+help create a flow between episodes and reduce cognitive load for learners.
 
 :::::::::::::::::::::::::::::::::::::::::: callout
 
