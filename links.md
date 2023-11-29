@@ -1,5 +1,6 @@
 [blooms]: https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/
 [carpentries-incubator]: https://carpentries-incubator.org/
+[incubator-proposals]: https://github.com/carpentries-incubator/proposals
 [carpentries-lab]: https://carpentries-lab.org/
 [carpentries-website]: https://carpentries.org/
 [cldt-site]: https://carpentries.github.io/lesson-development-training/
