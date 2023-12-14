@@ -139,7 +139,7 @@ observed (columns).
 You may also want to include and review a data dictionary in your lesson,
 explicitly taking the time to review the information included in the
 dataset.
-For inspiration, see the [Social Sciences Data Carpentry data dictionary](https://datacarpentry.org/socialsci-workshop/data/).
+For inspiration, see the [Social Sciences Data Carpentry data dictionary](https://datacarpentry.org/socialsci-workshop/data.html).
 An additional factor to consider when choosing a dataset to include is
 the license.
 You want to find a dataset where the data provider allows for you to freely use it.
