@@ -30,11 +30,14 @@ To learn more about how this lesson site is built and how you can edit the pages
 Current Maintainers of this lesson are:
 
 * [Toby Hodges](https://github.com/tobyhodges) (Lead Maintainer)
-* [Mateusz Kuzak](https://github.com/mkuzak)
 * [Aleksandra Nenadic](https://github.com/anenadic)
 * [Sarah Stevens](https://github.com/sstevens2)
 
 The Maintainer Team aims to meet at 12:00 UTC on the fourth Friday of each month.
+
+### Former Maintainers
+
+* [Mateusz Kuzak](https://github.com/mkuzak)
 
 
 ## Acknowledgements
