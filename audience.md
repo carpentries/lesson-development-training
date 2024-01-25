@@ -24,8 +24,8 @@ After completing this episode, participants should be able to...
 ## Target Audience
 
 Given the limited time in a short-format training,
-it is vital to define the scope of the lesson i.e.
-what people will know before and after the lesson.
+it is vital to define the scope of the lesson, i.e.
+what people need to know before and what they will know after the lesson.
 Thinking carefully about the target audience will help you with this and
 defining desired learning outcomes (the first step of the lesson design).
 Prominently displaying a description of the target audience
