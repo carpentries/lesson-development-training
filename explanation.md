@@ -254,7 +254,7 @@ you intended for an episode.
 
 Add key points and questions to your episode.
 
-To check the formatting requirements, see the Introduction Episode example in your lesson or [the Workbench Documentation](https://carpentries.github.io/sandpaper-docs/episodes.html#questions-objectives-keypoints)
+To check the formatting requirements, see the Introduction Episode example in your lesson or [the Workbench Documentation](https://carpentries.github.io/sandpaper-docs/episodes.html#questions-objectives-keypoints).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
