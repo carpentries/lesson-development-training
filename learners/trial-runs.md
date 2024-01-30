@@ -31,13 +31,17 @@ you should try to complete these and share them with your learners before the tr
 ### For groups of collaborators
 
 During the training, you should have been working on consecutive episodes in your lesson.
-Use the trail run as an opportunity for you to test the lesson content together,
+Ideally, use the trail run as an opportunity for you to test the lesson content together,
 with each trainee teaching the episode they have been working on during the training 
 in a single trial run event.
 This will give you an opportunity to observe each other teaching,
 to help each other gather feedback and information to help improve the lesson (see below),
 and to identify any gaps or overlaps that become apparent when moving from one
 episode to the next.
+
+If you cannot all teach an episode, make sure that every collaborator can take an active role
+in your Trial Run, for example by make those who will not teach responsible for taking 
+[notes on timings, questions asked by learners, technical difficulties, etc](operations.md#pilot-workshops).
 
 ### For Lesson Developers working alone
 
