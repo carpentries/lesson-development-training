@@ -8,7 +8,6 @@ exercises: 35
 
 After completing this episode, participants should be able to...
 
-- Explain what is meant by the intended and attained curriculum of a lesson.
 - Describe the importance of regular assessment while a lesson is being taught.
 - Design assessments to identify the misconceptions learners might have during your lesson.
 
