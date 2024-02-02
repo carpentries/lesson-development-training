@@ -202,7 +202,7 @@ _What is the result at the end of the above assignments?_
 
 a) n = 300 and m = 300
 b) n = -100 and m = -100
-c) n = 200 and m = -100
+c) n = 200 and m = 200
 d) n = -100 and m = 300
 
 The correct answer is d., while plausible distractors identify different misconceptions:
