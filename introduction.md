@@ -57,7 +57,7 @@ Do not force people to share their pronouns.
 ### Getting to Know Each Other
 
 If the Trainer has chosen an
-[icebreaker question](https://carpentries.github.io/instructor-training/icebreakers/index.html),
+[icebreaker question](https://carpentries.github.io/instructor-training/icebreakers.html),
 participate by writing your answers in the shared document for the workshop.
 
 :::
