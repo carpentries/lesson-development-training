@@ -86,32 +86,6 @@ After completing this episode, participants should be able to...
 
 ::: challenge
 
-### More Practice with Fenced Divs (optional)
-
-The Carpentries Workbench provides another type of fenced div, `prereq`,
-that can be used to create a block highlighting the preprequisites for a lesson.
-
-Use one of these `prereq` fenced divs to format the list of
-prerequisite skills you added to your `index.md` file earlier.
-
-:::::: solution
-
-In `index.md`:
-
-```markdown
-:::::::::: prereq
-- prerequisite 1
-- prerequisite 2
-- ...
-:::::::::::::::::
-```
-
-::::::
-
-:::
-
-::: callout
-
 ### Full List of Fenced Divs
 
 [The Workbench Component Guide][component-guide] provides a full list of
