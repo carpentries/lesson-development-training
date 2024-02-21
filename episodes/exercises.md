@@ -132,7 +132,7 @@ Create LOs for the specific audience and create assessments for specific LOs."*
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: Assessing an Objective (30 minutes)
+## Exercise: Assessing Progress Towards an Objective (30 minutes)
 
 Using one of the exercise formats you have learned about so far,
 design an exercise that will require learners to perform one of the actions
