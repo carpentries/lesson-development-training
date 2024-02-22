@@ -84,7 +84,8 @@ After completing this episode, participants should be able to...
 
 :::
 
-::: challenge
+
+::: callout
 
 ### Full List of Fenced Divs
 
