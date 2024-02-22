@@ -270,40 +270,6 @@ useful as a guide for polishing the design and content.
 The checklist describes criteria for a lesson to meet a high standard in terms of its
 accessibility, design, content, and supporting information.
 
-:::::::::::::::::::::::::::::::::::::::  challenge
-
-## Reflection Exercise (20 minutes)
-
-We have reached the end of the time you have to work on the episodes of your lesson in this training. 
-This exercise provides you with a chance to look back over 
-everything you have sketched out for your episode and the lesson as a whole 
-and consider what still needs to be done before it can be taught.
-
-You can use this time however you judge will be most beneficial
-to your preparations for teaching your episode in a trial run.
-
-If you are not sure how to start,
-consider mapping out the relationships between the objectives of your episode 
-and the examples and exercises via which they will be taught and assessed.
-For example,
-
-> The read CSV and inspect demo supports Objective 2 
-> (load a simple CSV data set with Pandas) 
-> and will be delivered using participatory live coding.
-> The objective will be assessed with an exercise that 
-> requires learners to apply the read_csv function to another file
-> and count the rows in the resulting DataFrame object.
-
-- Does any of your planned content not support any learning objectives?
-- Is there at least one piece of content planned for each learning objective?
-- Is there a formative assessment planned for each learning objective?
-
-- What do you still need to add/work on? 
-- What can you remove/consider removing?
-- How will the narrative and example data you have chosen for your lesson support teaching and assessment?
-- What diagram or other visual aids could you add to supplement your text?
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [dismissive-language-instructor-training]: https://carpentries.github.io/instructor-training/04-expertise.html#just-and-other-dismissive-language
 [instructor-notes]: https://carpentries.github.io/workbench/transition-guide.html#instructor-notes
