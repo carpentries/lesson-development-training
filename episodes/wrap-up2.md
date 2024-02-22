@@ -41,17 +41,43 @@ there will be an opportunity for trainees to share their experiences and reflect
 from those trial runs, and to discuss what impact that will have on the next stages
 of their lesson development.
 
-Please provide another round of feedback and spend some time reflecting.
+:::::::::::::::::::::::::::::::::::::::  challenge
 
-::: challenge
+## Polish a Lesson (20 minutes)
 
-## Feedback (5 min)
+This exercise provides you with a chance to look back over 
+everything you have sketched out for your episode(s) and the lesson as a whole 
+and consider what still needs to be done before it can be taught.
 
-The Trainer(s) will ask for feedback on the training so far.
-Take some time to provide this feedback, before moving onto the second part of this task.
+You can use this time however you judge will be most beneficial
+to your preparations for teaching your episode in a trial run.
 
-:::::::::::::
+If you are not sure how to start,
+consider mapping out the relationships between the objectives of your episode 
+and the examples and exercises via which they will be taught and assessed.
+For example,
 
+> The read CSV and inspect demo supports Objective 2 
+> (load a simple CSV data set with Pandas) 
+> and will be delivered using participatory live coding.
+> The objective will be assessed with an exercise that 
+> requires learners to apply the read_csv function to another file
+> and count the rows in the resulting DataFrame object.
+
+- Does any of your planned content not support any learning objectives?
+- Is there at least one piece of content planned for each learning objective?
+- Is there a formative assessment planned for each learning objective?
+
+- What do you still need to add/work on? 
+- What can you remove/consider removing?
+- How will the narrative and example data you have chosen for your lesson support teaching and assessment?
+- What diagram or other visual aids could you add to supplement your text?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+Please spend some time reflecting on what you learned so far and then provide another round of feedback 
+to your trainers.
 
 ::: challenge
 
@@ -68,6 +94,16 @@ If you do not know where to start, consider the following list for a starting po
 - write an outline of the topics we covered
 - write a paragraph or “journal” entry about your experience of the training today
 - write down one thing that struck you the most
+
+:::::::::::::
+
+
+::: challenge
+
+## Feedback (5 min)
+
+The Trainer(s) will ask for feedback on the training so far.
+Take some time to provide this feedback, before moving onto the second part of this task.
 
 :::::::::::::
 
