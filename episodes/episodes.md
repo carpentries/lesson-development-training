@@ -73,8 +73,10 @@ Some questions you might ask yourself to help break down your lesson-level learn
 With your team, 
 
 1. Based on the lesson-level objectives and your knowledge of the lesson topic,
-   divide the lesson up into logical blocks, that should each take approximately 20-60 minutes to teach.
-2. Next, assign responsibility for one of these episodes to each collaborator in your team.
+   divide the lesson up into logical blocks (episodes), that should each take approximately 20-60 minutes to teach.
+   Think of these logical blocks as topics that you need to cover within your lesson but do not go too deep into defining learning objectives
+   for individual episodes - we will cover that soon. 
+3. Next, assign responsibility for one of these episodes to each collaborator in your team.
    They will focus on this episode for the rest of this training, 
    and you will teach these episodes in a trial run between parts 1 and 2 of this training.
 
