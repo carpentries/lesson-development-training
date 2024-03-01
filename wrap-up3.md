@@ -120,7 +120,7 @@ Remember:
 
 ::: challenge
 
-# Reflection exercise (15 min)
+### Reflection exercise (15 min)
 
 Take this time to reflect on what you have learned in this last part of the training,
 and take some action to plan to successfully complete the development of your lesson
