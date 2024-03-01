@@ -115,7 +115,7 @@ and information they produce throughout the training.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: thinking about target audience (15 minutes total for both parts)
+## Exercise: thinking about target audience (15 minutes total for both parts){#target-audience-exercise}
 
 Part 1 (all, 5 minutes): think about a member of the target audience for your lesson,
 and answer the following questions in the context of your lesson topic:
