@@ -1,0 +1,94 @@
+#------------------------------------------------------------
+# Values for this lesson.
+#------------------------------------------------------------
+
+# Which carpentry is this (swc, dc, lc, or cp)?
+# swc: Software Carpentry
+# dc: Data Carpentry
+# lc: Library Carpentry
+# cp: Carpentries (to use for instructor traning for instance)
+carpentry: "cp"
+
+# Overall title for pages.
+title: "Collaborative Lesson Development Training"
+
+# Date the lesson was created (YYYY-MM-DD, this is empty by default)
+created: 2022-01-18
+
+# Comma-separated list of keywords for the lesson
+keywords: 'carpentries, curriculum-development, backward-design, collaboration-skills'
+
+# Life cycle stage of the lesson
+# possible values: pre-alpha, alpha, beta, stable
+life_cycle: beta
+
+# License of the lesson
+license: CC-BY 4.0
+
+# Link to the source repository for this lesson
+source: https://github.com/carpentries/lesson-development-training
+
+# Default branch of your lesson
+branch: main
+
+# Who to contact if there are any issues
+contact: team@carpentries.org
+
+# Navigation ------------------------------------------------
+# The menu bar will be in the following order:
+#
+# - Code of Conduct      (CODE_OF_CONDUCT.md)
+# - Setup                (setup.md)
+# - Episodes             (episodes/)
+# - Learner Resources    (learners/)
+# - Instructor Resources (instructors/)
+# - Learner Profiles     (profiles/)
+# - License              (LICENSE.md)
+#
+# Use the following menu items to specify the order of
+# individual pages in each dropdown section
+
+# Order of episodes in your lesson
+episodes:
+- introduction.md
+- lesson-design.md
+- audience.md
+- short-break1.md
+- objectives.md
+- episodes.md
+- long-break1.md
+- infrastructure.md
+- short-break2.md
+- episode-objectives.md
+- short-break3.md
+- formative-assessment.md
+- wrap-up1.md
+- exercises.md
+- short-break4.md
+- narrative.md
+- long-break2.md
+- explanation.md
+- short-break5.md
+- operations.md
+- preparing.md
+- wrap-up2.md
+- reflecting.md
+- short-break6.md
+- collaborating-team.md
+- long-break3.md
+- collaborating-newcomers.md
+- project-management.md
+- wrap-up3.md
+
+# Information for Learners
+learners:
+- pilot-description.md
+- markdown-github-primer.md
+- trial-runs.md
+- reference.md
+
+# Information for Instructors
+instructors:
+
+# Learner Profiles
+profiles:
