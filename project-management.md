@@ -42,7 +42,7 @@ but making sure you use any tool to plan and manage work on your lesson developm
 is better than making it up as you go along.
 
 ### Project Management in GitHub
-Carpentries lessons are developed in GitHub so it is convenient (but not a must) to use GitHub's [**Milestones**](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones) and [**Projects**](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) 
+Carpentries lessons are developed in GitHub so it is convenient (but not a must) to use GitHub's Milestones and Projects 
 to help you keep track of different components of the project and their current status. 
 
 Milestones are a way of organising issues on your project into smaller units of work (e.g. deliverables) that have deadlines and progress of which needs to be closely tracked (e.g. release management). 
