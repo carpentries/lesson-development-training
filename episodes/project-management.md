@@ -131,11 +131,11 @@ Here are some aspects of governing a project that you should consider.
 These are borrowed from [the _Working in teams_ chapter](https://merely-useful.tech/py-rse/teams.html) of [_Research Software Engineering with Python_](https://merely-useful.tech/py-rse/index.html), 
 a book on how to work productively in small teams where everyone is welcome:
 
-- [Codes of Conduct](https://merely-useful.tech/py-rse/teams.html#teams-coc)
-- [meeting rules](https://merely-useful.tech/py-rse/teams.html#teams-meetings)
-- [decision-making process](https://merely-useful.tech/py-rse/teams.html#teams-martha)
-- [handling conflict](https://merely-useful.tech/py-rse/teams.html#teams-conflict)
-- [making all the above obvious to newcomers](https://merely-useful.tech/py-rse/teams.html#teams-documentation)
+- [Codes of Conduct](https://third-bit.com/py-rse/teams.html#teams-coc)
+- [meeting rules](https://third-bit.com/py-rse/teams.html#teams-meetings)
+- [decision-making process](https://third-bit.com/py-rse/teams.html#teams-martha)
+- [handling conflict](https://third-bit.com/py-rse/teams.html#teams-conflict)
+- [making all the above obvious to newcomers](third-bit.com/py-rse/teams.html#teams-documentation)
 
 For some other examples and inspirations of governance processes, consider the following:
 
