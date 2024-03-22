@@ -256,9 +256,8 @@ Collaborators can also use other platforms to discuss lesson development or rece
 Here are some additional resources where you can learn more about collaborating with your team in an Open Source project:
 
 1. The _[Guide for Collaboration](https://book.the-turing-way.org/collaboration/collaboration)_ section of _[The Turing Way](https://book.the-turing-way.org/)_
-2. _[The Contributor Experience Handbook](https://contributor-experience.org/docs/guide/introduction.html)_, especially the following sections:
-    - _[Onboarding newcomers](https://contributor-experience.org/docs/guide/cx/onboarding.html)_
-    - _[Tracking first-time contributors' work](https://contributor-experience.org/docs/guide/cx/tracking_prs.html)_
+2. The _[Communication resources_](https://contributor-experience.org/docs/guide/comms/resources.html) section of [the Contributor Experience Handbook](https://contributor-experience.org/docs/guide/),
+   especially [the collection of resources on _productive conflict_](https://contributor-experience.org/docs/guide/comms/resources.html#category=productive%20conflict)
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
