@@ -252,6 +252,14 @@ the `@` drop-down list so you will need to know their GitHub username in order t
 
 Collaborators can also use other platforms to discuss lesson development or receive contributions from newcomers who are not yet fluent in using GitHub's systems of communication. The Carpentries can assist with creating a mailing list specific to the development of your lesson on their [TopicBox](https://carpentries.topicbox.com/) platform for managing threaded email discussions. Also make sure to join the [Incubator lesson developers mailing list](https://carpentries.topicbox.com/groups/incubator-developers) on TopicBox to keep an eye on announcements and discussions relating to lesson development in general within the Carpentries community.
 
+## Recommended Reading
+Here are some additional resources where you can learn more about collaborating with your team in an Open Source project:
+
+1. The _[Guide for Collaboration](https://book.the-turing-way.org/collaboration/collaboration)_ section of _[The Turing Way](https://book.the-turing-way.org/)_
+2. _[The Contributor Experience Handbook](https://contributor-experience.org/docs/guide/introduction.html)_, especially the following sections:
+    - _[Onboarding newcomers](https://contributor-experience.org/docs/guide/cx/onboarding.html)_
+    - _[Tracking first-time contributors' work](https://contributor-experience.org/docs/guide/cx/tracking_prs.html)_
+
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - GitHub's features **Issues**, **Pull Requests** and **Mentions** can all be used to transparently and effectively communicate and collaborate in a team working on a lesson development project.
