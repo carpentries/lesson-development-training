@@ -64,7 +64,7 @@ data about learning attainment by individuals and entire cohorts but are not use
 
 **Formative assessments** are applied throughout a course and with several different purposes: they provide a way to move [new information from working memory to long-term memory](https://carpentries.github.io/instructor-training/05-memory.html#using-formative-assessment-to-support-memory-consolidation); they can inform instructors' decisions about how to modify instruction to better promote learning; they also inform learners about changes they may need to make to improve their learning. Ideally, they should be used often (e.g. after every 15-20 minutes of teaching), providing opportunities to instructors to change pace and refocus  learners’ attention. For short courses, formative assessments are usually more valuable and easier to implement in practice than summative assessments - they need not be complex or time-consuming, just informative enough about learning for both instructors and learners.
 
-The most effective way to test learner understanding is  to do such assessments in class - they engage all learners and allow instructors to check learners' confidence with the content and its delivery, can help you deal with any potential misunderstandings as soon as they arise, and maximise the value of workshop for everyone. Such formative assessments also help with *metacognition* - the awareness a learner has that they are succeeding in learning something new.
+The most effective way to test learner understanding is to do such assessments in class - they engage all learners and allow instructors to check learners' confidence with the content and its delivery, can help you deal with any potential misunderstandings as soon as they arise, and maximise the value of workshop for everyone. Such formative assessments also help with *metacognition* - the awareness a learner has that they are succeeding in learning something new.
 
 Any instructional tool that generates feedback and is used in a formative way to check for learners' understanding can be described as “formative assessment”. For example,
 
@@ -77,6 +77,7 @@ with the class.
 - **exercises** - setting challenges for learners to tackle and raising questions for discussion among the group
 
 Many other formative assessment tools can be found in Briggs’ list of ["21 ways to check for student understanding"](https://www.opencolleges.edu.au/informed/features/21-ways-to-check-for-student-understanding/) or Edutopia's ["56 Examples of Formative Assessment"](https://www.edutopia.org/groups/assessment/250941).
+
 
 ::::::::::::::::::::::::::::::::::::::: challenge
 
@@ -101,6 +102,7 @@ Some examples of formative assessments used so far in this training:
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
+
 ## Exercise Your Memory
 
 In a simplified model of memory individuals are equipped with two types of memory:
@@ -121,6 +123,7 @@ E.g. actions such as "explain" and "describe" may be better assessed by discussi
 and multiple choice questions, while "solve," "construct," "test" and other
 higher-level cognitive skills may be better assessed by debugging tasks, [code-and-run][code-and-run],
 or use-in-a-different-context exercises.
+
 
 ::: callout
 
@@ -170,7 +173,23 @@ Then, discuss the following questions together:
 
 ### For lessons predominantly teaching non-coding skills and concepts
 
-TODO
+Read about your given exercise type
+[in the *Exercise Types* chapter of *Teaching Tech Together*](https://teachtogether.tech/en/index.html#s:exercises) by following the relevant link below.
+
+- [multiple choice questions][mcq]
+- [fill-in-the-blanks][blanks]
+- [faded examples][faded-ex]
+- [Parsons problems][parsons]
+- [minimal fix][minimal]
+
+Then, discuss the following questions together:
+
+- What kind of skills would an exercise of this type assess?
+  Try to identify some action verbs like those we used to write lesson objectives earlier in the workshop.
+- Would this type of exercise be suited to a novice audience?
+  Or is it a better fit for intermediate or advanced learners?
+- Would this kind of exercise work well in an in-person workshop setting?
+  Would it be better suited to self-directed learning and/or a virtual workshop?
 
 
 :::::::::::::::::::::::::::::
