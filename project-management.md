@@ -114,7 +114,7 @@ the roles that project participants can take on and the process for decision mak
 You may wonder why you'd ever need a formal governance process - 
 after all, everyone in your team is collegial, polite and hard-working. 
 However, even among the most harmonious teams you will likely realise you need an agreed way to make decisions 
-and resolve conflicts when your team encounters their first real disagreement.
+and resolve conflicts when your team encounters their first real disagreement[^1].
 
 The moment your collaborator group exceeds 3 or 4 members 
 (and fewer if the collaborators do not all know each other equally well at the outset) 
@@ -222,6 +222,14 @@ and advice for facilitators on how to intervene and mitigate them.
 
 :::::::::::::::::::::::::::::::::::::::
 
+## Recommended Reading
+Here are some additional resources to learn more about Open Source project management/governance:
+
+1. _[Producing Open Source Software: How to Run a Successful Free Software Project](https://www.oreilly.com/library/view/producing-open-source/0596007590/)_ by Karl Fogel
+2. _[Program Management for Open Source Projects](https://pragprog.com/titles/bcosp/program-management-for-open-source-projects/)_ by Ben Cotton
+3. The _[Shared Ownership in Open Source Projects](https://book.the-turing-way.org/collaboration/shared-ownership)_ section of The Turing Way
+4. _[A guide to open source project governance models](https://www.redhat.com/rhdc/managed-files/rh-os-project-governance-overview-f24082wg-202006-en_1.pdf)_ from [Red Hat](https://www.redhat.com/en)
+
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
@@ -231,5 +239,7 @@ and advice for facilitators on how to intervene and mitigate them.
 - Make sure to consider and establish a governance model for your project early on - to describe the ground rules of participation and the process for decision making within the project.
 
 :::::::::::::::::::::::::::::::::::::::
+
+[^1]: The _[Challenges with Applying Ownership Models Retroactively](https://book.the-turing-way.org/collaboration/shared-ownership/shared-ownership-challenges) section of The Turing Way provides explores further challenges with trying to introduce governance structures to an established Open Source project. 
 
 [noaa-ddb]: https://coast.noaa.gov/ddb/
