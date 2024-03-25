@@ -242,6 +242,13 @@ but you might consider using it to do one or more of the following:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Recommended Reading
+Here are some additional resources where you can learn more about encouraging newcomers to get involved with your Open Source project:
+
+1. _[Ten simple rules for helping newcomers become contributors to open projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296)_ by Dan Sholler, Igor Steinmacher, Denae Ford, Mara Averick, Mike Hoye, and Greg Wilson
+2. _[The Contributor Experience Handbook](https://contributor-experience.org/docs/guide/introduction.html)_, especially the following sections:
+    - _[Onboarding newcomers](https://contributor-experience.org/docs/guide/cx/onboarding.html)_
+    - _[Tracking first-time contributors' work](https://contributor-experience.org/docs/guide/cx/tracking_prs.html)_
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints

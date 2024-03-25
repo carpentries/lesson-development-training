@@ -42,7 +42,7 @@ but making sure you use any tool to plan and manage work on your lesson developm
 is better than making it up as you go along.
 
 ### Project Management in GitHub
-Carpentries lessons are developed in GitHub so it is convenient (but not a must) to use GitHub's [**Milestones**](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones) and [**Projects**](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) 
+Carpentries lessons are developed in GitHub so it is convenient (but not a must) to use GitHub's Milestones and Projects 
 to help you keep track of different components of the project and their current status. 
 
 Milestones are a way of organising issues on your project into smaller units of work (e.g. deliverables) that have deadlines and progress of which needs to be closely tracked (e.g. release management). 
@@ -114,7 +114,7 @@ the roles that project participants can take on and the process for decision mak
 You may wonder why you'd ever need a formal governance process - 
 after all, everyone in your team is collegial, polite and hard-working. 
 However, even among the most harmonious teams you will likely realise you need an agreed way to make decisions 
-and resolve conflicts when your team encounters their first real disagreement.
+and resolve conflicts when your team encounters their first real disagreement[^1].
 
 The moment your collaborator group exceeds 3 or 4 members 
 (and fewer if the collaborators do not all know each other equally well at the outset) 
@@ -131,11 +131,11 @@ Here are some aspects of governing a project that you should consider.
 These are borrowed from [the _Working in teams_ chapter](https://merely-useful.tech/py-rse/teams.html) of [_Research Software Engineering with Python_](https://merely-useful.tech/py-rse/index.html), 
 a book on how to work productively in small teams where everyone is welcome:
 
-- [Codes of Conduct](https://merely-useful.tech/py-rse/teams.html#teams-coc)
-- [meeting rules](https://merely-useful.tech/py-rse/teams.html#teams-meetings)
-- [decision-making process](https://merely-useful.tech/py-rse/teams.html#teams-martha)
-- [handling conflict](https://merely-useful.tech/py-rse/teams.html#teams-conflict)
-- [making all the above obvious to newcomers](https://merely-useful.tech/py-rse/teams.html#teams-documentation)
+- [Codes of Conduct](https://third-bit.com/py-rse/teams.html#teams-coc)
+- [meeting rules](https://third-bit.com/py-rse/teams.html#teams-meetings)
+- [decision-making process](https://third-bit.com/py-rse/teams.html#teams-martha)
+- [handling conflict](https://third-bit.com/py-rse/teams.html#teams-conflict)
+- [making all the above obvious to newcomers](third-bit.com/py-rse/teams.html#teams-documentation)
 
 For some other examples and inspirations of governance processes, consider the following:
 
@@ -222,6 +222,14 @@ and advice for facilitators on how to intervene and mitigate them.
 
 :::::::::::::::::::::::::::::::::::::::
 
+## Recommended Reading
+Here are some additional resources to learn more about Open Source project management/governance:
+
+1. _[Producing Open Source Software: How to Run a Successful Free Software Project](https://www.oreilly.com/library/view/producing-open-source/0596007590/)_ by Karl Fogel
+2. _[Program Management for Open Source Projects](https://pragprog.com/titles/bcosp/program-management-for-open-source-projects/)_ by Ben Cotton
+3. The _[Shared Ownership in Open Source Projects](https://book.the-turing-way.org/collaboration/shared-ownership)_ section of The Turing Way
+4. _[A guide to open source project governance models](https://www.redhat.com/rhdc/managed-files/rh-os-project-governance-overview-f24082wg-202006-en_1.pdf)_ from [Red Hat](https://www.redhat.com/en)
+
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
@@ -231,5 +239,7 @@ and advice for facilitators on how to intervene and mitigate them.
 - Make sure to consider and establish a governance model for your project early on - to describe the ground rules of participation and the process for decision making within the project.
 
 :::::::::::::::::::::::::::::::::::::::
+
+[^1]: The _[Challenges with Applying Ownership Models Retroactively](https://book.the-turing-way.org/collaboration/shared-ownership/shared-ownership-challenges) section of The Turing Way provides explores further challenges with trying to introduce governance structures to an established Open Source project. 
 
 [noaa-ddb]: https://coast.noaa.gov/ddb/

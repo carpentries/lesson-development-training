@@ -12,7 +12,7 @@ title: Reference
 1. Kirschner, Paul A, Sweller, John, Clark, Richard E. 2006. _Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching._ Educational Psychologist, 41 (2), 75-86. https://github.com/carpentries/instructor-training/blob/gh-pages/files/papers/kirschner-minimal-guidance-fails-2006.pdf
 1. Nicholls, G. 2002. _Developing teaching and learning in higher education._ London, UK: Routledge. https://www.taylorfrancis.com/books/mono/10.4324/9780203469231/developing-teaching-learning-higher-education-gill-nicholls
 1. Renkl, Alexander. 2014. _16 - The Worked Examples Principle in Multimedia Learning._ Part III - Advanced Principles of Multimedia Learning, The Cambridge Handbook of Multimedia Learning. https://www.cambridge.org/core/books/cambridge-handbook-of-multimedia-learning/worked-examples-principle-in-multimedia-learning/8753055D1FB47CF1E2BB897FD44FBEF8
-
+1. Sholler D, Steinmacher I, Ford D, Averick M, Hoye M, Wilson G (2019) Ten simple rules for helping newcomers become contributors to open projects. PLoS Comput Biol 15(9): e1007296. https://doi.org/10.1371/journal.pcbi.1007296
 
 
 ## Glossary
