@@ -92,3 +92,6 @@ instructors:
 
 # Learner Profiles
 profiles:
+
+# Enabling Matomo tracking for testing purposes
+varnish: tobyhodges/varnish@test-self-hosted-matomo
