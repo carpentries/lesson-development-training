@@ -159,7 +159,9 @@ Read about your given exercise type
 - [Parsons problems][parsons]
 - [minimal fix][minimal]
 
-Then, discuss the following questions together:
+(A [Spanish version of _Teaching Tech Together_](https://teachtogether.tech/es/index.html#s:exercises) is also available.)
+
+Then, considering the exercise type in general, as opposed to the specific example given in the text, discuss the following questions together:
 
 - What kind of skills would an exercise of this type assess?
   Try to identify some action verbs like those we used to write lesson objectives earlier in the workshop.
