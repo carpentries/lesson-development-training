@@ -43,13 +43,22 @@ Your lesson documentation should contain the following information, which should
 - **contact information** - include up-to-date email addresses or mailing lists or other details on how to get in touch with the lesson maintainers
 - **contributing information** - this is an opportunity to list what kinds of contributions are sought (and what are not) and how to get involved in lesson development for new contributors. You can provide more details in a separate `CONTRIBUTING` file within the repository’s root directory and link to it from `README`
 - **credits/acknowledgements** - make sure to credit those who have helped in the lesson's development or inspired it, and/or any resources/templates that you have reused. You can also link to a separate `AUTHORS.md` file within the repository’s root directory to list all the people who contributed to the lesson content (if this list starts to become too large to include in the `README` itself)
-- **citation** - a convention is to include the citation information for your lesson in a separate `CITATION` file within the repository’s root directory (and link to it from `README`) so others can cite the use of the lesson in their own publications and media and it can also be automatically discovered by other applications. Citation can be a Digital Object Identifier (DOI) issued by a reputable DOI-issuing repository such as [Zenodo](https://zenodo.org/), which should be obtained as a permanent identifier when your lesson reaches the beta phase, if not earlier, or an appropriate academic publication once your lesson becomes stable and is peer-reviewed.
+- **citation** - a convention is to include the citation information for your lesson in a separate `CITATION` file within the repository’s root directory and link to it from `README.md` so others can cite the use of the lesson in their own publications and media and it can also be automatically discovered by other applications. These `CITATION` files are discussed in more detail below.
+- **license** - a short description of and a link to the lesson’s license typically contained in a separate `LICENSE`, `LICENSE.txt` or `LICENSE.md` file within the repository’s root directory. The lesson repository created from the Carpentries lesson template already contains a default `LICENSE.md` file, but you should modify this to more accurately describe how the lesson content can be re-used by others.
+
+
+### Helping People Cite Your Lesson
 The default citation file for new lessons using The Carpentries Workbench is `CITATION.cff`, in [Citation File Format (CFF)](https://github.com/citation-file-format/citation-file-format). 
 CFF is defined using [YAML](https://yaml.org/spec/1.2.2/) (which we already encountered in the `config.yaml` file for the lesson website) and is [the recommended way of storing citations in GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/). If your lesson repository contains a `CITATION.cff` file, GitHub will automatically show the citation information in the sidebar, making it more visible and accessible for visitors to your repository. CFF is also recognised and supported by other platforms including [Zenodo](https://zenodo.org/) and the [Zotero reference manager](https://www.zotero.org/).
+
 The `CITATION.cff` file for newly-created lessons contains only placeholder information, which should be replaced with relevant details for your project as soon as practical.
 Citation information can also be contained in a plain text file (`CITATION`, `CITATION.txt`) or a Markdown file (`CITATION.md`). 
 In all cases, it is up to the lesson developers to decide what information to include in their citation file.
-- **license** - a short description of and a link to the lesson’s license typically contained in a separate `LICENSE`, `LICENSE.txt` or `LICENSE.md` file within the repository’s root directory. The lesson repository created from the Carpentries lesson template already contains a default `LICENSE.md` file, but you should modify this to more accurately describe how the lesson content can be re-used by others.
+
+#### Digital Object Identifiers
+We recommend that you obtain a [Digital Object Identifier (DOI)](https://the-turing-way.netlify.app/communication/citable/citable-steps.html?highlight=doi#dois) for your lesson as soon as feels appropriate, at the latest when the lesson reaches the beta phase. You can use this DOI in the citation information (e.g. [in the `identifiers` field of your `CITATION.cff`](https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md#identifiers)), to allow people to cite a particular version of your lesson, e.g. a snapshot of the lesson when it entered beta testing, captured as a Zenodo record.
+
+
 
 ### Instructions for Contributors - `CONTRIBUTING` File {#contributing}
 
