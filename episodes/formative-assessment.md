@@ -141,7 +141,7 @@ or use-in-a-different-context exercises.
 ## Exercise: Exercise Types and When to Use Them (15 minutes)
 
 The Trainers will assign you to pairs or small groups,
-and give each group an exercise type to focus on.
+and give each group an exercise to work on.
 Each group should assign a notetaker,
 to summarise your discussion at the end of the exercise.
 
@@ -149,6 +149,7 @@ to summarise your discussion at the end of the exercise.
 
 ### For lessons predominantly teaching programming skills
 
+The Trainers will assign your group a type of exercise to focus on.
 Read about your given exercise type
 [in the *Exercise Types* chapter of *Teaching Tech Together*](https://teachtogether.tech/en/index.html#s:exercises) by following the relevant link below.
 
@@ -173,19 +174,20 @@ Then, discuss the following questions together:
 
 ### For lessons predominantly teaching non-coding skills and concepts
 
-Read about your given exercise type
-[in the *Exercise Types* chapter of *Teaching Tech Together*](https://teachtogether.tech/en/index.html#s:exercises) by following the relevant link below.
+The Trainers will assign your group a type of exercise to focus on.
+Read about your given exercise type on the indicated pages of
+ [_Is This a Trick Question?_](https://cdm16884.contentdm.oclc.org/digital/collection/p16884coll42/id/147):
 
-- [multiple choice questions][mcq]
-- [fill-in-the-blanks][blanks]
-- [faded examples][faded-ex]
-- [Parsons problems][parsons]
-- [minimal fix][minimal]
+- multiple choice (page 13)
+- true-false (pages 20 & 21)
+- fill-in-the-blank (page 34)
+- authentic assessment (pages 46 & 47)
 
 Then, discuss the following questions together:
 
-- What kind of skills would an exercise of this type assess?
-  Try to identify some action verbs like those we used to write lesson objectives earlier in the workshop.
+- Could exercises of this type be used in your lesson? 
+- If so, can you identify any of your written objectives that could be assessed with an exercise of this type?
+- Have your Trainers set you any exercises of this type in this training so far?
 - Would this type of exercise be suited to a novice audience?
   Or is it a better fit for intermediate or advanced learners?
 - Would this kind of exercise work well in an in-person workshop setting?
