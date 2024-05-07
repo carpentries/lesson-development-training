@@ -158,6 +158,7 @@ but a few are accompanying files primarily intended for the repository itself
 rather than the lesson website.
 These are:
 
+- `CITATION.cff`
 - `CODE_OF_CONDUCT.md`
 - `CONTRIBUTING.md`
 - `LICENSE.md`
