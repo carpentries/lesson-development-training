@@ -188,5 +188,16 @@ If you are working on your lesson with others, swap with a partner and review ea
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+### Multiple Choice Questions for Assessing Higher Cognitive Skills
+One common misconception about multiple choice questions is that they can be used only to test the ability to recall information or explain concepts, and are not suitable for assessing higher cognitive skills such as analysis or evaluation of information.
+
+However, when supported by the appropriate scaffolding of information and context, multiple choice questions can be designed to exercise and assess these skills. Consider this advice, from [_Is This a Trick Question?_][trick-question] (page 19):
+
+> One way to write multiple choice questions that require more than recall is to develop questions that resemble miniature "cases" or situations. Provide a small collection of data, such as a description of a situation, a series of graphs, quotes, a paragraph, or any cluster of the kinds of raw information that might be appropriate material for the activities of your discipline.
+> 
+> Then develop a series of questions based on that material. These questions might require students to apply learned concepts to the case, to combine data, to make a prediction on the outcome of a process, to analyze a relationship between pieces of the information, or to synthesize pieces of information into a new concept.
+
+Just like the other exercise types explored in the main curriculum, designing effective multiple choice questions can be difficult but it is worth persevering with: a good set of exercises is a great asset to a lesson and especially helpful to instructors teaching it.
+
 [^1]: See chapter 1, _How Does Students' Prior Knowledge Affect Their Learning?_,
       of [Ambrose et al. 2010](learners/reference.md#litref).
