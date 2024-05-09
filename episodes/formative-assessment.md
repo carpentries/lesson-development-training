@@ -103,7 +103,7 @@ Some examples of formative assessments used so far in this training:
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Exercise Learner's Memory
+## Exercise Learners' Memory
 
 In a simplified model of memory individuals are equipped with two types of memory:
 working (also called short-term) and long-term.
@@ -224,6 +224,8 @@ may even be counter-productive for learners with a greater level of expertise[^1
 Thus you want to choose your objectives to fit your intended audience and your exercise formats to fit your objectives.
 
 ::::::::::::::::::::::::::::::::::::  testimonial
+
+### An Expert's View on Objectives and Audience Expertise
 
 *"Different types of lesson objectives (LOs) are better fit for novices,
 while others are better fit for competent practitioners, etc. and
