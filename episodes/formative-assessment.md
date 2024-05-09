@@ -152,7 +152,7 @@ to summarise your discussion at the end of the exercise.
 
 The Trainers will assign your group a type of exercise to focus on.
 Read about your given exercise type
-[in the *Exercise Types* chapter of *Teaching Tech Together*](https://teachtogether.tech/en/index.html#s:exercises) by following the relevant link below.
+[in the *Exercise Types* chapter of *Teaching Tech Together*][ttt-exercises] by following the relevant link below.
 
 - [multiple choice questions][mcq]
 - [fill-in-the-blanks][blanks]
@@ -179,7 +179,7 @@ Then, considering the exercise type in general, as opposed to the specific examp
 
 The Trainers will assign your group a type of exercise to focus on.
 Read about your given exercise type on the indicated pages of
- [_Is This a Trick Question?_](https://cdm16884.contentdm.oclc.org/digital/collection/p16884coll42/id/147):
+ [_Is This a Trick Question?_][trick-question]:
 
 - multiple choice (page 13)
 - true-false (pages 20 & 21)
@@ -203,6 +203,15 @@ Share the major points of your discussion in the collaborative notes document.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+::::::::::::::::::::::::::::::::::::::::: callout
+
+### Recommended Reading
+
+Both of the resources linked from the exercise above, [the _Exercise Types_ chapter of _Teaching Tech Together_][ttt-exercises] and [_Is This a Trick Question?_][trick-question] are worth reading in full. They collect a lot of insightful discussion and illustrative examples together, which can prove very useful when designing exercises for your lesson.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 As you discussed with your group in the last exercise,
