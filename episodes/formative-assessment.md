@@ -103,7 +103,7 @@ Some examples of formative assessments used so far in this training:
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Exercise Your Memory
+## Exercise Learners' Memory
 
 In a simplified model of memory individuals are equipped with two types of memory:
 working (also called short-term) and long-term.
@@ -131,6 +131,7 @@ or use-in-a-different-context exercises.
 
   - [Exercise Types Chapter from Teaching Tech Together](https://teachtogether.tech/en/index.html#s:exercises)
   - [Edutopia's 56 Examples of Formative Assessment](https://www.edutopia.org/groups/assessment/250941)
+  - ["21 ways to check for student understanding"](https://www.opencolleges.edu.au/informed/features/21-ways-to-check-for-student-understanding/) 
   - [H5P Examples and Downloads for Interactive Content](https://h5p.org/content-types-and-applications)
 
 :::
@@ -141,13 +142,13 @@ or use-in-a-different-context exercises.
 ## Exercise: Exercise Types and When to Use Them (15 minutes)
 
 The Trainers will assign you to pairs or small groups,
-and give each group an exercise to work on.
+and give each group an exercise type to work on.
 Each group should assign a notetaker,
 to summarise your discussion at the end of the exercise.
 
 :::::::::::::::::::::::: hint
 
-### For lessons predominantly teaching programming skills
+### For lessons predominantly teaching coding skills
 
 The Trainers will assign your group a type of exercise to focus on.
 Read about your given exercise type
@@ -222,6 +223,28 @@ may even be counter-productive for learners with a greater level of expertise[^1
 
 Thus you want to choose your objectives to fit your intended audience and your exercise formats to fit your objectives.
 
+::::::::::::::::::::::::::::::::::::  testimonial
+
+### An Expert's View on Objectives and Audience Expertise
+
+*"Different types of lesson objectives (LOs) are better fit for novices,
+while others are better fit for competent practitioners, etc. and
+if exercises (formative assessments) are well aligned to LOs,
+[they] will automatically serve the corresponding audience.
+Thinking in terms of LOs
+(What should a learner do in order to achieve this specific LO?
+Is this LO exactly what learners are expected to achieve by the end of this piece of instruction? etc.)
+is easier than thinking in terms of LOs + audience + content.
+LOs should be tailored to the audience, and,
+if this is well done, you may stop worrying about the audience.
+Create LOs for the specific audience and create assessments for specific LOs."*
+
+\- Dr. Allegra Via, Carpentries Instructor Trainer
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 ::::::::::::::::::::::::::::::::::::::::: callout
 
 ### Identifying Misconceptions
@@ -241,26 +264,6 @@ We recommend that you read the sections of the Instructor Training curriculum an
 You may also find it interesting and helpful to review our supplementary page digging into [misconceptions and multiple choice questions](../learners/misconceptions-mcqs.md) in more detail.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-::::::::::::::::::::::::::::::::::::  testimonial
-
-*"Different types of lesson objectives (LOs) are better fit for novices,
-while others are better fit for competent practitioners, etc. and
-if exercises (formative assessments) are well aligned to LOs,
-[they] will automatically serve the corresponding audience.
-Thinking in terms of LOs
-(What should a learner do in order to achieve this specific LO?
-Is this LO exactly what learners are expected to achieve by the end of this piece of instruction? etc.)
-is easier than thinking in terms of LOs + audience + content.
-LOs should be tailored to the audience, and,
-if this is well done, you may stop worrying about the audience.
-Create LOs for the specific audience and create assessments for specific LOs."*
-
-\- Dr. Allegra Via, Carpentries Instructor Trainer
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ::::::::::::::::::::::::::::::::::::::  challenge
