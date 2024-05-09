@@ -217,6 +217,12 @@ for your lesson or general data repositories such as:
 Referring to the advice given above, find an appropriate dataset or a narrative for your lesson.
 Identify one or more potential candidates and note down the advantages and disadvantages of each one.
 
+Takes notes in your Lesson Design Notes document about your discussion and the decisions made. It may be particularly helpful to record:
+
+* Which datasets and narratives did you consider?
+* How and why did you choose between them?
+* What implications do you think your choice of dataset and/or narrative will have for the design and further implementation of your lesson?
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 People learn faster if they are motivated[^2],
