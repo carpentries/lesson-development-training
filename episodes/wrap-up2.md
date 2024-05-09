@@ -1,5 +1,5 @@
 ---
-title: Wrap-up
+title: Final Wrap-up
 teaching: 5
 exercises: 25
 ---
@@ -8,144 +8,144 @@ exercises: 25
 
 After completing this episode, participants should be able to...
 
-- Summarise the lesson development process introduced in this training.
-- Describe the trial run task to be completed before the next part of the training
-- Identify remaining tasks that should be completed before trialling lesson content.
+- Draw a diagram or compose a written summary of the key concepts from this training.
+- Articulate constructive feedback.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- What have we learned so far?
-- What needs to be done before the next part of the training?
+- What steps can you take to be a good collaborator?
+- How can we improve this training?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Recent sections of this training have focused on how to design effective
-assessments and write a lesson that will be engaging and motivating for learners.
-We provided further opportunities to apply these concepts to the development
-of a lesson website with The Carpentries Workbench.
-Next, we explored The Carpentries lesson development ecosystem and how a new lesson
-project can fit into that.
-We finished up with a discussion of the importance of teaching a new lesson
-and how best to prepare for that experience.
+We have reached the end of this training.
 
-The final sessions will focus on collaboration skills, exploring how trainees can
-curate their repository and manage their project to foster collaboration and
-build community around a lesson.
+## Looking Back
 
-Before that, there will be an extended break during which trainees should conduct a
-_trial run_ of the lesson content they have been developing in the workshop so far.
-When the training recommences,
-there will be an opportunity for trainees to share their experiences and reflections
-from those trial runs, and to discuss what impact that will have on the next stages
-of their lesson development.
+Throughout this training we promoted a collaborative approach to lesson development (as many other initiatives in The Carpentries community are conducted). Collaboration helps bring different skills and perspectives to a project and share the load of the work required to bring the project successfully past the finishing line. For lesson projects, this shared effort also extends to maintaining and updating the lesson after the initial development phase.
 
-:::::::::::::::::::::::::::::::::::::::  challenge
+::::::::::::: discussion
 
-## Polish a Lesson (20 minutes)
+## Exercise: What steps can you take to be a good collaborator? (20 minutes)
 
-This exercise provides you with a chance to look back over 
-everything you have sketched out for your episode(s) and the lesson as a whole 
-and consider what still needs to be done before it can be taught.
+Spend some time reflecting on collaboration aspects we covered in this training and exploring at least two of the 
+following lesson repositories, noting down what things you noticed in these repositories that could aid collaboration:
 
-You can use this time however you judge will be most beneficial
-to your preparations for teaching your episode in a trial run.
+- [Collaborative Lesson Development Training](https://github.com/carpentries/lesson-development-training) (this lesson)
+- [Introduction to Working with Data (Regular Expressions)](https://github.com/librarycarpentry/lc-data-intro/) official Library Carpentry lesson
+- [Introduction to Geospatial Raster and Vector Data with Python](https://github.com/carpentries-incubator/geospatial-python) lesson in Carpentries Incubator
+- [Introduction to R for Metagenomics](https://github.com/carpentries-lab/metagenomics-R) lesson in Carpentries Lab
 
-If you are not sure how to start,
-consider mapping out the relationships between the objectives of your episode 
-and the examples and exercises via which they will be taught and assessed.
-For example,
+Trainers will then lead a discussion on what people found and steps you could take to improve your lesson repository. 
 
-> The read CSV and inspect demo supports Objective 2 
-> (load a simple CSV data set with Pandas) 
-> and will be delivered using participatory live coding.
-> The objective will be assessed with an exercise that 
-> requires learners to apply the read_csv function to another file
-> and count the rows in the resulting DataFrame object.
+:::::::::::::
 
-- Does any of your planned content not support any learning objectives?
-- Is there at least one piece of content planned for each learning objective?
-- Is there a formative assessment planned for each learning objective?
+### Collaboration Top Tips
 
-- What do you still need to add/work on? 
-- What can you remove/consider removing?
-- How will the narrative and example data you have chosen for your lesson support teaching and assessment?
-- What diagram or other visual aids could you add to supplement your text?
+While you will know the best collaboration practices for your team, here are some suggestions:
 
-::::::::::::::::::::::::::::::::::::::::::::::::::
+1. Provide ‘external-facing’ features for your lesson (such as description, objectives, contribution and 'how to get involved'
+   guides, preferred way of communication) - these will be universally useful for everyone coming to your repository (your team included).
+2. Find the best tools that work for your team for communication, documentation and knowledge sharing, issue & project management.
+3. Document and share knowledge within the team to facilitate team collaboration. Share decisions and communicate with your team synchronously and asynchronously.
+4. Plan your meetings to get the most out of your team (e.g. set agenda, assign meeting roles - chair, note-taker, time-keeper, etc.)
+   and be appreciative of people's times.
+5. Record and manage issues with your lesson as you develop, trial and maintain it (e.g. assign people responsible for
+   issues, categorise and prioritise them).
+6. Assign tasks and roles to distribute the responsibilities - this includes assigning larger roles (project management
+   & governance) to team members and assigning specific issues/tasks to collaborators. Progress is much more likely to be made
+   when people know what they and others should be working on.
+7. Dedicated sprints where the whole team works on a set of issues towards a milestone work well for lesson development and making progress on projects in general.
+8. Be open and welcoming to new contributors and provide different opportunities to get involved with your project
+   (from novice to expert collaborators). Point to upskilling guides (or run upskilling sessions if possible) to bring people
+   up to speed.
+9. Manage contributions in a timely manner by noticing when things happen and responding to new issues, comments and
+   Pull Requests (PRs). Show appreciation for everyone's contributions.
+10. People bring different perspectives, expertise and skills to a collaborative project and, while they can be productive
+    and harmoniously complement each other, having some decision making and conflict resolution process in place will make sure
+    progress can be made when disagreements arise.
 
+## Looking Ahead
 
-Please spend some time reflecting on what you learned so far and then provide another round of feedback 
-to your trainers.
+By now, you should have made good progress towards a first draft of your lesson.
+
+Referring back to [the life cycle stages for lessons](operations.md)
+described earlier in the curriculum,
+your lesson is still in _pre-alpha_ but hopefully approaching _alpha_,
+when it is ready to be taught in full for the first time.
+
+As you and your collaborators continue to iterate over the lesson -
+teaching it, gathering feedback, reflecting on the experience,
+and improving it for next time -
+the lesson will pass through _alpha_ into the _beta_ and _stable_ stages
+(perhaps via [peer review in The Carpentries Lab][carpentries-lab]).
+
+Your role as the original developers of the lesson,
+and the kind of interactions/contributions taking place on your repository,
+will change as you move through these stages.
+
+| Life cycle stage | Type of contribution | Your role |
+|------------------|----------------------|-----------|
+| pre-alpha        | new content and whole new episodes; changes/additions to lesson objectives | active development; onboarding new collaborators; project management |
+| alpha            | improving existing content; adding/expanding/removing content; polishing changes/typo fixes | active development; reviewing changes; documenting feedback/actions based on pilot workshops; project management |
+| beta             | feedback from pilot workshops; polishing changes; expanding instructor notes; suggestions for major overhauls/reorganisations | recruiting pilot instructors; reviewing changes; guiding contributors |
+| stable           | feedback from workshops; polishing changes; new/updated content | reviewing changes; guiding contributors; onboarding new maintainers; stepping away from the project |
+
+## Farewell and Feedback
+
+Thank you for following this training.
+We hope you found it helpful to build a foundation for your current lesson project
+and to prepare you to collaborate on other projects in the future.
+
+To bring the training to a close,
+the Trainers will lead a number of activities to gather feedback
+and help you reflect on the experience.
 
 ::: challenge
 
-## Organise Your Knowledge (10-15 min)
+## One Up, One Down (10 min)
 
-Take some time to think back on what has been covered so far,
-then make some notes on the most important points and actions you want to take away from that.
-The Trainers and other participants will not look at this - it is only for you.
+Provide one up, one down feedback on the entire Collaborative Lesson Development Training.
+Remember:
 
-If you do not know where to start, consider the following list for a starting point:
-
-- draw a concept map, connecting the material
-- draw pictures or a comic depicting one or more of the concepts
-- write an outline of the topics we covered
-- write a paragraph or “journal” entry about your experience of the training today
-- write down one thing that struck you the most
+- Say only one thing, and try not to duplicate.
+  This gets harder for those who come later!
+- Trainers should try not to respond, only record responses (e.g. in the Etherpad).
+  This is also hard, but important!
 
 :::::::::::::
 
 
 ::: challenge
 
-## Feedback (5 min)
+### Reflection exercise (15 min)
 
-The Trainer(s) will ask for feedback on the training so far.
-Take some time to provide this feedback, before moving onto the second part of this task.
+Take this time to reflect on what you have learned in this last part of the training,
+and take some action to plan to successfully complete the development of your lesson
+after you leave.
+It is up to you how you use this time, but you might find some inspiration in the prompts below.
+
+- How could you use the project management features of GitHub to
+  prepare for the next stage of the lesson development process?
+- If you have been working in a collaborative group,
+  what steps could your group take to improve the way you work together
+  for the remainder of the project?
+- If you have been working on the lesson alone so far,
+  what steps could you take to find new collaborators to help you
+  with the further development of your lesson?
+- Based on the experience of teaching a section of your lesson,
+  do the objectives you wrote for your lesson still seem realistic?
+  Can you identify anything that can be added or removed
+  now that you have completed a trial run?
 
 :::::::::::::
 
-Please stay in touch as you plan for your trial run.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-## Adding Design Notes to the Lesson Site
-
-If trainees would like to add the Design Notes document
-they have been working on to their lesson site,
-they can do the following:
-
-1. replace the first 13 lines with
-
-  ```
-  ---
-  title: Lesson Design Notes
-  ---
-  ```
-2. save the file to the `instructors/` directory, and any images used in the file to the `episodes/fig` directory
-   (the paths to source files for images will need to be adjusted to begin `episodes/fig/`)
-3. add the filename below `instructors:` in `config.yml` as they have done 
-   [for episode filenames below `episodes:` previously](./infrastructure.html#adding-a-new-episode-to-the-lesson-navigation).
-   For example, if their file is saved with the name 'design-notes.md':
-
-  ```yaml
-  # Information for Instructors
-  instructors:
-  - design-notes.md
-  ```
-
-This will make the page accessible from the 'More' dropdown in Instructor View.
-
-_Note that concept maps with GraphViz are not currently supported by the lesson infrastructure,
-so any concept maps added to the document on CodiMD will not be displayed correctly on the lesson site._
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- We have learned about the importance of exercises and data in a lesson, the ecosystem The Carpentries provides for lesson development, and how to prepare to teach a lesson for the first time.
-- Before the next part of the training, you should teach a part of your new lesson to a real audience and reflect on the experience.
+- Documenting your lesson project, curating your lesson repository, welcoming new contributions, and taking advantage of GitHub's project management features all make it easier for people to collaborate with you.
+- Any lesson can be improved with feedback, including this one.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
