@@ -103,7 +103,7 @@ Some examples of formative assessments used so far in this training:
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Exercise Your Memory
+## Exercise Learner's Memory
 
 In a simplified model of memory individuals are equipped with two types of memory:
 working (also called short-term) and long-term.
@@ -142,13 +142,13 @@ or use-in-a-different-context exercises.
 ## Exercise: Exercise Types and When to Use Them (15 minutes)
 
 The Trainers will assign you to pairs or small groups,
-and give each group an exercise to work on.
+and give each group an exercise type to work on.
 Each group should assign a notetaker,
 to summarise your discussion at the end of the exercise.
 
 :::::::::::::::::::::::: hint
 
-### For lessons predominantly teaching programming skills
+### For lessons predominantly teaching coding skills
 
 The Trainers will assign your group a type of exercise to focus on.
 Read about your given exercise type
