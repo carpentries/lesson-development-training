@@ -131,6 +131,7 @@ or use-in-a-different-context exercises.
 
   - [Exercise Types Chapter from Teaching Tech Together](https://teachtogether.tech/en/index.html#s:exercises)
   - [Edutopia's 56 Examples of Formative Assessment](https://www.edutopia.org/groups/assessment/250941)
+  - ["21 ways to check for student understanding"](https://www.opencolleges.edu.au/informed/features/21-ways-to-check-for-student-understanding/) 
   - [H5P Examples and Downloads for Interactive Content](https://h5p.org/content-types-and-applications)
 
 :::
