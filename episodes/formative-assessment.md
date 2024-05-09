@@ -223,6 +223,26 @@ may even be counter-productive for learners with a greater level of expertise[^1
 
 Thus you want to choose your objectives to fit your intended audience and your exercise formats to fit your objectives.
 
+::::::::::::::::::::::::::::::::::::  testimonial
+
+*"Different types of lesson objectives (LOs) are better fit for novices,
+while others are better fit for competent practitioners, etc. and
+if exercises (formative assessments) are well aligned to LOs,
+[they] will automatically serve the corresponding audience.
+Thinking in terms of LOs
+(What should a learner do in order to achieve this specific LO?
+Is this LO exactly what learners are expected to achieve by the end of this piece of instruction? etc.)
+is easier than thinking in terms of LOs + audience + content.
+LOs should be tailored to the audience, and,
+if this is well done, you may stop worrying about the audience.
+Create LOs for the specific audience and create assessments for specific LOs."*
+
+\- Dr. Allegra Via, Carpentries Instructor Trainer
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 ::::::::::::::::::::::::::::::::::::::::: callout
 
 ### Identifying Misconceptions
@@ -242,26 +262,6 @@ We recommend that you read the sections of the Instructor Training curriculum an
 You may also find it interesting and helpful to review our supplementary page digging into [misconceptions and multiple choice questions](../learners/misconceptions-mcqs.md) in more detail.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-::::::::::::::::::::::::::::::::::::  testimonial
-
-*"Different types of lesson objectives (LOs) are better fit for novices,
-while others are better fit for competent practitioners, etc. and
-if exercises (formative assessments) are well aligned to LOs,
-[they] will automatically serve the corresponding audience.
-Thinking in terms of LOs
-(What should a learner do in order to achieve this specific LO?
-Is this LO exactly what learners are expected to achieve by the end of this piece of instruction? etc.)
-is easier than thinking in terms of LOs + audience + content.
-LOs should be tailored to the audience, and,
-if this is well done, you may stop worrying about the audience.
-Create LOs for the specific audience and create assessments for specific LOs."*
-
-\- Dr. Allegra Via, Carpentries Instructor Trainer
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ::::::::::::::::::::::::::::::::::::::  challenge
