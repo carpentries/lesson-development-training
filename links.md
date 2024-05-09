@@ -22,4 +22,6 @@
 [pilot-notes-template]: https://codimd.carpentries.org/lesson-pilot-observation-notes-template#
 [swc]: https://software-carpentry.org/
 [swc-lessons]: https://software-carpentry.org/lessons/
+[trick-question]: https://cdm16884.contentdm.oclc.org/digital/collection/p16884coll42/id/147
+[ttt-exercises]: https://teachtogether.tech/en/index.html#s:exercises
 [workbench]: https://carpentries.github.io/workbench/

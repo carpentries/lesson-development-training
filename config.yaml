@@ -84,6 +84,7 @@ episodes:
 learners:
 - pilot-description.md
 - markdown-github-primer.md
+- misconceptions-mcqs.md
 - trial-runs.md
 - reference.md
 

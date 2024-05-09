@@ -1,7 +1,7 @@
 ---
-title: Stay on Target
-teaching: 35
-exercises: 35
+title: Designing Assessments
+teaching: ??
+exercises: ??
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -9,14 +9,15 @@ exercises: 35
 After completing this episode, participants should be able to...
 
 - Describe the importance of regular assessment while a lesson is being taught.
-- Design assessments to identify the misconceptions learners might have during your lesson.
+- Choose the format for an exercise based on the outcome it is intended to measure.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
 - How can you measure learners' progress towards your lesson objectives?
-- Why is it important to identify misconceptions as early as possible?
+- Why are exercises so important in a lesson?
+- What are some different types of exercises, and when should they be used?
 - Why should we create assessments before we have written the explanatory content of our lesson?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -63,7 +64,7 @@ data about learning attainment by individuals and entire cohorts but are not use
 
 **Formative assessments** are applied throughout a course and with several different purposes: they provide a way to move [new information from working memory to long-term memory](https://carpentries.github.io/instructor-training/05-memory.html#using-formative-assessment-to-support-memory-consolidation); they can inform instructors' decisions about how to modify instruction to better promote learning; they also inform learners about changes they may need to make to improve their learning. Ideally, they should be used often (e.g. after every 15-20 minutes of teaching), providing opportunities to instructors to change pace and refocus  learners’ attention. For short courses, formative assessments are usually more valuable and easier to implement in practice than summative assessments - they need not be complex or time-consuming, just informative enough about learning for both instructors and learners.
 
-The most effective way to test learner understanding is  to do such assessments in class - they engage all learners and allow instructors to check learners' confidence with the content and its delivery, can help you deal with any potential misunderstandings as soon as they arise, and maximise the value of workshop for everyone. Such formative assessments also help with *metacognition* - the awareness a learner has that they are succeeding in learning something new.
+The most effective way to test learner understanding is to do such assessments in class - they engage all learners and allow instructors to check learners' confidence with the content and its delivery, can help you deal with any potential misunderstandings as soon as they arise, and maximise the value of workshop for everyone. Such formative assessments also help with *metacognition* - the awareness a learner has that they are succeeding in learning something new.
 
 Any instructional tool that generates feedback and is used in a formative way to check for learners' understanding can be described as “formative assessment”. For example,
 
@@ -73,231 +74,264 @@ Any instructional tool that generates feedback and is used in a formative way to
 - **think, pair, share** - learners _think_ about an answer to a question, _pair_ up
 with a classmate to discuss their answer, and then _share_ out the consensus they came to
 with the class.
+- **exercises** - setting challenges for learners to tackle and raising questions for discussion among the group. For example, Parson's Problems, which we will learn more about in the next exercise.
 
 Many other formative assessment tools can be found in Briggs’ list of ["21 ways to check for student understanding"](https://www.opencolleges.edu.au/informed/features/21-ways-to-check-for-student-understanding/) or Edutopia's ["56 Examples of Formative Assessment"](https://www.edutopia.org/groups/assessment/250941).
 
-**Exercises** are one important type of formative assessment. We will now have a look into exercises that perform misconception checks and ask students diagnostic questions; we will cover a few other types of exercises that help with retaining
-new knowledge in one of the later episodes.
 
-## Detecting Misconceptions
+::::::::::::::::::::::::::::::::::::::: challenge
 
+### Formative Assessments in this Training
+Think back through the parts of this training you have followed so far.
+Identify two examples of formative assessment that the Trainers have employed so far.
+As an extra challenge, try to decide whether these assessments were used to assess progress towards a particular learning objective and, if so, what the relevant objective might have been.
+
+:::::::::::::::::::: solution
+
+### Solution
+Some examples of formative assessments used so far in this training:
+
+- Exercises such as the one asking trainees to [describe the target audience of their lesson](introduction.md#target-audience-exercise)
+    - this exercise aims to assess how well trainees are able to identify the aspects of a target audience that influence the design of a lesson. It also aims to expose any inconsistencies between the visions of the target audience held by different collaborators.
+- Your trainers have probably checked in with the group at various points in the training.
+    - Although these check-ins are not specific to a particular objective, they help give us an impression of how well trainees are able to follow what we are teaching.
+- Tracking the progress of your [lesson repository configuration](infrastructure.md) on GitHub.
+    - This helps us evaluate trainees' progress towards the learning objectives we have set in relation to the lesson infrastructure.
+
+:::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+## Exercise Learners' Memory
+
+In a simplified model of memory individuals are equipped with two types of memory:
+working (also called short-term) and long-term.
+Long-term memory essentially has unlimited storage but is slow to access, whereas
+working memory is quicker to access but can only hold a limited number of items at a time.
+For teaching, the goal is to help learners move the new things they've learned from
+working memory into long-term memory.
+Exercises help with this by providing learners an opportunity to practice what was recently learned.
+Exercises should occur frequently throughout the lesson to free up working memory and make space for more new information.
+
+Creating exercises builds upon the learning objectives you created earlier in the lesson design process.
+You can design exercises based on the actions/skills you described in your
+learning objectives (the learning outcomes you intend for the lesson).
+This will be easier if your wrote learning objectives with specific action verbs.
+Specific verbs can help you decide what action you want the learners to perform in the exercise.
+E.g. actions such as "explain" and "describe" may be better assessed by discussions
+and multiple choice questions, while "solve," "construct," "test" and other
+higher-level cognitive skills may be better assessed by debugging tasks, [code-and-run][code-and-run],
+or use-in-a-different-context exercises.
+
+
+::: callout
+
+### Resources to Explore for More Example Assessment Types
+
+  - [Exercise Types Chapter from Teaching Tech Together](https://teachtogether.tech/en/index.html#s:exercises)
+  - [Edutopia's 56 Examples of Formative Assessment](https://www.edutopia.org/groups/assessment/250941)
+  - ["21 ways to check for student understanding"](https://www.opencolleges.edu.au/informed/features/21-ways-to-check-for-student-understanding/) 
+  - [H5P Examples and Downloads for Interactive Content](https://h5p.org/content-types-and-applications)
+
+:::
+
+
+::::::::::::::::::::::::::::::::::::::  challenge
+
+## Exercise: Exercise Types and When to Use Them (15 minutes)
+
+The Trainers will assign you to pairs or small groups,
+and give each group an exercise type to work on.
+Each group should assign a notetaker,
+to summarise your discussion at the end of the exercise.
+
+:::::::::::::::::::::::: hint
+
+### For lessons predominantly teaching coding skills
+
+The Trainers will assign your group a type of exercise to focus on.
+Read about your given exercise type
+[in the *Exercise Types* chapter of *Teaching Tech Together*][ttt-exercises] by following the relevant link below.
+
+- [multiple choice questions][mcq]
+- [fill-in-the-blanks][blanks]
+- [faded examples][faded-ex]
+- [Parsons problems][parsons]
+- [minimal fix][minimal]
+
+(A [Spanish version of _Teaching Tech Together_](https://teachtogether.tech/es/index.html#s:exercises) is also available.)
+
+Then, considering the exercise type in general, as opposed to the specific example given in the text, discuss the following questions together:
+
+- What kind of skills would an exercise of this type assess?
+  Try to identify some action verbs like those we used to write lesson objectives earlier in the workshop.
+- Would this type of exercise be suited to a novice audience?
+  Or is it a better fit for intermediate or advanced learners?
+- Would this kind of exercise work well in an in-person workshop setting?
+  Would it be better suited to self-directed learning and/or a virtual workshop?
+
+:::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::: hint
+
+### For lessons predominantly teaching non-coding skills and concepts
+
+The Trainers will assign your group a type of exercise to focus on.
+Read about your given exercise type on the indicated pages of
+ [_Is This a Trick Question?_][trick-question]:
+
+- multiple choice (page 13)
+- true-false (pages 20 & 21)
+- fill-in-the-blank (page 34)
+- authentic assessment (pages 46 & 47)
+
+Then, discuss the following questions together:
+
+- Could exercises of this type be used in your lesson? 
+- If so, can you identify any of your written objectives that could be assessed with an exercise of this type?
+- Have your Trainers set you any exercises of this type in this training so far?
+- Would this type of exercise be suited to a novice audience?
+  Or is it a better fit for intermediate or advanced learners?
+- Would this kind of exercise work well in an in-person workshop setting?
+  Would it be better suited to self-directed learning and/or a virtual workshop?
+
+
+:::::::::::::::::::::::::::::
+
+Share the major points of your discussion in the collaborative notes document.
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+::::::::::::::::::::::::::::::::::::::::: callout
+
+### Recommended Reading
+
+Both of the resources linked from the exercise above, [the _Exercise Types_ chapter of _Teaching Tech Together_][ttt-exercises] and [_Is This a Trick Question?_][trick-question] are worth reading in full. They collect a lot of insightful discussion and illustrative examples together, which can prove very useful when designing exercises for your lesson.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+As you discussed with your group in the last exercise,
+different types of learning objectives work better for novices,
+while others are a better fit for competent practitioners or experts.
+
+This can be understood in terms of the types of exercises that suit the objective:
+exercise types that help manage cognitive load for the learner,
+such as [fill-in-the-blanks][blanks], [faded examples][faded-ex] or [Parsons problems][parsons]
+(which all provide a lot of the guiding process/scaffolding code and allow the learner to focus on a specific concept or skill)
+are a good fit for a novice, to whom all elements of the topic are new.
+However, these kinds of exercise do not provide an opportunity for learners
+to develop higher-level skills,
+such as the ability to create whole new functions or scripts,
+or to extrapolate from the examples they have seen to solve a different kind of problem.
+Indeed, example and exercise types that are helpful to novices 
+may even be counter-productive for learners with a greater level of expertise[^1].
+
+Thus you want to choose your objectives to fit your intended audience and your exercise formats to fit your objectives.
+
+::::::::::::::::::::::::::::::::::::  testimonial
+
+### An Expert's View on Objectives and Audience Expertise
+
+*"Different types of lesson objectives (LOs) are better fit for novices,
+while others are better fit for competent practitioners, etc. and
+if exercises (formative assessments) are well aligned to LOs,
+[they] will automatically serve the corresponding audience.
+Thinking in terms of LOs
+(What should a learner do in order to achieve this specific LO?
+Is this LO exactly what learners are expected to achieve by the end of this piece of instruction? etc.)
+is easier than thinking in terms of LOs + audience + content.
+LOs should be tailored to the audience, and,
+if this is well done, you may stop worrying about the audience.
+Create LOs for the specific audience and create assessments for specific LOs."*
+
+\- Dr. Allegra Via, Carpentries Instructor Trainer
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+::::::::::::::::::::::::::::::::::::::::: callout
+
+### Identifying Misconceptions
 Detecting and correcting 
 [misconceptions](https://carpentries.github.io/instructor-training/02-practice-learning.html#misconceptions) 
 and fixing learners' incorrect/broken 
 [mental models](https://carpentries.github.io/instructor-training/02-practice-learning.html#building-a-mental-model) 
 is as important as presenting your learners with new knowledge and correct information. 
-_Why is it important to identify misconceptions as early as possible?_ 
 When mental models are broken, learning can occur slower than you might expect[^1]. 
 The longer a prior incorrect model is in use, and the more extensively it has to be "unlearned", 
 the more it can actively interfere with the incorporation of the new correct knowledge 
 (since it will contradict the misconceptions already present in the mental model).
-          
-### Example Misconceptions
 
-#### Everyday Life Example
+When designed well, [multiple choice questions can diagnose misconceptions](http://teachtogether.tech/en/index.html#s:models-formative-assessment) you predict that learners might have, and help you correct them quickly.
 
-An example misconception from everyday life ([borrowed from The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/instructor/02-practice-learning.html#misconceptions)) is, knowing that a 
-bigger object (more volume) pushes out more water out of a basin than a smaller object (less volume), 
-assuming that the similar principle will apply for objects of different weights. Surprisingly, 
-heavier objects of the same volume as lighter ones will not push out more water.
-![A misconception on how objects' mass affects the amount of water it can 'push out'](https://carpentries.github.io/instructor-training/fig/ballwater3a.svg){alt='Four sets of words inside rectangles, with labeled arrows connecting them. "Ball" is at the left, and "Water", at right. "Big Ball" and "Small Ball" are stacked vertically between them. Arrows from "Ball" are labeled with "Heavy Ball" and "Light Ball", and arrows to "Water" are labeled as "Pushes out MORE" and "Pushes out "LESS. There is a red "X" over the arrows labeled "Pushes out MORE" and "Pushes out LESS"'}
+We recommend that you read the sections of the Instructor Training curriculum and _Teaching Tech Together_ linked above. 
+You may also find it interesting and helpful to review our supplementary page digging into [misconceptions and multiple choice questions](../learners/misconceptions-mcqs.md) in more detail.
 
-#### Coding Example
-
-Another misconception, sometimes encountered by people who are learning programming languages
-such as R and Python having used spreadsheets, is that variables in programs calculated by 
-referencing other variables in formulas will retain the connection and be updated automatically 
-when the referenced variables change. Variables in R or Python programs can use other variables 
-in calculations (e.g. `a = b + 3`), but they do not behave like cells in spreadsheets
-and updating the value of variable `b` after the previous assignment will not change the value of `a`.
-
-#### Copyright / Licencing Example
-
-Misconceptions often arise around topics of copyright and licencing of work/content (e.g. data, 
-software, written material). Copyright allows a creator to state that they own the work they have created. This declaration is optional - even if the creator does not explicitly assert it, copyright of the work exists from the moment of creation. A licence is a legal document which sets down the terms under which the creator is releasing what they have created for others to use, modify, extend or exploit.
-If this information is not provided, some will not reuse the work at all while others will assume they are free to do whatever they want with the work (as there is nothing to say that they cannot). This former is the correct assumption, even if this was not the intention of the copyright owner.
+:::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: misconceptions (5 minutes)
+## Exercise: Assessing Progress Towards an Objective (30 minutes)
 
-What are the common misconceptions learners can have about the topic of your lesson?
-How might you identify that misconception in your learners while they follow your lesson?
-Share your answer in the collaborative notes document.
+Using one of the exercise formats you have learned about so far,
+design an exercise that will require learners to perform one of the actions
+described in the objectives you wrote earlier,
+and that assesses their ability to do so.
 
-Hint: Try thinking about related or common tools the learners might know and how
-applying that prior knowledge might lead to a misconception with
-the topic you are teaching.
+These should be assessments of the lower-level objectives defined
+for individual episodes in the lesson,
+as opposed to the lesson-level objectives you wrote first.
+
+Trainees working as a team can choose whether to 
+work together on discussing and designing a single exercise to assess a single objective,
+or to divide their efforts and each focus on an exercise for their own episode.
+If you choose to take the latter approach and finish with time to spare,
+spend the remainder reviewing and providing feedback on one another's assessments.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-            
-###  Multiple Choice Questions (MCQs)
 
-[Multiple choice question (MCQ)](https://carpentries.github.io/instructor-training/02-practice-learning.html#using-formative-assessment-to-identify-misconceptions) exercises are types of a formative assessment that can help you target anticipated misconceptions. When designed carefully, each incorrect answer in a MCQ will have diagnostic power and provide valuable insight into how a mental model is broken. For example, suppose we are teaching children multi-digit addition. An example of a well-designed MCQ ([borrowed from The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/02-practice-learning.html#using-formative-assessment-to-identify-misconceptions)) in this case could be:
+:::::::::::::::::::::::::::::::::::::::::: callout
 
-_MCQ: What is 27 + 15?_
+## Assessing Knowledge Before a Workshop
 
-a) 42
-b) 32
-c) 312
-d) 33
+The same approach to designing exercises within a lesson can also be used
+to create a short "pre-assessment" questionnaire for potential learners
+to complete when they register for a workshop teaching the lesson
+(or for self-evaluation before following the lesson on their own).
+You can use [the list of prerequisite knowledge that you defined earlier](audience.md#defining-prerequisite-knowledge)
+to help with this.
 
-The correct answer is 42, but each of the other answers provides a valuable insight:
+If you collect the results of this questionnaire,
+use it to follow up with people who have registered for the workshop
+but do not fit the intended target audience,
+to manage their expectations about how useful the workshop will be for them.
 
-b) they do not understand the concept of a carry and are throwing it away completely
-c) they understand the concept of a carry and know that they cannot just discard the carried ‘1’, but do not understand that it is actually a ten and needs to be added into the next column - they are treating each column of numbers as unconnected to its neighbours.
-d) they understand that they need to carry ‘1’ but are adding it to the wrong column.
-
-Their diagnostic power means that each of the wrong choices helps an instructor figure out precisely what misconceptions learners had adopted and in which ways their mental models are broken. As a result the instructor may decide to review a particular concept or change the pace of instruction. At the same time, learners get feedback about what they have misunderstood and what they need to focus their study efforts on - we call this **guided practice**.
-
-### Choosing Plausible Distractors
-
-When using a multiple choice question for formative assessment,
-the incorrect answers you provide as options are _at least as important_ as the correct answer
-because they offer the most useful insight into the mental model your audience is building.
-But choosing incorrect answers can be difficult, especially early in a lesson where you are more likely
-to encounter misconceptions that learners have arrived with
-as opposed to those they have picked up while following the lesson.
-
-:::::::::::::::::::::::::::::::: callout
-
-## Prior Knowledge and Plausible Distractors
-
-When identifying plausible distractors,
-it is essential to consider the prior knowledge you expect learners to have of your lesson topic.
-
-The plausible distractors in the MCQ example above
-are chosen on the assumption that learners have been taught
-addition by "carrying" numbers:
-the incorrect answers are designed to diagnose misconceptions
-associated with that method.
-
-However, as [pointed out by Maneesha Sane](https://github.com/carpentries/instructor-training/issues/1403), 
-if a learner has been taught to add numbers by another method,
-e.g. first rounding them up or down to values that are more easy to remember and combine
-(e.g. 27 to 30),
-they might have misconceptions that cause them to arrive at an answer that is incorrect 
-but not represented in the MCQ options.
-
-::::::::::::::::::::::::::::::::::::::::
-                    
-### Example MCQs
-
-#### Coding MCQ
-
-Thinking back of the misconceptions of how values are assigned, referenced and updated in programming languages, 
-here is an example MCQ that can probe learners for such misconceptions. 
-
-_MCQ: Look at the following 3 assignment statements in Python._
-
-```python
-n = 300
-m = n
-n = -100
-```
-
-_What is the result at the end of the above assignments?_
-
-a) n = 300 and m = 300
-b) n = -100 and m = -100
-c) n = 200 and m = 300
-d) n = -100 and m = 300
-
-The correct answer is d., while plausible distractors identify different misconceptions:
-
-a) they understand the value held by `n` is now also held by `m` but do not understand the value of `n` has 
-been updated since the initial assignment (e.g. treating it as a constant).
-b) they do not understand `n` and `m` are separate variables/containers for values (which can hold the same values) 
-but rather assume that `m` is referencing variable `n` instead of copying its value at the time of assignment 
-(e.g. behaving as a reference to another cell in a spreadsheet).
-c) they think that the reassignment for `n` actually subtracts `100` from the original value.
-
-#### Copyright / Licencing MCQ
-
-An example MCQ to check on people's misconceptions around licencing and reusing other people's work
-could be designed as follows.
-
-_MCQ: Which of the following statements are true and which are false?_
-   
-a) I don’t need permission because I am only using the copyrighted work in educational or non-profit purposes  
-b) I should always know the licence of any code, data, libraries, pictures or other work that you reuse or redistribute  
-c) Since I’m planning to give credit to the authors who created the work I reuse, I do not have to worry about or need permission  
-d) Material I obtain from the Internet is publicly accessible so no explicit permission is required  
-e) The work I want to use does not have a copyright notice on it, so it’s not protected by copyright and I’m free to use it
-
-
-The correct answers are as follows:
-
-a) False - you always need an explicit permission from the creator to use their work.  
-b) True - you should make sure that you have the permission for all the work that you are reusing, modifying or sharing.  
-c) False - if you give credit to a work’s owner, that only means you are not plagiarising other 
-people's work and claiming it as your own, however that does not mean that you have the permission to use it.  
-d) False - publicly accessible work is not the same the work in the public domain. The owner 
-explicitly must put their work in the public domain but attaching the appropriate licence to it, before you can freely reuse it. 
-e) False - the use of copyright notice is optional as copyright exists implicitly from the moment the work is created.
-
-
-To help identify plausible distractors, 
-you can think about problems or questions from previous training events and what people struggled with, 
-think about your own misconceptions in the past,
-or ask colleagues about their experiences. 
-It is important to consider [_expert awareness gap_][expert-awareness-gap-instructor-training],
-the phenomenon where experts in a topic forget what it is like not to have a good mental model of it.
-Observing how others learn your topic and asking colleagues to review lesson content as you design it
-can help mitigate this.
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 You should aim to create all your assessments before you have written the explanatory content of your lesson (recall Nicholl's [backward design](https://en.wikipedia.org/wiki/Backward_design)). These assessments will guide your lesson design process by knowing exactly which knowledge you'd expect from your learners at any point in the lesson.
 
 
-::::::::::::::::::::::::::::::::::::::  challenge
-
-## Exercise: designing a diagnostic exercise (20 minutes)
-
-Create a multiple choice question (MCQ) that could be used in your lesson,
-to detect the misconception you identified above.
-As well as the correct answer,
-include 1-3 answer options that are not obviously incorrect (*plausible distractors*)
-and have *diagnostic power*
-i.e. each incorrect answer helps you pinpoint the exact misconception carried by the learner.
-Write down what misconception is being tested for each incorrect answer.
-
-Share your MCQ in the collaborative notes document.
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::::  challenge
-
-## Exercise: reviewing formative assessments (10 minutes)
-
-**(this exercise will only work if participants have sufficient knowledge of their partner's topic)**
-
-The Trainers will group you into pairs.
-
-Review the MCQ designed by your partner. When providing feedback, try to answer the following questions:
-
-- Is the question clear and easy to understand? Could the wording be improved in some way?
-- Are the incorrect answers to the MCQ plausible distractors?
-- Do the incorrect answers provide diagnostic power, to help an Instructor identify the misconception the learner has?
-- Are there any incorrect answers missing i.e. are there other misconceptions that could be detected with this MCQ?
-
-Share your feedback in the collaborative notes document.
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- The goal of lesson development is to ensure that the **attained curriculum** matches the **intended curriculum** as closely as possible.
 - Assessments are a way to determine whether the objectives you defined for the lesson have been reached.
+- Exercises help learners commit what they've learned to long-term memory.
+- Some types of exercises are better for particular audiences and to address certain objectives.
 - **Formative assessment** happens *during teaching* and provides feedback both to an instructor and a learner - about progress and whether learning of new concepts occurred but also about any misunderstandings and misconceptions which can hinder further learning.
-- It is important to detect misconceptions as early as possible and formative assessments (such as multiple choice questions) can help us with this.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
 
 [^1]: See chapter 1, _How Does Students' Prior Knowledge Affect Their Learning?_,
       of [Ambrose et al. 2010](learners/reference.md#litref).
+
+[blanks]: https://teachtogether.tech/en/index.html#fill-in-the-blanks
+[code-and-run]: https://teachtogether.tech/en/index.html#code-run
+[faded-ex]: https://teachtogether.tech/en/index.html#faded-examples
+[mcq]: http://teachtogether.tech/en/index.html#a-multiple-choice-question
+[parsons]: https://teachtogether.tech/en/index.html#parsons-problem
+[minimal]: https://teachtogether.tech/en/index.html#minimal-fix
