@@ -74,7 +74,7 @@ Any instructional tool that generates feedback and is used in a formative way to
 - **think, pair, share** - learners _think_ about an answer to a question, _pair_ up
 with a classmate to discuss their answer, and then _share_ out the consensus they came to
 with the class.
-- **exercises** - setting challenges for learners to tackle and raising questions for discussion among the group
+- **exercises** - setting challenges for learners to tackle and raising questions for discussion among the group. For example, Parson's Problems, which we will learn more about in the next exercise.
 
 Many other formative assessment tools can be found in Briggs’ list of ["21 ways to check for student understanding"](https://www.opencolleges.edu.au/informed/features/21-ways-to-check-for-student-understanding/) or Edutopia's ["56 Examples of Formative Assessment"](https://www.edutopia.org/groups/assessment/250941).
 
@@ -91,7 +91,7 @@ As an extra challenge, try to decide whether these assessments were used to asse
 ### Solution
 Some examples of formative assessments used so far in this training:
 
-- Exercises such as the on asking trainees to [describe the target audience of their lesson](introduction.md#target-audience-exercise)
+- Exercises such as the one asking trainees to [describe the target audience of their lesson](introduction.md#target-audience-exercise)
     - this exercise aims to assess how well trainees are able to identify the aspects of a target audience that influence the design of a lesson. It also aims to expose any inconsistencies between the visions of the target audience held by different collaborators.
 - Your trainers have probably checked in with the group at various points in the training.
     - Although these check-ins are not specific to a particular objective, they help give us an impression of how well trainees are able to follow what we are teaching.
@@ -289,7 +289,7 @@ spend the remainder reviewing and providing feedback on one another's assessment
 ## Assessing Knowledge Before a Workshop
 
 The same approach to designing exercises within a lesson can also be used
-to create a short "re-assessment" questionnaire for potential learners
+to create a short "pre-assessment" questionnaire for potential learners
 to complete when they register for a workshop teaching the lesson
 (or for self-evaluation before following the lesson on their own).
 You can use [the list of prerequisite knowledge that you defined earlier](audience.md#defining-prerequisite-knowledge)
