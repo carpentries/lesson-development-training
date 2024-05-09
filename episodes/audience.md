@@ -105,7 +105,7 @@ interests, and challenges than your own.
 
 At this point, the Trainers will share [the template for a Lesson Design Notes document][design-notes-template] with trainees.
 Trainees should make a copy of this document and fill in their lesson title.
-You will populate other parts of the document with the notesand information they produce throughout the training.
+You will populate other parts of the document with the notes and information they produce throughout the training.
 
 
 ::::::::::::::::::::::::::::::::::::::  challenge
