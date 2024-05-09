@@ -314,6 +314,9 @@ You should aim to create all your assessments before you have written the explan
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+[^1]: See chapter 1, _How Does Students' Prior Knowledge Affect Their Learning?_,
+      of [Ambrose et al. 2010](learners/reference.md#litref).
+
 [blanks]: https://teachtogether.tech/en/index.html#fill-in-the-blanks
 [code-and-run]: https://teachtogether.tech/en/index.html#code-run
 [faded-ex]: https://teachtogether.tech/en/index.html#faded-examples
