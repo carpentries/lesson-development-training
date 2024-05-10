@@ -13,6 +13,7 @@ title: Reference
 1. Nicholls, G. 2002. _Developing teaching and learning in higher education._ London, UK: Routledge. https://www.taylorfrancis.com/books/mono/10.4324/9780203469231/developing-teaching-learning-higher-education-gill-nicholls
 1. Renkl, Alexander. 2014. _16 - The Worked Examples Principle in Multimedia Learning._ Part III - Advanced Principles of Multimedia Learning, The Cambridge Handbook of Multimedia Learning. https://www.cambridge.org/core/books/cambridge-handbook-of-multimedia-learning/worked-examples-principle-in-multimedia-learning/8753055D1FB47CF1E2BB897FD44FBEF8
 1. Sholler D, Steinmacher I, Ford D, Averick M, Hoye M, Wilson G (2019) Ten simple rules for helping newcomers become contributors to open projects. PLoS Comput Biol 15(9): e1007296. https://doi.org/10.1371/journal.pcbi.1007296
+1.  Via A, Palagi PM, Lindvall JM et al. Course design: Considerations for trainers – a Professional Guide [version 1; not peer reviewed]. F1000Research 2020, 9:1377 (document) (https://doi.org/10.7490/f1000research.1118395.1) 
 
 
 ## Glossary
