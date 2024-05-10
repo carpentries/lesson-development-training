@@ -81,7 +81,7 @@ For more information about creating exercises see the [Workbench Documentation f
 ## Exercise: Formatting Exercises in a Lesson Site (15 minutes)
 
 Using the approach demonstrated above,
-format the MCQ you designed previously as an exercise in your lesson site.
+format the exercise you designed previously as an exercise in your lesson site.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
