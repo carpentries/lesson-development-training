@@ -217,6 +217,24 @@ for your lesson or general data repositories such as:
 Referring to the advice given above, find an appropriate dataset or a narrative for your lesson.
 Identify one or more potential candidates and note down the advantages and disadvantages of each one.
 
+Identify one or more potential candidates and note down the advantages and disadvantages of each one.
+As a reminder, here are some aspects we suggest that you consider:
+
+* For datasets:
+    * size
+    * complexity
+    * "messiness"/noise
+    * relevance to target audience
+    * availability
+    * license
+    * ethics
+* For narratives:
+    * authenticity
+    * relevance to target audience
+    * complexity
+    * possibility to teach useful things first/early
+
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 People learn faster if they are motivated[^2],
