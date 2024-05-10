@@ -1,5 +1,5 @@
 ---
-title: Designing Assessments
+title: Designing Exercises
 teaching: ??
 exercises: ??
 ---
@@ -8,7 +8,7 @@ exercises: ??
 
 After completing this episode, participants should be able to...
 
-- Describe the importance of regular assessment while a lesson is being taught.
+- Describe the importance of regular exercises while a lesson is being taught.
 - Choose the format for an exercise based on the outcome it is intended to measure.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -51,30 +51,30 @@ Useful further reading: [Course design: Considerations for Trainers – a Profes
 
 ## Assessments
 
-In order to measure progress and evaluate if and what learning occurred - we use various types of assessments:
+In order to measure progress and evaluate if and what learning occurred - we have various types of assessments available to us:
 
 - **summative assessments** - used to verify whether learners achieved
-the stated learning objectives after instruction.
- - **formative assessments** - used to detect changes in learner performance *during*
-instruction, to provide feedback and insight into the learners' developing mental models of the topic taught and to identify any old or developing misconceptions.
+the stated learning objectives *after* instruction.
+ - **formative assessments** - used to detect changes in learner understaning or performance *during*
+instruction, to provide feedback and insight (to both instructors and learners) into the learners' developing mental models of the topic taught and to identify any old or developing misconceptions.
 
 **Summative assessments** sum up what learning has been achieved after
 training (e.g. via exams). They give valuable
-data about learning attainment by individuals and entire cohorts but are not used to guide further progress. They may not be as suitable for short courses, but may be necessary for those that give marks/grades or certificates of completion.
+data about learning attainment by individuals and entire cohorts but are not used to guide further progress of a lesson. 
+They may not be as suitable for short courses, but may be necessary for those that give marks/grades or certificates of completion.
 
-**Formative assessments** are applied throughout a course and with several different purposes: they provide a way to move [new information from working memory to long-term memory](https://carpentries.github.io/instructor-training/05-memory.html#using-formative-assessment-to-support-memory-consolidation); they can inform instructors' decisions about how to modify instruction to better promote learning; they also inform learners about changes they may need to make to improve their learning. Ideally, they should be used often (e.g. after every 15-20 minutes of teaching), providing opportunities to instructors to change pace and refocus  learners’ attention. For short courses, formative assessments are usually more valuable and easier to implement in practice than summative assessments - they need not be complex or time-consuming, just informative enough about learning for both instructors and learners.
+**Formative assessments** are applied throughout a course and with several different purposes: they provide a way to move [new information from working memory to long-term memory](https://carpentries.github.io/instructor-training/05-memory.html#using-formative-assessment-to-support-memory-consolidation); they can inform instructors' decisions about how to modify instruction to better promote learning; they also inform learners about changes they may need to make to improve their learning. Ideally, they should be used often (e.g. after every 15-20 minutes of teaching), providing opportunities to instructors to change pace and refocus learners’ attention. For short courses, formative assessments are usually more valuable and easier to implement in practice than summative assessments - they need not be complex or time-consuming, just informative enough about learning for both instructors and learners.
 
-The most effective way to test learner understanding is to do such assessments in class - they engage all learners and allow instructors to check learners' confidence with the content and its delivery, can help you deal with any potential misunderstandings as soon as they arise, and maximise the value of workshop for everyone. Such formative assessments also help with *metacognition* - the awareness a learner has that they are succeeding in learning something new.
+The most effective way to test learner understanding and progress is to do such assessments in class - they engage all learners and allow instructors to check learners' confidence with the content and its delivery, can help you deal with any potential misunderstandings as soon as they arise, and maximise the value of workshop for everyone. Such formative assessments also help with *metacognition* - the awareness a learner has that they are succeeding in learning something new.
 
 Any instructional tool that generates feedback and is used in a formative way to check for learners' understanding can be described as “formative assessment”. For example,
 
-- **reflection** at the end of a session to help process learning - e.g. asking learners to write down things they learned, things they want to know more about and any questions they still have
-- **concept maps and diagrams** - asking learners to reflect by drawing/labeling a concept map/diagram or writing down a list of new concepts and skills they’ve learned and (optionally) how they relate to one another or connect with previous knowledge
 - **checking in** - gauging learners’ satisfaction and understanding using agreed signals (e.g. raising different coloured post-it/sticky notes or [Zoom reactions](https://coderefinery.github.io/manuals/zoom-mechanics/#reactions) to indicate that the pace is too fast/slow, that they completed/have not completed an exercise).
-- **think, pair, share** - learners _think_ about an answer to a question, _pair_ up
-with a classmate to discuss their answer, and then _share_ out the consensus they came to
+- **group or collaborative discussions** - raising questions for discussion among the group. For example, **think, pair, share**, where learners _think_ individually about an answer to a question, _pair_ up with a classmate to discuss their answer, and then _share_ out the consensus they came to
 with the class.
-- **exercises** - setting challenges for learners to tackle and raising questions for discussion among the group. For example, Parson's Problems, which we will learn more about in the next exercise.
+- **problem-solving or diagnostic exercises** - setting challenges for learners to tackle, testing comprehension of a subject and diagnosing any forming misconceptions.
+- **concept maps and diagrams** - asking learners to reflect by drawing/labeling a concept map/diagram or writing down a list of new concepts and skills they’ve learned and (optionally) how they relate to one another or connect with previous knowledge.
+- **reflections** at the end of a session to help process what was learned - e.g. asking learners to write down things they learned, things they want to know more about and any questions they still have or using a specific worksheet or journal for learners to summarise their thoughts about what they learned.
 
 Many other formative assessment tools can be found in Briggs’ list of ["21 ways to check for student understanding"](https://www.opencolleges.edu.au/informed/features/21-ways-to-check-for-student-understanding/) or Edutopia's ["56 Examples of Formative Assessment"](https://www.edutopia.org/groups/assessment/250941).
 
