@@ -100,18 +100,13 @@ _you are not your learners_:
 they will arrive at the lesson with different priorities,
 interests, and challenges than your own.
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-## Lesson Design Notes Document
+### Lesson Design Notes Document
 
-At this point, it may be helpful to share 
-[the template for a Lesson Design Notes document][design-notes-template]
-with trainees.
-They can make a copy of this document and fill in the lesson title now,
-then populate the document with the notes 
-and information they produce throughout the training.
+At this point, the Trainers will share [the template for a Lesson Design Notes document][design-notes-template] with trainees.
+Trainees should make a copy of this document and fill in their lesson title.
+You will populate other parts of the document with the notes and information they produce throughout the training.
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -134,6 +129,7 @@ Share your answers with your collaborators. How do they compare?
 If you have identified different audiences, are they compatible?
 Or would your time be better spent focussing on one particular audience for this lesson?
 
+Take notes on your discussion in your Lesson Design Notes document. It can be particularly helpful to note down any decisions made e.g. potential target audiences that were explicitly discounted, and your reasons for doing so.
 
 :::::::::::::::::::::::::
 
@@ -141,7 +137,9 @@ Or would your time be better spent focussing on one particular audience for this
 
 ## Part 2b (for participants developing their lesson alone, 10 minutes)
 
-Write 1-2 diagnostic questions, for use before the lesson is taught,
+Take notes about your choice of target audience in your Lesson Design Notes document. It can be particularly helpful to note down any decisions made e.g. potential target audiences that were explicitly discounted, and your reasons for doing so.
+
+Then write 1-2 diagnostic questions, for use before the lesson is taught,
 to help you assess whether a respondent falls within the intended audience for your lesson.
 
 

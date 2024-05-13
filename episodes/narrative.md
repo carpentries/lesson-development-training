@@ -216,8 +216,6 @@ for your lesson or general data repositories such as:
 
 Referring to the advice given above, find an appropriate dataset or a narrative for your lesson.
 Identify one or more potential candidates and note down the advantages and disadvantages of each one.
-
-Identify one or more potential candidates and note down the advantages and disadvantages of each one.
 As a reminder, here are some aspects we suggest that you consider:
 
 * For datasets:
@@ -234,6 +232,11 @@ As a reminder, here are some aspects we suggest that you consider:
     * complexity
     * possibility to teach useful things first/early
 
+Takes notes in your Lesson Design Notes document about your discussion and the decisions made. It may be particularly helpful to record:
+
+* Which datasets and narratives did you consider?
+* How and why did you choose between them?
+* What implications do you think your choice of dataset and/or narrative will have for the design and further implementation of your lesson?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
