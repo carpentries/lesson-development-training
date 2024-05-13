@@ -22,6 +22,7 @@ After completing this episode, participants should be able to...
 
 We have reached the end of this training.
 
+
 ## Looking Back
 
 Throughout this training we promoted a collaborative approach to lesson development (as many other initiatives in The Carpentries community are conducted). Collaboration helps bring different skills and perspectives to a project and share the load of the work required to bring the project successfully past the finishing line. For lesson projects, this shared effort also extends to maintaining and updating the lesson after the initial development phase.
@@ -41,6 +42,7 @@ following lesson repositories, noting down what things you noticed in these repo
 Trainers will then lead a discussion on what people found and steps you could take to improve your lesson repository. 
 
 :::::::::::::
+
 
 ### Collaboration Top Tips
 
