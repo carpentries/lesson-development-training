@@ -292,12 +292,13 @@ Here are some recommendations to help you get started:
 
 ## Exercise: defining objectives for your lesson (20 minutes)
 
-Write learning objectives for your lesson -
+Write learning objectives for your lesson into the relevant section of your Lesson Design Notes document -
 what do you want learners to be able to do at the end of the workshop?
 When writing these lesson-level objectives,
 try to follow the SMART framework:
 make them specific, measurable, attainable, relevant, and time-bound.
 
+Take notes about the your discussion in your Lesson Design Notes document. A record of the decisions you made and your reasons for choosing these objectives can be very helpful for you and others to understand the design and scope of the lesson later.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
