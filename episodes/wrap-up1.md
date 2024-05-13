@@ -52,26 +52,14 @@ and consider what still needs to be done before it can be taught.
 You can use this time however you judge will be most beneficial
 to your preparations for teaching your episode in a trial run.
 
-If you are not sure how to start,
-consider mapping out the relationships between the objectives of your episode 
-and the examples and exercises via which they will be taught and assessed.
-For example,
+If you are not sure how to start, consider the following prompts:
 
-> The read CSV and inspect demo supports Objective 2 
-> (load a simple CSV data set with Pandas) 
-> and will be delivered using participatory live coding.
-> The objective will be assessed with an exercise that 
-> requires learners to apply the read_csv function to another file
-> and count the rows in the resulting DataFrame object.
-
-- Does any of your planned content not support any learning objectives?
-- Is there at least one piece of content planned for each learning objective?
-- Is there a formative assessment planned for each learning objective?
-
-- What do you still need to add/work on? 
+- Which of the exercises set so far in this training did you not have time to complete?
+- What do you still need to add/work on?
 - What can you remove/consider removing?
 - How will the narrative and example data you have chosen for your lesson support teaching and assessment?
-- What diagram or other visual aids could you add to supplement your text?
+- What diagram or other visual aids could you create/add to supplement your text?
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -96,6 +84,30 @@ If you do not know where to start, consider the following list for a starting po
 - write down one thing that struck you the most
 
 :::::::::::::
+
+::::::::::::::::::::::::::::::::::::::: challenge
+
+### Optional Homework: Assessing Your Lesson Design
+
+(This exercise adapted from [Via et al. 2020](learners/reference.md).)
+
+When the first draft of your lesson content is nearly complete,
+consider mapping out the relationships between the objectives of your episode 
+and the examples and exercises via which they will be taught and assessed.
+For example,
+
+> The read CSV and inspect demo supports Objective 2 
+> (load a simple CSV data set with Pandas) 
+> and will be delivered using participatory live coding.
+> The objective will be assessed with an exercise that 
+> requires learners to apply the read_csv function to another file
+> and count the rows in the resulting DataFrame object.
+
+- Does any of your planned content not support any learning objectives?
+- Is there at least one piece of content planned for each learning objective?
+- Is there a formative assessment planned for each learning objective?
+
+:::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ::: challenge
