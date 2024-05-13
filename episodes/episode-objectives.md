@@ -101,6 +101,24 @@ Now that we have defined objectives for our episodes,
 we can start working on the next step in developing an effective lesson:
 designing exercises that will assess whether a learner has learned what you aimed to teach them.
 
+::: challenge
+
+## Optional Homework: Reflection Exercise (not included in timing)
+
+Take some time to think back on what has been covered so far,
+then make some notes on the most important points and actions you want to take away from that.
+The Trainers and other participants will not look at this - it is only for you.
+
+If you do not know where to start, consider the following list for a starting point:
+
+- draw a concept map, connecting the material
+- draw pictures or a comic depicting one of the concepts covered
+- write an outline of the topics we covered
+- write a paragraph or “journal” entry about your experience of the training today
+- write down one thing that struck you the most
+
+:::::::::::::
+
 ::::::::::::::::::::::::::::::::::::: keypoints
 
 - Objectives can be defined for episodes within a lesson, to guide individual steps along the pathway of the lesson.
