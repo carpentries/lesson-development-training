@@ -348,7 +348,7 @@ of how content will be displayed in your website**.
 
 To get started on this home page,
 replace the template text with
-the same title and short description you added to your `README.md`.
+the same short description you added to your `README.md`.
 
 Below those, you can add the prerequisite skills you determined earlier for your lesson,
 as a bullet point list to `index.md`:
