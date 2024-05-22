@@ -108,6 +108,7 @@ There are currently two templates to choose between:
 **One member of each participating lesson team** should choose one of these templates,
 following the link above and completing the configuration as follows:
 
+* click on the green "Use this template" button near the top right of the window
 * add a name for the repository
   * The name should be descriptive but fairly brief,
     with hyphens (`-`) to separate words
@@ -593,10 +594,10 @@ if you haven't already.
 [GitHub]: https://github.com/
 [Jekyll]: https://jekyllrb.com/
 [lc-home]: https://librarycarpentry.org/
-[md-template]: https://github.com/carpentries/workbench-template-md/generate
+[md-template]: https://github.com/carpentries/workbench-template-md/
 [pandoc]: https://pandoc.org/
 [R]: https://www.r-project.org/
-[rmd-template]: https://github.com/carpentries/workbench-template-rmd/generate
+[rmd-template]: https://github.com/carpentries/workbench-template-rmd/
 [styles-contributors]: https://github.com/carpentries/styles/graphs/contributors
 [swc-home]: https://software-carpentry.org/
 [YAML]: https://yaml.org/
