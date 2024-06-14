@@ -85,6 +85,8 @@ Create a bullet point list or brief notes describing
 what you will say and do when teaching the episodes you have been focussing on
 during this training.
 
+You could create this teaching plan in a document just for yourself or write it into your Lesson Design Notes document.
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Figures and other visual aids are great tools to help participants understand the content being presented and make associations between pieces of information.
