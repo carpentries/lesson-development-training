@@ -185,7 +185,7 @@ This includes:
 
   - Avoiding regional/cultural references and idioms that will not translate across borders/cultures
   - Avoiding contractions i.e. don't, can't, won't etc.
-  - Checking that all figures/images have well written alternative text, including [writing altnerative text for data visualizations](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81). An alternative text contains an invisible description of an image which is read aloud to blind users by screen readers providing alternative text-based format for images. See [the Workbench documentation for directions on how to add alternative text and captions to images in a lesson](https://carpentries.github.io/sandpaper-docs/episodes.html#figures)
+  - Checking that all figures/images have well written alternative text, including [writing alternative text for data visualizations](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81). An alternative text contains an invisible description of an image which is read aloud to blind users by screen readers providing alternative text-based format for images. See [the Workbench documentation for directions on how to add alternative text and captions to images in a lesson](https://carpentries.github.io/sandpaper-docs/episodes.html#figures)
   - Checking the header hierarchy - no h1 headers in the lesson body, no skipped levels
   - [Using descriptive link text](https://www.imperial.ac.uk/staff/tools-and-reference/web-guide/training-and-events/materials/accessibility/links/) - no "click here" or "this page", etc.
   - [Checking the text and foreground contrast for images](https://contrastchecker.com/)
