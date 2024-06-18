@@ -55,7 +55,7 @@ In order to measure progress and evaluate if and what learning occurred, we have
 
 - **summative assessments** - used to verify whether learners achieved
 the stated learning objectives *after* instruction.
- - **formative assessments** - used to detect changes in learner understaning or performance *during*
+ - **formative assessments** - used to detect changes in learner understanding or performance *during*
 instruction, to provide feedback and insight (to both instructors and learners) into the learners' developing mental models of the topic taught and to identify any old or developing misconceptions.
 
 **Summative assessments** sum up what learning has been achieved after
