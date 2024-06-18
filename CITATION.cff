@@ -60,6 +60,10 @@ authors:
     family-names: Trusler
     affiliation: The Carpentries
     orcid: 'https://orcid.org/0000-0003-2340-8538'
+  - given-names: Florian
+    family-names: Kohrt
+    affiliation: Ludwig-Maximilians-Universität München
+    orcid: 'https://orcid.org/0000-0003-0374-5625'
 identifiers:
   - type: doi
     value: 10.5281/zenodo.8410626
