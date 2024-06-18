@@ -51,7 +51,7 @@ Useful further reading: [Course design: Considerations for Trainers – a Profes
 
 ## Assessments
 
-In order to measure progress and evaluate if and what learning occurred - we have various types of assessments available to us:
+In order to measure progress and evaluate if and what learning occurred, we have various types of assessment available to us:
 
 - **summative assessments** - used to verify whether learners achieved
 the stated learning objectives *after* instruction.
