@@ -122,7 +122,7 @@ Another standard piece of The Carpentries Workbench are the *Instructor Notes* p
 
 It may initially be difficult to create Instructor Notes until you have taught the lesson yourself for the first time - but after the first pilot you will have enough feedback to draft them.
 
-::::::::::::::::::::::::::::::::::::::  callout
+::::::::::::::::::::::::::::::::::::::  spoiler
 
 ## Hidden Curriculum
 

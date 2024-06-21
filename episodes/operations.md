@@ -52,7 +52,8 @@ as a value for the `life_cycle` field.
 For new lesson repositories, this value is already set to 'pre-alpha',
 so you should not have to change it yet.
 
-::: callout
+::: spoiler
+
 ### The `carpentry` Field
 
 The `config.yaml` file also contains a `carpentry` field, which can be used to adjust

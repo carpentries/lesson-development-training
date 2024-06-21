@@ -131,7 +131,7 @@ content. You may consider making a [concept map][mental-map-instructor-training]
 Alternatively, if you decide to keep certain objectives in the lesson, you can add
 suggestions on which objectives can be skipped to the Instructor Notes for the lesson.
 
-:::::::::::::::::::::::::::::: callout
+:::::::::::::::::::::::::::::: spoiler
 
 The Instructor Notes for the whole lesson should be added to the `instructors/instructor-notes.md` file.
 This page is displayed in the header menu when in "Instructor View".

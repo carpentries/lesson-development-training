@@ -40,7 +40,7 @@ what learners learn from following your lesson
 matches its defined objectives as closely as possible. 
 To do so, you need to develop assessments to monitor progression towards your learning outcomes.
 
-::::::::::::::::::::::::::::::::::::::  callout
+::::::::::::::::::::::::::::::::::::::  spoiler
 
 ## Useful reading
 
@@ -124,7 +124,7 @@ higher-level cognitive skills may be better assessed by debugging tasks, [code-a
 or use-in-a-different-context exercises.
 
 
-::: callout
+::: spoiler
 
 ### Resources to Explore for More Example Assessment Types
 
@@ -204,7 +204,7 @@ Share the major points of your discussion in the collaborative notes document.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-::::::::::::::::::::::::::::::::::::::::: callout
+::::::::::::::::::::::::::::::::::::::::: spoiler
 
 ### Recommended Reading
 
@@ -253,7 +253,7 @@ Create LOs for the specific audience and create assessments for specific LOs."*
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-::::::::::::::::::::::::::::::::::::::::: callout
+::::::::::::::::::::::::::::::::::::::::: spoiler
 
 ### Identifying Misconceptions
 Detecting and correcting 
@@ -295,7 +295,7 @@ spend the remainder reviewing and providing feedback on one another's assessment
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::: callout
+:::::::::::::::::::::::::::::::::::::::::: spoiler
 
 ## Assessing Knowledge Before a Workshop
 

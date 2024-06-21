@@ -51,7 +51,7 @@ and are more suitable for project management tasks that are more continuous and 
 While a Milestone is associated with a single repository, 
 a Project can span over multiple Milestones and even different repositories within an organisation in GitHub. 
 
-::: callout
+::: spoiler
 
 ## Milestones vs Projects
 For a good description of differences between the two, have a look at [this answer on StackOverflow](https://stackoverflow.com/questions/39591795/what-is-the-difference-relationship-between-github-projects-and-milestones).

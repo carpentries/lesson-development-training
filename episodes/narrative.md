@@ -58,7 +58,7 @@ This can help you maintain a narrative flow and make the lesson feel more authen
 Even if your topic doesn't require a dataset, deciding on a consistent narrative will
 help create a flow between episodes and reduce cognitive load for learners.
 
-:::::::::::::::::::::::::::::::::::::::::: callout
+:::::::::::::::::::::::::::::::::::::::::: spoiler
 
 ## Varying Examples
 
@@ -149,7 +149,7 @@ Lessons included in [The Carpentries Incubator][carpentries-incubator] are encou
 Even with a CC0 license, you will still want to follow best practice in
 giving attribution to the data provider or collecting agency.
 
-:::::::::::::::: callout
+:::::::::::::::: spoiler
 
 ## More CC0 License Reading
 
