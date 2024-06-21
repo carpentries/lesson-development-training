@@ -65,6 +65,25 @@ Also, note that the spoiler box titles should be very clear so instructors need 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::: callout
+
+## Calling Attention to Important Points
+
+For important points in the lesson, you can add them to a callout box to emphasize their
+importance.
+
+::::: spoiler
+
+### Inconsistent use of spoiler vs callout
+
+You may notice that many of the older lessons use callouts for both additional material
+and to highlight imporant points interchangably.  Spoilers were developed in 2023
+to help with separating these two different use cases.
+
+:::::::::::::
+
+::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::  discussion
 
 ## Lesson Time Management (10 minutes)
