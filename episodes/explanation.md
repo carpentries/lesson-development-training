@@ -46,17 +46,21 @@ In general, it is not a good idea to assume others, learners or instructors,
 will know what you were thinking when you wrote the content
 so, if in doubt, be explicit.
 
-::::::::::::::::::::::::::::::::::::::::  callout
+::::::::::::::::::::::::::::::::::::::::  spoiler
 
-## Using Callouts
+## Using Spoilers for Optional Materials
 
 Often lessons have more content than can be reasonably taught in the amount of time allotted.
 This is especially true for collaboratively developed lessons as each contributor/instructor
 may have additional items they'd like to see included, leading to "scope creep".
 
-To address this issue, in many Carpentries lessons, callout boxes are used for asides and short tangents,
+To address this issue, in many Carpentries lessons, spoiler boxes are used for asides and short tangents,
 e.g. points that might be relevant to some audiences but are not essential to the flow of the lesson.
-These callouts should still be kept to a minimum as they can be disruptive to instructors and readers.
+These spoilers should still be kept to a minimum as they can be disruptive to instructors and readers.
+
+Note, this use of the spoiler box is to use the expandable box functionality as nothing will be "spoiled"
+by expanding this box.
+Also, note that the spoiler box titles should be very clear so instructors need not expand the spoiler to know if they want to teach that extra
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
