@@ -126,7 +126,7 @@ which has since been disputed.
 Regardless of whether these skills conform to such a hierarchy,
 Bloom's Taxonomy serves as a very useful bank of action verbs for use
 in learning objectives.
-The Committee for Computing Education in Community Colleges has also created a [version of Blooms customized for computing related training][computeBloom].
+The Committee for Computing Education in Community Colleges has also created a [version of Bloom's Taxonomy customized for computing related training][computeBloom].
 
 We will see how helpful it can be to use action verbs in learning objectives
 when we begin talking about exercise design in the coming episodes.
