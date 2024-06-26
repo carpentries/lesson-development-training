@@ -85,7 +85,7 @@ After completing this episode, participants should be able to...
 :::
 
 
-::: callout
+::: spoiler
 
 ### Full List of Fenced Divs
 

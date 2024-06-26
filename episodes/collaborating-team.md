@@ -104,7 +104,7 @@ On GitHub, these units of discussion, review,
 and acceptance/rejection of the changes within a branch
 are called _Pull Requests_.
 
-:::::: callout
+:::::: spoiler
 
 ## Why "Pull Request"?
 
@@ -195,7 +195,7 @@ the Reviewer should follow all the steps but close the PR at the end instead of 
 
 ::::::::::::::::
 
-:::::::::::::::::::::::::::::::: callout
+:::::::::::::::::::::::::::::::: spoiler
 
 ### Protecting `main` Branch
 

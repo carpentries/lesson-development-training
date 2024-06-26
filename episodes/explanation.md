@@ -46,20 +46,43 @@ In general, it is not a good idea to assume others, learners or instructors,
 will know what you were thinking when you wrote the content
 so, if in doubt, be explicit.
 
-::::::::::::::::::::::::::::::::::::::::  callout
+::::::::::::::::::::::::::::::::::::::::  spoiler
 
-## Using Callouts
+## Using Spoilers for Optional Materials
 
 Often lessons have more content than can be reasonably taught in the amount of time allotted.
 This is especially true for collaboratively developed lessons as each contributor/instructor
 may have additional items they'd like to see included, leading to "scope creep".
 
-To address this issue, in many Carpentries lessons, callout boxes are used for asides and short tangents,
+To address this issue, in many Carpentries lessons, spoiler boxes are used for asides and short tangents,
 e.g. points that might be relevant to some audiences but are not essential to the flow of the lesson.
-These callouts should still be kept to a minimum as they can be disruptive to instructors and readers.
+These spoilers should still be kept to a minimum as they can be disruptive to instructors and readers.
+
+Note, this use of the spoiler box is to use the expandable box functionality as nothing will be "spoiled"
+by expanding this box.
+Also, note that the spoiler box titles should be very clear so instructors need not expand the spoiler to know if they want to teach that extra
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::: callout
+
+## Calling Attention to Important Points
+
+For important points in the lesson, you can add them to a callout box to emphasize their
+importance.
+
+::::: spoiler
+
+### Inconsistent use of spoiler vs callout
+
+You may notice that many of the older lessons use callouts for both additional material
+and to highlight imporant points interchangably.  Spoilers were developed in 2023
+to help with separating these two different use cases.
+
+:::::::::::::
+
+::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::  discussion
 
@@ -127,7 +150,7 @@ content. You may consider making a [concept map][mental-map-instructor-training]
 Alternatively, if you decide to keep certain objectives in the lesson, you can add
 suggestions on which objectives can be skipped to the Instructor Notes for the lesson.
 
-:::::::::::::::::::::::::::::: callout
+:::::::::::::::::::::::::::::: spoiler
 
 The Instructor Notes for the whole lesson should be added to the `instructors/instructor-notes.md` file.
 This page is displayed in the header menu when in "Instructor View".
