@@ -121,20 +121,20 @@ Check out [GitHub's documentation on setting notifications on individual reposit
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-## Time management tip: share the next callout, do not teach it
+## Time management tip: share the next spoiler, do not teach it
 
-The next callout contains a lot of information,
+The next spoiler contains a lot of information,
 and can require a lot of time to discuss fully while training.
 We recommend that you do not dwell on these details while teaching
 unless you have time to spare.
 
-Instead, you could share [a link to the callout](#managing-github-notifications) 
+Instead, you could share [a link to the spoiler](#managing-github-notifications) 
 and mention to trainees that this information can be helpful 
 if they are struggling with GitHub notifications.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::: callout
+:::::::::::::::::::::::::::::::::::::::::: spoiler
 
 ## Managing GitHub Notifications
 

@@ -54,7 +54,7 @@ a toolkit that converts Markdown and RMarkdown files into the HTML
 that can be served by GitHub Pages.
 We will use it now to initialise a new lesson.
 
-::: callout
+::: spoiler
 
 ### A Brief History of The Carpentries Lesson Infrastructure
 
@@ -189,7 +189,7 @@ You may copy the URL in this box, this will be the address of your lesson site.
 
 ::::::::::::::::::::::::
 
-::: callout
+::: spoiler
 
 ### Which Branch and GitHub Actions
 
@@ -317,7 +317,7 @@ one of the components of The Carpentries Workbench,
 and should be left untouched.
 The page content begins after the blank line that follows this header.
 
-:::::::::::::::::::::::::::::::: callout
+:::::::::::::::::::::::::::::::: spoiler
 
 ### Markdown Rendering on GitHub
 

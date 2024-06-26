@@ -112,7 +112,7 @@ Moving forward from your first pilot, the next steps to consider are:
   - do you need to re-organise and move some content around to improve the flow and narrative?
   - are there enough exercises and practical work?
   - do you need to realign your lesson objectives and key messages?
-- Decide if for some of the feedback you will not take action. Remember, you do not need to respond to every piece of feedback you receive. For example, it is easy to fall down the rabbit hole of adding extra material just because someone suggested it may be a useful thing - sometimes, adding a link or a callout to extra reading is sufficient. You need to be able to draw a line under any extra modification suggestions to keep you in scope and on schedule.
+- Decide if for some of the feedback you will not take action. Remember, you do not need to respond to every piece of feedback you receive. For example, it is easy to fall down the rabbit hole of adding extra material just because someone suggested it may be a useful thing - sometimes, adding a link or a spoiler pointing to extra reading is sufficient. You need to be able to draw a line under any extra modification suggestions to keep you in scope and on schedule.
 - Schedule follow-up co-working sessions with your team to carry on working on fixing issues and adding new content to maintain the momentum.
 - Add/Update your lessons' Instructor Notes based on what you learned and to help other instructors who will teach your lesson in the future.
 - Think about the timeline for your next pilot(s), even provisionally, to help you set milestones and targets to work towards.

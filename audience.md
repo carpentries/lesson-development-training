@@ -152,7 +152,7 @@ to help you assess whether a respondent falls within the intended audience for y
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-::::::::::: callout
+::::::::::: spoiler
 
 ## Thinking more about target audience
 
