@@ -482,11 +482,6 @@ and which are optional.
 
 :::
 
-Now that we have defined objectives for our episodes,
-we can start working on the next step in developing an effective lesson:
-designing exercises that will assess whether a learner has learned what you aimed to teach them.
-
-::: challenge
 
 ### Adding a new episode to the lesson navigation
 
