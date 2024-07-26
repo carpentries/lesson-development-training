@@ -198,6 +198,38 @@ to remember to check these notifications frequently.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::: challenge
+
+## Exercise: Set Notifications for Your Lesson Repository
+
+Review the notification setting on your lesson repository and make sure that it is set to
+`All Activity`. 
+
+This is to allow you to review the level of communication you will be receiving about activities in 
+the repository and to make sure you initially do not miss out on any changes/events.
+As the time progresses, feel free to revisit this setting to adjust the level of notifications 
+to the right level for you.
+
+::: solution
+
+From the action buttons at the top on your lesson repository's landing page, 
+click the `Unwatch` button to review your current notification (aka "watch") level settings from the 
+dropdown menu.
+If not already selected, please make sure to select the `All Activity` option to start 
+receiving notifications about all activities in this repository. 
+
+![GitHub's different notification settings when watching repository events with 'All Activity' highlighted](fig/github-watch-settings.png){
+alt="GitHub's different notification settings when watching repository events with 'All Activity' highlighted"
+}
+
+Note that this button may read `Watch` if you have never subscribed to receive notifications from 
+a repository - but as a collaborator you will at least be automatically be subscribed to updates 
+and receive notifications when you are participating in a discussion thread or are @mentioned by 
+your GitHub or team name. 
+:::
+
+::::::
+
 ### Saying "No"
 
 Not every contribution is a good fit for a project and,
