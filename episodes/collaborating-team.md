@@ -230,7 +230,7 @@ also applies to reviewing prose.
 
 ::::::::::::::::
 
-If you need more help or practice with GitHub features, you can attend a GitHub skill-up session for Carpentries Maintainers and lesson developers which uses the [following curriculum](https://carpentries.github.io/github-skill-up-maintainers/). These sessions will be periodically announced on [The Carpentries calendar of events](https://carpentries.org/community/#community-events), [The Carpentries Slack]((https://carpentries.slack.com/)) and mailing lists.(https://carpentries.github.io/github-skill-up-maintainers/).
+If you need more help or practice with GitHub features, you can attend a GitHub skill-up session for Carpentries Maintainers and lesson developers which uses the [following curriculum](https://carpentries.github.io/github-skill-up-maintainers/). These sessions will be periodically announced on [The Carpentries calendar of events](https://carpentries.org/community/#community-events), [The Carpentries Slack]((https://carpentries.slack.com/)) and mailing lists.
 
 ## Managing Communication
 
