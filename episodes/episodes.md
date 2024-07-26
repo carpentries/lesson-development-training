@@ -8,7 +8,6 @@ exercises: 25
 
 - How can the objectives for a lesson be used to break its content into sections?
 - How should objectives be written for a smaller part of a whole lesson?
-- How are objectives added to an episode page?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -93,12 +92,6 @@ do not assign more than one episode to each collaborator for now, but
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Defining Episode-level Learning Objectives
-
-In _Defining Lesson Objectives_,
-you created a list of the learning objectives for your lesson as a whole.
-This process is helpful as a way to set the end goal and,
-coupled with the expected prior knowledge of the target audience you identified,
-describe the scope of the lesson.
 
 Now that we have broken those lesson-level learning objectives into episodes, 
 we can use the same approach for the individual episodes of a lesson, 
