@@ -9,6 +9,8 @@ message: >-
   curriculum or attending a training where it was taught.
 type: dataset
 authors:
+  - given-names: Ann
+    family-names: Backhaus
   - given-names: Erin
     family-names: Becker
     affiliation: The Carpentries
@@ -30,6 +32,9 @@ authors:
     family-names: Davey
     affiliation: The Carpentries
     orcid: 'https://orcid.org/0000-0002-5589-7754'
+  - given-names: Kate
+    family-names: Hertweck
+    orcid: 'https://orcid.org/0000-0002-4026-4612'
   - given-names: Toby
     family-names: Hodges
     email: tobyhodges@carpentries.org
@@ -42,10 +47,20 @@ authors:
   - given-names: Bashar Jaan
     family-names: Khan
     orcid: 'https://orcid.org/0009-0006-8012-0126'
+  - given-names: Florian
+    family-names: Kohrt
+    affiliation: Ludwig-Maximilians-Universität München
+    orcid: 'https://orcid.org/0000-0003-0374-5625'
   - given-names: Mateusz
     family-names: Kuzak
     affiliation: The Netherlands eScience Center
     orcid: 'https://orcid.org/0000-0003-0087-6021'
+  - given-names: Susan
+    family-names: McClatchy
+    orcid: 'https://orcid.org/0000-0003-3219-2177'
+  - orcid: 'https://orcid.org/0000-0002-9092-966X'
+    given-names: François
+    family-names: Michonneau
   - given-names: Aleksandra
     family-names: Nenadic
     affiliation: >-
@@ -56,14 +71,25 @@ authors:
     family-names: Stevens
     affiliation: The University of Wisconsin-Madison
     orcid: 'https://orcid.org/0000-0002-7040-548X'
+  - given-names: Yuka
+    family-names: Takemon
+    orcid: 'https://orcid.org/0000-0002-3538-4409'
+  - given-names: Michael
+    family-names: Trizna
+    orcid: 'https://orcid.org/0000-0002-0537-8382'
   - given-names: Angelique
     family-names: Trusler
     affiliation: The Carpentries
     orcid: 'https://orcid.org/0000-0003-2340-8538'
-  - given-names: Florian
-    family-names: Kohrt
-    affiliation: Ludwig-Maximilians-Universität München
-    orcid: 'https://orcid.org/0000-0003-0374-5625'
+  - given-names: Allegra
+    family-names: Via
+    orcid: 'https://orcid.org/0000-0002-3398-5462'
+  - orcid: 'https://orcid.org/0000-0001-8659-8979'
+    given-names: Greg
+    family-names: Wilson
+  - orcid: 'https://orcid.org/0000-0002-7294-7231'
+    given-names: Karen
+    family-names: Word
 identifiers:
   - type: doi
     value: 10.5281/zenodo.8410626
@@ -126,3 +152,246 @@ keywords:
 license: CC-BY-4.0
 version: v2023-beta
 date-released: '2023-10-09'
+references:
+  - title: "The Carpentries Instructor Training"
+    editors:
+      - given-names: Sarah M
+        family-names: Brown
+      - given-names: Tim
+        family-names: Dennis
+      - given-names: David
+        family-names: Pérez-Suárez
+      - given-names: Nathaniel
+        family-names: Porter
+      - given-names: Jon
+        family-names: Wheeler
+      - given-names: Karen
+        family-names: Word
+    doi: 10.5281/zenodo.5709383
+    authors: 
+      - given-names: Sarah M
+        family-names: Brown
+      - given-names: Karen
+        family-names: Word
+      - given-names: Maneesha
+        family-names: Sane
+      - given-names: Kelly
+        family-names: Barnes
+      - given-names: Nathaniel
+        family-names: Porter
+      - given-names: Philipp Matthias
+        family-names: Schaefer
+      - given-names: Aleksandra
+        family-names: Nenadic
+      - given-names: Toby
+        family-names: Hodges
+      - given-names: Giordano
+        family-names: Lipari
+      - given-names: Andrzej Aleksander
+        family-names: Romaniuk
+      - given-names: Martino
+        family-names: Sorbaro Sindaci
+      - given-names: Brynn
+        family-names: Elliott
+      - given-names: Christian
+        family-names: Knüpfer
+      - given-names: Jonathan
+        family-names: Wheeler
+      - given-names: Mark Tefero
+        family-names: Kivumbi
+      - given-names: Adrian
+        family-names: Pohl
+      - given-names: Andy
+        family-names: Foster
+      - given-names: Annika
+        family-names: Rockenberger
+      - given-names: Christopher
+        family-names: Beltz
+      - given-names: Cora
+        family-names: Assmann
+      - given-names: Désirée
+        family-names: Treichler
+      - given-names: Erin Alison
+        family-names: Becker
+      - given-names: Hao
+        family-names: Ye
+      - given-names: James
+        family-names: Deaton
+      - given-names: Jannetta
+        family-names: Steyn
+      - given-names: Jeffrey
+        family-names: Oliver
+      - given-names: Jeremy
+        family-names: Guillette
+      - given-names: Joenio
+        family-names: Marques da Costa
+      - given-names: Jon
+        family-names: Wheeler
+      - given-names: Kelly
+        family-names: Duffy
+      - given-names: Marcelina
+        family-names: Nagales
+      - given-names: Ragnhild
+        family-names: Sundsbak
+    type: edited-work
+    date-released: "2023-02-06"
+    license: "CC-BY-4.0"
+  - title: "Course Design: Considerations for Trainers"
+    date-released: "2020-11-27"
+    authors: 
+      - given-names: Allegra
+        family-names: Via
+      - given-names: Patricia M
+        family-names: Palagi
+      - given-names: Jessica M
+        family-names: Lindvall
+      - given-names: Rochelle E
+        family-names: Tractenberg
+      - given-names: Teresa K
+        family-names: Attwood
+    doi: 10.7490/f1000research.1118395.1
+    type: article
+    license: "CC-BY-4.0"
+    journal: "F1000Research"
+  - title: "Teaching Tech Together: How to create and deliver lessons that work and build a teaching community around them"
+    authors:
+      - given-names: Greg
+        family-names: Wilson
+    publisher: "Taylor & Francis"
+    year: 2019
+    isbn: "9780367352974"
+    license: "CC-BY-NC-4.0"
+  - title: "How Learning Works: Eight Research-Based Principles for Smart Teaching"
+    authors:
+      - given-names: "Marsha C."
+        family-names: "Lovett"
+      - given-names: "Michael W."
+        family: "Bridges"
+      - given-names: "Michele"
+        family: "DiPietro"
+      - given-names: "Susan A."
+        family: "Ambrose"
+      - given-names: "Marie K."
+        family: "Norman"
+    publisher: "Jossey-Bass"
+    isbn: "9781119861690"
+    date-released: "2024-03-14"
+  - title: "The CARE Principles for Indigenous Data Governance"
+    authors:
+      - given-names: "Stephanie Russo"
+        family-names: "Carroll"
+      - given-names: "Ibrahim"
+        family-names: "Garba"
+      - given-names: "Oscar L."
+        family-names: "Figueroa-Rodríguez"
+      - given-names: "Jarita"
+        family-names: "Holbrook"
+      - given-names: "Raymond"
+        familiy-names: "Lovett"
+      - given-names: "Simeon"
+        family-names: "Materechera"
+      - given-names: "Mark"
+        family-names: "Parsons"
+      - given-names: "Kay"
+        family-names: "Raseroka"
+      - given-names: "Desi"
+        family-names: "Rodriguez-Lonebear"
+      - given-names: "Robyn"
+        family-names: "Rowe"
+      - given-names: "Rodrigo"
+        family-names: "Sara"
+      - given-names: "Jennifer D."
+        family-names: "Walker"
+      - given-names: "Jane"
+        family-names: "Anderson"
+      - given-names: "Maui"
+        family-names: "Hudson"
+    year: "2020"
+    journal: "Data Science Journal"
+    volume: 19
+    start: 43
+    doi: https://doi.org/10.5334/dsj-2020-043
+  - title: "How to Write Well-Defined Learning Objectives"
+    authors:
+      - given-names: "Debnath"
+        family-names: "Chatterjee"
+      - given-names: "Janet"
+        family-names: "Corral"
+    journal: "J Educ Peioper Med."
+    year: "2017"
+    volume: "19(4)"
+    pmcid: "PMC5944406"
+  - title: "Test prediction and performance in a classroom context"
+    authors: 
+      - given-names: "Douglas J."
+        family-names: "Hacker"
+      - given-names: "Linda"
+        family-names: "Bol"
+      - given-names: "Dianne D."
+        family-names: "Horgan"
+      - given-names: "Ernest A."
+        family-names: "Rakow"
+    journal: "Journal of Educational Psychology"
+    volume: "92(1)"
+    pages: "160-170"
+    year: "2000"
+    doi: "https://doi.org/10.1037/0022-0663.92.1.160"
+  - title: "Too much teaching, not enough learning: what is the solution?"
+    authors:
+      - given-names: "Heidi L."
+        family-names: "Lujan"
+      - given-names: "Stephen E."
+        family-names: "DiCarlo"
+    journal: "Adv Physiol Educ"
+    year: "2006"
+    volume: "30"
+    pages: "17-22"
+    doi: "doi:10.1152/advan.00061.2005"
+  - title: "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching."
+    authors:
+      - given-names: "Paul A."
+        family-names: "Kirschner"
+      - given-names: "John"
+        family-names: "Sweller"
+      - given-names: "Richard E."
+        family-names: "Clark"
+    journal: "Educational Psychologist"
+    volume: "41 (2)"
+    pages: "75-86"
+    year: 2006
+  - title: "Developing teaching and learning in higher education"
+    authors:
+      - given-names: "Gill"
+        family-names: "Nicholls"
+    publisher: "Routledge"
+    isbn: "9780203469231"
+    date-released: "2001-11-08"
+    doi: "https://doi.org/10.4324/9780203469231"
+  - title: "The Worked Examples Principle in Multimedia Learning. Part III - Advanced Principles of Multimedia Learning, The Cambridge Handbook of Multimedia Learning."
+    authors:
+      - given-names: "Alexander"
+        family-names: "Renkl"
+    doi: "https://doi.org/10.1017/CBO9781139547369.020"
+    publisher: "Cambridge University Press"
+    year: 2014
+    pages: "391-412"
+    isbn: "9781139547369"
+  - title: "Ten simple rules for helping newcomers become contributors to open projects."
+    authors:
+      - given-names: "Dan"
+        family-names: "Sholler"
+      - given-names: "Igor"
+        family-names: "Steinmacher"
+      - given-names: "Denae"
+        family-names: "Ford"
+      - given-names: "Mara"
+        family-names: "Averick"
+      - given-names: "Mike"
+        family-names: "Hoye"
+      - given-names: "Greg"
+        family-names: "Wilson"
+    journal: "PLOS Computational Biology"
+    year: "2019"
+    volume: "15(9)"
+    doi: "https://doi.org/10.1371/journal.pcbi.1007296"
+    
