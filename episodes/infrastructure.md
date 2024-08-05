@@ -11,6 +11,7 @@ After completing this episode, participants should be able to...
 - Identify the key tools used in The Carpentries lesson infrastructure.
 - Complete the fundamental setup steps for a new lesson repository.
 - Edit Markdown files using the GitHub web interface.
+- Format objectives in the individual pages of a lesson website.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -372,7 +373,7 @@ as a bullet list in the `index.md` file of your lesson repository.
 
 ## Episodes
 
-The main body of the lesson is written in _episodes_:
+As we've discusssed previously, the main body of the lesson is written in _episodes_:
 the individual chunks or sections that the lesson is separated into.
 The episode pages of the lesson site will be constructed from Markdown files
 in the `episodes` folder of the lesson repository.
@@ -443,7 +444,8 @@ For page content, paste those first 19 lines of the `introduction.md` file and:
 
 1. replace the title
 2. set the `teaching` and `exercises` fields to zero for now
-3. replace the contents of the `questions` and `objectives` divs with "- TODO"
+3. replace the contents of the `questions` div with "- TODO"
+4. replace the contents of the `objectives` div with the episode-level objectives you defined in the previous section
 
 
 ```markdown
@@ -461,10 +463,25 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- TODO
+- objective 1
+- objective 2
+- ...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 ```
+
+::: spoiler
+
+### Full List of Fenced Divs
+
+[The Workbench Component Guide][component-guide] provides a full list of
+all the different classes of fenced div that can be included using the lesson infrastructure.
+The guide specifies which divs are required for an episode
+(`objectives`, `questions`, and `keypoints`),
+and which are optional.
+
+:::
+
 
 ### Adding a new episode to the lesson navigation
 
