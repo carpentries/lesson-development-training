@@ -7,6 +7,7 @@ exercises: 25
 :::::::::::::::::::::::::::::::::::::::: questions
 
 - How can the objectives for a lesson be used to break its content into sections?
+- How should objectives be written for a smaller part of a whole lesson?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -15,6 +16,7 @@ exercises: 25
 After completing this episode, participants should be able to...
 
 - identify appropriate parts of their lesson to break into individual sections
+- define learning objectives for a section of a lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -50,7 +52,7 @@ The learning objectives you defined for your lesson can help with this:
 at the very least, it is probably a good idea to have one episode dedicated to each objective.
 You might also find that you can "decompose" the lesson-level objectives 
 into more finely-grained steps that learners can take towards those end points.
-For example, the lesson level objective
+For example, the lesson-level objective
 
 - _"create formatted page content with Markdown"_ 
 
@@ -88,6 +90,67 @@ do not assign more than one episode to each collaborator for now, but
 **we strongly recommend that you assign yourselves consecutive episodes at the beginning of your lesson**.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Defining Episode-level Learning Objectives
+
+Now that we have broken those lesson-level learning objectives into episodes, 
+we can use the same approach for the individual episodes of a lesson, 
+defining objectives for the episode to make clear what we intend to teach in that section.
+Defining these objectives _before writing the episode content_ helps us to:
+
+- stay focused in the episode, without spending time on non-essential topics
+- determine whether learners are attaining the skills we wish to teach them
+  (we will discuss this more in the next two episodes)
+- summarise the skills the learner can expect to gain by following this section of the lesson
+
+As before, here are some recommendations to help you define these episode-level objectives:
+
+- Aim for 2-4 objectives per episode. 
+  If you need to write more than that,
+  consider breaking this section down into multiple episodes.
+- To ensure your episode content aligns with the overall goals for the lesson,
+  try to identify which lesson-level objective(s) your episode
+  will contribute to.
+- In the context of the previous recommendation,
+  consider how the objectives for your episode fit as a
+  component of the higher-level skills/understanding defined
+  in the lesson-level objective(s).
+
+
+::: challenge
+
+### Exercise: define objectives for your episode (30 minutes)
+
+1. Using the same approach as you did for your whole-lesson objectives,
+   define a set of SMART objectives for your chosen episode. (15 minutes)
+1. Compare your list with those created by your collaborators on the lesson:
+    - are there any gaps in these objectives,
+      i.e. anything that should be covered in these episodes but is not captured in the objectives?
+    - are there any overlaps, i.e. anything that looks like it will be covered more than once?
+1. As a group, discuss how you will address any problems identified in the previous step,
+   and edit your objectives accordingly.
+
+:::
+
+
+::: challenge
+
+## Optional Homework: Reflection Exercise (not included in timing)
+
+Take some time to think back on what has been covered so far,
+then make some notes on the most important points and actions you want to take away from that.
+The Trainers and other participants will not look at this - it is only for you.
+
+If you do not know where to start, consider the following list for a starting point:
+
+- draw a concept map, connecting the material
+- draw pictures or a comic depicting one of the concepts covered
+- write an outline of the topics we covered
+- write a paragraph or “journal” entry about your experience of the training today
+- write down one thing that struck you the most
+
+:::::::::::::
+
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 

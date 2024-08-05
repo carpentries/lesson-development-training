@@ -94,7 +94,22 @@ Objectives can be defined for a lesson as a whole -
 what should learners be able to do at the end of a workshop teaching this lesson? -
 and for individual sections within it -
 what should learners be able to do after following this particular part of the lesson?
-The objectives for the current section of this training are:
+
+::: spoiler
+
+## Do you think the objective in the image above is a lesson- or episode-level objective?
+
+This is probably a episode-level objective because it is very specific.
+A corresponding lesson-level objective might be "read data and libaries into the python environment".
+It is still fairly specific but a bit broader in scope and contains several episode-level objectives.
+
+:::::::::::
+
+The **lesson** level objective for the current section of this training is:
+**define SMART learning objectives**
+This objective also covers the next episode as well.
+
+The **episode** level objectives for the current section of this training are:
 
 ::::::::: checklist
 
@@ -279,7 +294,7 @@ Now it is time to begin defining objectives for your own.
 
 Here are some recommendations to help you get started:
 
-- Aim for 3-4 objectives for every 6 hours your lesson will take to teach.
+- Aim for 3-4 lesson objectives for every 6 hours your lesson will take to teach.
   (For example, this curriculum is designed to be taught in ~18 hours
   and has [ten learning objectives](index.md#learning-objectives).)
 - These objectives are for your lesson as a whole: 
@@ -300,6 +315,10 @@ try to follow the SMART framework:
 make them specific, measurable, attainable, relevant, and time-bound.
 
 Take notes about the your discussion in your Lesson Design Notes document. A record of the decisions you made and your reasons for choosing these objectives can be very helpful for you and others to understand the design and scope of the lesson later.
+
+If you find yourself writing very specific *episode* level objectives, keep them in your notes and
+try to think of a slightly broader objective that may contain several very specific objectives.
+We will come back and work more on episode objectives next in the training.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
