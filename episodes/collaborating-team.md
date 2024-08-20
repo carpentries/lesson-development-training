@@ -48,7 +48,7 @@ Some of the most frequently used labels include:
 - `status:wait` - indicates that the issue cannot or will not be worked on until something else is resolved, e.g. the solution to the issue is dependent on another change yet to be made (see also: `status:blocked`)
 - `status:waiting for response` - indicates that further progress cannot be made until someone (usually the person who submitted the issue) has responded
 - `status:in progress` - indicates that someone is working on a resolution for the issue, preventing potentially redundant efforts from being made by others
-- `good first issue` - indicates that the issue requires relatively little knowledge of the rpoject to fix, making it a good choice for first-time contributors
+- `good first issue` - indicates that the issue requires relatively little knowledge of the project to fix, making it a good choice for first-time contributors
 - `help wanted` - indicates that a maintainer wants help on an issue or pull request
 
 GitHub provides a default set of labels for repositories which can be used "as is" or customised (as done by The Carpentries above) - check the [GitHub documentation on Issues](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) for the full reference.
