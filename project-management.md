@@ -240,6 +240,6 @@ Here are some additional resources to learn more about Open Source project manag
 
 :::::::::::::::::::::::::::::::::::::::
 
-[^1]: The _[Challenges with Applying Ownership Models Retroactively](https://book.the-turing-way.org/collaboration/shared-ownership/shared-ownership-challenges) section of The Turing Way provides explores further challenges with trying to introduce governance structures to an established Open Source project. 
+[^1]: The _[Challenges with Applying Ownership Models Retroactively](https://book.the-turing-way.org/collaboration/shared-ownership/shared-ownership-challenges)_ section of The Turing Way provides explores further challenges with trying to introduce governance structures to an established Open Source project. 
 
 [noaa-ddb]: https://coast.noaa.gov/ddb/
