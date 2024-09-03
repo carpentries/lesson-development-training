@@ -128,7 +128,7 @@ and can require a lot of time to discuss fully while training.
 We recommend that you do not dwell on these details while teaching
 unless you have time to spare.
 
-Instead, you could share [a link to the spoiler](#managing-github-notifications) 
+Instead, you could share [a link to the spoiler](#headingSpoiler1)
 and mention to trainees that this information can be helpful 
 if they are struggling with GitHub notifications.
 
