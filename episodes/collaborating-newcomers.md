@@ -198,6 +198,22 @@ to remember to check these notifications frequently.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::: callout
+
+## Notifications for Your Lesson Repository
+
+As a collaborator with edit access to the repository, your notification settings on the lesson repository should already be set to `All Activity`. 
+
+You can review the level of communication you will be receiving about activities in the repository by clicking the 'Unwatch' button on your repository homepage: the dropdown menu will show you a range of options for the different kinds of events that you will be notified about on the repository. 'All Activity' is a great choice to begin with because it will ensure that you do not miss out on any changes/events.
+
+As the time progresses, feel free to revisit this setting to adjust the level of notifications to the right level for you.
+
+![GitHub's different notification settings when watching repository events with 'All Activity' highlighted](fig/github-watch-settings.png){
+alt="GitHub's different notification settings when watching repository events with 'All Activity' highlighted"
+}
+
+::::::
+
 ### Saying "No"
 
 Not every contribution is a good fit for a project and,
