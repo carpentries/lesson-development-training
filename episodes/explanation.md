@@ -22,6 +22,17 @@ After completing this episode, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![
+Now that we have designed assessments to measure attainment of the objectives set for the lesson,
+it is time to begin developing teaching content to give learners the knowledge and skills
+they need to succeed in those assessments.
+](./fig/cldt-step-3.svg){
+alt="An overview of the iterative process of lesson design and development,
+adapted from Nicholl's five phases,
+with step 3, 'Develop relevant content' highlighted."
+width="67%"
+}
+
 ## Writing Explanatory Text
 
 Explanatory text helps connect your examples and exercises together into a cohesive lesson.
@@ -46,74 +57,36 @@ In general, it is not a good idea to assume others, learners or instructors,
 will know what you were thinking when you wrote the content
 so, if in doubt, be explicit.
 
-::::::::::::::::::::::::::::::::::::::::  spoiler
+::::::::::::::::::::::::::::::::::::::  challenge
 
-## Using Spoilers for Optional Materials
+## Exercise: Examples Before Exercises (20 minutes)
 
-Often lessons have more content than can be reasonably taught in the amount of time allotted.
-This is especially true for collaboratively developed lessons as each contributor/instructor
-may have additional items they'd like to see included, leading to "scope creep".
+Looking back at one of the exercises you designed before:
+what examples could you include in your narrative to teach learners the skills
+they will need to apply to complete the formative assessments you have designed?
 
-To address this issue, in many Carpentries lessons, spoiler boxes are used for asides and short tangents,
-e.g. points that might be relevant to some audiences but are not essential to the flow of the lesson.
-These spoilers should still be kept to a minimum as they can be disruptive to instructors and readers.
+Examples:
 
-Note, this use of the spoiler box is to use the expandable box functionality as nothing will be "spoiled"
-by expanding this box.
-Also, note that the spoiler box titles should be very clear so instructors need not expand the spoiler to know if they want to teach that extra
+In the Software Carpentry Plotting and Programming with Python Lesson:
+Exercise to load and inspect CSV file for Americas ->
+In the lesson, the Instructor demonstrates how to load the data table for another continent (Oceania)
+and explores the values with a few different functions.
+This shows learners how to call the function to load the CSV into a data frame,
+and demonstrates what success looks like for this task.
 
+In the Python Interactive Data Visualization Lesson in the Incubator:
+Exercise to find the correct widget (a slider) for an action and modify the script to use it ->
+In the lesson the instructor introduces a cheatsheet and documentation for interactive widgets and
+then creates a dropdown widget for the application.
+The slider widget required in the exercise has not been demonstrated but
+the preceding example shows all of the necessary steps to add a widget,
+and provides the supporting information that learners can consult to discover
+how to implement the specific tool.
 
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::: callout
-
-## Calling Attention to Important Points
-
-For important points in the lesson, you can add them to a callout box to emphasize their
-importance.
-
-::::: spoiler
-
-### Inconsistent use of spoiler vs callout
-
-You may notice that many of the older lessons use callouts for both additional material
-and to highlight imporant points interchangably.  Spoilers were developed in 2023
-to help with separating these two different use cases.
-
-:::::::::::::
-
-::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::  discussion
-
-## Lesson Time Management (10 minutes)
-
-(5 minutes) In the shared notes document,
-note down your answers to these questions:
-
-- From a design perspective, at what point is a lesson too long?
-- What factors influence and constrain the length of a lesson?
-- How might you prioritise what to keep if you have to cut lesson content down?
-
-(5 minutes) In the remaining time, 
-your Trainers will lead a discussion based on the responses.
+Outline one of these examples in your episode file.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-## Trainer Note
-
-To get started on the discussion part,
-try reading out an interesting response and asking for more detail from the trainee who wrote it.
-Ask one of the other trainers/helpers to take notes of this discussion in the collaborative
-note-taking document.
-
-This is a good opportunity to remind trainees about 
-how counter-productive it can be to try to cover more content than the time allows.
-(See [the earlier section on lesson scope](./objectives.md#lesson-scope).)
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Less is More
 
@@ -133,9 +106,8 @@ As you consider the length of your lesson discuss with your collaborators and as
 - Are there checkpoints where the lesson could end if needed?
 - Can important concepts be moved up earlier to ensure they are covered?
 
-
 In the end, the only way to know for sure is to teach the lesson, measuring how long it takes to teach.
-Borrowing from television, the Carpentries community calls these early workshops, pilot workshops.
+Borrowing from television, The Carpentries community calls these early workshops, pilot workshops.
 As you run pilot workshops, you can note the length of time spent in each episode.
 You might find the [template for notes on pilot workshops][pilot-notes-template] helpful as it includes a table for episode and exercise timings.
 Instructors commonly report running short on time in workshops.
@@ -149,27 +121,8 @@ content. You may consider making a [concept map][mental-map-instructor-training]
 
 Alternatively, if you decide to keep certain objectives in the lesson, you can add
 suggestions on which objectives can be skipped to the Instructor Notes for the lesson.
-
-:::::::::::::::::::::::::::::: spoiler
-
-The Instructor Notes for the whole lesson should be added to the `instructors/instructor-notes.md` file.
-This page is displayed in the header menu when in "Instructor View".
-You can also add notes [in a specific episode of the lesson using fenced divs][instructor-notes].
-Instructors can see the notes within the lesson and the instructor notes tab by
-changing the view in the upper right-hand corner of the lesson to "Instructor View".
-
-Try out the instructor view by opening this episode seeing the in-line instructor note below.
-
-We will discuss the content of Instructor Notes in more detail later on in section ["Preparing to Teach"](preparing.md).
-
-:::::::::::: instructor
-
-This is the hidden note! Thanks for developing new incubator lessons for others to use!
-
-::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::::
-
+Instructor Notes are meant to convey teaching tips and advice to other instructors teaching your 
+lesson and will be discussed in more detail later on in section ["Preparing to Teach"](preparing.md).
 
 As you add notes and think about what to cut, remember, reducing the number of lesson
 objectives can help with managing learner (and instructor) cognitive load.
@@ -189,6 +142,38 @@ objectives can help with managing learner (and instructor) cognitive load.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::::::::::::::::  discussion
+
+## Lesson Time Management (10 minutes)
+
+(5 minutes) In the shared notes document,
+note down your answers to these questions:
+
+- From a design perspective, at what point is a lesson too long?
+- What factors influence and constrain the length of a lesson?
+- How might you prioritise what to keep if you have to cut lesson content down?
+
+(5 minutes) In the remaining time,
+your Trainers will lead a discussion based on the responses.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Trainer Note
+
+To get started on the discussion part,
+try reading out an interesting response and asking for more detail from the trainee who wrote it.
+Ask one of the other trainers/helpers to take notes of this discussion in the collaborative
+note-taking document.
+
+This is a good opportunity to remind trainees about
+how counter-productive it can be to try to cover more content than the time allows.
+(See [the earlier section on lesson scope](./objectives.md#lesson-scope).)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Other Important Considerations for Lesson Text
 
@@ -254,16 +239,16 @@ have diagnostic power.
 
 ## Other Text to Complete an Episode
 
-When writing a lesson, you should also consider adding key terms to the lesson glossary
-for the lesson.
-Following the instructions on [how to create a glossary in the Workbench documentation][sandpaper-docs-learners]
-will help you to create this section of the lesson.
+When writing a lesson, you should also consider adding key terms or jargon to the lesson glossary
+for the lesson. 
+In your shared notes document, you can start such a glossary as you develop your lesson, to 
+keep a record of the terminology your audience needs to be familiar with.
 
 Many of these terms may also be useful for other lessons and can be added to [Glosario][glosario], a multilingual glossary for computing and data science terms.
 
 In addition to objectives, a [completed episode also requires](https://carpentries.github.io/sandpaper-docs/episodes.html?#required-elements)
-fenced divs for the questions the episode answers and the keypoints a lesson covers.
-The questions box helps learners understand what to expect from a lesson as they might
+questions the episode answers and the keypoints a lesson covers.
+The questions helps learners understand what to expect from a lesson as they might
 not yet understand the learning objectives.
 The keypoints box wraps up the lesson by providing answers to each of the questions.
 Keypoints also help self-directed learners review what they learned, remind instructors to
@@ -276,8 +261,6 @@ you intended for an episode.
 ## Exercise: Completing episode metadata (10 minutes)
 
 Add key points and questions to your episode.
-
-To check the formatting requirements, see the Introduction Episode example in your lesson or [the Workbench Documentation](https://carpentries.github.io/sandpaper-docs/episodes.html#questions-objectives-keypoints).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

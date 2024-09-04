@@ -313,8 +313,13 @@ to manage their expectations about how useful the workshop will be for them.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-You should aim to create all your assessments before you have written the explanatory content of your lesson (recall Nicholl's [backward design](https://en.wikipedia.org/wiki/Backward_design)). These assessments will guide your lesson design process by knowing exactly which knowledge you'd expect from your learners at any point in the lesson.
+You should aim to create all your assessments before you have written the explanatory content of 
+your lesson (recall Nicholl's [backward design](https://en.wikipedia.org/wiki/Backward_design)). 
+These assessments will guide your lesson design process by knowing exactly which knowledge 
+you'd expect from your learners at any point in the lesson.
 
+Well-designed exercises are one of the most valuable resources for an instructor and any time 
+spent on this during lesson design is well invested.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 

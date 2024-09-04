@@ -21,7 +21,8 @@ After completing this episode, participants should be able to...
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 At the end of the previous section,
-you defined the learning objectives for your lesson as a whole.
+you defined the learning objectives for your lesson as a whole, and came up with a narrative or 
+example datasets that you will use to helps you tell you story.
 
 Rather than write the lesson as a single, long document,
 we recommend that you break it up into chunks
