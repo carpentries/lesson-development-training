@@ -10,16 +10,15 @@ start: yes
 After completing this episode, participants should be able to...
 
 - Add lesson episodes as individual pages of a lesson website.
-- Format objectives in the individual pages of a lesson website.
-- Display exercises and their solutions in a lesson site.
-
+- Use _fenced divs_ to create different structural elements within a page to 
+format objectives, questions, keypoints, exercises and their solutions in a lesson website.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
 - How do you create and modify the pages in a lesson?
-- How should exercises be presented in a lesson website?
+- How should different structural elements be presented in a lesson website?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -121,8 +120,8 @@ There are two important things to note:
 2. The example content includes several lines that start with strings of colons (`:::::::`).
    These mark the beginnings and ends of structural elements within the page,
    called _fenced divs_, which get rendered in a visually distinct way on the lesson website.
-   Each fenced div starts and ends with a string of at least 3 colons (a":::") and 
-   the word at the end of the starting colons indicates what kind of block it is.
+   Each fenced div starts and ends with a string of at least 3 colons (":::") and 
+   the word at the end of the starting colons (the fenced div's tag) indicates what kind of block it is.
    [There are many types of fenced divs in the lesson infrastructure](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html#callout-blocks) 
    and we will explore some of them in this episode.
 
@@ -130,8 +129,7 @@ There are two important things to note:
 
 Let's create a new episode file, for one of the episodes you have just identified.
 First, open the "raw" view of the `introduction.md` example episode,
-and copy the first 19 lines,
-down to the blank line under the closing string of the `objectives` div.
+and copy its content into your episode.
 
 ```markdown
 ---
@@ -178,6 +176,7 @@ For page content, paste those first 19 lines of the `introduction.md` file and:
 3. replace the contents of the `questions` div with the questions for your episode you defined earlier
 4. replace the contents of the `objectives` div with the episode-level objectives you defined earlier 
 5. replace the contents of the `keypoints` div with the key points for your episode you defined earlier
+6. Ignore or delete the rest of the content of the episode (i.e. only focus on the three structural elements - questions, objectives and keypoints).
 
 
 ```markdown
@@ -202,6 +201,8 @@ exercises: 0
 - ...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+Some episode content ...
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
@@ -283,8 +284,8 @@ Using this approach, we can build up our lesson one episode at a time.
 To create an exercise in The Carpentries Workbench,
 we use another two types of 'fenced divs':
 
-* _discussions_, where the main task is for participants to discuss a topic or prompt, and 
-* _challenges_, where the main task is a problem to be solved.
+* `discussions`, where the main task is for participants to discuss a topic or prompt, and 
+* `challenges`, where the main task is a problem to be solved.
 
 For example, to start a challenge fenced div, use at least 3 colons, 
 followed by the `challenge` tag.
@@ -303,7 +304,7 @@ Challenge text, code, and other information goes here
 ```
 
 If you also want to include an expandable solution box for the challenge you can
-nest a solution fenced div within the challenge box.
+nest a `solution` fenced div within the `challenge` div.
 The format is the same as for a challenge except the fenced div tag is `solution` instead.
 Note the solutions can all be expanded for more accessible reading using the "Expand All Solutions"
 option at the top of each episode.
@@ -401,16 +402,35 @@ to help with separating these two different use cases.
 
 ## Glossary of Terms 
 
+You have already started on compiling a glossary of terms for your lesson. 
 The Workbench offers a standardized location for lesson terminology.
 
-Following the instructions on [how to create a glossary in the Workbench documentation][sandpaper-docs-learners]
-will help you to create this section of your lesson.
+::::::::::::::::::::::::::::::::::::::  challenge
+
+## Exercise: Add a Glossary to Your Lesson (5 minutes)
+
+Follow the instructions on [how to create a glossary from the Workbench documentation][sandpaper-docs-learners].
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Troubleshooting the Lesson Build
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: spoiler
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-## Troubleshooting the Lesson Build Process
+### Troubleshooting the Lesson Build (~10 mins)
+
+This is a good opportunity to pause and check in on
+how well trainees' lesson builds are running.
+If anyone is having trouble with their workflows,
+ask them to share their screen
+and try following the troubleshooting steps to diagnose and fix the issue.
+
+This is also a good opportunity to show what the GitHub actions look like when they are in progress, 
+succeed, or fail if you haven't already.
+
+If all is well, and you are pressed for time, this section can be skipped.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Sometimes, formatting errors and typos in the files of your repository can
 cause the process that builds your lesson website to fail.
@@ -452,30 +472,16 @@ find and fix the problem when you notice the build process fail.
   [instructions for installing the infrastructure](https://carpentries.github.io/sandpaper-docs/#installation)
   and [building a local preview of the lesson website](https://carpentries.github.io/sandpaper-docs/introduction.html#preview).
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-## Troubleshoot Lesson Builds (~10 mins)
-
-This is a good opportunity to pause and check in on
-how well trainees' lesson builds are running.
-If anyone is having trouble with their workflows,
-ask them to share their screen
-and try following the troubleshooting steps to diagnose and fix the issue.
-
-This is also a good opportunity to show what the GitHub actions look like when they are in progress, succeed, or fail
-if you haven't already.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[sandpaper-docs-learners]: https://carpentries.github.io/sandpaper-docs/editing.html#learners
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - Lesson episodes are individual Markdown pages in a lesson repository.
-- Objectives, questions, key points, exercises (and solutions) go in blocks using fenced divs in 
-  the lesson - they are rendered visually differently in the lesson website. There are many types 
-  of [fenced divs](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html#callout-blocks)
-  available to lesson developers.
+- Objectives, questions, keypoints, exercises (and solutions), and other "special" structural 
+page elements (other than plain text) can be formatted using _fenced div_ blocks - they are rendered 
+visually differently in the lesson website. 
+- There are many types of [fenced divs](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html#callout-blocks) available to lesson developers.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

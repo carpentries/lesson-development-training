@@ -23,9 +23,8 @@ After completing this episode, participants should be able to...
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![
-In the next two episodes, we will design assessments to measure learners' attainment 
-of the objectives we defined previously.
-](./fig/cldt-step-2.svg){
+In this episode we move to the second of our iterative design process:  designing assessments to 
+measure learners' attainment of the objectives we defined previously.](./fig/cldt-step-2.svg){
 alt="An overview of the iterative process of lesson design and development, 
 adapted from Nicholl's five phases,
 with step 2, 'Design assessments for these outcomes' highlighted."

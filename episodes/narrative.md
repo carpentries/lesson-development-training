@@ -23,9 +23,9 @@ After completing this episode, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-With your high-level lesson objectives defined, this might be a good time to consider what 
-additional resources you may need to effectively convey your message to your learners, before 
-delving deeper into writing your lesson content.
+With your high-level lesson objectives set, now is a good time to consider any additional resources 
+you may need to effectively communicate your message to learners before you dive deeper into writing 
+the lesson content.
 
 ## Creating a Narrative
 

@@ -22,7 +22,7 @@ After completing this episode, participants should be able to...
 
 At the end of the previous section,
 you defined the learning objectives for your lesson as a whole, and came up with a narrative or 
-example datasets that you will use to helps you tell you story.
+example datasets that will help you tell your story.
 
 Rather than write the lesson as a single, long document,
 we recommend that you break it up into chunks
@@ -73,13 +73,13 @@ Some questions you might ask yourself to help break down your lesson-level learn
 
 ## Exercise: Defining Episodes for a Lesson (25 minutes)
 
-With your team, 
+With your team, in the shared notes document for your lesson: 
 
 1. Based on the lesson-level objectives and your knowledge of the lesson topic,
    divide the lesson up into logical blocks (episodes), that should each take approximately 20-60 minutes to teach.
    Think of these logical blocks as topics that you need to cover within your lesson but do not go too deep into defining learning objectives
    for individual episodes - we will cover that soon. 
-3. Next, assign responsibility for one of these episodes to each collaborator in your team.
+2. Next, assign responsibility for one of these episodes to each collaborator in your team.
    They will focus on this episode for the rest of this training, 
    and you will teach these episodes in a trial run between parts 1 and 2 of this training.
 

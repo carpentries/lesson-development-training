@@ -22,11 +22,11 @@ After completing this episode, participants should be able to...
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 At this stage in the training,
-you will have gone through the first three stages of the lesson design. That is, you should have 
+you will have gone through the first three stages of the lesson design. You should have 
 a clear idea of who the people are that you want to teach this lesson to,
 and what exactly the skills are that you want them to learn while they are following it.
-You have an outline of your lesson and its episodes and it is time to begin creating a website 
-that will present that lesson to the world!
+You also have an outline of your lesson and its episodes. 
+It is now time to begin creating a website that will present that lesson to the world!
 
 ## GitHub Pages
 

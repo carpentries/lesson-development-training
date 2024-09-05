@@ -35,8 +35,8 @@ width="67%"
 
 ## Writing Explanatory Text
 
-Explanatory text helps connect your examples and exercises together into a cohesive lesson.
-If your examples and exercises are train stations and scenic views,
+Explanatory text (including examples) help connect your exercises together into a cohesive lesson.
+If your exercises are train stations and scenic views,
 the explanatory text is the train tracks that connect them.
 Often times the examples and exercises may seem like a good draft for you to teach.
 However, the explanatory text makes it possible for other instructors and self-directed learners
@@ -175,7 +175,9 @@ how counter-productive it can be to try to cover more content than the time allo
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Other Important Considerations for Lesson Text
+## Other Important Considerations for Lesson Content
+
+### Language 
 
 When writing your lesson text you also want to avoid unintentionally demotivating your learners.
 Make time to review your text for:
@@ -187,6 +189,8 @@ Make time to review your text for:
 - unexplained or unnecessary jargon/terminology (as your learners may come from different backgrounds, may be novices, not native English speakers, and a term in one domain/topic may mean something else entirely in another)
 - unexplained assumptions
 - sudden jumps in difficulty/complexity
+
+### Accessibility
 
 You should also review your text thinking about accessibility.
 This includes:
@@ -237,7 +241,7 @@ have diagnostic power.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Other Text to Complete an Episode
+### Glossary of Terms
 
 When writing a lesson, you should also consider adding key terms or jargon to the lesson glossary
 for the lesson. 
@@ -246,11 +250,27 @@ keep a record of the terminology your audience needs to be familiar with.
 
 Many of these terms may also be useful for other lessons and can be added to [Glosario][glosario], a multilingual glossary for computing and data science terms.
 
+::::::::::::::::::::::::::::::::::::::  challenge
+
+## Exercise: Explain Your Terminology (5 minutes)
+
+In your shared notes document, add a list of terms or jargon from your lesson, 
+along with their definitions. 
+
+You do not have to have a complete list now, but it is good to start working on it - you can always
+come back and update it later.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+### Questions and Keypoints
+
 In addition to objectives, a [completed episode also requires](https://carpentries.github.io/sandpaper-docs/episodes.html?#required-elements)
 questions the episode answers and the keypoints a lesson covers.
+
 The questions helps learners understand what to expect from a lesson as they might
 not yet understand the learning objectives.
-The keypoints box wraps up the lesson by providing answers to each of the questions.
+
+The keypoints wrap up the lesson by providing answers to each of the questions.
 Keypoints also help self-directed learners review what they learned, remind instructors to
 recap what was covered in an episode, and help you ensure you answered all the questions
 you intended for an episode.
@@ -260,7 +280,7 @@ you intended for an episode.
 
 ## Exercise: Completing episode metadata (10 minutes)
 
-Add key points and questions to your episode.
+In your shared notes document, add key points and questions to your episode.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
