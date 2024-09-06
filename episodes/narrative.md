@@ -81,7 +81,7 @@ help create a flow between episodes and reduce cognitive load for learners.
 
 :::::::::::::::::::::::::::::::::::::::::: spoiler
 
-## Use Varying Examples
+## Use Varied Examples
 
 > _Use varied examples if you want to teach abstract concepts._
 > 
