@@ -57,8 +57,6 @@ Here are some example narratives from lessons:
 * [FAIR Research Software lesson](https://carpentries-incubator.github.io/fair-research-software/) uses the narrative of a poorly designed software project 
   (which analyses [NASA’s open data on spacewalks](https://data.nasa.gov/Raw-Data/Extra-vehicular-Activity-EVA-US-and-Russia/9kcy-zwvn/data_preview) undertaken by astronauts from 1965 to 2013) that over the course of the lesson gets improved in terms of 
   its accessibility, readability, interoperability and reusability to become more FAIR
-* This lesson uses [the recipe on how to bake sourdough cinnamon rolls](https://github.com/tobyhodges/cuddly-waffle) to 
-  teach how to use The Carpentries Workbench lesson template as we will see later on.
   
 Sometimes, a single and continuous narrative threads through the entire lesson, while other times, you use a mini-narrative 
 to teach a specific point in an episode. For example, within the overall narrative of creating a research project website in 
