@@ -45,6 +45,25 @@ You can enable learners to make connections between what they learn in your less
 own work by creating a narrative that resembles a situation the learners might
 encounter there.
 
+Here are some example narratives from lessons:
+
+* [Software Carpentry Git lesson](https://swcarpentry.github.io/git-novice/index.html) uses the story of 
+  Wolfman and Dracula who have been hired by Universal Missions (a space services spinoff from Euphoric State University) 
+  to investigate if it is possible to send their next planetary lander to Mars. 
+  They want to be able to work on the plans at the same time, but they have run into problems doing this in the past. 
+  They now need a system that will enable them to work collaboratibely and in parallel and track each change.
+* [Building Websites With Jekyll and GitHub lesson](https://carpentries-incubator.github.io/jekyll-pages-novice/filters/index.html) 
+  uses the narrative of creating a website for a research project to teach authoring webpages with Markdown and compiling them into a website served on GitHub.
+* [FAIR Research Software lesson](https://carpentries-incubator.github.io/fair-research-software/) uses the narrative of a poorly designed software project 
+  (which analyses [NASA’s open data on spacewalks](https://data.nasa.gov/Raw-Data/Extra-vehicular-Activity-EVA-US-and-Russia/9kcy-zwvn/data_preview) undertaken by astronauts from 1965 to 2013) that over the course of the lesson gets improved in terms of 
+  its accessibility, readability, interoperability and reusability to become more FAIR
+  
+Sometimes, a single and continuous narrative threads through the entire lesson, while other times, you use a mini-narrative 
+to teach a specific point in an episode. For example, within the overall narrative of creating a research project website in 
+[Building Websites With Jekyll and GitHub lesson](https://carpentries-incubator.github.io/jekyll-pages-novice/filters/index.html), 
+there is a mini-narrative of creating a series of short blog posts to teach how to extract a class of structurally similar pages into 
+a common layout template and filter out common structural components of pages.
+
 You may find that images and figures enhance your narrative.
 Images are powerful communicators, conveying a lot of information with few or no words.
 Images can also be distracting for learners.
@@ -60,7 +79,7 @@ help create a flow between episodes and reduce cognitive load for learners.
 
 :::::::::::::::::::::::::::::::::::::::::: spoiler
 
-## Varying Examples
+## Use Varied Examples
 
 > _Use varied examples if you want to teach abstract concepts._
 > 
@@ -158,15 +177,35 @@ If you'd like to read more about CC0 and CC-BY, Katie Fortney wrote an excellent
 
 ::::::::::::::::::
 
+Here are some example datasets from lessons:
 
-An example dataset used in the Data Carpentry Ecology lessons is the [Portal
-Project Teaching Database](https://figshare.com/articles/dataset/Portal_Project_Teaching_Database/1314459).  This dataset is an actual ecological research project that was simplified for teaching.
+* The [Ecology Data Carpentry lessons'](https://datacarpentry.org/lessons/#ecology-workshop) dataset comes from the [Portal
+Project Teaching Database](https://figshare.com/articles/dataset/Portal_Project_Teaching_Database/1314459).
+This dataset is an actual ecological research project's data that was simplified for teaching.
 The reuse of this dataset throughout the Data Carpentry Ecology lessons helps
 stitch together the process of data analysis throughout the workshop, from
 data entry and cleaning to analysis and visualization.
+* The [Social Sciences Data Carpentry lessons'](https://datacarpentry.org/lessons/#social-science-curriculum) dataset is the 
+[teaching version](https://figshare.com/articles/dataset/SAFI_Survey_Results/6262019) 
+of the full Studying African Farmer-Led Irrigation (SAFI) dataset. 
+The SAFI dataset represents interviews of farmers in Mozambique and Tanzania, 
+conducted between November 2016 and June 2017.
+The interviews surveyed household features (e.g. construction materials used 
+for dwellings, number of household members), agricultural practices 
+(e.g. water usage) and assets (e.g. number and types of livestock). 
+The teaching version of the SAFI dataset has been simplified and intentionally 
+"messed up"" to enable demonstrating common data cleaning issues often found in 
+real-life data.
+* [Patient inflammation dataset](https://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip) - from the Software Carpentry Python [novice](https://swcarpentry.github.io/python-novice-inflammation/index.html) and the [incubating intermediate](https://carpentries-incubator.github.io/python-intermediate-development/index.html) lessons - 
+  is used to study the effect of a new treatment for 
+  arthritis by analysing the inflammation levels in patients who have been 
+  given this treatment.
+* A [river catchment dataset](https://github.com/carpentries-incubator/python-intermediate-rivercatchment/tree/main/data) from the [Lowland Catchment Research (LOCAR) Datasets](https://catalogue.ceh.ac.uk/documents/db9f6ef9-9512-4f39-aca3-3c55f51a7487) is used in the [Earth and Environmental Sciences Intermediate Python lesson](https://carpentries-incubator.github.io/python-intermediate-development-earth-sciences/index.html) to analyse hydrological, hydrogeological, geomorphological and ecological interactions within permeable catchment systems. 
+* Data Carpentry's [Astronomical Data Science with Python](https://datacarpentry.org/astronomy-python/) lesson uses two astronomical datasets, from the Gaia satellite and the Pan-STARRS photometric survey, to reproduce part of an analysis described in a published article.
+
 
 When deciding on a dataset, it is also important to consider the ethical use of
-each dataset considered. *Does the data contain personally identifiable information?*
+each dataset. *Does the data contain personally identifiable information?*
 *Was the data collected without permission from the groups or individuals included?*
 *Will the data be upsetting to learners in the workshop?*
 If the answer to any of these questions might be yes, you will need to do more
