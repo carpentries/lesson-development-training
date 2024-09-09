@@ -1,7 +1,7 @@
 ---
 title: Designing Exercises
-teaching: ??
-exercises: ??
+teaching: 30
+exercises: 50
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -79,7 +79,7 @@ Many other formative assessment tools can be found in Briggs’ list of ["21 way
 
 ::::::::::::::::::::::::::::::::::::::: challenge
 
-### Formative Assessments in this Training
+### Formative Assessments in this Training (5 mins)
 Think back through the parts of this training you have followed so far.
 Identify two examples of formative assessment that the Trainers have employed so far.
 As an extra challenge, try to decide whether these assessments were used to assess progress towards a particular learning objective and, if so, what the relevant objective might have been.

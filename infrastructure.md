@@ -1,7 +1,7 @@
 ---
 title: The Carpentries Workbench
 teaching: 60
-exercises: 20
+exercises: 10
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives

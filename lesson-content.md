@@ -1,7 +1,7 @@
 ---
 title: Adding Lesson Content
 teaching: 15
-exercises: 30
+exercises: 40
 start: yes
 ---
 
@@ -344,19 +344,6 @@ format the exercise you designed previously as an exercise in your lesson site.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-::::::::::::::::::::::::::::::::::::::  challenge
-
-## Exercise: More Practice with Fenced Divs (10 minutes)
-
-Return to the bulleted list of prerequisite knowledge or skills you added to the `index.md` file of your lesson and
-use fenced divs to display it in a formatted box with the `prereq` class.
-Note that all lesson objectives in fenced divs will be combined into
-one box at the top of each episode.
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
 ## Optional and Important Material
 
 The Carpentries Workbench includes fenced divs for highlighting key material that should not be 
@@ -403,13 +390,21 @@ to help with separating these two different use cases.
 ## Glossary of Terms 
 
 You have already started on compiling a glossary of terms for your lesson. 
-The Workbench offers a standardized location for lesson terminology.
+The Workbench offers a standardized location for lesson terminology: `learners/reference.md`.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: Add a Glossary to Your Lesson (5 minutes)
+## Exercise: More Practice (15 minutes)
 
-Follow the instructions on [how to create a glossary from the Workbench documentation][sandpaper-docs-learners].
+Use this time to add more content to your lesson site.
+Generally speaking, you should try to transfer the drafted content from your lesson design notes into the lesson website.
+Here are some suggestions for things you might try:
+
+1. Add your list of prerequisite knowledge/skills as a fenced div with the `prereq` class to your `index.md` file.
+2. [Add some tabbed content](https://carpentries.github.io/sandpaper-docs/episodes.html#tabbed-content) in your episode. 
+3. Start a glossary of terms in the `learners/reference.md` file, referring to [the Workbench documentation on how to add a list of term definitions](https://carpentries.github.io/sandpaper-docs/editing.html#learners).
+4. Look through the [Workbench component guide](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html) and try implementing some of the other flavours of fenced div.
+5. Add a new Markdown file to the `learners/` or `instructors/` folder and see if you can find the built page in your lesson site.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
