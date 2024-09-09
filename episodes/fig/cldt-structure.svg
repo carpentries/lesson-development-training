@@ -14,7 +14,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   sodipodi:docname="cldt-structure.svg">
+   sodipodi:docname="cldt-structure.svg"
+   inkscape:export-filename="/Users/hodges/Documents/Carpentries/CLDTPromotion/cldt-structure.png"
+   inkscape:export-xdpi="139.13"
+   inkscape:export-ydpi="139.13">
   <defs
      id="defs2">
     <pattern
@@ -80,10 +83,10 @@
      inkscape:current-layer="g1680"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1470"
-     inkscape:window-height="891"
+     inkscape:window-width="1920"
+     inkscape:window-height="1147"
      inkscape:window-x="0"
-     inkscape:window-y="37"
+     inkscape:window-y="25"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -93,7 +96,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

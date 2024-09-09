@@ -1,7 +1,7 @@
 ---
 title: Episodes
-teaching: 5
-exercises: 25
+teaching: 10
+exercises: 55
 ---
 
 :::::::::::::::::::::::::::::::::::::::: questions
