@@ -96,7 +96,7 @@ this can be useful as an alternative to a slide deck when refering to figures an
 
 ### Setup Instructions
 
-If your lesson requires participants to use any software, tools or data - it is worthwhile 
+If your lesson requires participants to use any software, tools or data, it is worthwhile 
 investing time now into creating clear download, installation and setup instructions for 
 participants to follow and circulating them ahead of the workshop. 
 This will give you more time at the pilot for teaching the lesson as troubleshooting setup problems 
