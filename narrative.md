@@ -23,16 +23,9 @@ After completing this episode, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![
-Now that we have designed assessments to measure attainment of the objectives set for the lesson,
-it is time to begin developing teaching content to give learners the knowledge and skills
-they need to succeed in those assessments.
-](./fig/cldt-step-3.svg){
-alt="An overview of the iterative process of lesson design and development, 
-adapted from Nicholl's five phases,
-with step 3, 'Develop relevant content' highlighted."
-width="67%"
-}
+With your high-level lesson objectives set, now is a good time to consider any additional resources 
+you may need to effectively communicate your message to learners before you dive deeper into writing 
+the lesson content.
 
 ## Creating a Narrative
 
@@ -300,36 +293,6 @@ learning the additional and vital skills where the application might be less cle
 \- Dr. Mine Çetinkaya-Rundel
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-::::::::::::::::::::::::::::::::::::::  challenge
-
-## Exercise: Examples Before Exercises (20 minutes)
-
-Looking back at one of the exercises you designed before:
-what examples could you include in your narrative to teach learners the skills
-they will need to apply to complete the formative assessments you have designed?
-
-Examples:
-In the Software Carpentry Plotting and Programming with Python Lesson:
-Exercise to load and inspect CSV file for Americas ->
-In the lesson, the Instructor demonstrates how to load the data table for another continent (Oceania)
-and explores the values with a few different functions.
-This shows learners how to call the function to load the CSV into a data frame,
-and demonstrates what success looks like for this task.
-In the Python Interactive Data Visualization Lesson in the Incubator:
-Exercise to find the correct widget (a slider) for an action and modify the script to use it ->
-In the lesson the instructor introduces a cheatsheet and documentation for interactive widgets and
-then creates a dropdown widget for the application.
-The slider widget required in the exercise has not been demonstrated but
-the preceding example shows all of the necessary steps to add a widget,
-and provides the supporting information that learners can consult to discover
-how to implement the specific tool.
-
-Outline one of these examples in your episode file.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
 
 
 ## Summary

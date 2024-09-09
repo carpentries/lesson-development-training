@@ -94,7 +94,15 @@ The Instructor View of the lesson website includes a link in the top menu to _Ex
 providing a single page containing all of the images in the lesson and their captions:
 this can be useful as an alternative to a slide deck when refering to figures and other visual aids during a workshop.
 
-If your lesson requires participants to use any software, tools or data - it is worthwhile investing time now into creating clear download, installation and setup instructions for participants to follow and circulating them ahead of the workshop. This will give you more time at the pilot for teaching the lesson as troubleshooting setup problems on the spot can be time-consuming and stressful. Each Carpentries lesson has a dedicated place for setup instructions within The Carpentries Workbench located in the file `learners/setup.md` off the lesson project root.
+### Setup Instructions
+
+If your lesson requires participants to use any software, tools or data, it is worthwhile 
+investing time now into creating clear download, installation and setup instructions for 
+participants to follow and circulating them ahead of the workshop. 
+This will give you more time at the pilot for teaching the lesson as troubleshooting setup problems 
+on the spot can be time-consuming and stressful. 
+Each Carpentries lesson has a dedicated place for setup instructions within 
+The Carpentries Workbench located in the file `learners/setup.md` off the lesson project root.
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -111,7 +119,15 @@ the Learner View of the landing page of your lesson.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Another standard piece of The Carpentries Workbench are the *Instructor Notes* pages - intended to help you and other instructors deliver your lesson by providing useful tips for how to best run a workshop or explain "sticky" points in the lesson. Instructor Notes for your lesson are located in the `instructors/instructor-notes.md` file off your lesson project root where you may consider adding the following information:
+### Instructor Notes 
+
+Another standard piece of The Carpentries Workbench are the *Instructor Notes* pages - 
+intended to help you and other instructors deliver your lesson by providing useful tips for how 
+to best run a workshop or explain "sticky" points in the lesson. 
+Instructor Notes for your lesson are located in the `instructors/instructor-notes.md` file off 
+your lesson project root - this page is displayed in the header menu when in "Instructor View".
+
+You may consider adding the following information to your lesson's Instructor Notes:
 
 - rationale, strengths and/or weaknesses of the lesson design
 - what has been tried before and what worked/did not work
@@ -120,31 +136,44 @@ Another standard piece of The Carpentries Workbench are the *Instructor Notes* p
 - troubleshooting common setup/installation/exercise issues
 - parts that seem to cause trouble or most confusion for learners (i.e. where to tread carefully, spend more time explaining)
 
+You can also add notes in a specific episode of the lesson using fenced div with tag "instructor".
+Instructors can see such notes within the lesson and the "Instructor Notes" tab in the header menu 
+of the website by changing the view in the upper right-hand corner of the lesson 
+to "Instructor View". These notes are hidden when in 'Learner View'
+
 It may initially be difficult to create Instructor Notes until you have taught the lesson yourself for the first time - but after the first pilot you will have enough feedback to draft them.
 
-::::::::::::::::::::::::::::::::::::::  spoiler
-
-## Hidden Curriculum
-
-The concept of **hidden curriculum** describes curricular effects that influence learning 
-but are not explicitly addressed in the lesson content - 
-e.g. (unofficial) social and cultural norms, behaviours and values 
-that are transferred by instructors to learners, often unconsciously.
-These are all the additional things that people learn about the topic from *the way* your lesson is taught, 
-rather than from its official content.
-It is worthwhile to spend some time thinking about what learners could pick up
-from _the way_ your lesson is taught,
-as well as from its written content. 
-You can use Instructor Notes to guide instructors on some of the aspects of the hidden curriculum of your lesson,
-e.g. to encourage them to follow certain tried and tested practices.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: Add Instructor Notes (5 minutes)
 
-Add Instructor Notes (in the `instructors/instructor-notes.md` file) with an initial list of points that will help you and other instructors deliver the lesson.
+Add Instructor Notes (in the `instructors/instructor-notes.md` file) with an initial list of points 
+that will help you and other instructors deliver the lesson.
+
+Add a single instructor note in one of your episodes using the "instructor" fenced div. 
+
+Then try out the "Instructor View" of your lesson and seeing the Instructor Notes in the 
+header menu and the in-line hidden instructor note in your episode.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+::::::::::::::::::::::::::::::::::::::  spoiler
+
+## Hidden Curriculum
+
+The concept of **hidden curriculum** describes curricular effects that influence learning
+but are not explicitly addressed in the lesson content -
+e.g. (unofficial) social and cultural norms, behaviours and values
+that are transferred by instructors to learners, often unconsciously.
+These are all the additional things that people learn about the topic from *the way* your lesson is taught,
+rather than from its official content.
+It is worthwhile to spend some time thinking about what learners could pick up
+from _the way_ your lesson is taught,
+as well as from its written content.
+You can use Instructor Notes to guide instructors on some of the aspects of the hidden curriculum of your lesson,
+e.g. to encourage them to follow certain tried and tested practices.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
