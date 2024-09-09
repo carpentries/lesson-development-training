@@ -74,6 +74,11 @@ and explores the values with a few different functions.
 This shows learners how to call the function to load the CSV into a data frame,
 and demonstrates what success looks like for this task.
 
+Outline one of these examples in your episode file.
+
+::::::::::::::::::::: hint 
+
+### Examples
 In the Python Interactive Data Visualization Lesson in the Incubator:
 Exercise to find the correct widget (a slider) for an action and modify the script to use it ->
 In the lesson the instructor introduces a cheatsheet and documentation for interactive widgets and
@@ -83,7 +88,7 @@ the preceding example shows all of the necessary steps to add a widget,
 and provides the supporting information that learners can consult to discover
 how to implement the specific tool.
 
-Outline one of these examples in your episode file.
+::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
