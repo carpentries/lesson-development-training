@@ -20,7 +20,7 @@ After completing this episode, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-At the end of the previous section,
+So far,
 you defined the learning objectives for your lesson as a whole, and came up with a narrative or 
 example datasets that will help you tell your story.
 
