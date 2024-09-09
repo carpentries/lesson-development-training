@@ -313,7 +313,7 @@ to manage their expectations about how useful the workshop will be for them.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 You should aim to create all your assessments before you have written the explanatory content of 
-your lesson (recall Nicholl's [backward design](https://en.wikipedia.org/wiki/Backward_design)). 
+your lesson (recall Nicholls' [backward design](https://en.wikipedia.org/wiki/Backward_design)). 
 These assessments will guide your lesson design process by knowing exactly which knowledge 
 you'd expect from your learners at any point in the lesson.
 
