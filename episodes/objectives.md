@@ -106,8 +106,8 @@ It is still fairly specific but a bit broader in scope and contains several epis
 :::::::::::
 
 The **lesson** level objective for the current section of this training is:
-**define SMART learning objectives**
-This objective also covers the next episode as well.
+**define SMART learning objectives**.
+This objective also covers a later episode as well.
 
 The **episode** level objectives for the current section of this training are:
 
