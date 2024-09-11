@@ -368,4 +368,4 @@ and manage their expectations about what they will learn if they attend.
 
 [^1]: [Chatterjee & Corral (2017)](learners/reference.md#litref)
 [^2]: [Lujan & DiCarlo (2005)](learners/reference.md#litref)
-[computeBloom]: https://ccecc.acm.org/assessment/blooms-for-computing
+
