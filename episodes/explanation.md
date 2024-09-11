@@ -65,23 +65,21 @@ Looking back at one of the exercises you designed before:
 what examples could you include in your narrative to teach learners the skills
 they will need to apply to complete the formative assessments you have designed?
 
-Examples:
-
-In the Software Carpentry Plotting and Programming with Python Lesson:
-Exercise to load and inspect CSV file for Americas ->
-In the lesson, the Instructor demonstrates how to load the data table for another continent (Oceania)
-and explores the values with a few different functions.
-This shows learners how to call the function to load the CSV into a data frame,
-and demonstrates what success looks like for this task.
-
 Outline one of these examples in your episode file.
 
 ::::::::::::::::::::: hint 
 
 ### Examples
-In the Python Interactive Data Visualization Lesson in the Incubator:
-Exercise to find the correct widget (a slider) for an action and modify the script to use it ->
-In the lesson the instructor introduces a cheatsheet and documentation for interactive widgets and
+
+In the Software Carpentry Plotting and Programming with Python Lesson there is an exercise to load and inspect CSV file for Americas.
+In the lesson, before the exercise, the Instructor demonstrates an example of how to load the data table for another continent (Oceania)
+and explores the values with a few different functions.
+This shows learners how to call the function to load the CSV into a data frame,
+and demonstrates what success looks like for their exercise.
+
+In the Python Interactive Data Visualization Lesson in the Incubator, there is an exercise to find the correct widget (a slider) 
+for an action and modify the script to use it.
+In the lesson, before the exercise, the instructor introduces a cheatsheet and documentation for interactive widgets and
 then creates a dropdown widget for the application.
 The slider widget required in the exercise has not been demonstrated but
 the preceding example shows all of the necessary steps to add a widget,
