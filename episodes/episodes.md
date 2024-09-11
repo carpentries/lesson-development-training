@@ -83,6 +83,12 @@ With your team, in the shared notes document for your lesson:
    They will focus on this episode for the rest of this training, 
    and you will teach these episodes in a trial run between parts 1 and 2 of this training.
 
+Some questions you might ask yourself to help break down your lesson-level learning objectives include:
+
+* What new knowledge and skills will learners need to acquire to be ready to fulfil the overall objectives for your lesson?
+* What order should these concepts and skills be introduced in? Are some dependent on others?
+* If some of these concepts and skills are complex, can they be broken down even further?
+
 If the length of the list of episodes you create is smaller than the number of collaborators you have on your team,
 try assigning two people to a single episode, 
 with each taking responsibility for a subset of the objectives defined for that episode.
