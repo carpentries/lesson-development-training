@@ -129,7 +129,7 @@ There are two important things to note:
 
 Let's create a new episode file, for one of the episodes you have just identified.
 First, open the "raw" view of the `introduction.md` example episode,
-and copy its content into your episode.
+and copy its contents.
 
 ```markdown
 ---
@@ -188,9 +188,9 @@ It is vital to include the file extension when naming this file:
 only files with the `.md` or `.Rmd` extensions will be built into
 webpages by the lesson infrastructure.
 
-For page content, paste those first 19 lines of the `introduction.md` file and:
+For page content, paste the content the `introduction.md` file you copied earlier and:
 
-1. replace the title
+1. replace the title in the header with the title of your episode
 2. set the `teaching` and `exercises` fields to zero for now
 3. replace the contents of the `questions` div with the questions for your episode you defined earlier
 4. replace the contents of the `objectives` div with the episode-level objectives you defined earlier 
