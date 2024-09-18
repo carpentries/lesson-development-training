@@ -169,6 +169,8 @@ Then, considering the exercise type in general, as opposed to the specific examp
 - Would this kind of exercise work well in an in-person workshop setting?
   Would it be better suited to self-directed learning and/or a virtual workshop?
 
+Share the major points of your discussion in the collaborative notes document.
+
 :::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::: hint
@@ -197,7 +199,7 @@ Then, discuss the following questions together:
 
 :::::::::::::::::::::::::::::
 
-Share the major points of your discussion in the collaborative notes document.
+Trainers will lead a discussion about your findings for your chosen exercise type with the rest of the participants.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
