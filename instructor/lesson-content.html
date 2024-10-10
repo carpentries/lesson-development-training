@@ -449,7 +449,7 @@
       </div>
       <hr></nav><main id="main-content" class="main-content"><div class="container lesson-content">
         <h1>Adding Lesson Content</h1>
-        <p>Last updated on 2024-09-09 |
+        <p>Last updated on 2024-10-10 |
 
         <a href="https://github.com/carpentries/lesson-development-training/edit/main/episodes/lesson-content.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 
@@ -592,18 +592,17 @@ will explore some of them in this episode.</li>
 <h3 id="creating-a-new-episode">Creating a new episode<a class="anchor" aria-label="anchor" href="#creating-a-new-episode"></a></h3>
 <p>Let’s create a new episode file, for one of the episodes you have
 just identified. First, open the “raw” view of the
-<code>introduction.md</code> example episode, and copy its content into
-your episode.</p>
+<code>introduction.md</code> example episode, and copy its contents.</p>
 <div class="codewrapper sourceCode" id="cb3">
 <h3 class="code-label">MARKDOWN<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="sourceCode markdown" tabindex="0"><code class="sourceCode markdown"><span id="cb3-1"><a href="#cb3-1" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb3-2"><a href="#cb3-2" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Using Markdown"</span></span>
+<span id="cb3-2"><a href="#cb3-2" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Intro to Markdown"</span></span>
 <span id="cb3-3"><a href="#cb3-3" tabindex="-1"></a><span class="an">teaching:</span><span class="co"> 10</span></span>
 <span id="cb3-4"><a href="#cb3-4" tabindex="-1"></a><span class="an">exercises:</span><span class="co"> 2</span></span>
 <span id="cb3-5"><a href="#cb3-5" tabindex="-1"></a><span class="co">---</span></span>
 <span id="cb3-6"><a href="#cb3-6" tabindex="-1"></a></span>
-<span id="cb3-7"><a href="#cb3-7" tabindex="-1"></a>:::::::::::::::::::::::::::::::::::::: questions</span>
+<span id="cb3-7"><a href="#cb3-7" tabindex="-1"></a>:::::::::::::::::::::::::::::::::::::: questions </span>
 <span id="cb3-8"><a href="#cb3-8" tabindex="-1"></a></span>
 <span id="cb3-9"><a href="#cb3-9" tabindex="-1"></a><span class="ss">- </span>How do you write a lesson using Markdown and <span class="in">`{sandpaper}`</span>?</span>
 <span id="cb3-10"><a href="#cb3-10" tabindex="-1"></a></span>
@@ -614,7 +613,26 @@ your episode.</p>
 <span id="cb3-15"><a href="#cb3-15" tabindex="-1"></a><span class="ss">- </span>Explain how to use markdown with The Carpentries Workbench</span>
 <span id="cb3-16"><a href="#cb3-16" tabindex="-1"></a><span class="ss">- </span>Demonstrate how to include pieces of code, figures, and nested challenge blocks</span>
 <span id="cb3-17"><a href="#cb3-17" tabindex="-1"></a></span>
-<span id="cb3-18"><a href="#cb3-18" tabindex="-1"></a>::::::::::::::::::::::::::::::::::::::::::::::::</span></code></pre>
+<span id="cb3-18"><a href="#cb3-18" tabindex="-1"></a>::::::::::::::::::::::::::::::::::::::::::::::::</span>
+<span id="cb3-19"><a href="#cb3-19" tabindex="-1"></a></span>
+<span id="cb3-20"><a href="#cb3-20" tabindex="-1"></a><span class="fu">## Introduction</span></span>
+<span id="cb3-21"><a href="#cb3-21" tabindex="-1"></a></span>
+<span id="cb3-22"><a href="#cb3-22" tabindex="-1"></a>This is a lesson created via The Carpentries Workbench. It is written in</span>
+<span id="cb3-23"><a href="#cb3-23" tabindex="-1"></a><span class="co">[</span><span class="ot">Pandoc-flavored Markdown</span><span class="co">](https://pandoc.org/MANUAL.txt)</span> for static files and</span>
+<span id="cb3-24"><a href="#cb3-24" tabindex="-1"></a><span class="co">[</span><span class="ot">R Markdown</span><span class="co">][r-markdown]</span> for dynamic files that can render code into output. </span>
+<span id="cb3-25"><a href="#cb3-25" tabindex="-1"></a>Please refer to the [Introduction to The Carpentries </span>
+<span id="cb3-26"><a href="#cb3-26" tabindex="-1"></a>Workbench](https://carpentries.github.io/sandpaper-docs/) for full documentation.</span>
+<span id="cb3-27"><a href="#cb3-27" tabindex="-1"></a></span>
+<span id="cb3-28"><a href="#cb3-28" tabindex="-1"></a>...</span>
+<span id="cb3-29"><a href="#cb3-29" tabindex="-1"></a></span>
+<span id="cb3-30"><a href="#cb3-30" tabindex="-1"></a>::::::::::::::::::::::::::::::::::::: keypoints </span>
+<span id="cb3-31"><a href="#cb3-31" tabindex="-1"></a></span>
+<span id="cb3-32"><a href="#cb3-32" tabindex="-1"></a><span class="ss">- </span>Use <span class="in">`.md`</span> files for episodes when you want static content</span>
+<span id="cb3-33"><a href="#cb3-33" tabindex="-1"></a><span class="ss">- </span>Use <span class="in">`.Rmd`</span> files for episodes when you need to generate output</span>
+<span id="cb3-34"><a href="#cb3-34" tabindex="-1"></a><span class="ss">- </span>Run <span class="in">`sandpaper::check_lesson()`</span> to identify any issues with your lesson</span>
+<span id="cb3-35"><a href="#cb3-35" tabindex="-1"></a><span class="ss">- </span>Run <span class="in">`sandpaper::build_lesson()`</span> to preview your lesson locally</span>
+<span id="cb3-36"><a href="#cb3-36" tabindex="-1"></a></span>
+<span id="cb3-37"><a href="#cb3-37" tabindex="-1"></a>::::::::::::::::::::::::::::::::::::::::::::::::</span></code></pre>
 </div>
 <div id="accordionInstructor1" class="accordion instructor-note accordion-flush">
 <div class="accordion-item">
@@ -638,9 +656,9 @@ e.g. <code>data-visualisation.md</code> (or
 It is vital to include the file extension when naming this file: only
 files with the <code>.md</code> or <code>.Rmd</code> extensions will be
 built into webpages by the lesson infrastructure.</p>
-<p>For page content, paste those first 19 lines of the
-<code>introduction.md</code> file and:</p>
-<ol style="list-style-type: decimal"><li>replace the title</li>
+<p>For page content, paste the content the <code>introduction.md</code>
+file you copied earlier and:</p>
+<ol style="list-style-type: decimal"><li>replace the title in the header with the title of your episode</li>
 <li>set the <code>teaching</code> and <code>exercises</code> fields to
 zero for now</li>
 <li>replace the contents of the <code>questions</code> div with the
@@ -1045,7 +1063,7 @@ divs</a> available to lesson developers.</li>
   "url": "https://carpentries.github.io/lesson-development-training/instructor/lesson-content.html",
   "identifier": "https://carpentries.github.io/lesson-development-training/instructor/lesson-content.html",
   "dateCreated": "2022-01-18",
-  "dateModified": "2024-09-09",
+  "dateModified": "2024-10-10",
   "datePublished": "2024-10-10"
 }
 
