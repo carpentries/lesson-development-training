@@ -163,7 +163,7 @@ Read about your given exercise type
 Then, considering the exercise type in general, as opposed to the specific example given in the text, discuss the following questions together:
 
 - What kind of skills would an exercise of this type assess?
-  Try to identify some action verbs like those we used to write lesson objectives earlier in the workshop.
+  Try to identify some action verbs like those we used to write lesson objectives earlier in the workshop (you may refer to the extended [Bloom's taxonomy for computing][computeBloom] to help you).
 - Would this type of exercise be suited to a novice audience?
   Or is it a better fit for intermediate or advanced learners?
 - Would this kind of exercise work well in an in-person workshop setting?
