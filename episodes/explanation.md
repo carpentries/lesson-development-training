@@ -28,7 +28,7 @@ it is time to begin developing teaching content to give learners the knowledge a
 they need to succeed in those assessments.
 ](./fig/cldt-step-3.svg){
 alt="An overview of the iterative process of lesson design and development,
-adapted from Nicholl's five phases,
+adapted from Nicholls' five phases,
 with step 3, 'Develop relevant content' highlighted."
 width="67%"
 }
