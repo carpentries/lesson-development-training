@@ -26,7 +26,7 @@ In this episode we will begin the first step of our iterative design process:
 defining the skills and knowledge we want learners to leave with.
 ](./fig/cldt-step-1.svg){
 alt="An overview of the iterative process of lesson design and development, 
-adapted from Nicholl's five phases,
+adapted from Nicholls' five phases,
 with step 1, 'Define desired learning outcomes' highlighted."
 width="67%"
 }
