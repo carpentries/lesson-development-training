@@ -41,7 +41,7 @@ how you can use the notes, information, and feedback you collected when triallin
 to identify ways that the design and content could be improved.
 ](./fig/cldt-step-5.svg){
 alt="An overview of the iterative process of lesson design and development, 
-adapted from Nicholl's five phases,
+adapted from Nicholls' five phases,
 with step 5, 'Evaluate curriculum' highlighted."
 width="67%"
 }
