@@ -29,7 +29,7 @@ and gather feedback about the effectiveness of your content
 by teaching the lesson.
 ](./fig/cldt-step-4.svg){
 alt="An overview of the iterative process of lesson design and development, 
-adapted from Nicholl's five phases,
+adapted from Nicholls' five phases,
 with step 4, 'Assess learner progress' highlighted."
 width="67%"
 }
