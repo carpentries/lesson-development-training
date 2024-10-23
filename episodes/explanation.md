@@ -65,7 +65,7 @@ Looking back at one of the exercises you designed before:
 what examples could you include in your narrative to teach learners the skills
 they will need to apply to complete the formative assessments you have designed?
 
-Outline one of these examples in your episode file.
+Outline one of these examples in your lesson design notes.
 
 ::::::::::::::::::::: hint 
 
