@@ -283,7 +283,7 @@ you intended for an episode.
 
 ## Exercise: Completing episode metadata (10 minutes)
 
-In your shared notes document, add key points and questions to your episode.
+In your shared notes document, add key points and questions for your episode.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
