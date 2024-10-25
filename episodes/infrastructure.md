@@ -95,6 +95,22 @@ much simpler to navigate and work with.
 
 :::
 
+Developing lessons using the Carpentries Workbench in GitHub might seem intimidating, especially for those 
+who are less experienced with collaborative GitHub workflows or unfamiliar with the Workbench. 
+However, most of the complex infrastructure is hidden from lesson developers, and some setup tasks only 
+need to be completed once or infrequently. 
+The table below outlines common tasks that lesson developers perform in GitHub (which you will learn about shortly) 
+along with how often they are needed.
+
+| Task | Frequency |
+|------------|-----------|
+| Create repository | Once |
+| Add collaborators | Rarely |
+| Edit global lesson configuration file | Rarely |
+| Edit lesson front page | Rarely |
+| Create a new episode | Often in the early stages of lesson design, rarely after that |
+| Edit episode content | Often |
+
 ### Creating a Lesson Repository
 
 To get started, we first need to create a new repository for our lesson.
