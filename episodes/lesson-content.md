@@ -491,7 +491,7 @@ find and fix the problem when you notice the build process fail.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- The main pages of a lesson website (lesson episodes) are created from individual Markdown or RMarkdown files in the `episodes` folder of a lesson repository
+- The main pages of a lesson website (lesson episodes) are created from individual Markdown or R Markdown files in the `episodes` folder of a lesson repository
 - Objectives, questions, keypoints, exercises (and solutions), and other "special" structural 
 page elements (other than plain text) can be formatted using _fenced div_ blocks - they are rendered 
 visually differently in the lesson website. 
