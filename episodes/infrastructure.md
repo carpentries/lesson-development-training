@@ -93,6 +93,8 @@ For lesson developers,
 the Workbench makes The Carpentries lesson repositories
 much simpler to navigate and work with.
 
+:::
+
 Developing lessons using the Carpentries Workbench in GitHub might seem intimidating, especially for those 
 who are less experienced with collaborative GitHub workflows or unfamiliar with the Workbench. 
 However, most of the complex infrastructure is hidden from lesson developers, and some setup tasks only 
