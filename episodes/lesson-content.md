@@ -104,7 +104,7 @@ as a bullet list in the `index.md` file of your lesson repository.
 
 The main body of the lesson is written in _episodes_:
 the individual chunks or sections that the lesson is separated into.
-The episode pages of the lesson site will be constructed from Markdown or RMarkdown files
+The episode pages of the lesson site will be constructed from Markdown or R Markdown files
 in the `episodes` folder of the lesson repository.
 
 The `episodes` folder of the new repository contains a single file,
