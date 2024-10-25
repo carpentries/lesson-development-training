@@ -72,7 +72,7 @@ from how it appears on your website, or not at all.
 
 We will encounter more examples of this throughout the lesson,
 but the important thing to remember for now is that
-**how GitHub displays source (R) Markdown files is not a reliable indicator
+**how GitHub displays source (R)Markdown files is not a reliable indicator
 of how content will be displayed in your website**.
 
 ::::::::::::::::::::::::::::::::::::::::
