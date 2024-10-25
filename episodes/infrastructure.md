@@ -295,9 +295,8 @@ We will revisit `README.md` later in the training with more details on what to i
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- Lesson sites are built from source repositories with GitHub Pages.
+- Lesson sites are built with GitHub Pages from source repositories located in GitHub.
 - A new lesson repository can be created from a template maintained by The Carpentries, and configured by adjusting the `config.yaml` file.
-- The main pages of a lesson website are created from Markdown or RMarkdown files in the `episodes` folder.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
