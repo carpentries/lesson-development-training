@@ -104,7 +104,7 @@ as a bullet list in the `index.md` file of your lesson repository.
 
 As we've discussed previously, the main body of the lesson is written in _episodes_:
 the individual chunks or sections that the lesson is separated into.
-The episode pages of the lesson site will be constructed from Markdown files
+The episode pages of the lesson site will be constructed from Markdown or RMarkdown files
 in the `episodes` folder of the lesson repository.
 
 The `episodes` folder of the new repository contains a single file,
@@ -491,7 +491,7 @@ find and fix the problem when you notice the build process fail.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- Lesson episodes are individual Markdown pages in a lesson repository.
+- The main pages of a lesson website (lesson episodes) are created from individual Markdown or RMarkdown files in the `episodes` folder of a lesson repository
 - Objectives, questions, keypoints, exercises (and solutions), and other "special" structural 
 page elements (other than plain text) can be formatted using _fenced div_ blocks - they are rendered 
 visually differently in the lesson website. 
