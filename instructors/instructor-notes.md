@@ -19,9 +19,9 @@ for each teaching session.
 | 10:00 - 10:30  | Lesson Design                           |
 | 10:30 - 11:05  | Identifying Your Target Audience        | 
 | 11:05 - 11:15  | Break                                   |
-| 11:15 - 12:05  | Defining Lesson Objectives/Outcomes (1) |
+| 11:15 - 12:05  | Defining Lesson Objectives/Outcomes 1 |
 | 12:05 - 12:15  | Break                                   | 
-| 12:15 - 13:00  | Defining Lesson Objectives/Outcomes (2) | 
+| 12:15 - 13:00  | Defining Lesson Objectives/Outcomes 2 | 
 | 13:00          | End                                     | 
 
 
