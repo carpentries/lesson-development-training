@@ -91,9 +91,9 @@ in working with GitHub.
 | 10:05 - 10:15   | Break                              |
 | 10:15 - 11:05   | Collaborating with Newcomers 2       | 
 | 11:05 - 11:15   | Break                              |
-| 11:15 - 12:00   | Project Management and Governance  |
+| 11:15 - 12:00   | Project Management and Governance 1  |
 | 12:00 - 12:10   | Break                              |
-| 12:10 - 12:30   | Project Management and Governance  |
+| 12:10 - 12:30   | Project Management and Governance 2  |
 | 12:30 - 13:00   | Wrap-up                            | 
 | 13:00           | End                                |
 
