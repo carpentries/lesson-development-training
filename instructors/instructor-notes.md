@@ -74,9 +74,9 @@ in working with GitHub.
 
 | Time           | Session Title                  |
 |----------------|--------------------------------|
-| 09:00 - 10:05  | Reflecting on Trial Runs       |
+| 09:00 - 10:05  | Reflecting on Trial Runs 1      |
 | 10:05 - 10:15  | Break                          |
-| 10:15 - 11:05  | Reflecting on Trial Runs       | 
+| 10:15 - 11:05  | Reflecting on Trial Runs  2     | 
 | 11:05 - 11:15  | Break                          |
 | 11:15 - 12:00  | Collaborating with Your Team 1 |
 | 12:00 - 12:10  | Break                          |
