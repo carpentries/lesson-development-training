@@ -33,9 +33,9 @@ for each teaching session.
 | 10:05 - 10:15  | Break                    |
 | 10:15 - 11:20  | Episodes                 |
 | 11:20 - 11:30  | Break                    |
-| 11:30 - 12:15  | Designing Exercises      | 
+| 11:30 - 12:15  | Designing Exercises  1    | 
 | 12:15 - 12:25  | Break                    |
-| 12:25 - 13:00  | Designing Exercises      | 
+| 12:25 - 13:00  | Designing Exercises  2    | 
 | 13:00          | End                      |
 
 ### Day 3
