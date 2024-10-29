@@ -87,9 +87,9 @@ in working with GitHub.
 
 | Time            | Session Title                      |
 |-----------------|------------------------------------|
-| 09:00 - 10:05   | Collaborating with Newcomers       |
+| 09:00 - 10:05   | Collaborating with Newcomers 1       |
 | 10:05 - 10:15   | Break                              |
-| 10:15 - 11:05   | Collaborating with Newcomers       | 
+| 10:15 - 11:05   | Collaborating with Newcomers 2       | 
 | 11:05 - 11:15   | Break                              |
 | 11:15 - 12:00   | Project Management and Governance  |
 | 12:00 - 12:10   | Break                              |
