@@ -4,13 +4,18 @@ title: Trainer Notes
 
 ## Schedule
 
-The curriculum was piloted in six half-days, 
-with an extended break for lesson trial runs between half-days 4 & 5.
+The curriculum is intended to be delivered in 2 parts over six half-days. 
+Part 1 takes 4 half-days and teaches the theory of lesson design as well as implementing lessons using The Carpentries Workbench. 
+At the end of part 1, learners are expected to have an outline for a whole lesson, and a detailed plan for some of its individual sections/episodes.
+Part 2 takes 2 half-days and teaches collaborating effectively on open lesson development projects.
+There is an extended break for lesson trial runs between parts 1 & 2, wher learners are expected to conduct mini pilots of their lessons with the 
+intended target audiences.
 
-Below is a suggested six half-day schedule that can be used as a guideline to plan the content 
-for each teaching session.
+Below is a suggested that can be used as a guideline to plan the content and timings for each teaching session.
 
-### Day 1
+### Part 1
+
+#### Day 1
 
 | Time           | Session Title                           |
 |----------------| --------------------------------------- |
@@ -25,7 +30,7 @@ for each teaching session.
 | 13:00          | End                                     | 
 
 
-### Day 2
+#### Day 2
 
 | Time           | Session Title            |
 |----------------|:------------------------ |
@@ -38,7 +43,7 @@ for each teaching session.
 | 12:25 - 13:00  | Designing Exercises  2    | 
 | 13:00          | End                      |
 
-### Day 3
+#### Day 3
 
 | Time           | Session Title               |
 |----------------|-----------------------------|
@@ -51,7 +56,7 @@ for each teaching session.
 | 12:10 - 13:00  | Adding Lesson Content 1     | 
 | 13:00          | End                         |
 
-### Day 4
+#### Day 4
 
 | Time            | Session Title           |
 |-----------------|-------------------------|
@@ -66,11 +71,13 @@ for each teaching session.
 | 13:00           | End                     |
 
 
+### Part 2
+
 From experience, half-days 5 & 6 can probably be delivered in less than the scheduled amount of time
 and could potentially be folded into 1 half-day of teaching, for learner teams that are more experienced 
 in working with GitHub.
 
-### Day 5
+#### Day 5
 
 | Time           | Session Title                  |
 |----------------|--------------------------------|
@@ -83,7 +90,7 @@ in working with GitHub.
 | 12:10 - 13:00 | Collaborating with Your Team 2 |
 | 13:00          | End                            |
 
-### Day 6
+#### Day 6
 
 | Time            | Session Title                      |
 |-----------------|------------------------------------|
