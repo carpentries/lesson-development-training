@@ -8,7 +8,7 @@ The curriculum is intended to be delivered in 2 parts over six half-days.
 Part 1 takes 4 half-days and teaches the theory of lesson design as well as implementing lessons using The Carpentries Workbench. 
 At the end of part 1, learners are expected to have an outline for a whole lesson, and a detailed plan for some of its individual sections/episodes.
 Part 2 takes 2 half-days and teaches collaborating effectively on open lesson development projects.
-There is an extended break for lesson trial runs between parts 1 & 2, wher learners are expected to conduct mini pilots of their lessons with the 
+There is an extended break for lesson trial runs between parts 1 & 2, where learners are expected to conduct mini pilots of their lessons with the 
 intended target audiences.
 
 Below is a suggested that can be used as a guideline to plan the content and timings for each teaching session.
