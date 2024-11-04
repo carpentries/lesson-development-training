@@ -11,7 +11,7 @@ Part 2 takes 2 half-days and teaches collaborating effectively on open lesson de
 There is an extended break for lesson trial runs between parts 1 & 2, where learners are expected to conduct mini pilots of their lessons with the 
 intended target audiences.
 
-Below is a suggested that can be used as a guideline to plan the content and timings for each teaching session.
+Below is a suggested schedule that can be used as a guideline to plan the content and timings for each teaching session.
 
 ### Part 1
 
