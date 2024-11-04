@@ -26,6 +26,15 @@ format objectives, questions, keypoints, exercises and their solutions in a less
 Now that we have completed the basic configuration of a lesson site,
 it is time to move on and look at where the actual lesson content will be written.
 
+As we have seen previously, lesson content is composed using Markdown (or R Markdown),
+a lightweight markup language that simplifies the formatting of plain text. 
+While Markdown provides structured elements like headings, lists, links, images, and code blocks, 
+the Workbench enhances this by allowing the creation of additional structured text blocks that 
+visually stand out from standard paragraphs on lesson websites. 
+These elements, known as *fenced divs*, will be demonstrated shortly.
+
+Let's start by writing out lesson's home page.
+
 ## Lesson Home Page
 
 The "home page" of a lesson is created from the `index.md` file:
@@ -42,10 +51,63 @@ site: sandpaper::sandpaper_site
 
 ```
 
-This header configures how the site will be built by `sandpaper`,
-one of the components of The Carpentries Workbench,
-and should be left untouched.
+This header configures how the site will be built by `sandpaper`, one of the components of 
+The Carpentries Workbench, and should be left untouched.
 The page content begins after the blank line that follows this header.
+
+To get started on this home page, let's replace the template text in `index.md` with
+the same short description of your lesson you added to your `README.md`.
+
+After that, it might be a good idea to add your lesson objectives to our lesson's homepage.
+
+::::::::::::::::::::::::::::::::::::::  challenge
+
+## Exercise: more practice editing Markdown in GitHub
+
+Add the objectives you defined for your lesson
+as a bullet list in the `index.md` file of your lesson repository.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Below those, let's add the prerequisite skills you determined earlier for your lesson. 
+While you can add them as a bullet point list, the Workbench provides a special formatted block 
+for prerequisites, so they appear visually distinct on the page.
+
+::: callout 
+
+### Fenced divs
+
+Fenced divs are structural elements within the page, which get rendered in a visually distinct 
+way on the lesson website.
+Fenced divs include regular Markdown content surrounded by special tags to mark 
+the start and the end of such a block. 
+
+To mark the start of a fenced div, start a line with a start tag - at least 3 colon characters 
+followed by a blank character and a keyword denoting the type of a fenced div you are 
+creating (`::: fenced_div_keyword`) . 
+Then you add the Markdown content of this structural block. 
+Finally, end your fenced div with an end tag consisting of at least 3 colons (`:::`).
+
+[There are many types of fenced divs available in the lesson infrastructure](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html#callout-blocks)
+and we will explore most of them in this episode.
+:::
+
+To add a "prerequisite" block to `index.md`, we use a fenced div called `prereq` like this:
+
+```markdown
+::: prepreq
+- prerequisite 1
+- prerequisite 2
+- ...
+:::
+```
+
+Once your page builds, check how prerequisites block appears on your lesson website. 
+A screenshot below provides an example.
+
+![A rendered lesson prerequisite fenced div](fig/prereq-fenced-div.png){
+alt="Lesson prerequisite fenced div structural block as rendered in a Web page by the Workbench"
+}
 
 :::::::::::::::::::::::::::::::: spoiler
 
@@ -58,7 +120,7 @@ by default in its web interface.
 You might also notice that the content of `index.md` is displayed differently
 when viewed on GitHub
 from how it appears on the homepage of your lesson website:
-the header mentioned above appears in a tabular layout on GitHub,
+the yaml header mentioned above appears in a tabular layout on GitHub,
 but is not visible on the lesson homepage.
 
 This is because the lesson infrastructure accepts an expanded set of
@@ -66,7 +128,7 @@ elements in the source Markdown files:
 syntax for components of a lesson website
 that are not part of the standard set of Markdown features,
 e.g. page metadata such as the YAML header above,
-or blocks to make exercises and solutions visually distinctive.
+or fenced div blocks to make certain content visually distinctive.
 In these cases, you may see GitHub render the content differently
 from how it appears on your website, or not at all.
 
@@ -77,29 +139,6 @@ of how content will be displayed in your website**.
 
 ::::::::::::::::::::::::::::::::::::::::
 
-To get started on this home page,
-replace the template text with
-the same short description you added to your `README.md`.
-
-Below those, you can add the prerequisite skills you determined earlier for your lesson,
-as a bullet point list to `index.md`:
-
-```markdown
-- prerequisite 1
-- prerequisite 2
-- ...
-```
-
-::::::::::::::::::::::::::::::::::::::  challenge
-
-## Exercise: practice editing Markdown in GitHub (optional)
-
-Add the objectives you defined for your lesson
-as a bullet list in the `index.md` file of your lesson repository.
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ## Episodes
 
 The main body of the lesson is written in _episodes_:
@@ -107,29 +146,29 @@ the individual chunks or sections that the lesson is separated into.
 The episode pages of the lesson site will be constructed from Markdown or R Markdown files
 in the `episodes` folder of the lesson repository.
 
-The `episodes` folder of the new repository contains a single file,
+The `episodes` folder of the new repository contains a single example episode file,
 `introduction.md`.
-The content of this file includes examples of how to write Markdown files
+The content of this file includes some help with and examples of how to write Markdown files
 for The Carpentries Workbench.
-
-There are two important things to note:
-
-1. Like `index.md`, the episode file begins with a short header.
-   The fields in this header describe the episode title and the estimated time (in minutes)
-   required to teach it and complete the exercises.
-2. The example content includes several lines that start with strings of colons (`:::::::`).
-   These mark the beginnings and ends of structural elements within the page,
-   called _fenced divs_, which get rendered in a visually distinct way on the lesson website.
-   Each fenced div starts and ends with a string of at least 3 colons (":::") and 
-   the word at the end of the starting colons (the fenced div's tag) indicates what kind of block it is.
-   [There are many types of fenced divs in the lesson infrastructure](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html#callout-blocks) 
-   and we will explore some of them in this episode.
+Like `index.md`, the episode file begins with a short header.
+The fields in this header describe the episode title and the estimated time (in minutes)
+required to teach it and complete the exercises.
 
 ### Creating a new episode
 
-Let's create a new episode file, for one of the episodes you have just identified.
+Let's create a new episode file, for one of the episodes you have identified earlier in the 
+training.
 First, open the "raw" view of the `introduction.md` example episode,
-and copy its contents.
+and copy its contents to make it easier to structure the new episode we are creating.
+
+::: instructor
+
+You may ask each of the member of a the lesson team to create an episode file for
+the episode they are responsible for.
+Be careful here to ensure that participants who are collaborating on the same repository
+do not create conflicts e.g. by editing the same file or creating files with identical names.
+
+:::
 
 ```markdown
 ---
@@ -171,13 +210,10 @@ Workbench](https://carpentries.github.io/sandpaper-docs/) for full documentation
 ::::::::::::::::::::::::::::::::::::::::::::::::
 ```
 
-::: instructor
-
-Be careful here to ensure that participants who are collaborating on the same repository
-do not create conflicts e.g. by editing the same file or creating files with identical names.
-
-:::
-
+You may have noticed a few more fenced divs in the episode file - `questions`, `objectives` and
+`keypoints`.
+These are all compulsory elements of every episode - the Workbench will refuse to build your
+lesson if any of these are missing.
 
 Now create a new file in the `episodes` folder.
 Based on the episodes you planned out earlier,
@@ -188,7 +224,7 @@ It is vital to include the file extension when naming this file:
 only files with the `.md` or `.Rmd` extensions will be built into
 webpages by the lesson infrastructure.
 
-For page content, paste the content the `introduction.md` file you copied earlier and:
+For the content of your episode, paste the content the `introduction.md` file you copied earlier and:
 
 1. replace the title in the header with the title of your episode
 2. set the `teaching` and `exercises` fields to zero for now
@@ -196,55 +232,6 @@ For page content, paste the content the `introduction.md` file you copied earlie
 4. replace the contents of the `objectives` div with the episode-level objectives you defined earlier 
 5. replace the contents of the `keypoints` div with the key points for your episode you defined earlier
 6. Ignore or delete the rest of the content of the episode (i.e. only focus on the three structural elements - questions, objectives and keypoints).
-
-
-```markdown
----
-title: "Episode Title"
-teaching: 0
-exercises: 0
----
-
-:::::::::::::::::::::::::::::::::::::: questions
-
-- question 1
-- question 2
-- ... 
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::: objectives
-
-- objective 1
-- objective 2
-- ...
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-Some episode content ...
-
-::::::::::::::::::::::::::::::::::::: keypoints
-
-- keypoint 1
-- keypoint 2
-- ...
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-```
-
-::: spoiler
-
-### Full List of Fenced Divs
-
-[The Workbench Component Guide][component-guide] provides a full list of
-all the different classes of fenced div that can be included using the lesson infrastructure.
-The guide specifies which divs are required for an episode
-(`objectives`, `questions`, and `keypoints`),
-and which are optional.
-
-:::
-
 
 ### Adding a new episode to the lesson navigation
 
@@ -272,16 +259,20 @@ episodes:
 ```
 
 After the lesson site has been rebuilt on GitHub,
-you should see the episode title appear under _Chapters_
+you should see the episode title appear under _EPISODES_
 in the left sidebar navigation of your lesson site
 after refreshing the webpage.
 Clicking on that title will take you to the episode page built from the file you created.
 At the top of the page body, you will find the episode title
 and an _Overview_ box containing a list of the questions and objectives
-defined for the episode.
+defined for the episode. 
+At the bottom of the page, you will find the keypoints. 
 Later, we will add more content to your chosen episodes.
 
-TODO add a labelled screenshot of a new episode page
+![An example rendered lesson episode page](fig/rendered-episode-page.png){
+alt="A rendered lesson episode page showing objectives, questions and keypoints fenced div elements"
+}
+
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -301,15 +292,15 @@ Using this approach, we can build up our lesson one episode at a time.
 ## Adding Exercises
 
 To create an exercise in The Carpentries Workbench,
-we use another two types of 'fenced divs':
+we use another two types of fenced divs:
 
 * `discussions`, where the main task is for participants to discuss a topic or prompt, and 
 * `challenges`, where the main task is a problem to be solved.
 
-For example, to start a challenge fenced div, use at least 3 colons, 
-followed by the `challenge` tag.
-Then the content of the challenge is included on the following lines.
-Finally, you need to close the fenced div using another line with least 3 colons.
+To start a challenge fenced div, as usual use at least 3 colons, then followed it by the 
+`challenge` keyword.
+Add the content of the challenge on the following lines.
+Finally, close the fenced div using another line with least 3 colons.
 
 ```markdown
 :::::::::::::::::::::::::::::::::::::: challenge
@@ -411,6 +402,9 @@ to help with separating these two different use cases.
 You have already started on compiling a glossary of terms for your lesson. 
 The Workbench offers a standardized location for lesson terminology: `learners/reference.md`.
 
+
+## More Practice with Lesson Content
+
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: More Practice (15 minutes)
@@ -419,7 +413,7 @@ Use this time to add more content to your lesson site.
 Generally speaking, you should try to transfer the drafted content from your lesson design notes into the lesson website.
 Here are some suggestions for things you might try:
 
-1. Add your list of prerequisite knowledge/skills as a fenced div with the `prereq` class to your `index.md` file.
+1. Add different types of exercises - e.g. add a `discussion`.
 2. [Add some tabbed content](https://carpentries.github.io/sandpaper-docs/episodes.html#tabbed-content) in your episode. 
 3. Start a glossary of terms in the `learners/reference.md` file, referring to [the Workbench documentation on how to add a list of term definitions](https://carpentries.github.io/sandpaper-docs/editing.html#learners).
 4. Look through the [Workbench component guide](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html) and try implementing some of the other flavours of fenced div.
