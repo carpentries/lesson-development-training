@@ -51,7 +51,7 @@ this has been how The Carpentries presents its lesson websites to the world.
 ## Using The Carpentries Workbench
 
 Carpentries lesson websites are built with [**The Carpentries Workbench**][workbench],
-a toolkit that converts Markdown and RMarkdown files into the HTML
+a toolkit that converts Markdown and R Markdown files into the HTML
 that can be served by GitHub Pages.
 We will use it now to initialise a new lesson.
 
@@ -82,7 +82,7 @@ a software designed for converting content between file formats.
 The Workbench combines three R packages:
 
 - `{sandpaper}`:
-   converts a collection of Markdown or RMarkdown files into
+   converts a collection of Markdown or R Markdown files into
    the structure of a lesson website.
 - `{varnish}`: provides the files and folders that add
    styling and additional functionality to a lesson website.
@@ -120,7 +120,7 @@ that the Workbench needs in order to build a lesson site.
 There are currently two templates to choose between:
 
 1. [A Markdown template][md-template]
-2. [An RMarkdown template][rmd-template], best suited to lessons you expect to include R source code that will generate output.
+2. [An R Markdown template][rmd-template], best suited to lessons you expect to include R source code that will generate output.
 
 **One member of each participating lesson team** should choose one of these templates,
 following the link above and completing the configuration as follows:
