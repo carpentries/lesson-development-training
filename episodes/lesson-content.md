@@ -296,8 +296,7 @@ we use another two types of fenced div:
 * `discussions`, where the main task is for participants to discuss a topic or prompt, and 
 * `challenges`, where the main task is a problem to be solved.
 
-To start a challenge fenced div, as usual use at least 3 colons, then followed it by the 
-`challenge` keyword.
+To start a challenge fenced div, write an opening tag of at least 3 colons as usual, then follow it with the `challenge` keyword.
 Add the content of the challenge on the following lines.
 Finally, close the fenced div using another line with least 3 colons.
 
