@@ -291,7 +291,7 @@ Using this approach, we can build up our lesson one episode at a time.
 ## Adding Exercises
 
 To create an exercise in The Carpentries Workbench,
-we use another two types of fenced divs:
+we use another two types of fenced div:
 
 * `discussions`, where the main task is for participants to discuss a topic or prompt, and 
 * `challenges`, where the main task is a problem to be solved.
