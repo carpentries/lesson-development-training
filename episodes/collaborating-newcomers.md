@@ -87,6 +87,12 @@ Once you have set up the basic documentation about your lesson, you may consider
 - set-up guides for installing and rendering the lesson locally. In most cases, a link to [The Carpentries Workbench documentation](https://carpentries.github.io/sandpaper-docs/) will be sufficient. You can also contribute to the Workbench documentation to help improve it for the community.
 - how to create and modify the pages in the lesson
 
+### Templates for collaboration
+
+We have prepared the following templates to help you get started with writing the README and contributing guide for your project:
+
+* [`README.md` template]()
+* [`CONTRIBUTING.md` template]()
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 ## Exercise: preparing your repository for collaboration (15 minutes)
