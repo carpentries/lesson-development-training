@@ -162,7 +162,7 @@ and copy its contents to make it easier to structure the new episode we are crea
 
 ::: instructor
 
-You may ask each of the member of a the lesson team to create an episode file for
+You may ask each trainee in a lesson team to create an episode file for
 the episode they are responsible for.
 Be careful here to ensure that participants who are collaborating on the same repository
 do not create conflicts e.g. by editing the same file or creating files with identical names.
