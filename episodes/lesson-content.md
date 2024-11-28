@@ -156,8 +156,7 @@ required to teach it and complete the exercises.
 
 ### Creating a new episode
 
-Let's create a new episode file, for one of the episodes you have identified earlier in the 
-training.
+Let's create a new episode file, for one of the episodes you have identified earlier in the training.
 First, open the "raw" view of the `introduction.md` example episode,
 and copy its contents to make it easier to structure the new episode we are creating.
 
