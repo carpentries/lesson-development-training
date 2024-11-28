@@ -33,7 +33,7 @@ the Workbench enhances this by allowing the creation of additional structured te
 visually stand out from standard paragraphs on lesson websites. 
 These elements, known as *fenced divs*, will be demonstrated shortly.
 
-Let's start by writing out lesson's home page.
+Let's start by writing our lesson's home page.
 
 ## Lesson Home Page
 
