@@ -223,7 +223,7 @@ It is vital to include the file extension when naming this file:
 only files with the `.md` or `.Rmd` extensions will be built into
 webpages by the lesson infrastructure.
 
-For the content of your episode, paste the content the `introduction.md` file you copied earlier and:
+For the content of your episode, paste everything from the `introduction.md` file you copied earlier and:
 
 1. replace the title in the header with the title of your episode
 2. set the `teaching` and `exercises` fields to zero for now
