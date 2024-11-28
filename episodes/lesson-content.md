@@ -86,7 +86,7 @@ To mark the beginning of a fenced div, start a line with an opening tag - at lea
 followed by a blank character and a keyword denoting the type of a fenced div you are 
 creating (`::: fenced_div_keyword`) . 
 Then you add the Markdown content of this structural block. 
-Finally, end your fenced div with an end tag consisting of at least 3 colons (`:::`).
+Finally, end your fenced div with a closing tag consisting of at least 3 colons (`:::`).
 
 [There are many types of fenced divs available in the lesson infrastructure](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html#callout-blocks)
 and we will explore most of them in this episode.
