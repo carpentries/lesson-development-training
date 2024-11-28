@@ -91,8 +91,8 @@ Once you have set up the basic documentation about your lesson, you may consider
 
 We have prepared the following templates to help you get started with writing the README and contributing guide for your project:
 
-* [`README.md` template]()
-* [`CONTRIBUTING.md` template]()
+* [`README.md` template](files/README-template.md)
+* [`CONTRIBUTING.md` template](files/CONTRIBUTING-template.md)
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 ## Exercise: preparing your repository for collaboration (15 minutes)
