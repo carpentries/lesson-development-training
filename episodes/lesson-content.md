@@ -411,7 +411,7 @@ Use this time to add more content to your lesson site.
 Generally speaking, you should try to transfer the drafted content from your lesson design notes into the lesson website.
 Here are some suggestions for things you might try:
 
-1. Add different types of exercises - e.g. add a `discussion`.
+1. Add other exercises - e.g. add a `discussion`. Note that the lesson infrastructure does not support `solution` divs attached to `discussion`s.
 2. [Add some tabbed content](https://carpentries.github.io/sandpaper-docs/episodes.html#tabbed-content) in your episode. 
 3. Start a glossary of terms in the `learners/reference.md` file, referring to [the Workbench documentation on how to add a list of term definitions](https://carpentries.github.io/sandpaper-docs/editing.html#learners).
 4. Look through the [Workbench component guide](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html) and try implementing some of the other flavours of fenced div.
