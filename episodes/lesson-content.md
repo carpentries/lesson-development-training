@@ -82,7 +82,7 @@ way on the lesson website.
 Fenced divs include regular Markdown content surrounded by special tags to mark 
 the start and the end of such a block. 
 
-To mark the start of a fenced div, start a line with a start tag - at least 3 colon characters 
+To mark the beginning of a fenced div, start a line with an opening tag - at least 3 colon characters 
 followed by a blank character and a keyword denoting the type of a fenced div you are 
 creating (`::: fenced_div_keyword`) . 
 Then you add the Markdown content of this structural block. 
