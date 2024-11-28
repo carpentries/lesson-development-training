@@ -89,6 +89,37 @@ and then drag-and-dropping it to a new location in the list (with higher positio
 Back on the `Issues`/`Pull requests` page, 
 you can assign issues/pull requests to a Milestone and filter your issues/pull requests by Milestones.
 
+
+:::::::::::::::::::::::::::::::::::::: testimonial
+
+### Contributing to a lesson as outside collaborators - 
+
+*"At the [Netherlands eScience Center](https://www.esciencecenter.nl/) we teach ['Intermediate Research Software Development'](https://carpentries-incubator.github.io/python-intermediate-development/) about 2-3 times per year. 
+After every edition of the workshop we have a short meeting to distill the most important improvements we can make for the next time that we teach. 
+We open issues for improvements to the lesson material, such as https://github.com/carpentries-incubator/python-intermediate-development/issues/349 or https://github.com/carpentries-incubator/python-intermediate-development/issues/347. 
+
+We are not direct maintainers of the lesson, but these issues are important for us to fix before teaching the next edition of the workshop, because we don't want to run into them again. 
+Of course other users of the lesson would also benefit from the issues to be fixed.
+
+Therefore, we organised a one-day sprint in which we, colleagues that are usually not working on the same team, together worked on improving the lesson. 
+By all working together on one day, together in the same room, we can have focus and get a lot done in a short amount of time, while not being distracted by the hundreds of other things we are all working on. 
+Of course, we contacted the lesson maintainers to see if our efforts would be appreciated, see https://github.com/carpentries-incubator/python-intermediate-development/issues/343.
+
+To organise our work we used a Microsoft Planner board where we keep track of what needs to happen:
+<img width="1178" alt="image" src="https://github.com/carpentries/lesson-development-training/assets/9945255/7705b6a8-2387-4e00-a8b8-1eaa2a512260">
+
+We bundled our contributions in [a fork of the carpentries incubator repo in our own Github organization](https://github.com/esciencecenter-digital-skills/python-intermediate-development). 
+We created pull requests from our fork to a dedicated branch ([sprint-May2024](https://github.com/carpentries-incubator/python-intermediate-development/tree/sprint-May2024)) in the Carpentries Incubator repo. 
+We reviewed each others work before a final review from the lesson maintainers.
+
+In this way, we can: adapt the lesson to our own needs and contribute to the lesson in the Carpentries Incubator in a smooth way that does not take away focus on other projects of me and my colleagues."*
+
+\- Sven van der Burg, Netherlands eScience Center, Research Software Engineer, Carpentries Instructor and Lesson Developer
+
+::::::::::::::::::::::::::::::::::::::
+
+
+
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: prioritising issues & planning work (15 minutes)
