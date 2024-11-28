@@ -35,6 +35,16 @@ Your lesson documentation should contain the following information, which should
 
 ### Description of the Project - `README` File {#readme}
 
+:::::::::::::::::::::: instructor
+
+### Share an example of a good README
+It is helpful to share an example of a README when teaching this section.
+Use your own example if you have one, or otherwise share [the README from the source repository of this training curriculum](https://github.com/carpentries/lesson-development-training/blob/main/README.md).
+We try to keep it updated and aligned with the recommendations here.
+Please let the Maintainers know by [opening an issue](https://github.com/carpentries/lesson-development-training/issues/new/choose) or [a pull request](https://github.com/carpentries/lesson-development-training/edit/main/README.md) if you identify anything that could be improved.
+
+:::::::::::::::::::::::::::::::::
+
 `README`, `README.txt` or `README.md` is a plain text or Markdown file located in the project's root directory representing the default landing or home page for repositories in GitHub (and similar project repositories) by convention. It represents the first piece of documentation that people will see when visiting your lesson repository, hence it should concisely explain what the lesson is about and who it is for, and contain links and pointers to further information. For example, `README` should include:
 
 - **lesson title**
