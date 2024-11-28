@@ -291,12 +291,12 @@ Using this approach, we can build up our lesson one episode at a time.
 ## Adding Exercises
 
 To create an exercise in The Carpentries Workbench,
-we use another two types of fenced div:
+we use two types of fenced div:
 
-* `discussions`, where the main task is for participants to discuss a topic or prompt, and 
-* `challenges`, where the main task is a problem to be solved.
+* `challenge`, where the main task is a problem to be solved.
+* `discussion`, where the main task is for participants to discuss a topic or prompt, and 
 
-To start a challenge fenced div, write an opening tag of at least 3 colons as usual, then follow it with the `challenge` keyword.
+To start a `challenge` fenced div, write an opening tag of at least 3 colons as usual, then follow it with the `challenge` keyword.
 Add the content of the challenge on the following lines.
 Finally, close the fenced div using another line with least 3 colons.
 
