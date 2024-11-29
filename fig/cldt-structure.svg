@@ -20,11 +20,6 @@
    inkscape:export-ydpi="139.13">
   <defs
      id="defs2">
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern2979"
-       id="pattern2985"
-       patternTransform="matrix(0.07200287,0.04157074,-0.03490127,0.06045078,275.63774,479.74072)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1054-7">
@@ -76,9 +71,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.75591471"
-     inkscape:cx="557.39238"
-     inkscape:cy="261.23058"
+     inkscape:zoom="1.1315052"
+     inkscape:cx="487.69899"
+     inkscape:cy="265.51276"
      inkscape:document-units="mm"
      inkscape:current-layer="g1680"
      inkscape:document-rotation="0"
@@ -154,25 +149,25 @@
          transform="matrix(1.2208791,0,0,1.2208791,-22.678565,-59.353603)"
          style="stroke-width:0.819081">
         <rect
-           style="fill:#719eff;fill-opacity:1;stroke:none;stroke-width:0.819081;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+           style="fill:#719eff;fill-opacity:1;stroke:none;stroke-width:0.621885;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+           id="rect915-3"
+           width="17.462456"
+           height="13.119455"
+           x="123.36281"
+           y="99.452873" />
+        <rect
+           style="fill:#719eff;fill-opacity:1;stroke:none;stroke-width:1.26718;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
            id="rect915"
-           width="30.292973"
+           width="72.50386"
            height="13.119455"
            x="20.825266"
            y="99.452858" />
         <rect
-           style="fill:url(#pattern2985);fill-opacity:1;stroke:none;stroke-width:0.819081;stroke-linejoin:round"
-           id="rect915-8"
-           width="74.709663"
-           height="13.119235"
-           x="66.115601"
-           y="99.453094" />
-        <rect
-           style="fill:#ffdf70;fill-opacity:1;stroke:none;stroke-width:0.819081;stroke-linejoin:round"
+           style="fill:#ffdf70;fill-opacity:1;stroke:none;stroke-width:1.15934;stroke-linejoin:round"
            id="rect915-84"
-           width="15"
+           width="30.05094"
            height="13.119455"
-           x="51.11824"
+           x="93.329124"
            y="99.452858" />
       </g>
       <g
