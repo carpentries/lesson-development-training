@@ -24,6 +24,8 @@ Welcome back!
 
 ::::::::::::::::::::: instructor 
 
+### Notes About Teaching This Episode
+
 This episode picks-up after a long break in training for learners, you may need to remind 
 them of the following expectations as part of training.
 
@@ -31,6 +33,13 @@ them of the following expectations as part of training.
 - How to get in the queue to participate - hand-raising, typing in chat, etc.
 - Microphones muted when you aren't speaking (if virtual)
 - Any other expectations for interaction
+
+Most of the episode is facilitated discussion. 
+You may spend a lot of time in the exercise that has them discuss the trial runs.
+You can especially anticipate it taking more time when training more lesson teams because they each need time to debrief and discuss with the whole group. 
+(See Trainer Note before the Trial Run Discussion exercise below for further guidance.)
+Don't panic if this happens!
+It has historically been easier for Trainers to fit all of the content of this second part of the training into the time available, so you can probably allow yourself some extra time if you need it.
 
 ::::::::::::::::::::::::::::::::
 
@@ -83,6 +92,15 @@ try asking groups to assign a reporter who will be responsible for summarising t
 and answering the discussion questions on behalf of their collaborators.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::: instructor
+
+### Scaling this exercise to larger numbers of lesson teams
+This exercise can take a long time when you have a lot of lesson teams in your training, but it is important to give every group the chance to reflect on their trial run. 
+You may need to facilitate it differently if time becomes an issue:
+for example, you could paste the prompts into the CodiMD and ask all groups to write their answers, before summarising responses, identifying trends, and calling on particular trainees to share more about their individual responses.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::  discussion
 
