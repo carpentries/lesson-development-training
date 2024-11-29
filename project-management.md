@@ -89,6 +89,40 @@ and then drag-and-dropping it to a new location in the list (with higher positio
 Back on the `Issues`/`Pull requests` page, 
 you can assign issues/pull requests to a Milestone and filter your issues/pull requests by Milestones.
 
+
+:::::::::::::::::::::::::::::::::::::: testimonial
+
+### Contributing to a lesson as outside collaborators - 
+
+Sven van der Burg, Research Software Engineer at the Netherlands eScience Center, and Carpentries Instructor and Lesson Developer, describes his group's approach to piloting and contributing back to someone else's lesson in The Carpentries Incubator:
+
+> *"At the [Netherlands eScience Center](https://www.esciencecenter.nl/) we teach ['Intermediate Research Software Development'](https://carpentries-incubator.github.io/python-intermediate-development/) 2-3 times per year. 
+> After every workshop we have a short meeting to distill the most important improvements we can make for the next time that we teach. 
+> We open issues for improvements to the lesson material (for example [issue-349](https://github.com/carpentries-incubator/python-intermediate-development/issues/349) and [issue-347](https://github.com/carpentries-incubator/python-intermediate-development/issues/347)).* 
+
+> *We are not direct maintainers of the lesson, but these issues are important for us to fix before teaching the next edition of the workshop, because we don't want to run into them again. 
+> Of course other users of the lesson would also benefit from the issues being fixed.*
+
+> *Therefore, we organised a one-day sprint in which we gathered together colleagues from different teams to work on improving the lesson. 
+> By all working together on one day, together in the same room, we were able to focus and get a lot done in a short amount of time, while not being distracted by the hundreds of other things we are all working on. 
+> Of course, we contacted the lesson maintainers to make sure that our efforts would be welcome by opening [an issue in their lesson repository](https://github.com/carpentries-incubator/python-intermediate-development/issues/343).*
+
+> *We used a Microsoft Planner board to organise our work and keep track of what needs to happen:*
+
+> ![Microsoft Planner project management board](https://github.com/carpentries/lesson-development-training/assets/9945255/7705b6a8-2387-4e00-a8b8-1eaa2a512260){
+alt='Microsoft Planner project management board displaying TO-DO tasks, tasks being worked on, tasks ready for internal review and completed tasks'
+}
+
+> *We bundled our contributions in [a fork of the lesson from The Carpentries Incubator in our own GitHub organization](https://github.com/esciencecenter-digital-skills/python-intermediate-development). 
+> We created pull requests from that fork to a dedicated branch ([sprint-May2024](https://github.com/carpentries-incubator/python-intermediate-development/tree/sprint-May2024)) in the lesson repository. 
+> We reviewed each other's work first before a final review from the lesson maintainers.*
+
+> *In this way, we could adapt the lesson to our own needs and contribute to the lesson in The Carpentries Incubator in a smooth way that does not take away focus on other projects of me and my colleagues."*
+
+::::::::::::::::::::::::::::::::::::::
+
+
+
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: prioritising issues & planning work (15 minutes)
