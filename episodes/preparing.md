@@ -187,6 +187,16 @@ There is a lot to collect feedback on when trialling a new lesson and this is ar
 - __at a designated wrap-up and feedback session at the end of the workshop.__ Here, you can cover any other feedback that was not addressed up to that point and any specific questions you may want to ask your audience (e.g. about the choice of topics for the lesson, difficulty level, workshop operations). You may design a special form that participants can fill in anonymously - here is a [post-workshop survey template](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview) for workshops that pilot a lesson in The Carpentries Incubator. You can use it as a starting point for a post-workshop survey to be shared with your learners at the end of the pilot workshop and you can supplement it with additional questions.
 
 
+::::::::::::::::::::::::::::::::::::::  callout
+
+### Training Pilot Operations Guide
+
+You may find the Software Sustainability Institute's ["Training Pilot Operations Guide"](https://doi.org/10.5281/zenodo.14066425)[^1] a 
+useful resource to have a look at as you prepare to pilot your lesson.
+
+:::::::::::::::::::::::::::::::::::::: 
+
+
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: homework
@@ -245,3 +255,5 @@ What resources might help you prepare for that experience?
 
 [it-minute-cards]: https://carpentries.github.io/instructor-training/06-feedback.html#minute-cards
 [minute-card-template]: https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/template/preview
+[pilot-operations-guide]: https://doi.org/10.5281/zenodo.14066425
+[^1]: Crouch, S., & Broadbent, P. (2024). Training Pilot Operations Guide (1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.14066425](https://doi.org/10.5281/zenodo.14066425)
