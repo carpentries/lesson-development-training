@@ -188,7 +188,7 @@ Make time to review your text for:
 - [dismissive language][dismissive-language-instructor-training] - e.g. 'simply', 'just'
 - use of [stereotypes][stereotype-threat-instructor-training] (check learner profiles for stereotypes too)
 - [expert awareness gaps][expert-awareness-gap-instructor-training], i.e. places where you may be assuming the learners know more than they actually do
-- fluid representations, i.e. using different terms with the same meaning interchangeably
+- use of different terms or notations with the same meaning interchangeably without explanation, e.g. using the terms "shell", "bash", "terminal" and "console" to describe the command line interface, or "variables" and "columns" for column headings in data tables
 - unexplained or unnecessary jargon/terminology (as your learners may come from different backgrounds, may be novices, not native English speakers, and a term in one domain/topic may mean something else entirely in another)
 - unexplained assumptions
 - sudden jumps in difficulty/complexity
