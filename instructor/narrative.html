@@ -255,6 +255,7 @@
         <ul><li><a href="#creating-a-narrative">Creating a Narrative</a></li>
 <li><a href="#finding-images">Finding Images</a></li>
 <li><a href="#finding-a-dataset">Finding a Dataset</a></li>
+<li><a href="#constructing-narrative-to-motivate-learners">Constructing Narrative to Motivate Learners</a></li>
 <li><a href="#summary">Summary</a></li>
         </ul></div><!--/div.accordion-body-->
     </div><!--/div.accordion-collapse-->
@@ -437,7 +438,7 @@
       </div>
       <hr></nav><main id="main-content" class="main-content"><div class="container lesson-content">
         <h1>Example Data and Narrative</h1>
-        <p>Last updated on 2024-09-09 |
+        <p>Last updated on 2024-11-29 |
 
         <a href="https://github.com/carpentries/lesson-development-training/edit/main/episodes/narrative.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 
@@ -542,7 +543,7 @@ learners.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
   <h3 class="accordion-header" id="headingSpoiler1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Use Varied Examples </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
 <div class="accordion-body">
 <blockquote>
 <p><em>Use varied examples if you want to teach abstract
@@ -648,7 +649,7 @@ attribution to the data provider or collecting agency.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler2" aria-expanded="false" aria-controls="collapseSpoiler2">
   <h3 class="accordion-header" id="headingSpoiler2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> More CC0 License Reading </h3>
 </button>
-<div id="collapseSpoiler2" class="accordion-collapse collapse" aria-labelledby="headingSpoiler2" data-bs-parent="#accordionSpoiler2">
+<div id="collapseSpoiler2" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler2" aria-labelledby="headingSpoiler2">
 <div class="accordion-body">
 <p>If you’d like to read more about CC0 and CC-BY, Katie Fortney wrote
 an excellent <a href="https://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/" class="external-link">blogpost
@@ -710,7 +711,7 @@ individual or groups of people.</p>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
 <p>Outline covering the above paragraph - also used in CodiMD
 template.</p>
@@ -738,11 +739,13 @@ individuals included?</li>
 <p>When looking for data to reuse, consider public repositories in the
 subject area for your lesson or general data repositories such as:</p>
 <ul><li><a href="https://datadryad.org/" class="external-link">Dryad</a></li>
-<li><a href="https://datacurationnetwork.org/datasets/" class="external-link">The Data
-Curation Network’s datasets</a></li>
+<li><a href="https://osf.io/" class="external-link">The Open Science Framework</a></li>
 <li><a href="https://data.europa.eu/" class="external-link">The Offical Portal for European
 Data</a></li>
+<li><a href="https://dataverse.harvard.edu/" class="external-link">Harvard Dataverse</a></li>
 <li><a href="https://www.dataone.org/" class="external-link">DataONE</a></li>
+<li><a href="https://datacurationnetwork.org/datasets/" class="external-link">The Data
+Curation Network’s datasets</a></li>
 <li>
 <a href="https://www.datos.gob.ar/" class="external-link">The Official Portal for
 Argentina Data</a> (in Spanish)</li>
@@ -784,7 +787,40 @@ lesson?</li>
 </ul></div>
 </div>
 </div>
-<p>People learn faster if they are motivated<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a>, and learners will be
+<div id="where-to-store-your-example-data" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div id="where-to-store-your-example-data" class="callout-inner">
+<h3 class="callout-title">Where to Store your Example Data</h3>
+<div class="callout-content">
+<p>GitHub is not a good place to store data, especially when it is large
+and/or does not consist of text files. Instead, we recommend that you
+publish your example data elsewhere and link to it from your lesson
+website. This has the added advantages that you can publish the data
+under its own license (ideally CC0, as discussed above), obtain a
+separate DOI for it, and create another backup of your data. <a href="https://datadryad.org/" class="external-link">Dryad</a>, <a href="https://figshare.com/" class="external-link">Figshare</a>, the <a href="https://osf.io/" class="external-link">Open Science Framework</a>, and <a href="https://zenodo.org/" class="external-link">Zenodo</a> are good general platforms for
+publishing data. However, if your lesson covers a particular domain with
+its own established standard for publishing data, we recommend that you
+use that. The <a href="https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative" class="external-link">Generalist
+Repositories Ecosystem Initiative (GREI)</a> includes several more
+general options, and provides a <a href="https://zenodo.org/records/11105430" class="external-link">decision tree to help you
+choose the most appropriate location for your data</a>.</p>
+<p>When you publish the data for your lesson, make sure to include:</p>
+<ul><li>a description of each of the files included.</li>
+<li>information about their provenance.</li>
+<li>the lesson they are used in.</li>
+<li>the license terms.</li>
+<li>anything else you think people need to know about the data.</li>
+</ul><p>See <a href="https://figshare.com/articles/dataset/Data_Carpentry_Image_Processing_Data_beta_/19260677" class="external-link">the
+Figshare entry of data used in Data Carpentry Image Processing
+workshops</a> for an example.</p>
+</div>
+</div>
+</div>
+</div>
+</section><section><h2 class="section-heading" id="constructing-narrative-to-motivate-learners">Constructing Narrative to Motivate Learners<a class="anchor" aria-label="anchor" href="#constructing-narrative-to-motivate-learners"></a></h2>
+<hr class="half-width"><p>People learn faster if they are motivated<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a>, and learners will be
 motivated if you <strong>teach most useful things first</strong>. As you
 think about what story your lesson will tell, it is important to put the
 pieces that are most interesting to learners up front. If they are able
@@ -808,7 +844,6 @@ application might be less clear.</p>
 <p><a href="https://www.youtube.com/watch?v=fQ4t7p6ZXDg" class="external-link"><em>“Let them
 eat cake (first).”</em></a></p>
 <p>- Dr. Mine Çetinkaya-Rundel</p>
-</div>
 </div>
 </div>
 </div>
@@ -906,7 +941,7 @@ lesson content can influence Learner motivation</a>.<a href="#fnref2" class="foo
   "url": "https://carpentries.github.io/lesson-development-training/instructor/narrative.html",
   "identifier": "https://carpentries.github.io/lesson-development-training/instructor/narrative.html",
   "dateCreated": "2022-01-18",
-  "dateModified": "2024-09-09",
+  "dateModified": "2024-11-29",
   "datePublished": "2024-11-29"
 }
 
