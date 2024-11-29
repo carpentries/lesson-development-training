@@ -191,8 +191,7 @@ There is a lot to collect feedback on when trialling a new lesson and this is ar
 
 ### Training Pilot Operations Guide
 
-You may find the Software Sustainability Institute's ["Training Pilot Operations Guide"](https://doi.org/10.5281/zenodo.14066425)[^1] a 
-useful resource to have a look at as you prepare to pilot your lesson.
+You may find the ["Training Pilot Operations Guide"](https://doi.org/10.5281/zenodo.14066425)[^1], compiled by the [Software Sustainability Institute][ssi] and [UNIVERSE-HPC project][universe-hpc], a useful resource to have a look at as you prepare to pilot your lesson.
 
 :::::::::::::::::::::::::::::::::::::: 
 
@@ -255,5 +254,7 @@ What resources might help you prepare for that experience?
 
 [it-minute-cards]: https://carpentries.github.io/instructor-training/06-feedback.html#minute-cards
 [minute-card-template]: https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/template/preview
-[pilot-operations-guide]: https://doi.org/10.5281/zenodo.14066425
+[ssi]: https://www.software.ac.uk/
+[universe-hpc]: http://www.universe-hpc.ac.uk/
+
 [^1]: Crouch, S., & Broadbent, P. (2024). Training Pilot Operations Guide (1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.14066425](https://doi.org/10.5281/zenodo.14066425)
