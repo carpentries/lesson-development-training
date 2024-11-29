@@ -236,9 +236,11 @@ When looking for data to reuse, consider public repositories in the subject area
 for your lesson or general data repositories such as:
 
 - [Dryad](https://datadryad.org/)
-- [The Data Curation Network's datasets](https://datacurationnetwork.org/datasets/)
+- [The Open Science Framework](https://osf.io/)
 - [The Offical Portal for European Data](https://data.europa.eu/)
+- [Harvard Dataverse](https://dataverse.harvard.edu/)
 - [DataONE](https://www.dataone.org/)
+- [The Data Curation Network's datasets](https://datacurationnetwork.org/datasets/)
 - [The Official Portal for Argentina Data](https://www.datos.gob.ar/) (in Spanish)
 - [LANFRICA](https://lanfrica.com/)
 
@@ -271,6 +273,30 @@ Takes notes in your Lesson Design Notes document about your discussion and the d
 * What implications do you think your choice of dataset and/or narrative will have for the design and further implementation of your lesson?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::: callout
+
+### Where to Store your Example Data
+GitHub is not a good place to store data, especially when it is large and/or does not consist of text files.
+Instead, we recommend that you publish your example data elsewhere and link to it from your lesson website.
+This has the added advantages that you can publish the data under its own license (ideally CC0, as discussed above), obtain a separate DOI for it, and create another backup of your data.
+[Dryad](https://datadryad.org/), [Figshare](https://figshare.com/), the [Open Science Framework](https://osf.io/), and [Zenodo](https://zenodo.org/) are good general platforms for publishing data. 
+However, if your lesson covers a particular domain with its own established standard for publishing data, we recommend that you use that.
+The [Generalist Repositories Ecosystem Initiative (GREI)](https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative) includes several more general options, and provides a [decision tree to help you choose the most appropriate location for your data](https://zenodo.org/records/11105430).
+
+When you publish the data for your lesson, make sure to include:
+
+* a description of each of the files included.
+* information about their provenance.
+* the lesson they are used in.
+* the license terms.
+* anything else you think people need to know about the data.
+
+See [the Figshare entry of data used in Data Carpentry Image Processing workshops](https://figshare.com/articles/dataset/Data_Carpentry_Image_Processing_Data_beta_/19260677) for an example.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Constructing Narrative to Motivate Learners
 
 People learn faster if they are motivated[^2],
 and learners will be motivated if you **teach most useful things first**.
