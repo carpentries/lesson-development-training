@@ -161,6 +161,16 @@ Here are a community activities and channels that you might be interested in joi
 - [The `incubator-developers` list on TopicBox](https://carpentries.topicbox.com/groups/incubator-developers). The Carpentries Curriculum Team uses this mailing list to make relevant announcements to the community of lesson developers working in Incubator.
 - The Carpentries Curriculum Team hosts monthly Lesson Development Coworking Sessions, which are a good opportunity to engage with other lesson developers and make regular progress on your project. The sessions are listed on [The Carpentries community calendar](https://carpentries.org/community/#community-events).
 
+:::::::::::::::::::::::::::::::::::::: spoiler
+
+### Lesson Internationalisation
+The Carpentries Workbench does not yet support multiple (human) languages in a single lesson site, e.g. to see the lesson in Spanish and Afrikaans as well as English.
+Nevertheless, a thriving subcommunity exists of people translating/localising lesson content for other languages and regions, making use of the [CrowdIn](https://crowdin.com/) tranlsation platform and [tooling developed by Joel Nitta](https://carpentries.github.io/sandpaper-docs/episodes.html#callout-blocks) that extends the Workbench.
+To connect with the internationalisation (often abbreviated to _i18n_) subcommunity, join the `#internationalisation` channel on The Carpentries Slack workspace.
+Some of the groups translating lessons to a particular language meet for regular coworking sessions. 
+These events are typically listed on the community calendar (linked above).
+
+::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
