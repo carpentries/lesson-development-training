@@ -55,6 +55,7 @@ by providing suggestions, reviews, and inspiration:
 * [Kelly Barnes](https://github.com/klbarnes20)
 * [Mike Trizna](https://github.com/miketrizna)
 * [Sue McClatchy](https://github.com/smcclatchy)
+* [Sven van der Burg](https://github.com/svenvanderburg)
 * [Tim Dennis](https://github.com/jt14den)
 * [Yanina Bellini Saibene](https://github.com/yabellini)
 * [Yuka Takemon](https://github.com/ytakemon)
