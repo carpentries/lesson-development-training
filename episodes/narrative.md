@@ -40,11 +40,7 @@ encounter there.
 
 Here are some example narratives from lessons:
 
-* [Software Carpentry Git lesson](https://swcarpentry.github.io/git-novice/index.html) uses the story of 
-  Wolfman and Dracula who have been hired by Universal Missions (a space services spinoff from Euphoric State University) 
-  to investigate if it is possible to send their next planetary lander to Mars. 
-  They want to be able to work on the plans at the same time, but they have run into problems doing this in the past. 
-  They now need a system that will enable them to work collaboratibely and in parallel and track each change.
+* [Software Carpentry Git lesson](https://swcarpentry.github.io/git-novice/index.html) uses the story of Alfredo, a chef working with his team to create a repository of his favorite recipes.
 * [Building Websites With Jekyll and GitHub lesson](https://carpentries-incubator.github.io/jekyll-pages-novice/filters/index.html) 
   uses the narrative of creating a website for a research project to teach authoring webpages with Markdown and compiling them into a website served on GitHub.
 * [FAIR Research Software lesson](https://carpentries-incubator.github.io/fair-research-software/) uses the narrative of a poorly designed software project 
