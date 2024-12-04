@@ -92,7 +92,7 @@ you can assign issues/pull requests to a Milestone and filter your issues/pull r
 
 :::::::::::::::::::::::::::::::::::::: testimonial
 
-### Contributing to a lesson as outside collaborators - 
+### Community members' perspectives on project management
 
 Sven van der Burg, Research Software Engineer at the Netherlands eScience Center, and Carpentries Instructor and Lesson Developer, describes his group's approach to piloting and contributing back to someone else's lesson in The Carpentries Incubator:
 
