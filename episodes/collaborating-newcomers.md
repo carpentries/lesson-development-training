@@ -91,8 +91,8 @@ Once you have set up the basic documentation about your lesson, you may consider
 
 We have prepared the following templates to help you get started with writing the README and contributing guide for your project:
 
-* [`README.md` template](https://github.com/carpentries/lesson-development-training/blob/main/files/templates/README-template.md)
-* [`CONTRIBUTING.md` template](https://github.com/carpentries/lesson-development-training/blob/main/files/templates/CONTRIBUTING-template.md)
+* [`README.md` template](https://github.com/carpentries/lesson-development-training/blob/main/files/templates/README-template.md?plain=1)
+* [`CONTRIBUTING.md` template](https://github.com/carpentries/lesson-development-training/blob/main/files/templates/CONTRIBUTING-template.md?plain=1)
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 ## Exercise: preparing your repository for collaboration (15 minutes)
