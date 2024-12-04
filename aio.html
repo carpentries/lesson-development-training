@@ -1064,7 +1064,7 @@ lesson?</li>
   Part 2a (for groups collaborating on the same lesson, 10 minutes)
   </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
 <p>Share your answers with your collaborators. How do they compare? If
 you have identified different audiences, are they compatible? Or would
@@ -1085,7 +1085,7 @@ your reasons for doing so.</p>
   Part 2b (for participants developing their lesson alone, 10 minutes)
   </h4>
 </button>
-<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
+<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
 <div class="accordion-body">
 <p>Take notes about your choice of target audience in your Lesson Design
 Notes document. It can be particularly helpful to note down any
@@ -1106,7 +1106,7 @@ intended audience for your lesson.</p>
   Thinking more about target audience
   </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
 <div class="accordion-body">
 <p>There is more to consider about your target audience than we could
 capture with only the questions listed above. In your own time, you
@@ -3784,7 +3784,7 @@ lesson website. A screenshot below provides an example.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
   <h3 class="accordion-header" id="headingSpoiler1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Markdown Rendering on GitHub </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
 <div class="accordion-body">
 <p>You might have noticed by now that GitHub provides a preview of
 content in Markdown files, and displays an interpreted (“rendered”)
@@ -4034,7 +4034,7 @@ covered if time permits (<code>spoiler</code> keyword).</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler2" aria-expanded="false" aria-controls="collapseSpoiler2">
   <h3 class="accordion-header" id="headingSpoiler2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Using Spoilers for Optional Materials </h3>
 </button>
-<div id="collapseSpoiler2" class="accordion-collapse collapse" aria-labelledby="headingSpoiler2" data-bs-parent="#accordionSpoiler2">
+<div id="collapseSpoiler2" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler2" aria-labelledby="headingSpoiler2">
 <div class="accordion-body">
 <p>Often lessons have more content than can be reasonably taught in the
 amount of time allotted. This is especially true for collaboratively
@@ -4068,7 +4068,7 @@ extra.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler3" aria-expanded="false" aria-controls="collapseSpoiler3">
   <h3 class="accordion-header" id="headingSpoiler3">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Inconsistent use of spoiler vs callout </h3>
 </button>
-<div id="collapseSpoiler3" class="accordion-collapse collapse" aria-labelledby="headingSpoiler3" data-bs-parent="#accordionSpoiler3">
+<div id="collapseSpoiler3" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler3" aria-labelledby="headingSpoiler3">
 <div class="accordion-body">
 <p>You may notice that many of the older lessons use callouts for both
 additional material and to highlight important points
@@ -4267,7 +4267,7 @@ should not have to change it yet.</p>
   The carpentry Field
   </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
 <div class="accordion-body">
 <p>The <code>config.yaml</code> file also contains a
 <code>carpentry</code> field, which can be used to adjust the styling
@@ -4415,7 +4415,7 @@ Carpentries community calendar</a>.</li>
   Lesson Internationalisation
   </h3>
 </button>
-<div id="collapseSpoiler2" class="accordion-collapse collapse" aria-labelledby="headingSpoiler2" data-bs-parent="#accordionSpoiler2">
+<div id="collapseSpoiler2" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler2" aria-labelledby="headingSpoiler2">
 <div class="accordion-body">
 <p>The Carpentries Workbench does not yet support multiple (human)
 languages in a single lesson site, e.g. to see the lesson in Spanish and
@@ -5176,7 +5176,7 @@ tasks.</li>
 </div>
 </div></section><section id="aio-collaborating-team"><p>Content from <a href="collaborating-team.html">Collaborating with Your Team</a></p>
 <hr>
-<p>Last updated on 2024-10-25 |
+<p>Last updated on 2024-12-04 |
 
         <a href="https://github.com/carpentries/lesson-development-training/edit/main/episodes/collaborating-team.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <div class="text-end">
@@ -5334,6 +5334,18 @@ a decision is made to integrate or not integrate the changes in the
 default branch of the project and the associated lesson. On GitHub,
 these units of discussion, review, and acceptance/rejection of the
 changes within a branch are called <em>Pull Requests</em>.</p>
+<p>Pull requests are analogous to tracking changes in a shared online
+document - both involve proposing, reviewing, discussing, and finalising
+updates collaboratively. In a shared document, edits are submitted for
+review by a proposer, akin to creating a pull request in GitHub, where
+changes are proposed via a branch. Reviewers in both cases look at the
+proposed changes, provide feedback via comments, (optionally) request
+modifications, and may need to resolve conflicts between multiple
+competing versions before final approval. Once approved, changes are
+integrated into the main document (the <code>main</code> branch in your
+lesson repsository), with version histories in both systems providing an
+audit trail of contributions. This structured workflow ensures quality
+and accountability in collaborative efforts.</p>
 <div id="accordionSpoiler1" class="accordion spoiler-accordion accordion-flush">
 <div class="accordion-item">
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
