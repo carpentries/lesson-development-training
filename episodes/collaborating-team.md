@@ -104,6 +104,12 @@ On GitHub, these units of discussion, review,
 and acceptance/rejection of the changes within a branch
 are called _Pull Requests_.
 
+Pull requests are analogous to tracking changes in a shared online document - both involve proposing, reviewing, discussing, and finalising updates collaboratively. 
+In a shared document, edits are submitted for review by a proposer, akin to creating a pull request in GitHub, where changes are proposed via a branch. 
+Reviewers in both cases look at the proposed changes, provide feedback via comments, (optionally) request modifications, and may need to resolve conflicts between multiple competing versions before final approval. 
+Once approved, changes are integrated into the main document (the `main` branch in your lesson repsository), with version histories in both systems providing an audit trail of contributions. 
+This structured workflow ensures quality and accountability in collaborative efforts.
+
 :::::: spoiler
 
 ## Why "Pull Request"?
