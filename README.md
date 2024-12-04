@@ -67,7 +67,7 @@ See [CITATION.cff](CITATION.cff) for citation information, including a list of a
 
 
 ## License
-Lesson content is published with a [CC-BY](LICENSE.md) license.
+Lesson content is published with a [CC-BY license](LICENSE.md).
 
 ## Contact
 Please get in touch with [Toby Hodges](tobyhodges@carpentries.org) with any questions about this lesson.
