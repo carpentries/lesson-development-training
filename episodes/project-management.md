@@ -169,7 +169,7 @@ you are likely to discover the need to do so only when you first encounter disag
 a situation unlikely to provide perfect conditions for a discussion of governance.
 
 Here are some aspects of governing a project that you should consider. 
-These are borrowed from [the _Working in teams_ chapter](https://merely-useful.tech/py-rse/teams.html) of [_Research Software Engineering with Python_](https://merely-useful.tech/py-rse/index.html), 
+These are borrowed from [the _Working in teams_ chapter](https://third-bit.com/py-rse/teams.html) of [_Research Software Engineering with Python_](https://merely-useful.tech/py-rse/index.html), 
 a book on how to work productively in small teams where everyone is welcome:
 
 - [Codes of Conduct](https://third-bit.com/py-rse/teams.html#teams-coc)
