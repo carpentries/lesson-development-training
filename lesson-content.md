@@ -354,23 +354,19 @@ format the exercise you designed previously as an exercise in your lesson site.
 
 ## Optional and Important Material
 
-The Carpentries Workbench includes fenced divs for highlighting key material that should not be 
-skipped during instruction, as well as optional content that can be covered if time permits.
+The Carpentries Workbench includes fenced divs for highlighting key material that should not be skipped during instruction (with the `callout` keyword), as well as optional content that can be covered if time permits (`spoiler` keyword).
 
 ::::::::::::::::::::::::::::::::::::::::  spoiler
 
 ## Using Spoilers for Optional Materials
 
 Often lessons have more content than can be reasonably taught in the amount of time allotted.
-This is especially true for collaboratively developed lessons as each contributor/instructor
-may have additional items they'd like to see included, leading to "scope creep".
+This is especially true for collaboratively developed lessons as each contributor/instructor may have additional items they'd like to see included, leading to "scope creep".
 
-To address this issue, in many Carpentries lessons, spoiler boxes are used for asides and short tangents,
-e.g. points that might be relevant to some audiences but are not essential to the flow of the lesson.
+To address this issue, in many Carpentries lessons, `spoiler` boxes are used for asides and short tangents, e.g. points that might be relevant to some audiences but are not essential to the flow of the lesson.
 These spoilers should still be kept to a minimum as they can be disruptive to instructors and readers.
 
-Note, this use of the spoiler box is to use the expandable box functionality as nothing will be "spoiled"
-by expanding this box.
+Note, this use of the spoiler box is to use the expandable box functionality as nothing will be "spoiled" by expanding this box.
 Also, note that the spoiler box titles should be very clear so instructors need not expand the spoiler to know if they want to teach that extra.
 
 
@@ -380,20 +376,20 @@ Also, note that the spoiler box titles should be very clear so instructors need 
 
 ## Calling Attention to Important Points
 
-For important points in the lesson, you can add them to a callout box to emphasize their
-importance.
+For important points in the lesson, you can add them to a `callout` box to emphasize their importance.
 
 ::::: spoiler
 
 ### Inconsistent use of spoiler vs callout
 
-You may notice that many of the older lessons use callouts for both additional material
-and to highlight important points interchangeably.  Spoilers were developed in 2023
-to help with separating these two different use cases.
+You may notice that many of the older lessons use callouts for both additional material and to highlight important points interchangeably.  
+Spoilers were developed in 2023 to help with separating these two different use cases.
 
 :::::::::::::
 
 ::::::::::::::::::
+
+The Workbench also supports a `caution` class of fenced dev, which can be used to draw attention to common pitfalls or otherwise emphasise something that learners should be careful about.
 
 ## Glossary of Terms 
 
