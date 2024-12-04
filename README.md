@@ -66,6 +66,9 @@ See [CITATION.cff](CITATION.cff) for citation information, including a list of a
 ([Read more about the Citation File Format and how to use it](https://citation-file-format.github.io/).)
 
 
+## License
+Lesson content is published with a [CC-BY](LICENSE.md) license.
+
 ## Contact
 Please get in touch with [Toby Hodges](tobyhodges@carpentries.org) with any questions about this lesson.
 
