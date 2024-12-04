@@ -84,6 +84,9 @@ authors:
     family-names: Trusler
     affiliation: The Carpentries
     orcid: 'https://orcid.org/0000-0003-2340-8538'
+  - orcid: 'https://orcid.org/0000-0003-1250-6968'
+    given-names: Sven
+    family-names: ven der Burg
   - given-names: Allegra
     family-names: Via
     orcid: 'https://orcid.org/0000-0002-3398-5462'
