@@ -119,6 +119,13 @@ alt='Microsoft Planner project management board displaying TO-DO tasks, tasks be
 
 > *In this way, we could adapt the lesson to our own needs and contribute to the lesson in The Carpentries Incubator in a smooth way that does not take away focus on other projects of me and my colleagues."*
 
+Renata Curty, Research Facilitator for Social Sciences at UCSB, describes her group's approach:
+
+> *Our group uses issues and labels and sets milestones in GitHub to organize our lesson development work.*
+> *We also use a spreadsheet to track higher-level decisions, tasks, and assignees and record ideas and discussion points in our meeting notes before converting them into more detailed issues.*
+> *We have been meeting regularly (weekly or biweekly) to maintain momentum, which helps us to make small but steady progress.*
+> *We are currently working on a modularized version of the workshop that will allow instructors to choose what to teach based on the time, cohort needs, and learners’ entry knowledge.*
+
 ::::::::::::::::::::::::::::::::::::::
 
 
