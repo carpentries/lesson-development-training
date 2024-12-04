@@ -1,6 +1,6 @@
 # Collaborative Lesson Development Training Curriculum
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8410626.svg)](https://doi.org/10.5281/zenodo.8410626)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8410625.svg)](https://doi.org/10.5281/zenodo.8410625)
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://slack-invite.carpentries.org/)
 [![Build and Deploy Site](https://github.com/carpentries/lesson-development-training/actions/workflows/sandpaper-main.yaml/badge.svg)](https://github.com/carpentries/lesson-development-training/actions/workflows/sandpaper-main.yaml)
 
