@@ -48,6 +48,7 @@ by providing suggestions, reviews, and inspiration:
 * [Angelique Trusler](https://github.com/elletjies)
 * [Ann Backhaus](https://github.com/AnnBackhaus)
 * [Erin Becker](https://github.com/erinbecker)
+* [Renata Curty](https://github.com/rcurty)
 * [François Michonneau](https://github.com/fmichonneau)
 * [Greg Wilson](https://github.com/gvwilson)
 * [Karen Word](https://github.com/karenword)
