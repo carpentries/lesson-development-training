@@ -22,64 +22,46 @@ After completing this episode, participants should be able to...
 
 ## A Lesson Design Process
 
-In order to design an effective lesson, we need a structured approach with the learner in mind and  clearly identified goals. Throughout this training, we will use a modified version of Nicholls' five phase paradigm for curriculum design[^1].
-Nicholls' paradigm describes a process, commonly referred to as _backward design_,
-where those who wish to develop a new curriculum first begin by defining
-exactly what their learners will be able to do
-_after they have completed the lesson/training/course_.
-The subsequent stages of the curriculum design process involve designing content
-to directly meet those stated outcomes.
+In order to design an effective lesson, we need a structured approach with the learner in mind and clearly identified goals. 
+Throughout this training we will use a modified version of a process for curriculum design commonly referred to as _backward design_, described by Gill Nicholls[^1].
+Following Nicholls' paradigm, we begin by defining exactly what you want your learners to be able to do _after they have completed the lesson/training/course_, with the subsequent stages involving the design and evaluation of content that will directly help learners meet those stated outcomes.
+By defining at the beginning of the process what you want the outcomes to be at the end, you ensure that your efforts remain focused on those goals as you work.
 
-1. Select learning outcomes
-2. Choose learning experiences to help learners achieve these outcomes
-3. Develop content to support these experiences
-4. Assess learner progress towards desired outcomes
-5. Evaluate chosen outcomes, experiences, and content based on this assessment
+This training promotes an iterative backward design process where, after identifying the target audience of our lesson, we
 
-![Nicholls' five phases of curriculum design, 
-presented as a cycle to reflect that all aspects of the design should be 
-revisited in response to the results of the evaluation that takes place at step 5.
-](fig/nicholls-five-phases.svg){
-alt="A flow diagram presenting the Nicholls' five phases of curriculum design as a cycle."
-width="67%"
-}
+1. Define desired learning outcomes.
+2. Design assessments to determine progress towards desired outcomes.
+3. Write content to lead learners from one of these assessments to the next.
+4. Assess learner progress towards outcomes during teaching.
+5. (After the break) evaluate how closely the outcomes meet the objectives.
 
-The last two phases of Nicholls' paradigm involve
-assessing learner progress towards the desired learning outcomes and
-evaluating the stated objectives and current content in light of the results of that assessment.
-In The Carpentries, most workshops are relatively short-format,
-without room for an extensive assessment after the teaching has finished
-(a _summative_ assessment).
-To account for this, our lessons place an emphasis on _formative_ assessment:
-assessment of learner progress that takes place _while the teaching is still going on_,
-to give instructors opportunities to evaluate the teaching and lesson content
-before the end of the workshop.
-
-To account for this,
-we have adapted Nicholls' five phases in this training,
-to place an emphasis on assessing learning during a workshop:
-
-1. Define desired learning outcomes
-2. Design assessments to determine progress towards desired outcomes
-3. Write content to lead learners from one of these assessments to the next
-4. Assess learner progress towards outcomes during teaching
-5. (After the break) evaluate how closely the outcomes meet the objectives
-
-![An overview of the iterative process of lesson design and development 
-, adapted from Nicholls' five phases,
-that will be presented in this training.
+![An overview of the iterative process of lesson design and development, adapted from Nicholls' five phases, that will be presented in this training.
 ](fig/cldt-design-process.svg){
 alt="A flow diagram presenting the process of lesson design and development used in this training."
 width="67%"
 }
 
-Note the cyclical nature of this process:
-you will complete one iteration through this cycle during this training
-(though probably for a limited part of your lesson, rather than the whole thing).
-Note also that teaching the content is an essential intermediate step in the process:
-the importance of feedback gathered while teaching the lesson
-will be a common refrain throughout this training.
+The Carpentries community specialises in relatively short-format workshops, typically lasting less than a week and including no opportunities for any assessment after the teaching has finished (a _summative_ assessment).
+To account for this, our lessons (and this training) place an emphasis on _formative_ assessment: assessment of learner progress that takes place _while the teaching is still going on_, to give instructors opportunities to evaluate the teaching and lesson content before the end of the workshop.
 
+### The process throughout this training
+Note the cyclical nature of the process described above. You will complete one iteration through this cycle across the two parts of this training (though probably for a limited part of your lesson, rather than the whole thing):
+
+1. Define desired learning outcomes. (Training part 1)
+    * You will define learning objectives for your lesson as a whole and for individual sections.
+2. Design assessments to determine progress towards desired outcomes. (Part 1)
+    * You will learn about different types of assessment and how they can give you information about your learners' progress towards the defined objectives.
+    * You will design and implement exercises that are appropriate to your target audience and the skills you want to teach them.
+3. Write content to lead learners from one of these assessments to the next. (Part 1)
+    * You will choose examples and a narrative that can help learners gain insight into the topic of your lesson.
+    * You will begin to write content that is accessible, relevant, and appropriate for your target audience.
+4. Assess learner progress towards outcomes during teaching. (During the break between parts)
+    * You will deliver part of your new lesson and gather information about how effectively it teaches learners what they need to know.
+5. Evaluate how closely the outcomes meet the objectives. (Part 2)
+    * You will revisit your lesson design and content and make plans to update it, based on your own reflections and the feedback you gathered from learners.
+
+Teaching the new lesson content is an essential intermediate step in the process, and the reason this training is delivered in two parts. 
+The importance of gathering feedback and reflecting on teaching experience will be a common refrain throughout this training.
 
 ## Your Lessons
 
