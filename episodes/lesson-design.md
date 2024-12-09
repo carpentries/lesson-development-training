@@ -66,17 +66,14 @@ The importance of gathering feedback and reflecting on teaching experience will 
 ## Your Lessons
 
 This training will provide many opportunities for discussion of your lessons.
-Providing some context now for the lessons that you will be creating will
-help the Trainers and other participants get involved in those discussions
-and give you feedback as you follow the process.
+Providing some context now for the lessons that you will be creating will help the Trainers and other participants get involved in those discussions and give you feedback as you follow the process.
 
 
 :::::::::::::::::::::::::::::::::::::  discussion
 
 ## Discussion (10 minutes)
 
-Share your answers to the following questions in the shared notes,
-then discuss them with the Trainers, your collaborators, and the other participants.
+Share your answers to the following questions in the shared notes, then discuss them with the Trainers, your collaborators, and the other participants.
 
 1. What is the topic of the lesson that you plan to develop based on this training?
 2. Have you created training material on this topic before?
@@ -89,9 +86,7 @@ then discuss them with the Trainers, your collaborators, and the other participa
 ## Trainer Note
 
 Trainees should have received the questions above in advance and arrived at the training with notes prepared.
-Where multiple trainees are working on the same lesson project, 
-ask for a volunteer or call on someone to represent their team,
-leaving space afterwards for their team-mates to speak up if their answers differ.
+Where multiple trainees are working on the same lesson project, ask for a volunteer or call on someone to represent their team, leaving space afterwards for their team-mates to speak up if their answers differ.
 
 The main objectives of this discussion are:
 
@@ -102,16 +97,15 @@ The main objectives of this discussion are:
 
 ## Iterative Development
 
-The Carpentries community develops open source lessons,
-which can always be updated and may never be _finished_.
+The Carpentries community develops open source lessons, which can always be updated and may never be _finished_.
 A lesson can undergo many iterations before it reaches a relatively stable state.
-To reflect this, we encourage lesson developers to 
-indicate the status of their lesson by labelling its progress through a _lesson life cycle_:
+To reflect this, we encourage lesson developers to indicate the status of their lesson by labelling its progress through a _lesson life cycle_:
 
-![The life cycle of a lesson](fig/life_cycle.png){alt="Diagram of the life cycle of a
-lesson in The Carpentries ecosystem. A lesson is proposed at the beginning of the
-pre-alpha stage. It enters alpha when it is taught for the first time. In beta, it is
-taught by other instructors. A full release of the lesson is made when it is stable.
+![The life cycle of a lesson](fig/life_cycle.png){
+alt="Diagram of the life cycle of a lesson in The Carpentries ecosystem.
+A lesson is proposed at the beginning of the pre-alpha stage.
+It enters alpha when it is taught for the first time. 
+In beta, it is taught by other instructors. A full release of the lesson is made when it is stable.
 Pilot workshops take place during the alpha and beta phases."}
 
 Each life cycle stage indicates the level of maturity of a lesson:
@@ -121,9 +115,7 @@ Each life cycle stage indicates the level of maturity of a lesson:
 - **beta**: the lesson is ready to be taught by instructors who have not been significantly involved in its developed to this point.
 - **stable**: the lesson has been extensively tested by the authors and others. It can be considered broadly complete and unlikely to undergo any drastic changes without warning.
 
-Although your lessons will probably remain in pre-alpha throughout this training,
-some of the content will be equally valuable at later stages 
-and we will also point you towards resources to help with testing the lesson and gathering feedback.
+Although your lessons will probably remain in pre-alpha throughout this training, some of the content will be equally valuable at later stages and we will also point you towards resources to help with testing the lesson and gathering feedback.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
