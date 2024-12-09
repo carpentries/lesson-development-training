@@ -5,13 +5,11 @@
 [![Build and Deploy Site](https://github.com/carpentries/lesson-development-training/actions/workflows/sandpaper-main.yaml/badge.svg)](https://github.com/carpentries/lesson-development-training/actions/workflows/sandpaper-main.yaml)
 
 
-Curriculum for a short (six half days) workshop teaching skills required for
-collaborative lesson development. The lesson is visible at: https://carpentries.github.io/lesson-development-training/.
+Curriculum for a short (six half days) workshop teaching skills required for collaborative lesson development. 
+The lesson is visible at: https://carpentries.github.io/lesson-development-training/.
+More information about the training programme is available at: https://carpentries.org/lesson-development/
 
-If you are interested in helping us develop this material,
-teaching the curriculum,
-or attending a Collaborative Lesson Development Training workshop,
-please [contact Toby Hodges](mailto:tobyhodges@carpentries.org).
+If you are interested in helping us develop this material, teaching the curriculum, or attending a Collaborative Lesson Development Training workshop, please [contact Toby Hodges](mailto:tobyhodges@carpentries.org).
 
 
 ## Contributing

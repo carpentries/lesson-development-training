@@ -98,7 +98,7 @@ authors:
     family-names: Word
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.8410626
+    value: 10.5281/zenodo.8410625
     description: Zenodo Concept DOI (always resolves to latest version)
 repository-code: 'https://github.com/carpentries/lesson-development-training'
 url: 'https://carpentries.github.io/lesson-development-training'
@@ -156,8 +156,8 @@ keywords:
   - backward-design
   - collaboration-skills
 license: CC-BY-4.0
-version: v2023-beta
-date-released: '2023-10-09'
+version: v2024
+date-released: '2024-12-10'
 references:
   - title: "The Carpentries Instructor Training"
     editors:
