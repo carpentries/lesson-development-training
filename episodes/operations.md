@@ -181,6 +181,9 @@ and join/subscribe to any communication channels that you find interesting.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Further Reading
+[The Carpentries Lesson Developer Handbook](https://docs.carpentries.org/handbooks/lesson_developers.html) provides guidance and a list of resources for lesson developers to consult as they move through the different stages of development. 
+
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
