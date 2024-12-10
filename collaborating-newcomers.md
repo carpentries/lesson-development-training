@@ -125,7 +125,7 @@ In addition to having the complete documentation in the lesson repository, The C
   - advertising the lesson at various Carpentries mailing lists - e.g. [general discussion](https://carpentries.topicbox.com/groups/discuss), [instructors](https://carpentries.topicbox.com/groups/instructors), regional communities or specific curriculum lists
 
 You should also consider organising and advertising "lesson sprint"/"collaboration drive" events where you can help newcomers get started as contributors to your project, and/or including such a session in the programme of existing events (e.g. as an interactive session at a conference/community meeting).
-The Carpentries community handbook includes a set of [recommendations for organising and running a lesson sprint](https://cdh.carpentries.org/lesson-sprint-recommendations.html).
+The Carpentries community handbook includes a set of [recommendations for organising and running a lesson sprint](https://docs.carpentries.org/resources/curriculum/lesson-sprint-recommendations.html).
 
 ### Issue Labelling for Newcomers
 
