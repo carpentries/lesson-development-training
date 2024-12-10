@@ -41,8 +41,6 @@ alt="A flow diagram presenting the process of lesson design and development used
 width="67%"
 }
 
-The Carpentries community specialises in relatively short-format workshops, typically lasting less than a week and including no opportunities for any assessment after the teaching has finished (a _summative_ assessment).
-To account for this, our lessons (and this training) place an emphasis on _formative_ assessment: assessment of learner progress that takes place _while the teaching is still going on_, to give instructors opportunities to evaluate the teaching and lesson content before the end of the workshop.
 
 ### The process throughout this training
 Note the cyclical nature of the process described above. You will complete one iteration through this cycle across the two parts of this training (though probably for a limited part of your lesson, rather than the whole thing):
