@@ -564,7 +564,7 @@ workshop.</li>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
 <p>You might like to make a copy of <a href="https://codimd.carpentries.org/cldt-notes-template" class="external-link">the template
 CodiMD notetaking page</a> and share your link with trainees so that you
@@ -744,7 +744,7 @@ with others.</li>
 </div>
 </section></section><section id="aio-lesson-design"><p>Content from <a href="lesson-design.html">Lesson Design</a></p>
 <hr>
-<p>Last updated on 2024-10-17 |
+<p>Last updated on 2024-12-10 |
 
         <a href="https://github.com/carpentries/lesson-development-training/edit/main/episodes/lesson-design.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 25 minutes</p>
@@ -787,59 +787,83 @@ course.</li>
 <hr class="half-width">
 <p>In order to design an effective lesson, we need a structured approach
 with the learner in mind and clearly identified goals. Throughout this
-training, we will use a modified version of Nicholls’ five phase
-paradigm for curriculum design<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>. Nicholls’ paradigm describes a process,
-commonly referred to as <em>backward design</em>, where those who wish
-to develop a new curriculum first begin by defining exactly what their
-learners will be able to do <em>after they have completed the
-lesson/training/course</em>. The subsequent stages of the curriculum
-design process involve designing content to directly meet those stated
-outcomes.</p>
+training we will use a modified version of a process for curriculum
+design commonly referred to as <em>backward design</em>, described by
+Gill Nicholls<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>. Following Nicholls’ paradigm, we begin by
+defining exactly what you want your learners to be able to do <em>after
+they have completed the lesson/training/course</em>, with the subsequent
+stages involving the design and evaluation of content that will directly
+help learners meet those stated outcomes. By defining at the beginning
+of the process what you want the outcomes to be at the end, you ensure
+that your efforts remain focused on those goals as you work.</p>
+<p>This training promotes an iterative backward design process where,
+after identifying the target audience of our lesson, we</p>
 <ol style="list-style-type: decimal">
-<li>Select learning outcomes</li>
-<li>Choose learning experiences to help learners achieve these
-outcomes</li>
-<li>Develop content to support these experiences</li>
-<li>Assess learner progress towards desired outcomes</li>
-<li>Evaluate chosen outcomes, experiences, and content based on this
-assessment</li>
-</ol>
-<figure><img src="../fig/nicholls-five-phases.svg" style="width:67.0%" alt="A flow diagram presenting the Nicholls' five phases of curriculum design as a cycle." class="figure mx-auto d-block"><div class="figcaption">Nicholls’ five phases of curriculum design,
-presented as a cycle to reflect that all aspects of the design should be
-revisited in response to the results of the evaluation that takes place
-at step 5.</div>
-</figure><p>The last two phases of Nicholls’ paradigm involve assessing learner
-progress towards the desired learning outcomes and evaluating the stated
-objectives and current content in light of the results of that
-assessment. In The Carpentries, most workshops are relatively
-short-format, without room for an extensive assessment after the
-teaching has finished (a <em>summative</em> assessment). To account for
-this, our lessons place an emphasis on <em>formative</em> assessment:
-assessment of learner progress that takes place <em>while the teaching
-is still going on</em>, to give instructors opportunities to evaluate
-the teaching and lesson content before the end of the workshop.</p>
-<p>To account for this, we have adapted Nicholls’ five phases in this
-training, to place an emphasis on assessing learning during a
-workshop:</p>
-<ol style="list-style-type: decimal">
-<li>Define desired learning outcomes</li>
+<li>Define desired learning outcomes.</li>
 <li>Design assessments to determine progress towards desired
-outcomes</li>
+outcomes.</li>
 <li>Write content to lead learners from one of these assessments to the
-next</li>
-<li>Assess learner progress towards outcomes during teaching</li>
+next.</li>
+<li>Assess learner progress towards outcomes during teaching.</li>
 <li>(After the break) evaluate how closely the outcomes meet the
-objectives</li>
+objectives.</li>
 </ol>
 <figure><img src="../fig/cldt-design-process.svg" style="width:67.0%" alt="A flow diagram presenting the process of lesson design and development used in this training." class="figure mx-auto d-block"><div class="figcaption">An overview of the iterative process of lesson
-design and development , adapted from Nicholls’ five phases, that will
-be presented in this training.</div>
-</figure><p>Note the cyclical nature of this process: you will complete one
-iteration through this cycle during this training (though probably for a
-limited part of your lesson, rather than the whole thing). Note also
-that teaching the content is an essential intermediate step in the
-process: the importance of feedback gathered while teaching the lesson
+design and development, adapted from Nicholls’ five phases, that will be
+presented in this training.</div>
+</figure><div class="section level3">
+<h3 id="the-process-throughout-this-training">The process throughout this training<a class="anchor" aria-label="anchor" href="#the-process-throughout-this-training"></a>
+</h3>
+<p>Note the cyclical nature of the process described above. You will
+complete one iteration through this cycle across the two parts of this
+training (though probably for a limited part of your lesson, rather than
+the whole thing):</p>
+<ol style="list-style-type: decimal">
+<li>Define desired learning outcomes. (Training part 1)
+<ul>
+<li>You will define learning objectives for your lesson as a whole and
+for individual sections.</li>
+</ul>
+</li>
+<li>Design assessments to determine progress towards desired outcomes.
+(Part 1)
+<ul>
+<li>You will learn about different types of assessment and how they can
+give you information about your learners’ progress towards the defined
+objectives.</li>
+<li>You will design and implement exercises that are appropriate to your
+target audience and the skills you want to teach them.</li>
+</ul>
+</li>
+<li>Write content to lead learners from one of these assessments to the
+next. (Part 1)
+<ul>
+<li>You will choose examples and a narrative that can help learners gain
+insight into the topic of your lesson.</li>
+<li>You will begin to write content that is accessible, relevant, and
+appropriate for your target audience.</li>
+</ul>
+</li>
+<li>Assess learner progress towards outcomes during teaching. (During
+the break between parts)
+<ul>
+<li>You will deliver part of your new lesson and gather information
+about how effectively it teaches learners what they need to know.</li>
+</ul>
+</li>
+<li>Evaluate how closely the outcomes meet the objectives. (Part 2)
+<ul>
+<li>You will revisit your lesson design and content and make plans to
+update it, based on your own reflections and the feedback you gathered
+from learners.</li>
+</ul>
+</li>
+</ol>
+<p>Teaching the new lesson content is an essential intermediate step in
+the process, and the reason this training is delivered in two parts. The
+importance of gathering feedback and reflecting on teaching experience
 will be a common refrain throughout this training.</p>
+</div>
 </section><section><h2 class="section-heading" id="your-lessons">Your Lessons<a class="anchor" aria-label="anchor" href="#your-lessons"></a>
 </h2>
 <hr class="half-width">
@@ -924,6 +948,9 @@ unlikely to undergo any drastic changes without warning.</li>
 this training, some of the content will be equally valuable at later
 stages and we will also point you towards resources to help with testing
 the lesson and gathering feedback.</p>
+<p><a href="https://docs.carpentries.org/" class="external-link">The Carpentries Community
+Handbook</a> provides <a href="https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html" class="external-link">more
+information about the lesson life cycle</a>.</p>
 <div id="keypoints1" class="callout keypoints">
 <div class="callout-square">
 <i class="callout-icon" data-feather="key"></i>
@@ -2492,7 +2519,7 @@ monitor progression towards your learning outcomes.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
   <h3 class="accordion-header" id="headingSpoiler1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Useful reading </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
 <div class="accordion-body">
 <p>Useful further reading: <a href="https://f1000research.com/documents/9-1377" class="external-link">Course design:
 Considerations for Trainers – a Professional Guide</a>.</p>
@@ -2598,7 +2625,7 @@ objective and, if so, what the relevant objective might have been.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
 <p>Some examples of formative assessments used so far in this
 training:</p>
@@ -2661,7 +2688,7 @@ or use-in-a-different-context exercises.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler2" aria-expanded="false" aria-controls="collapseSpoiler2">
   <h3 class="accordion-header" id="headingSpoiler2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Resources to Explore for More Example Assessment Types </h3>
 </button>
-<div id="collapseSpoiler2" class="accordion-collapse collapse" aria-labelledby="headingSpoiler2" data-bs-parent="#accordionSpoiler2">
+<div id="collapseSpoiler2" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler2" aria-labelledby="headingSpoiler2">
 <div class="accordion-body">
 <ul>
 <li><a href="https://teachtogether.tech/en/index.html#s:exercises" class="external-link">Exercise
@@ -2695,7 +2722,7 @@ to summarise your discussion at the end of the exercise.</p>
 <button class="accordion-button hint-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHint1" aria-expanded="false" aria-controls="collapseHint1">
   <h4 class="accordion-header" id="headingHint1"> For lessons predominantly teaching coding skills </h4>
 </button>
-<div id="collapseHint1" class="accordion-collapse collapse" aria-labelledby="headingHint1" data-bs-parent="#accordionHint1">
+<div id="collapseHint1" class="accordion-collapse collapse" data-bs-parent="#accordionHint1" aria-labelledby="headingHint1">
 <div class="accordion-body">
 <p>The Trainers will assign your group a type of exercise to focus on.
 Read about your given exercise type <a href="https://teachtogether.tech/en/index.html#s:exercises" class="external-link">in the
@@ -2739,7 +2766,7 @@ document.</p>
 <button class="accordion-button hint-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHint2" aria-expanded="false" aria-controls="collapseHint2">
   <h4 class="accordion-header" id="headingHint2"> For lessons predominantly teaching non-coding skills and concepts </h4>
 </button>
-<div id="collapseHint2" class="accordion-collapse collapse" aria-labelledby="headingHint2" data-bs-parent="#accordionHint2">
+<div id="collapseHint2" class="accordion-collapse collapse" data-bs-parent="#accordionHint2" aria-labelledby="headingHint2">
 <div class="accordion-body">
 <p>The Trainers will assign your group a type of exercise to focus on.
 Read about your given exercise type on the indicated pages of <a href="https://cdm16884.contentdm.oclc.org/digital/collection/p16884coll42/id/147" class="external-link"><em>Is
@@ -2786,7 +2813,7 @@ exercise type with the rest of the participants.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler3" aria-expanded="false" aria-controls="collapseSpoiler3">
   <h3 class="accordion-header" id="headingSpoiler3">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Recommended Reading </h3>
 </button>
-<div id="collapseSpoiler3" class="accordion-collapse collapse" aria-labelledby="headingSpoiler3" data-bs-parent="#accordionSpoiler3">
+<div id="collapseSpoiler3" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler3" aria-labelledby="headingSpoiler3">
 <div class="accordion-body">
 <p>Both of the resources linked from the exercise above, <a href="https://teachtogether.tech/en/index.html#s:exercises" class="external-link">the
 <em>Exercise Types</em> chapter of <em>Teaching Tech Together</em></a>
@@ -2844,7 +2871,7 @@ LOs.”</em></p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler4" aria-expanded="false" aria-controls="collapseSpoiler4">
   <h3 class="accordion-header" id="headingSpoiler4">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Identifying Misconceptions </h3>
 </button>
-<div id="collapseSpoiler4" class="accordion-collapse collapse" aria-labelledby="headingSpoiler4" data-bs-parent="#accordionSpoiler4">
+<div id="collapseSpoiler4" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler4" aria-labelledby="headingSpoiler4">
 <div class="accordion-body">
 <p>Detecting and correcting <a href="https://carpentries.github.io/instructor-training/02-practice-learning.html#misconceptions" class="external-link">misconceptions</a>
 and fixing learners’ incorrect/broken <a href="https://carpentries.github.io/instructor-training/02-practice-learning.html#building-a-mental-model" class="external-link">mental
@@ -2895,7 +2922,7 @@ another’s assessments.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler5" aria-expanded="false" aria-controls="collapseSpoiler5">
   <h3 class="accordion-header" id="headingSpoiler5">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Assessing Knowledge Before a Workshop </h3>
 </button>
-<div id="collapseSpoiler5" class="accordion-collapse collapse" aria-labelledby="headingSpoiler5" data-bs-parent="#accordionSpoiler5">
+<div id="collapseSpoiler5" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler5" aria-labelledby="headingSpoiler5">
 <div class="accordion-body">
 <p>The same approach to designing exercises within a lesson can also be
 used to create a short “pre-assessment” questionnaire for potential
@@ -3048,7 +3075,7 @@ have designed?</p>
 <button class="accordion-button hint-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHint1" aria-expanded="false" aria-controls="collapseHint1">
   <h4 class="accordion-header" id="headingHint1"> Examples </h4>
 </button>
-<div id="collapseHint1" class="accordion-collapse collapse" data-bs-parent="#accordionHint1" aria-labelledby="headingHint1">
+<div id="collapseHint1" class="accordion-collapse collapse" aria-labelledby="headingHint1" data-bs-parent="#accordionHint1">
 <div class="accordion-body">
 <p>In the Software Carpentry Plotting and Programming with Python Lesson
 there is an exercise to load and inspect CSV file for Americas. In the
@@ -3165,7 +3192,7 @@ discussion based on the responses.</p>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Trainer Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
 <div class="accordion-body">
 <p>To get started on the discussion part, try reading out an interesting
 response and asking for more detail from the trainee who wrote it. Ask
@@ -3267,7 +3294,7 @@ Global Monitoring Laboratory, Boulder, Colorado, USA</em></a></p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>The third option, “Line graph of increasing carbon dioxide in ppm at
 the Mauna Loa Observatory from 1958 to present”, is the best option. It
@@ -3286,7 +3313,7 @@ and a link to the data instead.</p>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor2" aria-expanded="false" aria-controls="collapseInstructor2">
   <h3 class="accordion-header" id="headingInstructor2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
 <div class="accordion-body">
 <p>May want to point out that the answers in the current version of this
 exercise do not have diagnostic power.</p>
@@ -3460,7 +3487,7 @@ now to initialise a new lesson.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
   <h3 class="accordion-header" id="headingSpoiler1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> A Brief History of The Carpentries Lesson Infrastructure </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
 <div class="accordion-body">
 <p>In the past, our lesson sites were generated by software called
 <em><a href="https://jekyllrb.com/" class="external-link">Jekyll</a></em>, a tool built into
@@ -3595,7 +3622,7 @@ the R Markdown lesson template will include an additional
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
 <p>Remind learners to paste URL of their lesson repository and the
 rendered version of the lesson to the collaborative document.</p>
@@ -3654,7 +3681,7 @@ instructor should work with groups to activate GitHub Pages.</p>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor2" aria-expanded="false" aria-controls="collapseInstructor2">
   <h3 class="accordion-header" id="headingInstructor2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Activating GitHub Pages </h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
 <div class="accordion-body">
 <p>We need to tell GitHub to begin serving the lesson website via GitHub
 Pages. To do this, navigate to <em>Settings</em>, then choose
@@ -3671,7 +3698,7 @@ this box, this will be the address of your lesson site.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler2" aria-expanded="false" aria-controls="collapseSpoiler2">
   <h3 class="accordion-header" id="headingSpoiler2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Which Branch and GitHub Actions </h3>
 </button>
-<div id="collapseSpoiler2" class="accordion-collapse collapse" aria-labelledby="headingSpoiler2" data-bs-parent="#accordionSpoiler2">
+<div id="collapseSpoiler2" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler2" aria-labelledby="headingSpoiler2">
 <div class="accordion-body">
 <p>Although we configure GitHub Pages to serve the lesson website from
 the <code>gh-pages</code> branch, <strong>the default working branch for
@@ -3705,7 +3732,7 @@ website to be generated.</p>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor3" aria-expanded="false" aria-controls="collapseInstructor3">
   <h3 class="accordion-header" id="headingInstructor3">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Orientation for GitHub Novices </h3>
 </button>
-<div id="collapseInstructor3" class="accordion-collapse collapse" aria-labelledby="headingInstructor3" data-bs-parent="#accordionInstructor3">
+<div id="collapseInstructor3" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor3" aria-labelledby="headingInstructor3">
 <div class="accordion-body">
 <ol style="list-style-type: decimal">
 <li>For trainees unfamiliar with the relationship between a source
@@ -3972,7 +3999,7 @@ lesson website. A screenshot below provides an example.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
   <h3 class="accordion-header" id="headingSpoiler1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Markdown Rendering on GitHub </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
 <div class="accordion-body">
 <p>You might have noticed by now that GitHub provides a preview of
 content in Markdown files, and displays an interpreted (“rendered”)
@@ -4023,7 +4050,7 @@ make it easier to structure the new episode we are creating.</p>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
 <p>You may ask each trainee in a lesson team to create an episode file
 for the episode they are responsible for. Be careful here to ensure that
@@ -4237,7 +4264,7 @@ covered if time permits (<code>spoiler</code> keyword).</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler2" aria-expanded="false" aria-controls="collapseSpoiler2">
   <h3 class="accordion-header" id="headingSpoiler2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Using Spoilers for Optional Materials </h3>
 </button>
-<div id="collapseSpoiler2" class="accordion-collapse collapse" aria-labelledby="headingSpoiler2" data-bs-parent="#accordionSpoiler2">
+<div id="collapseSpoiler2" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler2" aria-labelledby="headingSpoiler2">
 <div class="accordion-body">
 <p>Often lessons have more content than can be reasonably taught in the
 amount of time allotted. This is especially true for collaboratively
@@ -4271,7 +4298,7 @@ extra.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler3" aria-expanded="false" aria-controls="collapseSpoiler3">
   <h3 class="accordion-header" id="headingSpoiler3">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Inconsistent use of spoiler vs callout </h3>
 </button>
-<div id="collapseSpoiler3" class="accordion-collapse collapse" aria-labelledby="headingSpoiler3" data-bs-parent="#accordionSpoiler3">
+<div id="collapseSpoiler3" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler3" aria-labelledby="headingSpoiler3">
 <div class="accordion-body">
 <p>You may notice that many of the older lessons use callouts for both
 additional material and to highlight important points
@@ -4337,7 +4364,7 @@ in your lesson site.</li>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor2" aria-expanded="false" aria-controls="collapseInstructor2">
   <h3 class="accordion-header" id="headingInstructor2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Troubleshooting the Lesson Build (~10 mins) </h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
 <div class="accordion-body">
 <p>This is a good opportunity to pause and check in on how well
 trainees’ lesson builds are running. If anyone is having trouble with
@@ -4418,7 +4445,7 @@ divs</a> available to lesson developers.</li>
 </div>
 </section></section><section id="aio-operations"><p>Content from <a href="operations.html">How we Operate</a></p>
 <hr>
-<p>Last updated on 2024-12-04 |
+<p>Last updated on 2024-12-10 |
 
         <a href="https://github.com/carpentries/lesson-development-training/edit/main/episodes/operations.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 25 minutes</p>
@@ -4668,6 +4695,13 @@ to any communication channels that you find interesting.</p>
 </div>
 </div>
 </div>
+</section><section><h2 class="section-heading" id="further-reading">Further Reading<a class="anchor" aria-label="anchor" href="#further-reading"></a>
+</h2>
+<hr class="half-width">
+<p><a href="https://docs.carpentries.org/handbooks/lesson_developers.html" class="external-link">The
+Carpentries Lesson Developer Handbook</a> provides guidance and a list
+of resources for lesson developers to consult as they move through the
+different stages of development.</p>
 <div id="keypoints1" class="callout keypoints">
 <div class="callout-square">
 <i class="callout-icon" data-feather="key"></i>
@@ -4900,7 +4934,7 @@ note in your episode.</p>
   Hidden Curriculum
   </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
 <div class="accordion-body">
 <p>The concept of <strong>hidden curriculum</strong> describes
 curricular effects that influence learning but are not explicitly
@@ -5232,7 +5266,7 @@ of this task.</p>
   Adding Design Notes to the Lesson Site
   </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
 <div class="accordion-body">
 <p>If trainees would like to add the Design Notes document they have
 been working on to their lesson site, they can do the following:</p>
@@ -5704,7 +5738,7 @@ and accountability in collaborative efforts.</p>
   Why “Pull Request”?
   </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
 <div class="accordion-body">
 <p>The term <em>Pull Request</em> originates from the early days of
 GitHub, when a contributor would be requesting that the project
@@ -5815,7 +5849,7 @@ included in the actual lesson.)</li>
   Protecting main Branch
   </h3>
 </button>
-<div id="collapseSpoiler2" class="accordion-collapse collapse" aria-labelledby="headingSpoiler2" data-bs-parent="#accordionSpoiler2">
+<div id="collapseSpoiler2" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler2" aria-labelledby="headingSpoiler2">
 <div class="accordion-body">
 <p>Repository administrators can enforce this workflow by
 <em>protecting</em> the default branch of the GitHub repository:
@@ -6984,7 +7018,7 @@ governance structures to an established Open Source project.<a href="#fnref1" cl
 </ol>
 </div></section><section id="aio-wrap-up2"><p>Content from <a href="wrap-up2.html">Final Wrap-up</a></p>
 <hr>
-<p>Last updated on 2024-05-13 |
+<p>Last updated on 2024-12-10 |
 
         <a href="https://github.com/carpentries/lesson-development-training/edit/main/episodes/wrap-up2.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 30 minutes</p>
@@ -7164,7 +7198,11 @@ contributors</td>
 stepping away from the project</td>
 </tr>
 </tbody>
-</table></section><section><h2 class="section-heading" id="farewell-and-feedback">Farewell and Feedback<a class="anchor" aria-label="anchor" href="#farewell-and-feedback"></a>
+</table>
+<p>As you continue to make progress, remember that <a href="https://docs.carpentries.org/handbooks/lesson_developers.html" class="external-link">The
+Carpentries Lesson Developer Handbook</a> provides guidance and a list
+of resources for lesson developers to consult.</p>
+</section><section><h2 class="section-heading" id="farewell-and-feedback">Farewell and Feedback<a class="anchor" aria-label="anchor" href="#farewell-and-feedback"></a>
 </h2>
 <hr class="half-width">
 <p>Thank you for following this training. We hope you found it helpful
