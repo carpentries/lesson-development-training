@@ -143,7 +143,7 @@ Although your lessons will probably remain in pre-alpha throughout this training
 some of the content will be equally valuable at later stages 
 and we will also point you towards resources to help with testing the lesson and gathering feedback.
 
-[The Carpentries Community Handbook](https://docs.carpentries.org/) provides [more information about the lesson life cycle](https://docs.carpentries.org/resources/curriculum/lesson-life-cycle).
+[The Carpentries Community Handbook](https://docs.carpentries.org/) provides [more information about the lesson life cycle](https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html).
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 

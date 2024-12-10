@@ -95,7 +95,7 @@ will change as you move through these stages.
 | beta             | feedback from pilot workshops; polishing changes; expanding instructor notes; suggestions for major overhauls/reorganisations | recruiting pilot instructors; reviewing changes; guiding contributors |
 | stable           | feedback from workshops; polishing changes; new/updated content | reviewing changes; guiding contributors; onboarding new maintainers; stepping away from the project |
 
-As you continue to make progress, remember that [The Carpentries Lesson Developer Handbook](https://docs.carpentries.org/handbooks/lesson_developers) provides guidance and a list of resources for lesson developers to consult.
+As you continue to make progress, remember that [The Carpentries Lesson Developer Handbook](https://docs.carpentries.org/handbooks/lesson_developers.html) provides guidance and a list of resources for lesson developers to consult.
 
 ## Farewell and Feedback
 
