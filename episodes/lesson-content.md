@@ -95,7 +95,7 @@ and we will explore most of them in this episode.
 To add a "prerequisite" block to `index.md`, we use a fenced div called `prereq` like this:
 
 ```markdown
-::: prepreq
+::: prereq
 - prerequisite 1
 - prerequisite 2
 - ...
