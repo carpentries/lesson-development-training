@@ -471,7 +471,7 @@ find and fix the problem when you notice the build process fail.
   and try to **build a version of the website on your local computer**,
   where the build process will be much faster.
   The Workbench documentation provides
-  [instructions for installing the infrastructure](https://carpentries.github.io/sandpaper-docs/#installation)
+  [instructions for installing the infrastructure](https://carpentries.github.io/sandpaper-docs/#setup)
   and [building a local preview of the lesson website](https://carpentries.github.io/sandpaper-docs/introduction.html#preview).
 
 
