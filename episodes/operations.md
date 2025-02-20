@@ -159,7 +159,7 @@ Here are a community activities and channels that you might be interested in joi
 - The `lesson-dev` channel on [The Carpentries Slack workspace](https://slack-invite.carpentries.org/). This is a platform for the community to ask questions and make announcements about lesson development. You could also browse the other channels on the workspace for any that are relevant to the topic of your lesson.
   - You may also find it helpful to create a new channel on Slack for discussion of your lesson. Chat channels like this can be valuable ways for a remote team to communicate and collaborate.
 - [The `incubator-developers` list on TopicBox](https://carpentries.topicbox.com/groups/incubator-developers). The Carpentries Curriculum Team uses this mailing list to make relevant announcements to the community of lesson developers working in Incubator.
-- The Carpentries Curriculum Team hosts monthly Lesson Development Coworking Sessions, which are a good opportunity to engage with other lesson developers and make regular progress on your project. The sessions are listed on [The Carpentries community calendar](https://carpentries.org/community/#community-events).
+- The Carpentries Curriculum Team hosts Lesson Development Coworking Session on occasion, which are a good opportunity to engage with other lesson developers and make regular progress on your project. The sessions are listed on [The Carpentries community calendar](https://carpentries.org/community/#community-events).
 
 :::::::::::::::::::::::::::::::::::::: spoiler
 
