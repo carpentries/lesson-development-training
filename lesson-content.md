@@ -95,7 +95,7 @@ and we will explore most of them in this episode.
 To add a "prerequisite" block to `index.md`, we use a fenced div called `prereq` like this:
 
 ```markdown
-::: prepreq
+::: prereq
 - prerequisite 1
 - prerequisite 2
 - ...
@@ -294,7 +294,7 @@ To create an exercise in The Carpentries Workbench,
 we use two types of fenced div:
 
 * `challenge`, where the main task is a problem to be solved.
-* `discussion`, where the main task is for participants to discuss a topic or prompt, and 
+* `discussion`, where the main task is for participants to discuss a topic or prompt
 
 To start a `challenge` fenced div, write an opening tag of at least 3 colons as usual, then follow it with the `challenge` keyword.
 Add the content of the challenge on the following lines.
@@ -471,7 +471,7 @@ find and fix the problem when you notice the build process fail.
   and try to **build a version of the website on your local computer**,
   where the build process will be much faster.
   The Workbench documentation provides
-  [instructions for installing the infrastructure](https://carpentries.github.io/sandpaper-docs/#installation)
+  [instructions for installing the infrastructure](https://carpentries.github.io/sandpaper-docs/#setup)
   and [building a local preview of the lesson website](https://carpentries.github.io/sandpaper-docs/introduction.html#preview).
 
 
