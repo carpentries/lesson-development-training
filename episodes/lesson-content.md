@@ -476,7 +476,7 @@ find and fix the problem when you notice the build process fail.
 
 ### Keeping your infrastructure up to date
 New versions of the workflows that build your lesson site will be released occasionally, and the Workbench includes a maintenance workflow that can help you keep your infrastructre healthy. 
-If you are using R Markdown source files in your lesson, you will also need to update the package dependencies of your lesson up to date and the Workbench provides a second maintenance workflow that can take care of that for you too.
+If you are using R Markdown source files in your lesson, you will also need to update the package dependencies of your lesson and the Workbench provides a second maintenance workflow that can take care of that for you too.
 Both of these maintenance workflows will open pull requests on your lesson repository, which you will need to merge for the updates to be applied.
 If your lesson is hosted in The Carpentries Incubator, these workflows will be configured for you.
 If you are keeping your lesson repository somewhere else instead (e.g. with your personal GitHub account or an organisation of your own), you will need to take care of [a few configuration steps to allow these maintenance workflows to open pull requests on the project on your behalf](https://docs.carpentries.org/resources/curriculum/lesson-forks.html#configure-maintenance-workflows).
