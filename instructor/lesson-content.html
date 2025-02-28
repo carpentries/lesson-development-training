@@ -430,7 +430,7 @@
       </div>
       <hr></nav><main id="main-content" class="main-content"><div class="container lesson-content">
         <h1>Adding Lesson Content</h1>
-        <p>Last updated on 2025-02-25 |
+        <p>Last updated on 2025-02-28 |
 
         <a href="https://github.com/carpentries/lesson-development-training/edit/main/episodes/lesson-content.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 
@@ -564,7 +564,7 @@ lesson website. A screenshot below provides an example.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
   <h3 class="accordion-header" id="headingSpoiler1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Markdown Rendering on GitHub </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
 <div class="accordion-body">
 <p>You might have noticed by now that GitHub provides a preview of
 content in Markdown files, and displays an interpreted (“rendered”)
@@ -612,7 +612,7 @@ make it easier to structure the new episode we are creating.</p>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
 <p>You may ask each trainee in a lesson team to create an episode file
 for the episode they are responsible for. Be careful here to ensure that
@@ -817,7 +817,7 @@ covered if time permits (<code>spoiler</code> keyword).</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler2" aria-expanded="false" aria-controls="collapseSpoiler2">
   <h3 class="accordion-header" id="headingSpoiler2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Using Spoilers for Optional Materials </h3>
 </button>
-<div id="collapseSpoiler2" class="accordion-collapse collapse" aria-labelledby="headingSpoiler2" data-bs-parent="#accordionSpoiler2">
+<div id="collapseSpoiler2" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler2" aria-labelledby="headingSpoiler2">
 <div class="accordion-body">
 <p>Often lessons have more content than can be reasonably taught in the
 amount of time allotted. This is especially true for collaboratively
@@ -851,7 +851,7 @@ extra.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler3" aria-expanded="false" aria-controls="collapseSpoiler3">
   <h3 class="accordion-header" id="headingSpoiler3">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Inconsistent use of spoiler vs callout </h3>
 </button>
-<div id="collapseSpoiler3" class="accordion-collapse collapse" aria-labelledby="headingSpoiler3" data-bs-parent="#accordionSpoiler3">
+<div id="collapseSpoiler3" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler3" aria-labelledby="headingSpoiler3">
 <div class="accordion-body">
 <p>You may notice that many of the older lessons use callouts for both
 additional material and to highlight important points
@@ -909,7 +909,7 @@ in your lesson site.</li>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor2" aria-expanded="false" aria-controls="collapseInstructor2">
   <h3 class="accordion-header" id="headingInstructor2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Troubleshooting the Lesson Build (~10 mins) </h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
 <div class="accordion-body">
 <p>This is a good opportunity to pause and check in on how well
 trainees’ lesson builds are running. If anyone is having trouble with
@@ -965,7 +965,23 @@ computer</strong>, where the build process will be much faster. The
 Workbench documentation provides <a href="https://carpentries.github.io/sandpaper-docs/#setup" class="external-link">instructions
 for installing the infrastructure</a> and <a href="https://carpentries.github.io/sandpaper-docs/introduction.html#preview" class="external-link">building
 a local preview of the lesson website</a>.</li>
-</ul><div id="keypoints1" class="callout keypoints">
+</ul><div class="section level3">
+<h3 id="keeping-your-infrastructure-up-to-date">Keeping your infrastructure up to date<a class="anchor" aria-label="anchor" href="#keeping-your-infrastructure-up-to-date"></a></h3>
+<p>New versions of the workflows that build your lesson site will be
+released occasionally, and the Workbench includes a maintenance workflow
+that can help you keep your infrastructre healthy. If you are using R
+Markdown source files in your lesson, you will also need to update the
+package dependencies of your lesson and the Workbench provides a second
+maintenance workflow that can take care of that for you too. Both of
+these maintenance workflows will open pull requests on your lesson
+repository, which you will need to merge for the updates to be applied.
+If your lesson is hosted in The Carpentries Incubator, these workflows
+will be configured for you. If you are keeping your lesson repository
+somewhere else instead (e.g. with your personal GitHub account or an
+organisation of your own), you will need to take care of <a href="https://docs.carpentries.org/resources/curriculum/lesson-forks.html#configure-maintenance-workflows" class="external-link">a
+few configuration steps to allow these maintenance workflows to open
+pull requests on the project on your behalf</a>.</p>
+<div id="keypoints1" class="callout keypoints">
 <div class="callout-square">
 <i class="callout-icon" data-feather="key"></i>
 </div>
@@ -982,6 +998,7 @@ differently in the lesson website.</li>
 <li>There are many types of <a href="https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html#callout-blocks" class="external-link">fenced
 divs</a> available to lesson developers.</li>
 </ul></div>
+</div>
 </div>
 </div>
 </section></div> <!-- / div.lesson-content -->
@@ -1042,8 +1059,8 @@ divs</a> available to lesson developers.</li>
   "url": "https://carpentries.github.io/lesson-development-training/instructor/lesson-content.html",
   "identifier": "https://carpentries.github.io/lesson-development-training/instructor/lesson-content.html",
   "dateCreated": "2022-01-18",
-  "dateModified": "2025-02-25",
-  "datePublished": "2025-02-25"
+  "dateModified": "2025-02-28",
+  "datePublished": "2025-02-28"
 }
 
   </script><script>
