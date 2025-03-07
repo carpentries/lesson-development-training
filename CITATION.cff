@@ -263,25 +263,29 @@ references:
     authors:
       - given-names: Greg
         family-names: Wilson
-    publisher: "Taylor & Francis"
+    publisher: 
+      name: "Taylor & Francis"
     year: 2019
     isbn: "9780367352974"
     license: "CC-BY-NC-4.0"
+    type: book
   - title: "How Learning Works: Eight Research-Based Principles for Smart Teaching"
     authors:
-      - given-names: "Marsha C."
-        family-names: "Lovett"
-      - given-names: "Michael W."
-        family: "Bridges"
-      - given-names: "Michele"
-        family: "DiPietro"
-      - given-names: "Susan A."
-        family: "Ambrose"
-      - given-names: "Marie K."
-        family: "Norman"
-    publisher: "Jossey-Bass"
+      - given-names: Marsha C
+        family-names: Lovett
+      - given-names: Michael W
+        family-names: Bridges
+      - given-names: Michele
+        family-names: DiPietro
+      - given-names: Susan A
+        family-names: Ambrose
+      - given-names: Marie K
+        family-names: Norman
+    publisher: 
+      name: "Jossey-Bass"
     isbn: "9781119861690"
     date-released: "2024-03-14"
+    type: book
   - title: "The CARE Principles for Indigenous Data Governance"
     authors:
       - given-names: "Stephanie Russo"
@@ -293,7 +297,7 @@ references:
       - given-names: "Jarita"
         family-names: "Holbrook"
       - given-names: "Raymond"
-        familiy-names: "Lovett"
+        family-names: "Lovett"
       - given-names: "Simeon"
         family-names: "Materechera"
       - given-names: "Mark"
@@ -316,7 +320,8 @@ references:
     journal: "Data Science Journal"
     volume: 19
     start: 43
-    doi: https://doi.org/10.5334/dsj-2020-043
+    doi: 10.5334/dsj-2020-043
+    type: article
   - title: "How to Write Well-Defined Learning Objectives"
     authors:
       - given-names: "Debnath"
@@ -327,6 +332,7 @@ references:
     year: "2017"
     volume: "19(4)"
     pmcid: "PMC5944406"
+    type: article
   - title: "Test prediction and performance in a classroom context"
     authors: 
       - given-names: "Douglas J."
@@ -341,7 +347,8 @@ references:
     volume: "92(1)"
     pages: "160-170"
     year: "2000"
-    doi: "https://doi.org/10.1037/0022-0663.92.1.160"
+    doi: 10.1037/0022-0663.92.1.160
+    type: article
   - title: "Too much teaching, not enough learning: what is the solution?"
     authors:
       - given-names: "Heidi L."
@@ -352,7 +359,8 @@ references:
     year: "2006"
     volume: "30"
     pages: "17-22"
-    doi: "doi:10.1152/advan.00061.2005"
+    doi: 10.1152/advan.00061.2005
+    type: article
   - title: "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching."
     authors:
       - given-names: "Paul A."
@@ -365,23 +373,28 @@ references:
     volume: "41 (2)"
     pages: "75-86"
     year: 2006
+    type: article
   - title: "Developing teaching and learning in higher education"
     authors:
       - given-names: "Gill"
         family-names: "Nicholls"
-    publisher: "Routledge"
+    publisher: 
+      name: "Routledge"
     isbn: "9780203469231"
     date-released: "2001-11-08"
-    doi: "https://doi.org/10.4324/9780203469231"
+    doi: 10.4324/9780203469231
+    type: book
   - title: "The Worked Examples Principle in Multimedia Learning. Part III - Advanced Principles of Multimedia Learning, The Cambridge Handbook of Multimedia Learning."
     authors:
       - given-names: "Alexander"
         family-names: "Renkl"
-    doi: "https://doi.org/10.1017/CBO9781139547369.020"
-    publisher: "Cambridge University Press"
+    doi: 10.1017/CBO9781139547369.020
+    publisher: 
+      name: "Cambridge University Press"
     year: 2014
     pages: "391-412"
     isbn: "9781139547369"
+    type: edited-work
   - title: "Ten simple rules for helping newcomers become contributors to open projects."
     authors:
       - given-names: "Dan"
@@ -399,5 +412,6 @@ references:
     journal: "PLOS Computational Biology"
     year: "2019"
     volume: "15(9)"
-    doi: "https://doi.org/10.1371/journal.pcbi.1007296"
-    
+    doi: 10.1371/journal.pcbi.1007296
+    type: article
+
