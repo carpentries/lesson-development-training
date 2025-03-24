@@ -133,7 +133,7 @@ there are a number of factors to consider.
 First, if possible you want the dataset to be an authentic use
 case for researchers in your target audience.
 This means balancing the size and complexity of a dataset
-while avoiding additional cognative load for learners.
+while avoiding additional cognitive load for learners.
 The dataset may need a certain number of observations
 to demonstrate some of the skills you are teaching or have a
 number of variables that is sufficiently similar to what learners may encounter
