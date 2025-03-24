@@ -97,8 +97,9 @@ Now, we would like to get to know all of you.
 
 ## Our First Exercise (10 minutes)
 
-What was the best lesson you ever followed
-(were taught in a class, read through online, read in a book)?
+Think of an example of a great a lesson that you have followed (were taught in a class, read through online, read in a book).
+What did you find was so good about it? 
+Why did it make such an impression on you?
 Try to differentiate between **what was good about the performance** of the teacher/trainer
 and **what was good about the content** of the lesson itself.
 Take a few minutes to write down some notes about your answer,
