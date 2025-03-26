@@ -241,7 +241,7 @@ for your lesson or general data repositories such as:
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: Choosing a Dataset or Narrative (30 minutes)
+## Exercise: Choosing a Dataset or Narrative (15 minutes)
 
 Referring to the advice given above, find an appropriate dataset or a narrative for your lesson.
 Identify one or more potential candidates and note down the advantages and disadvantages of each one.
