@@ -227,6 +227,29 @@ during which we would like you to complete the following three tasks:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+Some feedback from participants that demonstrates the importance of trial runs.
+
+::::::::::::::::: testimonal
+
+### Testing with a 'Real' Audience
+
+Presenting our lesson in front of a ‘real’ audience as a trial run gave us valuable feedback on things we hadn't fully considered in the planning phase. It helped us to better understand how much time is needed for the exercises, how difficult the exercises are for the learners and how some examples used can be misunderstood by the learners. I think that learner feedback is more useful the more the audience closely matches your own target audience, so the insights are more practical and relevant for improving the content. 
+
+\- Julia Tolksdorf
+
+::::::::::::::::::::::::::::
+
+::::::::: testimonal
+
+### Getting Feedback Early
+
+Doing a trial run of our lesson so early in the process felt a bit intimidating at first, it seemed like we weren’t ready and everything needed more work. But that’s exactly why the trial run was so helpful. It gave us a clear picture of what worked and what didn’t, like realizing we’d packed in way too much content and spotting some technical issues we hadn’t thought of before. The participants were understanding and gave us really useful feedback, which made the next version of the lesson so much better. It was a great reminder that progress matters more than perfection.
+
+\- Olga Minaeva
+
+::::::::::::::::::::
+
+
 
 :::::::::::::::::::::::::::::::::::::  discussion
 
