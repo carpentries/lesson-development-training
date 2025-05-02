@@ -142,7 +142,7 @@ Regardless of whether these skills conform to such a hierarchy,
 Bloom's Taxonomy serves as a very useful bank of action verbs for use
 in learning objectives.
 
-![Bloom's taxonomy - a framework for categorising educational goals, [image](https://commons.wikimedia.org/wiki/File:Bloom%27s_revised_taxonomy.svg) from Wikimedi Commons reused under CC BY 4.0 license](https://upload.wikimedia.org/wikipedia/commons/6/6a/Bloom%27s_revised_taxonomy.svg){
+![Bloom's taxonomy - a framework for categorising educational goals, [image](https://commons.wikimedia.org/wiki/File:Bloom%27s_revised_taxonomy.svg) from Wikimedia Commons reused under CC BY 4.0 license](https://upload.wikimedia.org/wikipedia/commons/6/6a/Bloom%27s_revised_taxonomy.svg){
 alt="Bloom's taxonomy - a framework for categorising educational goals - represented as a pyramid with six levels of increasing cognitive complexity from the bottom to the top: remembering, understanging, applying, analysing, evaluating and creating"
 width="67%"
 }
