@@ -168,6 +168,18 @@ After they have accepted this invitation, they should be able to edit the reposi
 adding new files and modifying existing ones.
 Only the person who created the repository will be able to adjust the repository settings.
 
+::::::::::::: spoiler
+
+Note, the above directions assume your repository is owned by a personal account not an organisation account.
+The options for permissions are different when adding collaborators for an organisational account.
+On a personal account, you only have two permission options "owner" or "collaborator", where organisations have more roles with varied permissions.
+
+See the [GitHub access permissions webpage](https://docs.github.com/en/get-started/learning-about-github/access-permissions-on-github) for more details.
+
+
+::::::::::::::::::::::
+
+
 ### Repository Files
 
 The repository contains a number of files and folders.
