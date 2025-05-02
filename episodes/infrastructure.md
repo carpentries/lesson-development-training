@@ -170,9 +170,9 @@ Only the person who created the repository will be able to adjust the repository
 
 ::::::::::::: spoiler
 
-Note, the above directions assume your repository is owned by an personal account not an organization account.
-The options for permissions are different when adding collaborators for an organizational account.
-On a personal account, you only have two permission options "owner" or "collaborator", where organization have more roles with varied permissions.
+Note, the above directions assume your repository is owned by a personal account not an organisation account.
+The options for permissions are different when adding collaborators for an organisational account.
+On a personal account, you only have two permission options "owner" or "collaborator", where organisations have more roles with varied permissions.
 
 See the [GitHub access permissions webpage](https://docs.github.com/en/get-started/learning-about-github/access-permissions-on-github) for more details.
 
