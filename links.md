@@ -1,4 +1,4 @@
-[blooms]: https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/
+[blooms]: https://en.wikipedia.org/wiki/Bloom%27s_taxonomy
 [carpentries-incubator]: https://carpentries-incubator.org/
 [incubator-proposals]: https://github.com/carpentries-incubator/proposals
 [carpentries-lab]: https://carpentries-lab.org/
