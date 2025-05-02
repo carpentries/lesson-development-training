@@ -229,7 +229,7 @@ during which we would like you to complete the following three tasks:
 
 Some feedback from participants that demonstrates the importance of trial runs.
 
-::::::::::::::::: testimonal
+::::::::::::::::: testimonial
 
 ### Testing with a 'Real' Audience
 
@@ -239,7 +239,7 @@ Presenting our lesson in front of a ‘real’ audience as a trial run gave us v
 
 ::::::::::::::::::::::::::::
 
-::::::::: testimonal
+::::::::: testimonial
 
 ### Getting Feedback Early
 
