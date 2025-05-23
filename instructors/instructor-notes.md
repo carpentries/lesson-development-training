@@ -15,60 +15,54 @@ Below is a suggested schedule that can be used as a guideline to plan the conten
 
 ### Part 1
 
-#### Day 1
+#### Day 1 
 
-| Time           | Session Title                           |
-|----------------| --------------------------------------- |
-| 09:00 - 09:45  | Introduction                            |
-| 09:50 - 10:00  | Break                                   |
-| 10:00 - 10:30  | Lesson Design                           |
-| 10:30 - 11:05  | Identifying Your Target Audience        | 
-| 11:05 - 11:15  | Break                                   |
-| 11:15 - 12:05  | Defining Lesson Objectives/Outcomes 1 |
-| 12:05 - 12:15  | Break                                   | 
-| 12:15 - 13:00  | Defining Lesson Objectives/Outcomes 2 | 
-| 13:00          | End                                     | 
+| Time (UTC)    | Session Title                           |
+| ------------- | --------------------------------------- | 
+| 09:00 - 09:45 | Introduction                            | 
+| 09:45 - 09:55 | Break                                   | 
+| 09:55 - 10:20 | Lesson Design                           |
+| 10:20 - 11:05 | Identifying Your Target Audience        |
+| 11:05 - 11:20 | Break                                   | 
+| 11:20 - 12:10 | Defining Lesson Objectives 1            | 
+| 12:10 - 12:20 | Break                                   | 
+| 12:20 - 13:00 | Defining Lesson Objectives 2            | 
+| 13:00         | End                                     | 
 
 
 #### Day 2
 
-| Time           | Session Title            |
-|----------------|:------------------------ |
-| 09:00 - 10:05  | Example Data & Narrative |
-| 10:05 - 10:15  | Break                    |
-| 10:15 - 11:20  | Episodes                 |
-| 11:20 - 11:30  | Break                    |
-| 11:30 - 12:15  | Designing Exercises  1    | 
-| 12:15 - 12:25  | Break                    |
-| 12:25 - 13:00  | Designing Exercises  2    | 
-| 13:00          | End                      |
+| Time (UTC)    | Session Title            | 
+| ------------- |:------------------------ | 
+| 09:00 - 09:30 | Example Data & Narrative | 
+| 09:30 - 09:45 | Break                    | 
+| 09:45 - 10:40 | Episodes                 |  
+| 10:40 - 10:55 | Break                    | 
+| 10:35 - 11:00 | Designing Exercises      | 
+| 13:00         | End                      | 
 
-#### Day 3
+#### Day 3 
 
-| Time           | Session Title               |
-|----------------|-----------------------------|
-| 09:00 - 10:05  | How to Write a Lesson       |
-| 10:05 - 10:15  | Break                       |
-| 10:15 - 11:05  | The Carpentries Workbench 1 | 
-| 11:05 - 11:15  | Break                       |
-| 11:15 - 12:00  | The Carpentries Workbench 2 | 
-| 12:00 - 12:10  | Break                       |
-| 12:10 - 13:00  | Adding Lesson Content 1     | 
-| 13:00          | End                         |
+| Time (UTC)    | Session Title             | 
+| ------------- | ------------------------- | 
+| 09:00 - 09:55 | How to Write a Lesson     | 
+| 09:55 - 10:10 | Break                     | 
+| 10:10 - 10:45 | The Carpentries Workbench |  
+| 13:00         | End                       | 
 
 #### Day 4
 
-| Time            | Session Title           |
-|-----------------|-------------------------|
-| 09:00 - 10:05   | Adding Lesson Content 2 |
-| 10:05 - 10:15   | Break                   |
-| 10:15 - 11:05   | How We Operate          | 
-| 11:05 - 11:15   | Break                   |
-| 11:15 - 12:00   | Preparing to Teach 1    |
-| 12:00 - 12:10   | Break                   |
-| 12:10 - 12:30   | Preparing to Teach 2    |
-| 12:30 - 13:00   | Wrap-up                 | 
-| 13:00           | End                     |
+| Time (UTC)    | Session Title         | 
+| ------------- | --------------------- |
+| 09:00 - 09:50 | Adding Lesson Content |
+| 09:50 - 10:00 | Break                 |
+| 10:20 - 10:45 | How We Operate        |
+| 10:45 - 11:00 | Break                 |
+| 11:00 - 12:05 | Preparing to Teach    | 
+| 12:20 - 13:00 | Wrap-up               |
+| 13:00         | End                   |
+
+
 
 
 ### Part 2
