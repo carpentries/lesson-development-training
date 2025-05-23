@@ -21,7 +21,7 @@ approximately one hour of teaching.
 - Introduction
 - Lesson Design
 - Identifying Your Target Audience
-- Defining Lesson Objectives 1
+- Defining Lesson Objectives
 
 #### Day 2 (09:00 - 13:00)
 
