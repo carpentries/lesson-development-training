@@ -11,64 +11,38 @@ Part 2 takes 2 half-days and teaches collaborating effectively on open lesson de
 There is an extended break for lesson trial runs between parts 1 & 2, where learners are expected to conduct mini pilots of their lessons with the 
 intended target audiences.
 
-Below is a suggested schedule that can be used as a guideline to plan the content and timings for each teaching session.
+Below is a suggested schedule that can be used as a guideline to plan the content. The timings for each teaching episode vary depending on the audience and the pace so we try not to give suggestions any more as 
+we are likely to be wrong. You should plan to take a break after
+every one hour of teaching, approximately.
 
 ### Part 1
 
 #### Day 1
 
-| Time           | Session Title                           |
-|----------------| --------------------------------------- |
-| 09:00 - 09:45  | Introduction                            |
-| 09:50 - 10:00  | Break                                   |
-| 10:00 - 10:30  | Lesson Design                           |
-| 10:30 - 11:05  | Identifying Your Target Audience        | 
-| 11:05 - 11:15  | Break                                   |
-| 11:15 - 12:05  | Defining Lesson Objectives/Outcomes 1 |
-| 12:05 - 12:15  | Break                                   | 
-| 12:15 - 13:00  | Defining Lesson Objectives/Outcomes 2 | 
-| 13:00          | End                                     | 
-
+- Introduction
+- Lesson Design
+- Identifying Your Target Audience
+- Defining Lesson Objectives
 
 #### Day 2
 
-| Time           | Session Title            |
-|----------------|:------------------------ |
-| 09:00 - 10:05  | Example Data & Narrative |
-| 10:05 - 10:15  | Break                    |
-| 10:15 - 11:20  | Episodes                 |
-| 11:20 - 11:30  | Break                    |
-| 11:30 - 12:15  | Designing Exercises  1    | 
-| 12:15 - 12:25  | Break                    |
-| 12:25 - 13:00  | Designing Exercises  2    | 
-| 13:00          | End                      |
+- Example Data & Narrative
+- Episodes
+- Designing Exercises 
 
 #### Day 3
 
-| Time           | Session Title               |
-|----------------|-----------------------------|
-| 09:00 - 10:05  | How to Write a Lesson       |
-| 10:05 - 10:15  | Break                       |
-| 10:15 - 11:05  | The Carpentries Workbench 1 | 
-| 11:05 - 11:15  | Break                       |
-| 11:15 - 12:00  | The Carpentries Workbench 2 | 
-| 12:00 - 12:10  | Break                       |
-| 12:10 - 13:00  | Adding Lesson Content 1     | 
-| 13:00          | End                         |
+- How to Write a Lesson
+- The Carpentries Workbench 
 
 #### Day 4
 
-| Time            | Session Title           |
-|-----------------|-------------------------|
-| 09:00 - 10:05   | Adding Lesson Content 2 |
-| 10:05 - 10:15   | Break                   |
-| 10:15 - 11:05   | How We Operate          | 
-| 11:05 - 11:15   | Break                   |
-| 11:15 - 12:00   | Preparing to Teach 1    |
-| 12:00 - 12:10   | Break                   |
-| 12:10 - 12:30   | Preparing to Teach 2    |
-| 12:30 - 13:00   | Wrap-up                 | 
-| 13:00           | End                     |
+- Adding Lesson Content
+- How We Operate
+- Preparing to Teach
+- Wrap-up
+
+
 
 
 ### Part 2
@@ -79,30 +53,15 @@ in working with GitHub.
 
 #### Day 5
 
-| Time           | Session Title                  |
-|----------------|--------------------------------|
-| 09:00 - 10:05  | Reflecting on Trial Runs 1      |
-| 10:05 - 10:15  | Break                          |
-| 10:15 - 11:05  | Reflecting on Trial Runs  2     | 
-| 11:05 - 11:15  | Break                          |
-| 11:15 - 12:00  | Collaborating with Your Team 1 |
-| 12:00 - 12:10  | Break                          |
-| 12:10 - 13:00 | Collaborating with Your Team 2 |
-| 13:00          | End                            |
+- Reflecting on Trial Runs
+- Collaborating with Your Team
 
 #### Day 6
 
-| Time            | Session Title                      |
-|-----------------|------------------------------------|
-| 09:00 - 10:05   | Collaborating with Newcomers 1       |
-| 10:05 - 10:15   | Break                              |
-| 10:15 - 11:05   | Collaborating with Newcomers 2       | 
-| 11:05 - 11:15   | Break                              |
-| 11:15 - 12:00   | Project Management and Governance 1  |
-| 12:00 - 12:10   | Break                              |
-| 12:10 - 12:30   | Project Management and Governance 2  |
-| 12:30 - 13:00   | Wrap-up                            | 
-| 13:00           | End                                |
+- Collaborating with Newcomers
+- Project Management and Governance
+- Wrap-up
+- End                               
 
 
 ## Training Themes
