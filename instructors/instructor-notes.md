@@ -17,7 +17,7 @@ every one hour of teaching, approximately.
 
 ### Part 1
 
-#### Day 1 (09:00 - 13:00)
+#### Day 1
 
 - Introduction
 - Lesson Design
