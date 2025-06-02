@@ -35,7 +35,7 @@ every one hour of teaching, approximately.
 - How to Write a Lesson
 - The Carpentries Workbench 
 
-#### Day 4 (09:00 - 13:00)
+#### Day 4
 
 - Adding Lesson Content
 - How We Operate
