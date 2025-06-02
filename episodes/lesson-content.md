@@ -352,9 +352,21 @@ format the exercise you designed previously as an exercise in your lesson site.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Optional and Important Material
+## Important, Optional and Cautionary Material
 
-The Carpentries Workbench includes fenced divs for highlighting key material that should not be skipped during instruction (with the `callout` keyword), as well as optional content that can be covered if time permits (`spoiler` keyword).
+The Carpentries Workbench includes a fenced div for highlighting key material that should not be 
+skipped during instruction using the `callout` keyword.
+
+:::::::::: callout
+
+## Calling Attention to Important Points
+
+For important points in the lesson, you can add them to a `callout` box to emphasize their importance.
+
+:::::::::::::
+
+
+There is also a fenced div for optional content that can be covered if time permits (`spoiler` keyword).
 
 ::::::::::::::::::::::::::::::::::::::::  spoiler
 
@@ -369,27 +381,20 @@ These spoilers should still be kept to a minimum as they can be disruptive to in
 Note, this use of the spoiler box is to use the expandable box functionality as nothing will be "spoiled" by expanding this box.
 Also, note that the spoiler box titles should be very clear so instructors need not expand the spoiler to know if they want to teach that extra.
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::: callout
+You may notice that many of the older lessons use callouts for both additional material and to highlight important points interchangeably. Spoilers were developed in 2023 to help with separating these two different use cases.
 
-## Calling Attention to Important Points
+Finally, the Workbench also supports the `caution` fenced dev, which can be used to draw attention 
+to common pitfalls, potential issues or otherwise emphasise something that might negatively impact the user.
 
-For important points in the lesson, you can add them to a `callout` box to emphasize their importance.
+::::::::::::::::::::::::::::::::::::::::  caution
 
-::::: spoiler
+### Calling Attention to Potential Problems
 
-### Inconsistent use of spoiler vs callout
+Be careful to close an opened fenced div with at least three colons (`:::`) to avoid failed lesson builds.
 
-You may notice that many of the older lessons use callouts for both additional material and to highlight important points interchangeably.  
-Spoilers were developed in 2023 to help with separating these two different use cases.
-
-:::::::::::::
-
-::::::::::::::::::
-
-The Workbench also supports a `caution` class of fenced dev, which can be used to draw attention to common pitfalls or otherwise emphasise something that learners should be careful about.
+::::::::::::::::::::::::::::::::::::::::
 
 ## Glossary of Terms 
 
