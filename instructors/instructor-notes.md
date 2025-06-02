@@ -30,7 +30,7 @@ every one hour of teaching, approximately.
 - Episodes
 - Designing Exercises 
 
-#### Day 3 (09:00 - 13:00)
+#### Day 3
 
 - How to Write a Lesson
 - The Carpentries Workbench 
