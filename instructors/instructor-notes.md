@@ -13,7 +13,7 @@ intended target audiences.
 
 Below is a suggested schedule that can be used as a guideline to plan the content. The timings for each teaching episode vary depending on the audience and the pace so we try not to give suggestions any more as 
 we are likely to be wrong. You should plan to take a break after
-approximately one hour of teaching.
+every one hour of teaching, approximately.
 
 ### Part 1
 
