@@ -51,7 +51,7 @@ From experience, half-days 5 & 6 can probably be delivered in less than the sche
 and could potentially be folded into 1 half-day of teaching, for learner teams that are more experienced 
 in working with GitHub.
 
-#### Day 5 (09:00 - 13:00)
+#### Day 5
 
 - Reflecting on Trial Runs
 - Collaborating with Your Team
