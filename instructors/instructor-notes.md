@@ -24,7 +24,7 @@ every one hour of teaching, approximately.
 - Identifying Your Target Audience
 - Defining Lesson Objectives
 
-#### Day 2 (09:00 - 13:00)
+#### Day 2
 
 - Example Data & Narrative
 - Episodes
