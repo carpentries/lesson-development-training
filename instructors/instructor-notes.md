@@ -56,7 +56,7 @@ in working with GitHub.
 - Reflecting on Trial Runs
 - Collaborating with Your Team
 
-#### Day 6 (09:00 - 13:00)
+#### Day 6
 
 - Collaborating with Newcomers
 - Project Management and Governance
