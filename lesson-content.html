@@ -290,7 +290,7 @@
         <ul><li><a href="#lesson-home-page">Lesson Home Page</a></li>
 <li><a href="#episodes">Episodes</a></li>
 <li><a href="#adding-exercises">Adding Exercises</a></li>
-<li><a href="#optional-and-important-material">Optional and Important Material</a></li>
+<li><a href="#important-optional-and-cautionary-material">Important, Optional and Cautionary Material</a></li>
 <li><a href="#glossary-of-terms">Glossary of Terms</a></li>
 <li><a href="#more-practice-with-lesson-content">More Practice with Lesson Content</a></li>
 <li><a href="#troubleshooting-the-lesson-build">Troubleshooting the Lesson Build</a></li>
@@ -430,7 +430,7 @@
       </div>
       <hr></nav><main id="main-content" class="main-content"><div class="container lesson-content">
         <h1>Adding Lesson Content</h1>
-        <p>Last updated on 2025-02-28 |
+        <p>Last updated on 2025-06-02 |
 
         <a href="https://github.com/carpentries/lesson-development-training/edit/main/episodes/lesson-content.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 
@@ -562,7 +562,7 @@ lesson website. A screenshot below provides an example.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
   <h3 class="accordion-header" id="headingSpoiler1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Markdown Rendering on GitHub </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
 <div class="accordion-body">
 <p>You might have noticed by now that GitHub provides a preview of
 content in Markdown files, and displays an interpreted (“rendered”)
@@ -790,17 +790,30 @@ designed previously as an exercise in your lesson site.</p>
 </div>
 </div>
 </div>
-</section><section><h2 class="section-heading" id="optional-and-important-material">Optional and Important Material<a class="anchor" aria-label="anchor" href="#optional-and-important-material"></a></h2>
-<hr class="half-width"><p>The Carpentries Workbench includes fenced divs for highlighting key
-material that should not be skipped during instruction (with the
-<code>callout</code> keyword), as well as optional content that can be
-covered if time permits (<code>spoiler</code> keyword).</p>
+</section><section><h2 class="section-heading" id="important-optional-and-cautionary-material">Important, Optional and Cautionary Material<a class="anchor" aria-label="anchor" href="#important-optional-and-cautionary-material"></a></h2>
+<hr class="half-width"><p>The Carpentries Workbench includes a fenced div for highlighting key
+material that should not be skipped during instruction using the
+<code>callout</code> keyword.</p>
+<div id="calling-attention-to-important-points" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div id="calling-attention-to-important-points" class="callout-inner">
+<h3 class="callout-title">Calling Attention to Important Points</h3>
+<div class="callout-content">
+<p>For important points in the lesson, you can add them to a
+<code>callout</code> box to emphasize their importance.</p>
+</div>
+</div>
+</div>
+<p>There is also a fenced div for optional content that can be covered
+if time permits (<code>spoiler</code> keyword).</p>
 <div id="accordionSpoiler2" class="accordion spoiler-accordion accordion-flush">
 <div class="accordion-item">
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler2" aria-expanded="false" aria-controls="collapseSpoiler2">
   <h3 class="accordion-header" id="headingSpoiler2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Using Spoilers for Optional Materials </h3>
 </button>
-<div id="collapseSpoiler2" class="accordion-collapse collapse" aria-labelledby="headingSpoiler2" data-bs-parent="#accordionSpoiler2">
+<div id="collapseSpoiler2" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler2" aria-labelledby="headingSpoiler2">
 <div class="accordion-body">
 <p>Often lessons have more content than can be reasonably taught in the
 amount of time allotted. This is especially true for collaboratively
@@ -820,37 +833,26 @@ extra.</p>
 </div>
 </div>
 </div>
-<div id="calling-attention-to-important-points" class="callout">
-<div class="callout-square">
-<i class="callout-icon" data-feather="bell"></i>
-</div>
-<div id="calling-attention-to-important-points" class="callout-inner">
-<h3 class="callout-title">Calling Attention to Important Points</h3>
-<div class="callout-content">
-<p>For important points in the lesson, you can add them to a
-<code>callout</code> box to emphasize their importance.</p>
-<div id="accordionSpoiler3" class="accordion spoiler-accordion accordion-flush">
-<div class="accordion-item">
-<button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler3" aria-expanded="false" aria-controls="collapseSpoiler3">
-  <h3 class="accordion-header" id="headingSpoiler3">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Inconsistent use of spoiler vs callout </h3>
-</button>
-<div id="collapseSpoiler3" class="accordion-collapse collapse" aria-labelledby="headingSpoiler3" data-bs-parent="#accordionSpoiler3">
-<div class="accordion-body">
 <p>You may notice that many of the older lessons use callouts for both
-additional material and to highlight important points
-interchangeably.<br>
+additional material and to highlight important points interchangeably.
 Spoilers were developed in 2023 to help with separating these two
 different use cases.</p>
+<p>Finally, the Workbench also supports the <code>caution</code> fenced
+dev, which can be used to draw attention to common pitfalls, potential
+issues or otherwise emphasise something that might negatively impact the
+user.</p>
+<div id="calling-attention-to-potential-problems" class="callout caution">
+<div class="callout-square">
+<i class="callout-icon" data-feather="alert-triangle"></i>
+</div>
+<div id="calling-attention-to-potential-problems" class="callout-inner">
+<h3 class="callout-title">Calling Attention to Potential Problems</h3>
+<div class="callout-content">
+<p>Be careful to close an opened fenced div with at least three colons
+(<code>:::</code>) to avoid failed lesson builds.</p>
 </div>
 </div>
 </div>
-</div>
-</div>
-</div>
-</div>
-<p>The Workbench also supports a <code>caution</code> class of fenced
-dev, which can be used to draw attention to common pitfalls or otherwise
-emphasise something that learners should be careful about.</p>
 </section><section><h2 class="section-heading" id="glossary-of-terms">Glossary of Terms<a class="anchor" aria-label="anchor" href="#glossary-of-terms"></a></h2>
 <hr class="half-width"><p>You have already started on compiling a glossary of terms for your
 lesson. The Workbench offers a standardized location for lesson
@@ -1022,8 +1024,8 @@ divs</a> available to lesson developers.</li>
   "url": "https://carpentries.github.io/lesson-development-training/lesson-content.html",
   "identifier": "https://carpentries.github.io/lesson-development-training/lesson-content.html",
   "dateCreated": "2022-01-18",
-  "dateModified": "2025-02-28",
-  "datePublished": "2025-05-27"
+  "dateModified": "2025-06-02",
+  "datePublished": "2025-06-02"
 }
 
   </script><script>
