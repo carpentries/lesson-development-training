@@ -37,7 +37,7 @@ and outline the scope of your lesson project.
 The goal of the remaining steps of lesson development is to ensure that 
 what learners learn from following your lesson 
 matches its defined objectives as closely as possible. 
-To do so, you need to develop assessments to monitor progression towards your learning outcomes.
+To do this, you need to develop assessments to monitor progression towards your learning outcomes.
 
 ::::::::::::::::::::::::::::::::::::::  spoiler
 
@@ -52,10 +52,9 @@ Useful further reading: [Course design: Considerations for Trainers – a Profes
 
 In order to measure progress and evaluate if and what learning occurred, we have various types of assessment available to us:
 
-- **summative assessments** - used to verify whether learners achieved
-the stated learning objectives *after* instruction.
- - **formative assessments** - used to detect changes in learner understanding or performance *during*
-instruction, to provide feedback and insight (to both instructors and learners) into the learners' developing mental models of the topic taught and to identify any old or developing misconceptions.
+- **summative assessments** - used *after* instruction to verify whether learners achieved
+the stated learning objectives.
+ - **formative assessments** - used *during* instruction to detect changes in learner understanding or performance, to provide feedback and insight (to both instructors and learners) into the learners' developing mental models of the topic taught and to identify any old or developing misconceptions.
 
 **Summative assessments** sum up what learning has been achieved after
 training (e.g. via exams). They give valuable
@@ -64,15 +63,15 @@ They may not be as suitable for short courses, but may be necessary for those th
 
 **Formative assessments** are applied throughout a course and with several different purposes: they provide a way to move [new information from working memory to long-term memory](https://carpentries.github.io/instructor-training/05-memory.html#using-formative-assessment-to-support-memory-consolidation); they can inform instructors' decisions about how to modify instruction to better promote learning; they also inform learners about changes they may need to make to improve their learning. Ideally, they should be used often (e.g. after every 15-20 minutes of teaching), providing opportunities to instructors to change pace and refocus learners’ attention. For short courses, formative assessments are usually more valuable and easier to implement in practice than summative assessments - they need not be complex or time-consuming, just informative enough about learning for both instructors and learners.
 
-The most effective way to test learner understanding and progress is to do such assessments in class - they engage all learners and allow instructors to check learners' confidence with the content and its delivery, can help you deal with any potential misunderstandings as soon as they arise, and maximise the value of workshop for everyone. Such formative assessments also help with *metacognition* - the awareness a learner has that they are succeeding in learning something new.
+The most effective way to test learner understanding and progress is to do such assessments in class - they engage all learners and allow instructors to check learners' confidence with the content and its delivery, can help you deal with any potential misunderstandings as soon as they arise, and maximise the value of the workshop for everyone. Such formative assessments also help with *metacognition* - the awareness a learner has about how their learning is progressing.
 
 Any instructional tool that generates feedback and is used in a formative way to check for learners' understanding can be described as “formative assessment”. For example,
 
-- **checking in** - gauging learners’ satisfaction and understanding using agreed signals (e.g. raising different coloured post-it/sticky notes or [Zoom reactions](https://coderefinery.github.io/manuals/zoom-mechanics/#reactions) to indicate that the pace is too fast/slow, that they completed/have not completed an exercise).
+- **checking in** - gauging learners’ satisfaction and understanding using agreed signals (e.g. raising different coloured post-it/sticky notes or [Zoom reactions](https://coderefinery.github.io/manuals/zoom-mechanics/#reactions) to indicate that the pace is too fast/slow, or that they completed/have not completed an exercise).
 - **group or collaborative discussions** - raising questions for discussion among the group. For example, **think, pair, share**, where learners _think_ individually about an answer to a question, _pair_ up with a classmate to discuss their answer, and then _share_ out the consensus they came to
 with the class.
 - **problem-solving or diagnostic exercises** - setting (coding or non-coding) challenges for learners to tackle, testing comprehension of a subject and diagnosing any forming misconceptions (e.g. via multiple choice questions).
-- **individual (guided) reflections** at the end of a session to help process what was learned, for example asking learners to write down, draw, or diagram (concept map) things they learned, noting how things relate to one another or connect with previous knowledge, things they want to know more about and any questions they still have.
+- **individual (guided) reflections** at the end of a session to help process what was learned, for example asking learners to write down, draw, or diagram things they learned, noting how things relate to one another or connect with previous knowledge, things they want to know more about, and any questions they still have.
 
 Many other formative assessment tools can be found in Briggs’ list of ["21 ways to check for student understanding"](https://www.opencolleges.edu.au/informed/features/21-ways-to-check-for-student-understanding/) or Edutopia's ["56 Examples of Formative Assessment"](https://www.edutopia.org/groups/assessment/250941).
 
@@ -81,7 +80,7 @@ Many other formative assessment tools can be found in Briggs’ list of ["21 way
 
 ### Formative Assessments in this Training (5 mins)
 Think back through the parts of this training you have followed so far.
-Identify two examples of formative assessment that the Trainers have employed so far.
+Identify two examples of formative assessment that the Trainers have employed.
 As an extra challenge, try to decide whether these assessments were used to assess progress towards a particular learning objective and, if so, what the relevant objective might have been.
 
 :::::::::::::::::::: solution
@@ -91,7 +90,7 @@ Some examples of formative assessments used so far in this training:
 
 - Exercises such as the one asking trainees to [describe the target audience of their lesson](introduction.md#target-audience-exercise)
     - this exercise aims to assess how well trainees are able to identify the aspects of a target audience that influence the design of a lesson. It also aims to expose any inconsistencies between the visions of the target audience held by different collaborators.
-- Your trainers have probably checked in with the group at various points in the training.
+- Your Trainers have probably checked in with the group at various points in the training.
     - Although these check-ins are not specific to a particular objective, they help give us an impression of how well trainees are able to follow what we are teaching.
 - Tracking the progress of your [lesson repository configuration](infrastructure.md) on GitHub.
     - This helps us evaluate trainees' progress towards the learning objectives we have set in relation to the lesson infrastructure.
@@ -103,7 +102,7 @@ Some examples of formative assessments used so far in this training:
 
 ## Exercise Learners' Memory
 
-In a simplified model of memory individuals are equipped with two types of memory:
+In a simplified model of memory, individuals are equipped with two types of memory:
 working (also called short-term) and long-term.
 Long-term memory essentially has unlimited storage but is slow to access, whereas
 working memory is quicker to access but can only hold a limited number of items at a time.
@@ -113,7 +112,7 @@ Exercises help with this by providing learners an opportunity to practice what w
 Exercises should occur frequently throughout the lesson to free up working memory and make space for more new information.
 
 Creating exercises builds upon the learning objectives you created earlier in the lesson design process.
-You can design exercises based on the actions/skills you described in your
+You can design exercises based on the skills you described in your
 learning objectives (the learning outcomes you intend for the lesson).
 This will be easier if your wrote learning objectives with specific action verbs.
 Specific verbs can help you decide what action you want the learners to perform in the exercise.
@@ -125,7 +124,7 @@ or use-in-a-different-context exercises.
 
 ::: spoiler
 
-### Resources to Explore for More Example Assessment Types
+### Resources for More Example Assessment Types
 
   - [Exercise Types Chapter from Teaching Tech Together](https://teachtogether.tech/en/index.html#s:exercises)
   - [Edutopia's 56 Examples of Formative Assessment](https://www.edutopia.org/groups/assessment/250941)
@@ -209,7 +208,7 @@ Trainers will lead a discussion about your findings for your chosen exercise typ
 
 ### Recommended Reading
 
-Both of the resources linked from the exercise above, [the _Exercise Types_ chapter of _Teaching Tech Together_][ttt-exercises] and [_Is This a Trick Question?_][trick-question] are worth reading in full. They collect a lot of insightful discussion and illustrative examples together, which can prove very useful when designing exercises for your lesson.
+Both of the resources linked from the exercise above, [the _Exercise Types_ chapter of _Teaching Tech Together_][ttt-exercises] and [_Is This a Trick Question?_][trick-question] are worth reading in full. They collect a lot of insightful discussion and illustrative examples, which can prove very useful when designing exercises for your lesson.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -262,7 +261,7 @@ Detecting and correcting
 and fixing learners' incorrect/broken 
 [mental models](https://carpentries.github.io/instructor-training/02-practice-learning.html#building-a-mental-model) 
 is as important as presenting your learners with new knowledge and correct information. 
-When mental models are broken, learning can occur slower than you might expect[^1]. 
+When mental models are broken, learning can occur more slowly than you might expect[^1]. 
 The longer a prior incorrect model is in use, and the more extensively it has to be "unlearned", 
 the more it can actively interfere with the incorporation of the new correct knowledge 
 (since it will contradict the misconceptions already present in the mental model).
@@ -314,9 +313,9 @@ to manage their expectations about how useful the workshop will be for them.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-You should aim to create all your assessments before you have written the explanatory content of 
+You should aim to create all your assessments before you write the explanatory content of 
 your lesson (recall Nicholls' [backward design](https://en.wikipedia.org/wiki/Backward_design)). 
-These assessments will guide your lesson design process by knowing exactly which knowledge 
+These assessments will guide your lesson design process by making sure you know exactly what knowledge 
 you'd expect from your learners at any point in the lesson.
 
 Well-designed exercises are one of the most valuable resources for an instructor and any time 
