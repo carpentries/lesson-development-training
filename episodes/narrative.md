@@ -11,7 +11,7 @@ After completing this episode, participants should be able to...
 - Find candidate datasets to use in a lesson.
 - Evaluate the suitability of a dataset to be used in a lesson.
 - Choose examples that will prepare learners for formative assessments in the lesson.
-- Develop a story
+- Develop a story for their lesson
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -90,7 +90,7 @@ Copying an image from a website is technologically simple but can be legally and
 Images are intellectual property and are subject to intellectual property laws
 including, but not limited to, copyright and trademark laws.
 These laws differ by country but are consistent in theme:
-do not take intellectual property that does not belong to you without permission.
+do not use intellectual property that does not belong to you without permission.
 
 When looking for images that illustrate the narrative of your lesson,
 avoid copying images that do not include a reuse license.
@@ -123,7 +123,7 @@ GNU offers commentary about a variety of licenses for free software; this resour
 
 :::::::::::::::::: testimonial
 
-> It was very distracting to me in a workshop, when we were given a dataset to work with but no-one explained what that data was and what it meant. It prevented me from following what the instructors were actually trying to teach me, while I tried to figure out the meaning of the numbers, columns names etc on my own.
+It was very distracting to me in a workshop, when we were given a dataset to work with but no-one explained what that data was and what it meant. It prevented me from following what the instructors were actually trying to teach me, while I tried to figure out the meaning of the numbers, columns names etc on my own.
 
 ::::::::::::::::::
 
@@ -332,7 +332,7 @@ for a lesson dataset.
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - Using a narrative throughout a lesson helps reduce learner cognitive load
-- Choosing a lesson includes considering data license and ethical considerations.
+- Choosing a dataset includes considering data license and ethical considerations.
 - Openly-licensed datasets can be found in subject area repositories or general data repositories.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
