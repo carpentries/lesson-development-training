@@ -117,7 +117,7 @@ design and develop an effective lesson, in collaboration with other members of t
 with an extended break between the first two days ("part 1") and the last day ("part 2").
 The training in part 1 focusses on good practices in lesson design and development,
 and the concepts and skills needed to build a lesson website with The Carpentries lesson infrastructure.
-Part 2 of the training begins with a reflective discussion of lesson deisgn and iterative development,
+Part 2 of the training begins with a reflective discussion of lesson design and iterative development,
 before shifting focus to the skills required for effective collaboration on open source projects.
 ](fig/cldt-structure.svg){
 alt="A graphical representation of the schedule and structure of collaborative lesson development training."
