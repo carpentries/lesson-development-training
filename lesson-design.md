@@ -110,7 +110,7 @@ Each life cycle stage indicates the level of maturity of a lesson:
 
 - **pre-alpha**: a first draft of the lesson is still being constructed.
 - **alpha**: the lesson has been/is being taught by the original authors, but has not been fully tested.
-- **beta**: the lesson is ready to be taught by instructors who have not been significantly involved in its developed to this point.
+- **beta**: the lesson is ready to be taught by instructors who have not been significantly involved in its development to this point.
 - **stable**: the lesson has been extensively tested by the authors and others. It can be considered broadly complete and unlikely to undergo any drastic changes without warning.
 
 Although your lessons will probably remain in pre-alpha throughout this training, some of the content will be equally valuable at later stages and we will also point you towards resources to help with testing the lesson and gathering feedback.

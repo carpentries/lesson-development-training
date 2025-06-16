@@ -169,13 +169,13 @@ and _time-bound_.
 
 In the context of a lesson, SMART objectives should be:
 
-- **S**pecific: they should clearly describe a particular skill or ability the learner should have.
-- **M**easurable: it should be possible to observe and ascertain when the learner has learned the skill/abilities described in the objectives.
-- **A**ttainable: the learner should realistically be able to acquire the skills or abilities in the time available in a workshop/by following the text of the lesson.
+- **S**pecific: they should clearly describe a particular skill or ability the learner should gain.
+- **M**easurable: it should be possible to observe and ascertain when the learner has developed the skill described in the objective.
+- **A**ttainable: the learner should realistically be able to acquire the skill in the time available in a workshop or by following the text of the lesson.
 - **R**elevant: they should be relevant to the overall topic or domain of the lesson as a whole.
 - **T**ime-bound: they should include some timeframe within which the goal will be reached. For learning objectives, this is built into the approach described above.
 
-Note that, for any lesson/curriculum that will be taught in a fixed amount of time,
+Note that, for any lesson that will be taught in a fixed amount of time,
 _attainable_ and _time-bound_ are overlapping:
 learning objectives for your lesson will answer the question
 "What will learners be able to do by the end of this lesson?"
@@ -262,14 +262,14 @@ what the main points will be,
 in what order they will be introduced,
 how much detail can be provided,
 and how much time can be spent on each point.
-Especially when writing lessons for short form training like a Carpentries workshop,
+Especially when writing lessons for short format training like a Carpentries workshop,
 difficult decisions often need to be made about what can and cannot be included.
 Trying to fit too much content into a lesson is counter-productive[^2],
 so it is good to avoid the temptation to cram in more content than you
 have time to cover properly.
 
 Writing learning objectives is a good opportunity to begin thinking about
-this lesson scope,
+lesson scope,
 and can provide assistance when you are faced with a difficult decision
 about what content to cut out.
 
@@ -296,7 +296,7 @@ learning objectives.
 We have discussed the importance of defining objectives early in
 the lesson design process,
 and looked at some examples of objectives written for other lessons.
-Now it is time to begin defining objectives for your own.
+Now it is time to begin defining objectives for your own lesson.
 
 Here are some recommendations to help you get started:
 
