@@ -328,6 +328,15 @@ We will come back and work more on episode objectives next in the training.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+### Pushed for time?
+The exercise below can be skipped if needed to make up some time.
+If the Trainer does choose skip the exercise, they should share the link to the Lesson Objective Advisor tool for trainees to try out in their own time.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: reviewing lesson objectives (15 minutes)
