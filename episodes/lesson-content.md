@@ -292,11 +292,11 @@ Using this approach, we can build up our lesson one episode at a time.
 
 ### Working on the same episode or file - possible conflicts
 
-As we move onto adding more content into learners' lesson repositories, it is quite possible that two or more learners will be working
-on the same episode which could lead to conflicts if they are editing the same portion of the episode simutaneously. 
+As we move onto adding more content into trainees' lesson repositories, it is quite possible that two or more trainees will be working on the same episode. 
+This could lead to conflicts if they are editing the same portion of the episode simultaneously. 
 
-If this if relevant in the training - this is a good opporunity to mention to learners that this is a common scenario when working collaboratively, 
-and what steps need to be taken to resolve conflicts.
+Embrace this if it happens in the training! 
+It is a good opportunity to mention to trainees that this is a common scenario when working collaboratively and to guide them through steps that need to be taken to resolve conflicts.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
