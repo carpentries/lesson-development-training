@@ -231,7 +231,7 @@ Making effective review comments in a PR is something you will get better at wit
 
 The Turing Way has more on [reviewing contributions](https://the-turing-way.netlify.app/collaboration/maintain-review/maintain-review-review),
 and a lot of the advice in Alex Hill's blog post,
-[_The Art of Giving and Receiving Code Reviews (Gracefully)_](https://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
+[_The Art of Giving and Receiving Code Reviews (Gracefully)_](https://web.archive.org/web/20240715171351/https://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
 also applies to reviewing prose.
 
 ::::::::::::::::
