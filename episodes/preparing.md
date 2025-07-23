@@ -195,37 +195,18 @@ You may find the ["Training Pilot Operations Guide"](https://doi.org/10.5281/zen
 
 :::::::::::::::::::::::::::::::::::::: 
 
+### After the training
 
-::::::::::::::::::::::::::::::::::::::  challenge
+Before obtaining certification as a Carpentries Lesson Developer, trainees are required to complete two "checkout" tasks:
 
-## Exercise: homework
+1. Teach one or more episodes of your lesson to a real audience.
+2. Join a _Pilot Workshop Debrief_ session, reporting on your experience teaching your new lesson and your plans for the next iteration of the content and design.
 
-The final part of this training will focus on the skills needed to collaborate
-effectively. Before that there will be a break,
-during which we would like you to complete the following three tasks:
+See the [Checkout Process](../learners/checkout.md) page for full of these steps.
 
-1. Teach one episode of your lesson (probably the one you have been working on in these two days).
-   See the [Lesson Trial Runs](../learners/trial-runs.md) page for full details.
-2. After your trial run has concluded
-   (immediately after, or when you have reviewed any feedback you collected from learners),
-   note down your answers to the following questions:
-   - What worked?
-   - What did not?
-   - What will you do differently next time?
-   - What will you change in your material you taught?
-     We will refer to these notes when we reconvene for the last episode of this training.
-3. Based on your experience teaching the material and the feedback you received from your learners and helpers,
-   make a list of issues you have identified with the material you prepared, e.g.:
-   - examples that did not work as expected,
-   - improvements that could be made to exercises,
-   - parts that learners found particularly challenging,
-   - unexpected questions or misconceptions that came up during the trial run.
-
-    We will return to these notes during the final training session,
-    so please make sure you save them somewhere you will be able to find them again easily when the time comes.
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
+#### Collaborating with GitHub
+Trainees who do not yet have extensive experience using GitHub to collaborate on an open source project will also benefit by participating in one of the regular _GitHub Skill-up_ sessions for open source developers and maintainers.
+Participation in these GitHub sessions is optional but recommended for Lesson Developer trainees.
 
 Some feedback from participants that demonstrates the importance of trial runs.
 
