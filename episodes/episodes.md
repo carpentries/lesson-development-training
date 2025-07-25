@@ -80,8 +80,7 @@ With your team, in the shared notes document for your lesson:
    Think of these logical blocks as topics that you need to cover within your lesson but do not go too deep into defining learning objectives
    for individual episodes - we will cover that soon. 
 2. Next, assign responsibility for one of these episodes to each collaborator in your team.
-   They will focus on this episode for the rest of this training, 
-   and you will teach these episodes in a trial run between parts 1 and 2 of this training.
+   They will focus on this episode for the rest of this training.
 
 Some questions you might ask yourself to help break down your lesson-level learning objectives include:
 

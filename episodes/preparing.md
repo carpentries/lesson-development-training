@@ -208,7 +208,7 @@ See the [Checkout Process](../learners/checkout.md) page for full of these steps
 Trainees who do not yet have extensive experience using GitHub to collaborate on an open source project will also benefit by participating in one of the regular _GitHub Skill-up_ sessions for open source developers and maintainers.
 Participation in these GitHub sessions is optional but recommended for Lesson Developer trainees.
 
-Some feedback from participants that demonstrates the importance of trial runs.
+Some feedback from participants that demonstrates the importance of piloting a lesson.
 
 ::::::::::::::::: testimonial
 
@@ -241,12 +241,9 @@ It was a great reminder that progress matters more than perfection.
 
 ## What questions do you have? (15 minutes)
 
-The homework from this workshop includes a trial run of one of the episodes
-you have been developing in your lesson, to a real audience.
+The checkout process for Lesson Developer certification includes a pilot event of at least one of the episodes you have been developing in your lesson, to a real audience.
 
-After reading [the information provided about the trial run task](../learners/trial-runs.md) and thinking about this task,
-what questions do you have about how you should
-approach teaching that trial run?
+After reading [the information provided about the checkout tasks](../learners/checkout.md) and thinking about the lesson pilot, what questions do you have about how you should approach teaching it?
 Is there anything you are unsure of?
 What resources might help you prepare for that experience?
 
