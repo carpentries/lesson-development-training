@@ -71,7 +71,7 @@ Some points you might consider raising with them:
 
 :::::::::::::::::::::::::::::::::::::  discussion
 
-## Discussion: trial runs (45 minutes)
+## Discussion: lesson pilots (45 minutes)
 Report out to the facilitator and other session participants your lesson pilot.
 Participants should choose what to focus on, e.g. based on their own reflections and feedback received during/after the event.
 The following prompts may help to guide your report:
