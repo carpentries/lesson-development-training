@@ -182,7 +182,7 @@ For some other examples and inspirations of governance processes, consider the f
 
 - [Martha’s Rules](https://journals.sagepub.com/doi/10.1177/088610998600100206)
   for discussing and deciding on issues in group meetings
-  (if you cannot access the publication, see [Greg Wilson's explanation of Martha's rules](https://third-bit.com/files/2020/08/marthas/))
+  (if you cannot access the publication, see [Greg Wilson's explanation of Martha's rules](https://third-bit.com/2019/06/13/marthas-rules/))
 - [GitHub's Minimum Viable Governance](https://github.com/github/MVG) (MVG)
   for establishing a lightweight governance process into free and open source projects that are run in version control systems.
   - In MVG decisions are made through consensus of the project maintainers
