@@ -288,6 +288,19 @@ Otherwise, feel free to use any values you like for the file name and episode ti
 Using this approach, we can build up our lesson one episode at a time.
 
 
+::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+### Working on the same episode or file - possible conflicts
+
+As we move onto adding more content into trainees' lesson repositories, it is quite possible that two or more trainees will be working on the same episode. 
+This could lead to conflicts if they are editing the same portion of the episode simultaneously. 
+
+Embrace this if it happens in the training! 
+It is a good opportunity to mention to trainees that this is a common scenario when working collaboratively and to guide them through steps that need to be taken to resolve conflicts.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 ## Adding Exercises
 
 To create an exercise in The Carpentries Workbench,
