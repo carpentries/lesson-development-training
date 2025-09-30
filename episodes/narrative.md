@@ -43,7 +43,7 @@ Here are some example narratives from lessons:
 * [Software Carpentry Git lesson](https://swcarpentry.github.io/git-novice/index.html) uses the story of Alfredo, a chef working with his team to create a repository of his favorite recipes.
 * [Building Websites With Jekyll and GitHub lesson](https://carpentries-incubator.github.io/jekyll-pages-novice/filters/index.html) 
   uses the narrative of creating a website for a research project to teach authoring webpages with Markdown and compiling them into a website served on GitHub.
-* [Software tools and practices (including FAIR) for open and reproducible research lesson](https://carpentries-incubator.github.io/fair-research-software/) uses the narrative of a poorly designed software project 
+* [Software tools and practices for open and reproducible research lesson](https://carpentries-incubator.github.io/better-research-software/) uses the narrative of a poorly designed software project 
   (which analyses [NASA’s open data on spacewalks](https://data.nasa.gov/Raw-Data/Extra-vehicular-Activity-EVA-US-and-Russia/9kcy-zwvn/data_preview) undertaken by astronauts from 1965 to 2013) that over the course of the lesson gets improved in terms of code accessibility, readability, correctness and reusability.
   
 Sometimes, a single and continuous narrative threads through the entire lesson, while other times, you use a mini-narrative 
