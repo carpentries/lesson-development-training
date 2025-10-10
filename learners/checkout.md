@@ -117,8 +117,8 @@ If you are teaching to people who are already familiar with the lesson topic, i.
 
 ### Where can I go for help?
 
-The Carpentries Curriculum Team can provide support for trial runs. 
-For example, by providing access to an account with a paid Zoom license for an online trial run, by helping advertise the session to The Carpentries (sub)communities, by listing sessions on The Carpentries Community Calendar, etc.
+The Carpentries Curriculum Team can provide support for lesson pilots. 
+For example, by providing access to an account with a paid Zoom license for an online pilot, by helping advertise the session to The Carpentries (sub)communities, by listing sessions on The Carpentries Community Calendar, etc.
 Contact the team on [curriculum@carpentries.org](mailto:curriculum@carpentries.org) if you would like to request assistance like this.
 
 ## Pilot Workshop Debrief

@@ -497,6 +497,3 @@ visually differently in the lesson website.
 - There are many types of [fenced divs](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html#callout-blocks) available to lesson developers.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-[^1]: [Kirschner et al. 2006](learners/reference.md#litref)

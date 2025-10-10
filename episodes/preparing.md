@@ -211,7 +211,7 @@ Participation in a separate GitHub Skill-up teaching skills and approaches for e
 alt="A graphical representation of the schedule and checkout process for collaborative lesson development training."
 width="67%"}
 
-Some feedback from participants that demonstrates the importance of trial runs.
+Some feedback from participants that demonstrates the importance of piloting a lesson.
 
 ::::::::::::::::: testimonial
 
@@ -244,12 +244,9 @@ It was a great reminder that progress matters more than perfection.
 
 ## What questions do you have? (15 minutes)
 
-The homework from this workshop includes a trial run of one of the episodes
-you have been developing in your lesson, to a real audience.
+The checkout process for Lesson Developer certification includes a pilot event of at least one of the episodes you have been developing in your lesson, to a real audience.
 
-After reading [the information provided about the trial run task](../learners/trial-runs.md) and thinking about this task,
-what questions do you have about how you should
-approach teaching that trial run?
+After reading [the information provided about the checkout tasks](../learners/checkout.md) and thinking about the lesson pilot, what questions do you have about how you should approach teaching it?
 Is there anything you are unsure of?
 What resources might help you prepare for that experience?
 

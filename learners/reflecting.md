@@ -46,7 +46,7 @@ We will also explore ways that you could improve your lessons and workshops base
 ::::::::::::::::::::::::::::::::::::::: instructor
 
 ### Scaling this exercise to larger numbers of lesson teams
-This exercise can take a long time when you have a lot of lesson teams in your training, but it is important to give every group the chance to reflect on their trial run. 
+This exercise can take a long time when you have a lot of lesson teams in your training, but it is important to give every group the chance to reflect on their pilot. 
 You may need to facilitate it differently if time becomes an issue:
 for example, you could paste the prompts into the Etherpad and ask all groups to write their answers, before summarising responses, identifying trends, and calling on particular trainees to share more about their individual responses.
 
@@ -71,7 +71,7 @@ Some points you might consider raising with them:
 
 :::::::::::::::::::::::::::::::::::::  discussion
 
-## Discussion: trial runs (45 minutes)
+## Discussion: lesson pilots (45 minutes)
 Report out to the facilitator and other session participants your lesson pilot.
 Participants should choose what to focus on, e.g. based on their own reflections and feedback received during/after the event.
 The following prompts may help to guide your report:
