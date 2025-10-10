@@ -204,9 +204,12 @@ Before obtaining certification as a Carpentries Lesson Developer, trainees are r
 
 See the [Checkout Process](../learners/checkout.md) page for full of these steps.
 
-#### Collaborating with GitHub
-Trainees who do not yet have extensive experience using GitHub to collaborate on an open source project will also benefit by participating in one of the regular _GitHub Skill-up_ sessions for open source developers and maintainers.
-Participation in these GitHub sessions is optional but recommended for Lesson Developer trainees.
+![
+To complete their Carpentries Lesson Developer certification, participants in this training must attend a Pilot Workshop Debrief session and report on the experience of trialling some of their new lesson content.
+Participation in a separate GitHub Skill-up teaching skills and approaches for effective collaboration is optional but recommended for Lesson Developers.
+](../episodes/fig/cldt-checkout.svg){
+alt="A graphical representation of the schedule and checkout process for collaborative lesson development training."
+width="67%"}
 
 Some feedback from participants that demonstrates the importance of trial runs.
 

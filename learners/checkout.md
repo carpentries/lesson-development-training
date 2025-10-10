@@ -12,6 +12,13 @@ Briefly, the two steps are:
 
 These checkout steps must be completed in the order listed above.
 
+![
+To complete their Carpentries Lesson Developer certification, participants in this training must attend a Pilot Workshop Debrief session and report on the experience of trialling some of their new lesson content.
+Participation in a separate GitHub Skill-up teaching skills and approaches for effective collaboration is optional but recommended for Lesson Developers.
+](../episodes/fig/cldt-checkout.svg){
+alt="A graphical representation of the schedule and checkout process for collaborative lesson development training."
+width="67%"}
+
 ### How will the Checkout steps be tracked?
 
 Trainees must send notes from their lesson pilot to [curriculum@carpentries.org](mailto:curriculum@carpentries.org) so that their progress can be tracked by the Curriculum Team. 
@@ -131,5 +138,9 @@ We also use Etherpads for sign-ups and notes on recurring events, like community
 Although we have used CodiMD for notetaking during Collaborative Lesson Development Training, Etherpad is used for community sessions including Pilot Workshop Debriefs.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## GitHub Skill-ups
+Although not a required part of Lesson Developer checkout, we recommend that you also [register to participate in a GitHub Skill-up session](FIXME).
+You do not need to wait until you have completed a pilot of your new lesson to benefit from this skill-up.
 
 _Note: some content on this page has been reused and adapted from [the equivalent page in the Instructor Training curriculum](https://carpentries.github.io/instructor-training/checkout.html)._
