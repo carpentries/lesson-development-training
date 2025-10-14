@@ -348,6 +348,24 @@ Otherwise, feel free to use any values you like for the file name and episode ti
 Using this approach, we can build up our lesson one episode at a time.
 
 
+::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+### Working on the same episode or file - possible conflicts
+
+As we move onto adding more content into trainees' lesson repositories, it is quite possible that two or more trainees will be working on the same episode. 
+This could lead to conflicts if they are editing the same portion of the episode simultaneously. 
+
+Embrace this if it happens in the training! 
+It is a good opportunity to mention to trainees that this is a common scenario when working collaboratively and to guide them through steps that need to be taken to resolve conflicts.
+
+Now may also be a good opportunity to mention that, instead of editing files on the main branch, it is better when collaborators work on separate development branches. 
+This enables them to work in parallel without constantly resolving conflicts and having to deal with them in the middle of ongoing work. 
+While using branches does not eliminate conflicts entirely, it delays them until collaborators are ready to integrate their changes into the main branch.
+This is done via pull requests (PRs) - which will be covered later in this episode.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 ## Adding Exercises
 
 To create an exercise in The Carpentries Workbench,
