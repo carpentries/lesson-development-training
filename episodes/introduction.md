@@ -104,25 +104,10 @@ Take a few minutes to write down some notes about your answer, then introduce yo
 
 The main objective of this training is to teach you the skills you need to design and develop an effective lesson, in collaboration with other members of the community.
 
-<<<<<<< HEAD
-During the training,
-we will introduce the steps you can take to design and develop a lesson
-to meet the needs of your target audience,
-and give you time to begin implementing those steps during the workshop itself.
-By the end of the training,
-you can expect to have defined an outline for your whole lesson,
-and begun filling in a detailed plan for some of its individual sections.
-The content you create in the training will exist as an open source lesson website
-similar to [the one this training is based on][cldt-site].
-You should also know how you can continue building on the lesson
-and have some plans for how you will collaborate on the project
-after the training ends.
-=======
 During the training, we will introduce the steps you can take to design and develop a lesson to meet the needs of your target audience, and give you time to begin implementing those steps during the workshop itself.
 By the end of the training, you can expect to have defined an outline for your whole lesson, and begun filling in a detailed plan for some of its individual sections.
 The content you create in the training will exist as an open source lesson website similar to [the one this training is based on][cldt-site].
 You should also know how you can continue building on the lesson and have some plans for how you will collaborate on the project after the training ends.
->>>>>>> aefa3a8abbb718a64fc8031337e8282bf852358f
 
 We will focus on three main areas:
 
@@ -138,13 +123,10 @@ Throughout the training, while you design and begin developing the content of yo
 ### Collaborating Effectively
 
 We believe that lessons are much more likely to succeed, and to remain useful in the long term, if they are developed collaboratively.
-<<<<<<< HEAD
 We will spend a little time talking about how you can work together effectively during this training. 
 To further develop your collaboration skills after the training, we recommend that you join one of the regular _GitHub Skill-up_ sessions hosted by The Carpentries.
 Participation in those skill-ups is optional but included in your registration for this training.
-=======
-This training will discuss some of the ways that you can collaborate more effectively to create a great lesson together.
->>>>>>> aefa3a8abbb718a64fc8031337e8282bf852358f
+
 
 ::: callout
 
