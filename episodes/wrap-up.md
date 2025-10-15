@@ -46,8 +46,8 @@ This training covers a lot of concepts and leads you through many different task
 To help you prioritise what to work on next, consider the following prompts and make notes of your answers.
 
 - Which of the exercises set so far in this training did you not have time to complete?
-- What do you still need to add/work on?
-- What can you remove/consider removing?
+- What do you still need to add/work on in your lesson?
+- What can you remove/consider removing from your lesson?
 - How will the narrative and example data you have chosen for your lesson support teaching and assessment?
 - What diagram or other visual aids could you create/add to supplement your text?
 
@@ -65,7 +65,7 @@ If you do not know where to start, consider the following list for a starting po
 - write down one thing that struck you the most
 
 ### Assess your lesson design
-_(This exercise adapted from [Via et al. 2020](learners/reference.md).)_
+_(This exercise is adapted from [Via et al. 2020](learners/reference.md).)_
 
 When the first draft of your lesson content is nearly complete, consider mapping out the relationships between the objectives of your episode and the examples and exercises via which they will be taught and assessed.
 For example,
