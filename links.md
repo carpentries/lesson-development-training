@@ -21,7 +21,7 @@
 [kirschner-2006]: https://github.com/carpentries/instructor-training/blob/gh-pages/files/papers/kirschner-minimal-guidance-fails-2006.pdf
 [lc]: https://librarycarpentry.org/
 [lessondev-handbook]: https://docs.carpentries.org/handbooks/lesson_developers.html
-[narrative-example-data]: https://docs.carpentries.org/resources/curriculum/narrative-example-data
+[handbook-narrative-example-data]: https://docs.carpentries.org/resources/curriculum/narrative-example-data
 [pilot-notes-template]: https://codimd.carpentries.org/lesson-pilot-observation-notes-template#
 [swc]: https://software-carpentry.org/
 [swc-lessons]: https://software-carpentry.org/lessons/
