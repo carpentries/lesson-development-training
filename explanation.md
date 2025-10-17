@@ -192,6 +192,12 @@ Make time to review your text for:
 - unexplained assumptions
 - sudden jumps in difficulty/complexity
 
+::::::::: callout
+
+You may want to check out [Julia Evans' blog post on "Patterns in confusing explanations"](https://jvns.ca/blog/confusing-explanations/) to help review your explanatory text for common patterns in language that can make your explanatory text confusing.
+
+:::::::::::::::::
+
 ### Accessibility
 
 You should also review your text thinking about accessibility.
