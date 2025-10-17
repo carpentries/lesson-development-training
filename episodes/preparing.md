@@ -195,10 +195,40 @@ You may find the ["Training Pilot Operations Guide"](https://doi.org/10.5281/zen
 
 :::::::::::::::::::::::::::::::::::::: 
 
+## Running your own pilot workshop
+
+While it may feel early or scary to pilot part of your workshop early in the development process, the feedback you can get from learners is highly valuable and can focus or speed up your development process.
+The feedback below from workshop participants demonstrates the importance of trial runs.
+
+::::::::::::::::: testimonial
+
+### Testing with a 'Real' Audience
+
+Presenting our lesson in front of a ‘real’ audience as a trial run gave us valuable feedback on things we hadn't fully considered in the planning phase.
+It helped us to better understand how much time is needed for the exercises, how difficult the exercises are for the learners and how some examples used can be misunderstood by the learners.
+I think that learner feedback is more useful the more the audience closely matches your own target audience, so the insights are more practical and relevant for improving the content. 
+
+\- Julia Tolksdorf
+
+::::::::::::::::::::::::::::
+
+::::::::: testimonial
+
+### Getting Feedback Early
+
+Doing a trial run of our lesson so early in the process felt a bit intimidating at first, it seemed like we weren’t ready and everything needed more work. But that’s exactly why the trial run was so helpful.
+It gave us a clear picture of what worked and what didn’t, like realizing we’d packed in way too much content and spotting some technical issues we hadn’t thought of before.
+The participants were understanding and gave us really useful feedback, which made the next version of the lesson so much better.
+It was a great reminder that progress matters more than perfection.
+
+\- Olga Minaeva
+
+::::::::::::::::::::
+
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: homework
+### Exercise: homework
 
 The final part of this training will focus on the skills needed to collaborate
 effectively. Before that there will be a break,
@@ -226,33 +256,6 @@ during which we would like you to complete the following three tasks:
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-Some feedback from participants that demonstrates the importance of trial runs.
-
-::::::::::::::::: testimonial
-
-### Testing with a 'Real' Audience
-
-Presenting our lesson in front of a ‘real’ audience as a trial run gave us valuable feedback on things we hadn't fully considered in the planning phase.
-It helped us to better understand how much time is needed for the exercises, how difficult the exercises are for the learners and how some examples used can be misunderstood by the learners.
-I think that learner feedback is more useful the more the audience closely matches your own target audience, so the insights are more practical and relevant for improving the content. 
-
-\- Julia Tolksdorf
-
-::::::::::::::::::::::::::::
-
-::::::::: testimonial
-
-### Getting Feedback Early
-
-Doing a trial run of our lesson so early in the process felt a bit intimidating at first, it seemed like we weren’t ready and everything needed more work. But that’s exactly why the trial run was so helpful.
-It gave us a clear picture of what worked and what didn’t, like realizing we’d packed in way too much content and spotting some technical issues we hadn’t thought of before.
-The participants were understanding and gave us really useful feedback, which made the next version of the lesson so much better.
-It was a great reminder that progress matters more than perfection.
-
-\- Olga Minaeva
-
-::::::::::::::::::::
 
 
 
