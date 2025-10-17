@@ -1092,7 +1092,7 @@ lesson?</li>
   Part 2a (for groups collaborating on the same lesson, 10 minutes)
   </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>Share your answers with your collaborators. How do they compare? If
 you have identified different audiences, are they compatible? Or would
@@ -1113,7 +1113,7 @@ your reasons for doing so.</p>
   Part 2b (for participants developing their lesson alone, 10 minutes)
   </h4>
 </button>
-<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
+<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
 <div class="accordion-body">
 <p>Take notes about your choice of target audience in your Lesson Design
 Notes document. It can be particularly helpful to note down any
@@ -1134,7 +1134,7 @@ intended audience for your lesson.</p>
   Thinking more about target audience
   </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
 <div class="accordion-body">
 <p>There is more to consider about your target audience than we could
 capture with only the questions listed above. In your own time, you
@@ -1231,7 +1231,7 @@ al. 2006</a><a href="#fnref3" class="footnote-back">↩︎</a></p></li>
 </ol>
 </div></section><section id="aio-objectives"><p>Content from <a href="objectives.html">Defining Lesson Objectives/Outcomes</a></p>
 <hr>
-<p>Last updated on 2025-06-17 |
+<p>Last updated on 2025-10-17 |
 
         <a href="https://github.com/carpentries/lesson-development-training/edit/main/episodes/objectives.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <div class="text-end">
@@ -1262,7 +1262,7 @@ expectations of a lesson?</li>
 <p>After completing this episode, participants should be able to…</p>
 <ul>
 <li>Explain the importance of defining specific, measurable, attainable,
-relevant and time-bound objectives for a lesson.</li>
+relevant and time-bound (SMART) objectives for a lesson.</li>
 <li>Evaluate a written lesson objective according to these
 criteria.</li>
 </ul>
@@ -1305,12 +1305,24 @@ majority of lessons, these will be <em>cognitive skills</em>: things
 learners can do with their minds. (Lessons intended to teach other kinds
 of skill, such as woodwork, playing a musical instrument, or making
 sushi, are probably better suited to a different platform than a static
-website.) Cognitive skills cannot be equally easily acquired: before we
-can <em>apply</em> concepts and <em>create</em> something new, we must
+website.)</p>
+<p>Cognitive skills cannot be equally easily acquired: before we can
+<em>apply</em> concepts and <em>create</em> something new, we must
 attain the ability to <em>remember</em> and <em>distinguish</em> between
 new concepts. Remembering and distinguishing are also abilities that are
 often faster to gain than applying or creating.</p>
-<p>We must try to be realistic about how far along this scale we can
+<p>This is what <a href="https://en.wikipedia.org/wiki/Bloom%27s_taxonomy" class="external-link">Bloom’s
+Taxonomy</a> (depicted in diagram below) tells us as well - it arranges
+cognitive skills (and educational objectives) into a hierarchy where
+cognitive skills on higher levels cannot be obtained before gaining
+those on lower levels. Even though Bloom’s Taxonomy has been disputed by
+some educational psychologists and has been revised since the original
+proposal - it still provides a useful framework to help us define
+learning objectives (as we will see shortly).</p>
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Bloom%27s_revised_taxonomy.svg" style="width:67.0%" alt="Bloom's taxonomy - a framework for categorising educational (cognitive) goals - represented as a pyramid with six levels of increasing cognitive complexity from the bottom to the top: remembering, understanding, applying, analysing, evaluating and creating" class="figure mx-auto d-block"><div class="figcaption">Bloom’s taxonomy - a framework for categorising
+educational goals, <a href="https://commons.wikimedia.org/wiki/File:Bloom%27s_revised_taxonomy.svg" class="external-link">image
+from Wikimedia Commons</a> reused under CC BY 4.0 license</div>
+</figure><p>We must try to be realistic about how far along this scale we can
 move learners during a single workshop/lesson. This is one reason why
 the target audience is so important: if we can predict what learners
 will know when they arrive at the lesson, we can better define the
@@ -1320,59 +1332,20 @@ focus the rest of our time on developing content that is necessary for
 learners to reach these goals. It will help us ensure we do not miss
 anything important or, conversely, include anything superfluous that
 could use up valuable time or distract instructors and learners.</p>
-</section><section><h2 class="section-heading" id="what-does-an-objective-look-like">What Does an Objective Look Like?<a class="anchor" aria-label="anchor" href="#what-does-an-objective-look-like"></a>
-</h2>
-<hr class="half-width">
-<figure><img src="fig/objective.svg" alt='An example learning objective, "import data into an indexed DataFrame with read_csv", with emphasis placed on the action verb ("import") and the specificity ("indexed") of the objective.' class="figure mx-auto d-block"><div class="figcaption">This diagram highlights the most important
-elements of a learning objective.</div>
-</figure><p>Objectives can be defined for a lesson as a whole - what should
-learners be able to do at the end of a workshop teaching this lesson? -
-and for individual sections within it - what should learners be able to
-do after following this particular part of the lesson?</p>
-<div id="accordionSpoiler1" class="accordion spoiler-accordion accordion-flush">
-<div class="accordion-item">
-<button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
-  <h3 class="accordion-header" id="headingSpoiler1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Do you think the objective in the image above is a lesson- or episode-level objective? </h3>
-</button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
-<div class="accordion-body">
-<p>This is probably a episode-level objective because it is very
-specific. A corresponding lesson-level objective might be “read data and
-libaries into the python environment”. It is still fairly specific but a
-bit broader in scope and contains several episode-level objectives.</p>
-</div>
-</div>
-</div>
-</div>
-<p>The <strong>lesson</strong> level objective for the current section
-of this training is: <strong>define SMART learning objectives</strong>.
-This objective also covers a later episode as well.</p>
-<p>The <strong>episode</strong> level objectives for the current section
-of this training are:</p>
-<div id="objectives-for-this-section" class="callout checklist">
-<div class="callout-square">
-<i class="callout-icon" data-feather="check-square"></i>
-</div>
-<span class="callout-header">Checklist</span>
-<div id="objectives-for-this-section" class="callout-inner">
-<h3 class="callout-title">Objectives for This Section</h3>
-<div class="callout-content">
-<ul>
-<li>Explain the importance of defining specific, measurable, attainable,
-relevant and time-bound objectives for a lesson.</li>
-<li>Evaluate a written lesson objective according to these
-criteria.</li>
-</ul>
-</div>
-</div>
-</div>
-<p>These should be read as if they were endings to a sentence
-beginning</p>
+<div class="section level3">
+<h3 id="what-does-a-learning-objective-look-like">What Does a Learning Objective Look Like?<a class="anchor" aria-label="anchor" href="#what-does-a-learning-objective-look-like"></a>
+</h3>
+<p>The following highlights the most important elements of a learning
+objective:</p>
+<figure><img src="fig/objective.svg" alt='An example learning objective, "import data into an indexed DataFrame with read_csv", with emphasis placed on the action verb ("import") and the specificity ("indexed") of the objective.' class="figure mx-auto d-block"><div class="figcaption">The most important elements of a learning
+objective.</div>
+</figure><p>Learning objectives should be read as if they were endings to the
+following sentence:</p>
 <blockquote>
 <p>“At the end of this session, learners should be able to …”</p>
 </blockquote>
-<p>Each objective starts with a verb and describes one (and only one)
-skill the learner will obtain.</p>
+<p>Each objective should start with a verb and describe one (and only
+one) skill the learner will obtain.</p>
 <p>For objectives to be as helpful as possible, they need to be written
 in a way that will allow us to directly observe whether or not a learner
 has attained the skills we want them to. This means that the skills
@@ -1380,27 +1353,66 @@ described by our objectives should be measurable: as a general rule,
 action verbs such as “explain,” “choose,” or “predict,” are more helpful
 than passive verbs such as “know,” “understand,” or “appreciate”, which
 are hard to directly assess and are often open to interpretation.</p>
-<p>A popular aid for defining learning objectives is <a href="https://en.wikipedia.org/wiki/Bloom%27s_taxonomy" class="external-link">Bloom’s
-Taxonomy</a>, which divides cognitive skills into several categories.
-The original taxonomy arranged these categories in a strict hierarchy,
-which has since been disputed. Regardless of whether these skills
-conform to such a hierarchy, Bloom’s Taxonomy serves as a very useful
-bank of action verbs for use in learning objectives.</p>
-<figure><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Bloom%27s_revised_taxonomy.svg" style="width:67.0%" alt="Bloom's taxonomy - a framework for categorising educational goals - represented as a pyramid with six levels of increasing cognitive complexity from the bottom to the top: remembering, understanging, applying, analysing, evaluating and creating" class="figure mx-auto d-block"><div class="figcaption">Bloom’s taxonomy - a framework for categorising
-educational goals, <a href="https://commons.wikimedia.org/wiki/File:Bloom%27s_revised_taxonomy.svg" class="external-link">image
-from Wikimedia Commons</a> reused under CC BY 4.0 license</div>
-</figure><p>The Committee for Computing Education in Community Colleges has also
-created a <a href="https://ccecc.acm.org/assessment/blooms-for-computing" class="external-link">version of
-Bloom’s Taxonomy customized for computing related training</a>.</p>
+<p>Refer back to Bloom’s Taxonomy - this time focusing on the right-hand
+side of the diagram showing the measurable actions used to help us
+describe knowledge, skills and abilities. It serves as a very useful
+bank of <em>action verbs</em> for use in learning objectives. The
+Committee for Computing Education in Community Colleges has also created
+a <a href="https://ccecc.acm.org/assessment/blooms-for-computing" class="external-link">version of
+Bloom’s Taxonomy customized for computing-related training</a> with an
+extended list of action verbs.</p>
 <p>We will see how helpful it can be to use action verbs in learning
 objectives when we begin talking about exercise design in the coming
 episodes.</p>
+</div>
+<div class="section level3">
+<h3 id="lesson-level-vs--episode-level-objectives">Lesson-Level vs. Episode-Level Objectives<a class="anchor" aria-label="anchor" href="#lesson-level-vs--episode-level-objectives"></a>
+</h3>
+<p>Objectives can be defined for a lesson as a whole - answering the
+question “what should learners be able to do at the end of a workshop
+teaching this lesson?”.</p>
+<p>Objectives can also be defined for individual sections within it -
+answering the question “what should learners be able to do after
+following this particular part of the lesson?”.</p>
+<div id="accordionSpoiler1" class="accordion spoiler-accordion accordion-flush">
+<div class="accordion-item">
+<button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
+  <h3 class="accordion-header" id="headingSpoiler1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Do you think the objective in the image above is a lesson- or episode-level objective? </h3>
+</button>
+<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
+<div class="accordion-body">
+<p>This is probably a episode-level objective because it is very
+specific. A corresponding lesson-level objective might be “read data and
+libraries into the Python environment”. It is still fairly specific but
+a bit broader in scope and contains several episode-level
+objectives.</p>
+</div>
+</div>
+</div>
+</div>
+<p>The <strong>lesson-level</strong> objective for the current section
+of this training is:</p>
+<blockquote>
+<p>define SMART learning objectives.</p>
+</blockquote>
+<p>This objective also covers a later episode as well.</p>
+<p>The <strong>episode-level</strong> objectives for the current section
+of this training are:</p>
+<blockquote>
+<ul>
+<li>Explain the importance of defining specific, measurable, attainable,
+relevant and time-bound objectives (SMART) for a lesson.</li>
+<li>Evaluate a written lesson objective according to these
+criteria.</li>
+</ul>
+</blockquote>
+</div>
 </section><section><h2 class="section-heading" id="smart-objectives">SMART Objectives<a class="anchor" aria-label="anchor" href="#smart-objectives"></a>
 </h2>
 <hr class="half-width">
 <p>To assist you in defining and writing learning objectives for your
-lesson, it can be helpful to turn to a popular framework for defining
-goals: <em>SMART</em>. Originally <a href="https://community.mis.temple.edu/mis0855002fall2015/files/2015/10/S.M.A.R.T-Way-Management-Review.pdf" class="external-link">proposed
+lesson, it can be helpful to turn to another popular framework for
+defining goals and objectives: <em>SMART</em>. Originally <a href="https://community.mis.temple.edu/mis0855002fall2015/files/2015/10/S.M.A.R.T-Way-Management-Review.pdf" class="external-link">proposed
 to aid managers in the definition of business goals</a>, and updated and
 adapted since to <a href="https://en.wikipedia.org/wiki/SMART_criteria#Common_usage" class="external-link">several
 other domains</a> including education (see <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5944406/" class="external-link"><em>How to
@@ -1501,7 +1513,7 @@ how each objective might be improved.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <table class="table">
 <colgroup>
@@ -1583,7 +1595,7 @@ lessons can be broadly considered as blocks of content associated with a
 particular learning objective. This can be helpful when making choices
 about content to remove, because the task can be considered in the
 context of taking out whole learning objectives.</p>
-</section><section><h2 class="section-heading" id="defining-learning-objectives">Defining Learning Objectives<a class="anchor" aria-label="anchor" href="#defining-learning-objectives"></a>
+</section><section><h2 class="section-heading" id="defining-your-learning-objectives">Defining Your Learning Objectives<a class="anchor" aria-label="anchor" href="#defining-your-learning-objectives"></a>
 </h2>
 <hr class="half-width">
 <p>We have discussed the importance of defining objectives early in the
@@ -3387,7 +3399,7 @@ now to initialise a new lesson.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
   <h3 class="accordion-header" id="headingSpoiler1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> A Brief History of The Carpentries Lesson Infrastructure </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
 <div class="accordion-body">
 <p>In the past, our lesson sites were generated by software called
 <em><a href="https://jekyllrb.com/" class="external-link">Jekyll</a></em>, a tool built into
@@ -3540,7 +3552,7 @@ the repository settings.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler2" aria-expanded="false" aria-controls="collapseSpoiler2">
   <h3 class="accordion-header" id="headingSpoiler2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Show details </h3>
 </button>
-<div id="collapseSpoiler2" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler2" aria-labelledby="headingSpoiler2">
+<div id="collapseSpoiler2" class="accordion-collapse collapse" aria-labelledby="headingSpoiler2" data-bs-parent="#accordionSpoiler2">
 <div class="accordion-body">
 <p>Note, the above directions assume your repository is owned by a
 personal account not an organisation account. The options for
@@ -3588,7 +3600,7 @@ instructor should work with groups to activate GitHub Pages.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler3" aria-expanded="false" aria-controls="collapseSpoiler3">
   <h3 class="accordion-header" id="headingSpoiler3">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Which Branch and GitHub Actions </h3>
 </button>
-<div id="collapseSpoiler3" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler3" aria-labelledby="headingSpoiler3">
+<div id="collapseSpoiler3" class="accordion-collapse collapse" aria-labelledby="headingSpoiler3" data-bs-parent="#accordionSpoiler3">
 <div class="accordion-body">
 <p>Although we configure GitHub Pages to serve the lesson website from
 the <code>gh-pages</code> branch, <strong>the default working branch for
@@ -3875,7 +3887,7 @@ lesson website. A screenshot below provides an example.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
   <h3 class="accordion-header" id="headingSpoiler1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Markdown Rendering on GitHub </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
 <div class="accordion-body">
 <p>You might have noticed by now that GitHub provides a preview of
 content in Markdown files, and displays an interpreted (“rendered”)
@@ -4144,7 +4156,7 @@ if time permits (<code>spoiler</code> keyword).</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler2" aria-expanded="false" aria-controls="collapseSpoiler2">
   <h3 class="accordion-header" id="headingSpoiler2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Using Spoilers for Optional Materials </h3>
 </button>
-<div id="collapseSpoiler2" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler2" aria-labelledby="headingSpoiler2">
+<div id="collapseSpoiler2" class="accordion-collapse collapse" aria-labelledby="headingSpoiler2" data-bs-parent="#accordionSpoiler2">
 <div class="accordion-body">
 <p>Often lessons have more content than can be reasonably taught in the
 amount of time allotted. This is especially true for collaboratively
@@ -4812,7 +4824,7 @@ note in your episode.</p>
   Hidden Curriculum
   </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
 <div class="accordion-body">
 <p>The concept of <strong>hidden curriculum</strong> describes
 curricular effects that influence learning but are not explicitly
@@ -6133,7 +6145,7 @@ such as issues, pull requests, mentions, etc.</p>
   Managing GitHub Notifications
   </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
 <div class="accordion-body">
 <p>If you work on multiple projects, or the projects you follow on
 GitHub are particularly active, the volume of notifications you receive
