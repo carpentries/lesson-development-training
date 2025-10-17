@@ -4,6 +4,13 @@ title: Trainer Notes
 
 ## Schedule
 
+:::::::::::::::::::::::::::::::::::::::::: caution
+
+**2025-10-14: the schedule below does not apply to the new model of the training program and should be ignored.**
+It will be replaced by an updated schedule after we have had the opportunity to gather timings for the new version of the training.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 The curriculum is intended to be delivered in 2 parts over six half-days. 
 Part 1 takes 4 half-days and teaches the theory of lesson design as well as implementing lessons using The Carpentries Workbench. 
 At the end of part 1, learners are expected to have an outline for a whole lesson, and a detailed plan for some of its individual sections/episodes.

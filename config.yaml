@@ -62,19 +62,14 @@ episodes:
 - lesson-content.md
 - operations.md
 - preparing.md
-- wrap-up1.md
-- reflecting.md
-- collaborating-team.md
-- collaborating-newcomers.md
-- project-management.md
-- wrap-up2.md
+- wrap-up.md
 
 # Information for Learners
 learners:
-- pilot-description.md
 - markdown-github-primer.md
+- checkout.md
+- reflecting.md
 - misconceptions-mcqs.md
-- trial-runs.md
 - reference.md
 
 # Information for Instructors
