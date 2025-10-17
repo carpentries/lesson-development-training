@@ -112,7 +112,6 @@ As you consider the length of your lesson discuss with your collaborators and as
 In the end, the only way to know for sure is to teach the lesson, measuring how long it takes to teach.
 Borrowing from television, The Carpentries community calls these early workshops, pilot workshops.
 As you run pilot workshops, you can note the length of time spent in each episode.
-You might find the [template for notes on pilot workshops][pilot-notes-template] helpful as it includes a table for episode and exercise timings.
 Instructors commonly report running short on time in workshops.
 Thus, it is better to assume that you are under-estimating rather than over-estimating the length.
 It is better to have additional time for discussion, review, and wrap-up than to rush through material to fit it into the remaining time.
