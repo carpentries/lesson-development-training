@@ -208,7 +208,7 @@ Trainers will lead a discussion about your findings for your chosen exercise typ
 
 ### Recommended Reading
 
-Both of the resources linked from the exercise above, [the _Exercise Types_ chapter of _Teaching Tech Together_][ttt-exercises] and [_Is This a Trick Question?_][trick-question] are worth reading in full. They collect a lot of insightful discussion and illustrative examples, which can prove very useful when designing exercises for your lesson.
+Both of the resources linked from the exercise above, [the _Exercise Types_ chapter of _Teaching Tech Together_][ttt-exercises] and [_Is This a Trick Question?_][trick-question] [ref][trick-question-ref] are worth reading in full. They collect a lot of insightful discussion and illustrative examples, which can prove very useful when designing exercises for your lesson.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
