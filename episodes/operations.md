@@ -172,12 +172,18 @@ These events are typically listed on the community calendar (linked above).
 
 ::::::::::::::::::::::::::::::::::::::::::::::
 
+## Build your Skills for Collaborative Development
+The Carpentries lesson development community works together on GitHub, taking advantage of the open source nature of these projects to foster collaboration and re-use of lesson content.
+GitHub is a powerful platform for this kind of collaborative development, with a number of features that make it easier and more enjoyable to create a lesson with other people.
+Unless you are a GitHub expert already, we recommend that you [participate in one of the GitHub Skill-up sessions](FIXME) hosted by The Carpentries after this training has finished.
+Access to that skill-up is included as part of your training, and the session will teach you several approaches and skills to make collaboration more effective with GitHub.
+
 ::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Exercise: join relevant channels (5 minutes)
 
-Use this time to explore the options listed above
-and join/subscribe to any communication channels that you find interesting.
+Use this time to explore the options listed above and join/subscribe to any communication channels that you find interesting.
+You may also want to sign up to participate in an upcoming GitHub Skill-up session.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

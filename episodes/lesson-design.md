@@ -43,22 +43,22 @@ width="67%"
 
 
 ### The process throughout this training
-Note the cyclical nature of the process described above. You will complete one iteration through this cycle across the two parts of this training (though probably for a limited part of your lesson, rather than the whole thing):
+Note the cyclical nature of the process described above. By the time you have completed your certification as a Carpentries Lesson Developer, you will have completed one iteration through this cycle:
 
-1. Define desired learning outcomes. (Training part 1)
+1. Define desired learning outcomes.
     * You will define learning objectives for your lesson as a whole and for individual sections.
-2. Design assessments to determine progress towards desired outcomes. (Part 1)
+2. Design assessments to determine progress towards desired outcomes.
     * You will learn about different types of assessment and how they can give you information about your learners' progress towards the defined objectives.
     * You will design and implement exercises that are appropriate to your target audience and the skills you want to teach them.
-3. Write content to lead learners from one of these assessments to the next. (Part 1)
+3. Write content to lead learners from one of these assessments to the next.
     * You will choose examples and a narrative that can help learners gain insight into the topic of your lesson.
     * You will begin to write content that is accessible, relevant, and appropriate for your target audience.
-4. Assess learner progress towards outcomes during teaching. (During the break between parts)
+4. Assess learner progress towards outcomes during teaching.\*
     * You will deliver part of your new lesson and gather information about how effectively it teaches learners what they need to know.
-5. Evaluate how closely the outcomes meet the objectives. (Part 2)
+5. Evaluate how closely the outcomes meet the objectives.\*
     * You will revisit your lesson design and content and make plans to update it, based on your own reflections and the feedback you gathered from learners.
 
-Teaching the new lesson content is an essential intermediate step in the process, and the reason this training is delivered in two parts. 
+Teaching the new lesson content is an essential intermediate step in the process and the steps marked with an asterisk (\*) will be completed after the training, as part of the checkout process for certification (more on which later).
 The importance of gathering feedback and reflecting on teaching experience will be a common refrain throughout this training.
 
 ## Your Lessons
