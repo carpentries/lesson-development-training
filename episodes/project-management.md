@@ -202,6 +202,7 @@ For some other examples and inspirations of governance processes, consider the f
   from [The Center for Scientific Collaboration and Community Engagement](https://cscce.org)
   provides a collection of links to further reading material on this topic.
   It includes various guides, blog posts, and examples of community governance that may inform the discussions and decisions for your project.
+- [List of open source governance documents compiled by the Center for Open Source Research Software Advancement (CORSA) ](https://github.com/corsa-center/oss-documents?tab=readme-ov-file#governance) - the page also includes compiled lists of other useful documents including general guidance, Code of Conduct documents, licenses, etc.
 
 ::::::::::::::::::::::::::::::::::::::  discussion
 
