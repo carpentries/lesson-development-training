@@ -74,7 +74,7 @@ before we can *apply* concepts and *create* something new, we must attain the ab
 and *distinguish* between new concepts.
 Remembering and distinguishing are also abilities that are often faster to gain than applying or creating.
 
-This is what [Bloom's Taxonomy][blooms] (depicted in diagram below) tells us as well - it arranges cognitive skills (and educational objectives) into a strict hierarchy where cognitive skills on higher levels cannot be obtained before gaining those on lower levels.
+This is what [Bloom's Taxonomy][blooms] (depicted in diagram below) tells us as well - it arranges cognitive skills (and educational objectives) into a hierarchy where cognitive skills on higher levels cannot be obtained before gaining those on lower levels.
 Even though Bloom's Taxonomy has been disputed by some educational psychologists and has been revised since the original proposal - it still provides a useful framework to help us define learning objectives (as we will see shortly).
 
 ![Bloom's taxonomy - a framework for categorising educational goals, [image from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bloom%27s_revised_taxonomy.svg) reused under CC BY 4.0 license](https://upload.wikimedia.org/wikipedia/commons/6/6a/Bloom%27s_revised_taxonomy.svg){
