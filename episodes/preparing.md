@@ -195,8 +195,13 @@ You may find the ["Training Pilot Operations Guide"](https://doi.org/10.5281/zen
 
 :::::::::::::::::::::::::::::::::::::: 
 
+## Running your own pilot workshop
+
 We recommend that you look for an opportunity to teach some or all of your new lesson as soon as possible.
 The feedback you collect and the experience you gain will help you improve on your lesson design and content.
+
+While it may feel early or scary to pilot part of your workshop early in the development process, the feedback you can get from learners is highly valuable and can focus or speed up your development process.
+The feedback below from workshop participants demonstrates the importance of trial runs.
 
 ::::::::::::::::: testimonial
 

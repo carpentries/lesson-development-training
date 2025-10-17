@@ -117,6 +117,14 @@ Although your lessons will probably remain in pre-alpha throughout this training
 
 [The Carpentries Community Handbook](https://docs.carpentries.org/) provides [more information about the lesson life cycle](https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html).
 
+
+## Lesson Design Notes Template
+
+At this point, the Trainers will share a [template document for Lesson Design Notes][design-notes-template] with trainees.
+Trainees should make a copy of this document and fill in their lesson title.
+They will populate other parts of the document with the notes and information they produce throughout the training.
+
+
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - We will learn to develop lessons based on the (slightly adapted) Nicholls' backward lesson design  process.

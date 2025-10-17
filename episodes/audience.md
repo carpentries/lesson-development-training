@@ -55,7 +55,7 @@ the level of expertise that you expect learners to arrive with for two reasons:
    giving you some idea of what _misconceptions_ they might arrive with.
    It is vital that misconceptions are identified and corrected early on,
    before learners try to incorporate new knowledge into a broken mental model.
-   (More on this in [_Designing Exercises ](episodes/formative-assessment.md).)
+   (More on this in [Designing Exercises ](episodes/formative-assessment.md).)
 2. People at different stages of this process need to be taught differently.
    For example, novices will learn more from lessons that include worked examples
    and are more tutorial-like i.e. focused on a specific task,
@@ -99,14 +99,6 @@ Most of all, it will help you stay connected to the fact that
 _you are not your learners_:
 they will arrive at the lesson with different priorities,
 interests, and challenges than your own.
-
-
-### Lesson Design Notes Document
-
-At this point, the Trainers will share [the template for a Lesson Design Notes document][design-notes-template] with trainees.
-Trainees should make a copy of this document and fill in their lesson title.
-You will populate other parts of the document with the notes and information they produce throughout the training.
-
 
 ::::::::::::::::::::::::::::::::::::::  challenge
 
