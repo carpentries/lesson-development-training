@@ -41,8 +41,7 @@ encounter there.
 Here are some example narratives from lessons:
 
 * [Software Carpentry Git lesson](https://swcarpentry.github.io/git-novice/index.html) uses the story of Alfredo, a chef working with his team to create a repository of his favorite recipes.
-* [Building Websites With Jekyll and GitHub lesson](https://carpentries-incubator.github.io/jekyll-pages-novice/filters/index.html) 
-  uses the narrative of creating a website for a research project to teach authoring webpages with Markdown and compiling them into a website served on GitHub.
+* [Data Carpentry for Ecologists](https://datacarpentry.github.io/ecology-workshop/) uses a narrative of working through a data analysis project from data organization to data cleaning to data manipulations and visualizations.
 * [Building Better Research Software lesson](https://carpentries-incubator.github.io/better-research-software/) uses the narrative of a poorly designed software project 
   (which analyses [NASA’s open data on spacewalks](https://data.nasa.gov/Raw-Data/Extra-vehicular-Activity-EVA-US-and-Russia/9kcy-zwvn/data_preview) undertaken by astronauts from 1965 to 2013) that over the course of the lesson gets improved in terms of code accessibility, readability, correctness and reusability.
   
