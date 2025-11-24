@@ -42,7 +42,7 @@ If you have a question, you can email us at [curriculum@carpentries.org](mailto:
 [Teaching a lesson for the first time is an important intermediate step in the lesson development process](episodes/operations.md).
 To complete the first checkout step, trainees should teach part of the lesson they have been designing to a real audience. 
 (Or all of it if you have time to prepare the whole lesson!)
-The purpose of this task is to gather feedback at an early stage of the development process, and to reflect on how well the tested lesson content meets the objectives that we defined for it.
+The purpose of this task is to gather feedback at an early stage of the development process, and to reflect on how well the tested lesson content meets the objectives that you defined for it.
 
 Guidance on what feedback/information to collect while testing out the lesson content is provided below.
 
@@ -136,7 +136,8 @@ At the time of the event, the Zoom link can be found at the top of the Etherpad.
 The Etherpad is a collaborative note-taking tool that is widely used in Carpentries workshops and many other activities in the community. 
 We also use Etherpads for sign-ups and notes on recurring events, like community events and teaching demonstrations. 
 Although we have used CodiMD for notetaking during Collaborative Lesson Development Training, Etherpad is used for community sessions including Pilot Workshop Debriefs.
-
+You may also use the Etherpad for interaction or notetaking during your lesson pilot.
+Etherpad may be preferred to CodiMD for trainings where using markdown is not part of the prerequisite knowledge or taught in the training itself.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## GitHub Skill-ups

@@ -54,7 +54,6 @@ To help you prioritise what to work on next, consider the following prompts and 
 ### Organise your knowledge
 Take some time to think back on what has been covered so far,
 then make some notes on the most important points and actions you want to take away from that.
-The Trainers and other participants will not look at this - it is only for you.
 
 If you do not know where to start, consider the following list for a starting point:
 
@@ -82,7 +81,7 @@ For example,
 - Is there a formative assessment planned for each learning objective?
 
 ### Add your design notes to the lesson site
-Consider adding the Design Notes you have been working on as a page on your lesson site, to provide context for furture discussions of the intended target audience and scope of the lesson.
+Consider adding the Design Notes you have been working on as a page on your lesson site, to provide context for future discussions of the intended target audience and scope of the lesson.
 
 1. Replace the first 13 lines of your Design Notes document with
 
