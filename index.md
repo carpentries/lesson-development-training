@@ -68,6 +68,8 @@ To help you prepare for the training, it can be helpful for teams of collaborato
 * Who will it be aimed at?
 * What kind of example data might be interesting and relevant to that audience? Are you aware of any public repositories where that kind of data is published and available for reuse?
 
+If your schedule permits, we also recommend setting aside some time to work together on your new lesson between the half-day training sessions.
+This is not required but feedback from previous trainees suggests that teams would benefit from additional time to follow up together on exercises and discussions they began during the training.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
