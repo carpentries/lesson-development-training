@@ -150,15 +150,15 @@ objectives can help with managing learner (and instructor) cognitive load.
 
 ## Lesson Time Management (10 minutes)
 
-(5 minutes) In the shared notes document,
-note down your answers to these questions:
+(5 minutes) In the shared notes document, note down your answers to these questions:
 
-- From a design perspective, at what point is a lesson too long?
-- What factors influence and constrain the length of a lesson?
-- How might you prioritise what to keep if you have to cut lesson content down?
+1. Most people have experienced a workshop or another event where there was too much material to cover in the time available.
+    * In what ways have you observed event facilitators and instructors respond to these circumstances?
+    * How did this affect your experience as a learner/participant?
+    * Can you recall any strategies that have worked particularly well?
+2. What are some advantages and disadvantages for the learner when an instructor breaks up a lesson into smaller chunks over a longer time period?
 
-(5 minutes) In the remaining time,
-your Trainers will lead a discussion based on the responses.
+(5 minutes) In the remaining time, your Trainers will lead a discussion based on the responses.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
