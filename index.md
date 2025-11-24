@@ -54,6 +54,20 @@ Before joining Collaborative Lesson Development Training, participants should be
 
 See [A Primer on Markdown and GitHub](learners/markdown-github-primer.md) for resources to help learn these skills.
 
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::::::::::::::::::: checklist
+
+## Preparing for Collaborative Lesson Development Training
+This training is designed for participants working together in teams to collaboratively design and develop a new lesson.
+
+To help you prepare for the training, it can be helpful for teams of collaborators to meet beforeand and discuss the following:
+
+* What is the topic of the lesson you want to develop?
+* Who will it be aimed at?
+* What kind of example data might be interesting and relevant to that audience? Are you aware of any public repositories where that kind of data is published and available for reuse?
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
