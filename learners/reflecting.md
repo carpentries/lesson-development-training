@@ -25,7 +25,7 @@ Your objectives are to help participants:
 
 Your session may include Lesson Developer trainees joining to complete their certification after Collaborative Lesson Development Training as well as other participants from the Carpentries lesson development community reporting on pilot workshops they have been involved in.
 Please give priority to Lesson Developer trainees, allowing them sufficient time to report back on piloting their lesson and ask any questions they brought to the session.
-Active participation in a Pilot Workshop Debrief session is a required checkout step for them to complete their Lesson Developer certification.
+Active participation in a Pilot Workshop Debrief session _after piloting all or part of their new lesson_ is a required checkout step for them to complete their Lesson Developer certification.
 
 ::::::::::::::::::::::::::::::::
 
