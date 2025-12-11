@@ -89,7 +89,7 @@ lessons with alpha and beta status are already valuable resources to be taught a
 
 "No lesson survives first contact with learners".
 
---- [Greg Wilson](https://third-bit.com/talks/writing-book/#19)
+--- [Greg Wilson](https://third-bit.com/talks/writing-book/#21)
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

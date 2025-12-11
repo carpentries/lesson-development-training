@@ -269,7 +269,7 @@ What resources might help you prepare for that experience?
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [it-minute-cards]: https://carpentries.github.io/instructor-training/06-feedback.html#minute-cards
-[minute-card-template]: https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/template/preview
+[minute-card-template]: https://docs.google.com/forms/d/1rsGrY-COjGt-paQQjmTyr7Ic4iw7aNYQkBcMLHrQU0k/template/preview?pli=1
 [ssi]: https://www.software.ac.uk/
 [universe-hpc]: http://www.universe-hpc.ac.uk/
 

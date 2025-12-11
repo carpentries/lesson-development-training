@@ -27,9 +27,9 @@ To learn more about how this lesson site is built and how you can edit the pages
 ## Maintainer(s)
 Current Maintainers of this lesson are:
 
-* [Aleksandra Nenadic](https://github.com/anenadic) (Lead Maintainer)
+* [Aleksandra Nenadic](https://github.com/anenadic)
 * [Toby Hodges](https://github.com/tobyhodges)
-* [Sarah Stevens](https://github.com/sstevens2)
+* [Sarah Stevens](https://github.com/sstevens2) (Lead Maintainer)
 
 The Maintainer Team aims to meet at 12:00 UTC on the fourth Friday of each month.
 

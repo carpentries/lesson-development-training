@@ -112,7 +112,6 @@ As you consider the length of your lesson discuss with your collaborators and as
 In the end, the only way to know for sure is to teach the lesson, measuring how long it takes to teach.
 Borrowing from television, The Carpentries community calls these early workshops, pilot workshops.
 As you run pilot workshops, you can note the length of time spent in each episode.
-You might find the [template for notes on pilot workshops][pilot-notes-template] helpful as it includes a table for episode and exercise timings.
 Instructors commonly report running short on time in workshops.
 Thus, it is better to assume that you are under-estimating rather than over-estimating the length.
 It is better to have additional time for discussion, review, and wrap-up than to rush through material to fit it into the remaining time.
@@ -151,15 +150,15 @@ objectives can help with managing learner (and instructor) cognitive load.
 
 ## Lesson Time Management (10 minutes)
 
-(5 minutes) In the shared notes document,
-note down your answers to these questions:
+(5 minutes) In the shared notes document, note down your answers to these questions:
 
-- From a design perspective, at what point is a lesson too long?
-- What factors influence and constrain the length of a lesson?
-- How might you prioritise what to keep if you have to cut lesson content down?
+1. Most people have experienced a workshop or another event where there was too much material to cover in the time available.
+    * In what ways have you observed event facilitators and instructors respond to these circumstances?
+    * How did this affect your experience as a learner/participant?
+    * Can you recall any strategies that have worked particularly well?
+2. What are some advantages and disadvantages for the learner when an instructor breaks up a lesson into smaller chunks over a longer time period?
 
-(5 minutes) In the remaining time,
-your Trainers will lead a discussion based on the responses.
+(5 minutes) In the remaining time, your Trainers will lead a discussion based on the responses.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -192,6 +191,12 @@ Make time to review your text for:
 - unexplained or unnecessary jargon/terminology (as your learners may come from different backgrounds, may be novices, not native English speakers, and a term in one domain/topic may mean something else entirely in another)
 - unexplained assumptions
 - sudden jumps in difficulty/complexity
+
+::::::::: callout
+
+You may want to check out [Julia Evans' blog post on "Patterns in confusing explanations"](https://jvns.ca/blog/confusing-explanations/) to help review your explanatory text for common patterns in language that can make your explanatory text confusing.
+
+:::::::::::::::::
 
 ### Accessibility
 
