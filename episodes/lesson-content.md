@@ -71,57 +71,6 @@ as a bullet list in the `index.md` file of your lesson repository.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Below those, let's add the prerequisite skills you determined earlier for your lesson. 
-While you can add them as a bullet point list, the Workbench provides a special formatted block 
-for prerequisites, so they appear visually distinct on the page.
-
-::: callout 
-
-### Fenced divs
-
-Fenced divs are structural elements within the page, which get rendered in a visually distinct 
-way on the lesson website.
-Fenced divs include regular Markdown content surrounded by special tags to mark 
-the start and the end of such a block. 
-
-To mark the beginning of a fenced div, start a line with an opening tag - at least 3 colon characters 
-followed by a blank character and a keyword denoting the type of a fenced div you are 
-creating (`::: fenced_div_keyword`) . 
-Then you add the Markdown content of this structural block. 
-Finally, end your fenced div with a closing tag consisting of at least 3 colons (`:::`).
-
-[There are many types of fenced divs available in the lesson infrastructure](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html#callout-blocks)
-and we will explore most of them in this episode.
-:::
-
-:::::::::::::::::::::::::::::::: spoiler
-
-### Markdown Rendering on GitHub
-
-You might have noticed by now that GitHub provides
-a preview of content in Markdown files,
-and displays an interpreted ("rendered") version of Markdown file content
-by default in its web interface.
-You might also notice that the content of `index.md` is displayed differently
-when viewed on GitHub
-from how it appears on the homepage of your lesson website:
-the yaml header mentioned above appears in a tabular layout on GitHub,
-but is not visible on the lesson homepage.
-
-This is because the lesson infrastructure accepts an expanded set of
-elements in the source Markdown files:
-syntax for components of a lesson website
-that are not part of the standard set of Markdown features,
-e.g. page metadata such as the YAML header above,
-or fenced div blocks to make certain content visually distinctive.
-In these cases, you may see GitHub render the content differently
-from how it appears on your website, or not at all.
-
-We will encounter more examples of this throughout the lesson,
-but the important thing to remember for now is that
-**how GitHub displays source (R) Markdown files is not a reliable indicator
-of how content will be displayed in your website**.
-
-::::::::::::::::::::::::::::::::::::::::
 
 ## Proposing Changes with Pull Requests
 
@@ -155,16 +104,12 @@ When you want to make some more changes to the project, you can create a new bra
 The pull request interface then allows your fellow team members to explore and comment on the changes you propose, and decide whether/when to include them.
 
 ### Opening a pull request
-Let's make another change to the `index.md`, this time via a pull request.
-
-To add a "prerequisite" block to `index.md`, we use a fenced div called `prereq` like this:
+Let's make another change to the `index.md`, adding the bullet point list of prerequisites, this time via a pull request.
 
 ```markdown
-::: prereq
 - prerequisite 1
 - prerequisite 2
-- ...
-:::
+- [etc...]
 ```
 
 When commiting these changes to the `index.md`, we can choose the "Create a new branch for this commit and start a pull request" option.
@@ -195,7 +140,73 @@ A screenshot below provides an example.
 alt="Lesson prerequisite fenced div structural block as rendered in a Web page by the Workbench"
 }
 
-You will have an opportunity to practice this pull request workflow in the next section of the training.
+You will have an opportunity to practice this pull request workflow in a moment.
+
+We just added the prequisites as a bullet point list in `index.md`, but the Workbench provides a special formatted block for lesson prerequisites, so they appear visually distinct on the page.
+Specially formatted blocks of content like this are added to our lesson as _fenced divs_.
+
+::: callout 
+
+### Fenced divs
+
+Fenced divs are structural elements within the page, which get rendered in a visually distinct way on the lesson website.
+Fenced divs include regular Markdown content surrounded by special tags to mark the start and the end of such a block. 
+
+To mark the beginning of a fenced div, start a line with an opening tag - at least 3 colon characters followed by a blank character and a keyword denoting the type of a fenced div you are creating (`::: fenced_div_keyword`). 
+Then you add the Markdown content of this structural block. 
+Finally, end your fenced div with a closing tag consisting of at least 3 colons (`:::`).
+
+[There are many types of fenced divs available in the lesson infrastructure](https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html#callout-blocks)
+and we will explore most of them in this episode.
+:::
+
+:::::::::::::::::::::::::::::::::::::::: challenge
+
+### Practice with Pull Requests (10 mins)
+Edit `index.md`, following the steps demonstrated earlier to open a pull request, to put the list of prerequisites into a fenced div with the `prereq` class:
+
+```markdown
+::::::::::::::::::::::::::::::::: prereq
+
+- prerequisite 1
+- prerequisite 2
+- [etc...]
+
+::::::::::::::::::::::::::::::::::::::::
+
+```
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::: spoiler
+
+### Markdown Rendering on GitHub
+
+You might have noticed by now that GitHub provides
+a preview of content in Markdown files,
+and displays an interpreted ("rendered") version of Markdown file content
+by default in its web interface.
+You might also notice that the content of `index.md` is displayed differently
+when viewed on GitHub
+from how it appears on the homepage of your lesson website:
+the yaml header mentioned above appears in a tabular layout on GitHub,
+but is not visible on the lesson homepage.
+
+This is because the lesson infrastructure accepts an expanded set of
+elements in the source Markdown files:
+syntax for components of a lesson website
+that are not part of the standard set of Markdown features,
+e.g. page metadata such as the YAML header above,
+or fenced div blocks to make certain content visually distinctive.
+In these cases, you may see GitHub render the content differently
+from how it appears on your website, or not at all.
+
+We will encounter more examples of this throughout the lesson,
+but the important thing to remember for now is that
+**how GitHub displays source (R) Markdown files is not a reliable indicator
+of how content will be displayed in your website**.
+
+::::::::::::::::::::::::::::::::::::::::
 
 ## Episodes
 
