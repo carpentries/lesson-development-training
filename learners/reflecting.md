@@ -43,10 +43,16 @@ width="67%"
 In this session, we will reflect on and discuss the experience of teaching new lesson material for the first time.
 We will also explore ways that you could improve your lessons and workshops based on your observations and the feedback you received during and after the event.
 
+### Introductions
+Ask lesson developers to introduce themselves to the group, providing the following information:
+* Name and (optionally) pronouns
+* Title of lesson they are piloting
+* Whether they are articipating in the session as part of their checkout from Collaborative Lesson Development Training
+
 ::::::::::::::::::::::::::::::::::::::: instructor
 
 ### Scaling this exercise to larger numbers of lesson teams
-This exercise can take a long time when you have a lot of lesson teams in your training, but it is important to give every group the chance to reflect on their pilot. 
+This exercise can take a long time when you have a lot of lesson teams in your session, but it is important to give every group the chance to reflect on their pilot. 
 You may need to facilitate it differently if time becomes an issue:
 for example, you could paste the prompts into the Etherpad and ask all groups to write their answers, before summarising responses, identifying trends, and calling on particular trainees to share more about their individual responses.
 
@@ -72,8 +78,9 @@ Some points you might consider raising with them:
 :::::::::::::::::::::::::::::::::::::  discussion
 
 ## Discussion: lesson pilots (45 minutes)
-Report out to the facilitator and other session participants your lesson pilot.
-Participants should choose what to focus on, e.g. based on their own reflections and feedback received during/after the event.
+Report out to the facilitator and other session participants about your lesson pilot.
+Make sure to include a few details about the lesson: its title, a link to the lesson site, and a summary of the target audience and high-level learning objectives.
+Participants should choose what to focus on in their report, e.g. based on their own reflections and feedback received during/after the event.
 The following prompts may help to guide your report:
 
 * What worked well both in terms of content and delivery?
@@ -84,6 +91,7 @@ The following prompts may help to guide your report:
 * What will you change in the material you taught?
 * What will you change in the way you collect feedback in future pilots?
 * Did you identify anything that could be added as an Instructor Note to guide you and others next time the lesson is taught?
+* What questions do you have for the session facilitator and our fellow participants?
 
 If multiple participants are joining to debrief from the same lesson pilot event, only one of them needs to report out.
 Others may choose to add their own reflections and ask additional questions.
@@ -128,6 +136,21 @@ Do not be disheartened with the amount and type of feedback you may have receive
 Even Carpentries lessons that have been around for 10+ years receive improvement suggestions and fixes almost daily. 
 From our experience, bigger lessons that are delivered over a few days require several full pilots before they can even be considered for a [beta](https://carpentries.github.io/curriculum-development/the-lesson-life-cycle.html) release. 
 Planning smaller lesson trials (where you test only a portion of a lesson) and doing them more often with a friendly audience from your local groups and close colleagues is more manageable and will help you make steady progress.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::: spoiler
+
+### Preparing for a Pilot Workshop?
+If any participants in the session are preparing for a pilot workshop, rather than reporting on one that has already taken place, you may use time before the end of the session to hear about their plans and the questions they have/advice they are hoping to receive.
+Please prioritise debriefs from pilot workshops that have already happened -- especially for checking out Lesson Developer trainees -- over discussion of workshops still to take place.
+The following resources may be useful to lesson developers preparing for a pilot workshop:
+
+* [Lesson Developer Handbook](https://docs.carpentries.org/handbooks/lesson_developers.html)
+* [Community Handbook page on Pilot Workshops](https://docs.carpentries.org/resources/curriculum/lesson-pilots.html)
+    * Includes links to template survey, notetaking document, advice on finding Instructors, etc
+* [CLDT episode: _Preparing to Teach_](https://carpentries.github.io/lesson-development-training/preparing.html)
+* [Customisation instructions for making a pilot workshop webpage from the template](https://carpentries.github.io/workshop-template/customization/#configuration-file-_configyml)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
