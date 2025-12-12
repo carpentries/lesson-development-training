@@ -368,6 +368,15 @@ and manage their expectations about what they will learn if they attend.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+### Homework/Pre-reading
+If you are ending day 1 of the training here, this would be a great time to remind trainees that they should have reviewed the content of the [_Choosing a Narrative and Dataset for a Lesson_](https://docs.carpentries.org/resources/curriculum/narrative-example-data.html) in the community handbook. 
+Trainees will need to apply the guidance on that page to the first exercise in the next episode.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - Defining objectives for a lesson can help to focus your content on the most important outcomes, and outline the scope of the project.
