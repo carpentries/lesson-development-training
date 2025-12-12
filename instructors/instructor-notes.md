@@ -70,6 +70,10 @@ in working with GitHub.
 - Wrap-up
 - End                               
 
+## Homework/Pre-reading
+When nearing the end of the first half-day of the training, Trainers may find it beneficial to remind trainees that they should have reviewed the content of the [_Choosing a Narrative and Dataset for a Lesson_](https://docs.carpentries.org/resources/curriculum/narrative-example-data.html) in the community handbook in advance of the training. 
+The guidance on that page is needed for trainees to complete the exercise in [_Example Data and Narrative_](../episodes/narrative.md) so the break before the second half-day is their last chance to review that handbook page.
+
 
 ## Training Themes
 
