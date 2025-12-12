@@ -54,6 +54,8 @@ Before joining Collaborative Lesson Development Training, participants should be
 
 See [A Primer on Markdown and GitHub](learners/markdown-github-primer.md) for resources to help learn these skills.
 
+Trainees should also read through the guidance on [choosing a narrative and example data for a lesson][handbook-narrative-example-data] in The Carpentries handbook, and make a note of their questions to ask during the training.
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
