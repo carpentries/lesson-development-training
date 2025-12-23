@@ -13,6 +13,9 @@
     <loc>https://carpentries.github.io/lesson-development-training/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/lesson-development-training/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/lesson-development-training/audience.html</loc>
   </url>
   <url>
@@ -29,6 +32,9 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/lesson-development-training/formative-assessment.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/lesson-development-training/images.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/lesson-development-training/index.html</loc>
@@ -49,6 +55,9 @@
     <loc>https://carpentries.github.io/lesson-development-training/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/lesson-development-training/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/lesson-development-training/instructor/audience.html</loc>
   </url>
   <url>
@@ -67,13 +76,22 @@
     <loc>https://carpentries.github.io/lesson-development-training/instructor/formative-assessment.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/lesson-development-training/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/lesson-development-training/instructor/index.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/lesson-development-training/instructor/infrastructure.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/lesson-development-training/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/lesson-development-training/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/lesson-development-training/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/lesson-development-training/instructor/lesson-content.html</loc>
@@ -112,7 +130,13 @@
     <loc>https://carpentries.github.io/lesson-development-training/instructor/wrap-up.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/lesson-development-training/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/lesson-development-training/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/lesson-development-training/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/lesson-development-training/lesson-content.html</loc>
