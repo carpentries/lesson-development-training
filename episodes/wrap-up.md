@@ -104,10 +104,6 @@ Consider adding the Design Notes you have been working on as a page on your less
 
 This will make the page accessible from the 'More' dropdown in Instructor View.
 
-_Note that concept maps with GraphViz are not currently supported by the lesson infrastructure,
-so any concept maps added to the document on CodiMD will not be displayed correctly on the lesson site._
-
-
 ## Feedback
 The Trainer(s) will ask for feedback on the training.
 Take some time to provide this feedback, before moving onto the second part of this task.
