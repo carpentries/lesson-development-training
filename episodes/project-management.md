@@ -172,7 +172,7 @@ Here are some aspects of governing a project that you should consider.
 These are borrowed from [the _Working in teams_ chapter](https://third-bit.com/py-rse/teams.html) of [_Research Software Engineering with Python_](https://third-bit.com/py-rse/index.html), 
 a book on how to work productively in small teams where everyone is welcome:
 
-- [Codes of Conduct](https://third-bit.com/py-rse/teams.html#teams-coc)
+- [Code of Conduct](https://third-bit.com/py-rse/teams.html#teams-coc)
 - [meeting rules](https://third-bit.com/py-rse/teams.html#teams-meetings)
 - [decision-making process](https://third-bit.com/py-rse/teams.html#teams-martha)
 - [handling conflict](https://third-bit.com/py-rse/teams.html#teams-conflict)
