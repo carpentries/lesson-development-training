@@ -26,6 +26,6 @@
 [swc]: https://software-carpentry.org/
 [swc-lessons]: https://software-carpentry.org/lessons/
 [trick-question]: https://www.ksde.org/Portals/0/CSAS/CSAS%20Home/CTE%20Home/TrickQuestion.pdf?ver=2022-02-23-104343-727
-[trick-quesiton-ref]: https://cdm16884.contentdm.oclc.org/digital/collection/p16884coll42/id/147
+[trick-question-ref]: https://cdm16884.contentdm.oclc.org/digital/collection/p16884coll42/id/147
 [ttt-exercises]: https://teachtogether.tech/en/index.html#s:exercises
 [workbench]: https://carpentries.github.io/workbench/
