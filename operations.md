@@ -72,12 +72,26 @@ over to another styling when the lesson moves e.g. into The Carpentries Lab.
 The Carpentries provides pathways for mature lessons to leave the Incubator.
 
 1. A mature lesson may **join an existing lesson program**, 
-   e.g. Data Carpentry, Library Carpentry, or Software Carpentry,
+   e.g. Data Carpentry, HPC Carpentry, Library Carpentry, or Software Carpentry,
    subject to review and approval by the relevant [Curriculum Advisory Committee][curriculum-advisors].
+   In rare cases, lessons may leave the Incubator to form a whole new lesson program of The Carpentries.
+   In 2026, following a process of incubation and approval by The Carpentries Board of Directors, HPC Carpentry was adopted as a new officieal lesson program.
 2. Developers can submit their lessons for **open peer review** in [The Carpentries Lab][carpentries-lab],
    which hosts a growing collection of high-quality, stable lessons created by the community.
    Developers submitting to the Lab have the option of publishing their lesson in 
    [The Journal of Open Source Education (JOSE)][jose].
+
+:::::::::::::::::::::::::::::::::::::: spoiler
+
+### More About Lesson Program Incubation
+It takes a sustained community effort for a project to become a new Carpentries lesson program.
+[The Lesson Program Incubation process](https://docs.carpentries.org/resources/curriculum/lesson-programs.html#lesson-program-incubation-roadmap) is designed to ensure that any new lesson program already has a strong open source community built around good, mature curriculum.
+Once a project is adopted as a lesson program, it can benefit from the established platform and reach of The Carpentries community, as well as ongoing maintenance supported by the Curriculum Team.
+
+If you are want to explore the possibility of your new lesson(s) joining an existing lesson program or entering incubation to become a new one, we recommend that you [contact the Curriculum Team](mailto:curriculum@carpentries.org) early.
+They will be able to answer your questions about the process and connect you with other community members who can advise you further.
+
+::::::::::::::::::::::::::::::::::::::::::::::
 
 A lesson does not need to be stable to be useful to the community:
 lessons with alpha and beta status are already valuable resources to be taught and reused.
