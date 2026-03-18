@@ -22,6 +22,14 @@ so the activities and examples used in this training are best suited to groups
 of trainees who want to collaborate on a lesson project.
 Efforts have been made to also cater to lesson developers working alone.
 
+:::::::::::::::::::::::::::::::: callout
+
+### Interested in Participating in this Training?
+Explore [the information page on The Carpentries website](https://carpentries.org/lesson-development/#collaborative-lesson-development-training) to learn more about the training.
+Visit [the Training Calendar](./learners/training-calendar.md) for a list of upcoming training events.
+
+::::::::::::::::::::::::::::::::::::::::
+
 
 ## Learning Objectives
 
