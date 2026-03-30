@@ -68,6 +68,7 @@ episodes:
 learners:
 - markdown-github-primer.md
 - checkout.md
+- training-calendar.md
 - reflecting.md
 - misconceptions-mcqs.md
 - reference.md
