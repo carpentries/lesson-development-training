@@ -31,7 +31,7 @@ Current Maintainers of this lesson are:
 * [Toby Hodges](https://github.com/tobyhodges)
 * [Sarah Stevens](https://github.com/sstevens2) (Lead Maintainer)
 
-The Maintainer Team aims to meet at 12:00 UTC on the fourth Friday of each month.
+The Maintainer Team aims to meet at 13:00 UTC on the fourth Friday of each month.
 
 ### Former Maintainers
 
