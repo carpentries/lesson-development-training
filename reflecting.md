@@ -45,6 +45,7 @@ We will also explore ways that you could improve your lessons and workshops base
 
 ### Introductions
 Ask lesson developers to introduce themselves to the group, providing the following information:
+
 * Name and (optionally) pronouns
 * Title of lesson they are piloting
 * Whether they are articipating in the session as part of their checkout from Collaborative Lesson Development Training
