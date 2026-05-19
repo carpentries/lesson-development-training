@@ -62,7 +62,7 @@ and consider how your lesson can have the biggest impact on the way learners do 
 ::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 ### Outcomes and Objectives
-In our experience, training participants sometimes have a strong preference for talking about _outcomes_ rather than _objectives_.
+In our experience, training participants sometimes have a strong preference for the phrase learning _outcomes_ or learning _objectives_.
 For example, they may already be familiar with the concept, having learned about learning outcomes in a previous course.
 [The topic has been discussed](https://github.com/carpentries/instructor-training/issues/1214) on several occasions, and our Trainer community has made no strong distinction between the two terms.
 If one or more of your Trainees expresses a preference for discussing outcomes over objectives, you may choose to adjust your terminology for the training.
