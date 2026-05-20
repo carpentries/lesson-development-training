@@ -1,5 +1,5 @@
 ---
-title: Defining Lesson Objectives/Outcomes
+title: Defining Lesson Objectives
 teaching: 30
 exercises: 50
 ---
@@ -58,6 +58,19 @@ and consider how your lesson can have the biggest impact on the way learners do 
 
 
 ## Learning Objectives
+
+::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+### Outcomes and Objectives
+In our experience, training participants sometimes have a strong preference for the phrase learning _outcomes_ or learning _objectives_.
+For example, they may already be familiar with the concept, having learned about learning outcomes in a previous course.
+[The topic has been discussed](https://github.com/carpentries/instructor-training/issues/1214) on several occasions, and our Trainer community has made no strong distinction between the two terms.
+If one or more of your Trainees expresses a preference for discussing outcomes over objectives, you may choose to adjust your terminology for the training.
+But be aware of the extraneous cognitive load that may come with using the two terms interchangeably.
+
+Both the words outcomes and objectives are used in the curriculum below, but we try to consistently refer to _learning objectives_ as the key concept of this episode.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 The desired outcomes (the _learning objectives_) of a lesson should be new skills,
 i.e. things that the learner can do.
