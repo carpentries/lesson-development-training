@@ -71,6 +71,7 @@ as a bullet list in the `index.md` file of your lesson repository.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Below those, let's add the prerequisite skills you determined earlier for your lesson. 
+This time, instead of committing directly to the `main` branch - we will save our changes on another branch and then do a pull request to merge them to `main` that will allow us to review and spot any issues.
 
 ## Proposing Changes with Pull Requests
 
@@ -133,13 +134,6 @@ Since a more in-depth discussion of pull request reviews is included in the GitH
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
-Once the changes have been merged and your lesson site rebuilds, check how prerequisites block appears on your lesson's home page. 
-A screenshot below provides an example.
-
-![A rendered lesson prerequisite fenced div](fig/prereq-fenced-div.png){
-alt="Lesson prerequisite fenced div structural block as rendered in a Web page by the Workbench"
-}
-
 You will have an opportunity to practice this pull request workflow in a moment.
 
 We just added the prequisites as a bullet point list in `index.md`, but the Workbench provides a special formatted block for lesson prerequisites, so they appear visually distinct on the page.
@@ -160,6 +154,12 @@ Finally, end your fenced div with a closing tag consisting of at least 3 colons 
 and we will explore most of them in this episode.
 :::
 
+A screenshot below provides an example of how prerequisites block appears in a webpage. 
+
+![A rendered lesson prerequisite fenced div](fig/prereq-fenced-div.png){
+alt="Lesson prerequisite fenced div structural block as rendered in a Web page by the Workbench"
+}
+
 :::::::::::::::::::::::::::::::::::::::: challenge
 
 ### Practice with Pull Requests (10 mins)
@@ -177,6 +177,9 @@ Edit `index.md`, following the steps demonstrated earlier to open a pull request
 ```
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Once your changes have been merged and your lesson site rebuilds, check how prerequisites block appears on your lesson's home page. 
+
 
 :::::::::::::::::::::::::::::::: spoiler
 
