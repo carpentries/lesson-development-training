@@ -179,7 +179,7 @@ Here are a community activities and channels that you might be interested in joi
 
 ### Lesson Internationalisation
 The Carpentries Workbench does not yet support multiple (human) languages in a single lesson site, e.g. to see the lesson in Spanish and Afrikaans as well as English.
-Nevertheless, a thriving subcommunity exists of people translating/localising lesson content for other languages and regions, making use of the [CrowdIn](https://crowdin.com/) tranlsation platform and [tooling developed by Joel Nitta](https://carpentries.github.io/sandpaper-docs/episodes.html#callout-blocks) that extends the Workbench.
+Nevertheless, a thriving subcommunity exists of people translating/localising lesson content for other languages and regions, making use of the [CrowdIn](https://crowdin.com/) translation platform and [tooling developed by Joel Nitta](https://carpentries.github.io/sandpaper-docs/episodes.html#callout-blocks) that extends the Workbench.
 To connect with the internationalisation (often abbreviated to _i18n_) subcommunity, join the `#internationalisation` channel on The Carpentries Slack workspace.
 Some of the groups translating lessons to a particular language meet for regular coworking sessions. 
 These events are typically listed on the community calendar (linked above).
