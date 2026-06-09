@@ -379,7 +379,7 @@
       </div>
     </nav><main id="main-content" class="main-content"><div class="container lesson-content">
         <h1>Adding Lesson Content</h1>
-        <p>Last updated on 2025-12-12 |
+        <p>Last updated on 2026-06-09 |
 
         <a href="https://github.com/carpentries/lesson-development-training/edit/main/episodes/lesson-content.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 
@@ -470,7 +470,10 @@ the <code>index.md</code> file of your lesson repository.</p>
 </div>
 </div>
 <p>Below those, let’s add the prerequisite skills you determined earlier
-for your lesson.</p>
+for your lesson. This time, instead of committing directly to the
+<code>main</code> branch - we will save our changes on another branch
+and then do a pull request to merge them to <code>main</code> that will
+allow us to review and spot any issues.</p>
 </section><section><h2 class="section-heading" id="proposing-changes-with-pull-requests">Proposing Changes with Pull Requests<a class="anchor" aria-label="anchor" href="#proposing-changes-with-pull-requests"></a></h2>
 <hr class="half-width"><p>So far, we have been editing the files in our lesson repository
 directly. This is a quick way of working and pretty safe for simple and
@@ -538,11 +541,7 @@ tab of the pull request.</li>
 <em>Merge</em> i.e. accept the changes into the <code>main</code>
 branch of the project to be built into the content of the lesson
 website.</li>
-</ol><p>Once the changes have been merged and your lesson site rebuilds,
-check how prerequisites block appears on your lesson’s home page. A
-screenshot below provides an example.</p>
-<figure><img src="fig/prereq-fenced-div.png" alt="Lesson prerequisite fenced div structural block as rendered in a Web page by the Workbench" class="figure mx-auto d-block"><div class="figcaption">A rendered lesson prerequisite fenced div</div>
-</figure><p>You will have an opportunity to practice this pull request workflow
+</ol><p>You will have an opportunity to practice this pull request workflow
 in a moment.</p>
 <p>We just added the prequisites as a bullet point list in
 <code>index.md</code>, but the Workbench provides a special formatted
@@ -573,7 +572,10 @@ and we will explore most of them in this episode.</p>
 </div>
 </div>
 </div>
-<div id="practice-with-pull-requests-10-mins" class="callout discussion">
+<p>A screenshot below provides an example of how prerequisites block
+appears in a webpage.</p>
+<figure><img src="fig/prereq-fenced-div.png" alt="Lesson prerequisite fenced div structural block as rendered in a Web page by the Workbench" class="figure mx-auto d-block"><div class="figcaption">A rendered lesson prerequisite fenced div</div>
+</figure><div id="practice-with-pull-requests-10-mins" class="callout discussion">
 <div class="callout-square">
 <i class="callout-icon" data-feather="message-circle"></i>
 </div>
@@ -598,6 +600,8 @@ div with the <code>prereq</code> class:</p>
 </div>
 </div>
 </div>
+<p>Once your changes have been merged and your lesson site rebuilds,
+check how prerequisites block appears on your lesson’s home page.</p>
 <div id="accordionSpoiler1" class="accordion spoiler-accordion accordion-flush">
 <div class="accordion-item">
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
@@ -1082,7 +1086,7 @@ the lesson website.</li>
   "url": "https://carpentries.github.io/lesson-development-training/lesson-content.html",
   "identifier": "https://carpentries.github.io/lesson-development-training/lesson-content.html",
   "dateCreated": "2022-01-18",
-  "dateModified": "2025-12-12",
+  "dateModified": "2026-06-09",
   "datePublished": "2026-06-09"
 }
 
