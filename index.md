@@ -26,7 +26,7 @@ Efforts have been made to also cater to lesson developers working alone.
 
 ### Interested in Participating in this Training?
 Explore [the information page on The Carpentries website](https://carpentries.org/lesson-development/#collaborative-lesson-development-training) to learn more about the training.
-Visit [the Training Calendar](./learners/training-calendar.md) for a list of upcoming training events.
+Visit [the Training Calendar](learners/training-calendar.md) for a list of upcoming training events.
 
 ::::::::::::::::::::::::::::::::::::::::
 
