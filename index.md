@@ -10,7 +10,7 @@ style='padding: 2%'}
 
 This is a training curriculum teaching good practices in lesson design and development,
 and open source collaboration skills, using [The Carpentries Workbench][workbench]. 
-The curriculum was designed to be taught over three full days or six half-days.
+The curriculum was designed to be taught over two full days or three half-days.
 The target audience is Carpentries Instructors with an idea for a new lesson 
 they would like to create,
 especially if that lesson is intended for short-format training
