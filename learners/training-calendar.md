@@ -2,6 +2,8 @@
 title: Training Calendar
 ---
 
+**The Collaborative Lesson Development Training is currently paused.**
+
 ## About Collaborative Lesson Developer Training
 
 This training teaches essential skills and good practices for designing and developing a lesson as an open source project. 
@@ -50,22 +52,7 @@ New trainings are added to this calendar on a quarterly basis (generally in mid 
 
 ---
 
-### [21-24 April 2026](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Collaborative+Lesson+Development+Training&iso=20260421T12&p1=%3A&ah=4)
-**Four 4-hour days:** 12:00 - 16:00 UTC | 14:00 - 18:00 Central European Summer Time | 08:00 - 12:00 Eastern Daylight Time.
-Follow the link above to see your local start time.
-
----
-
-### [26-29 May 2026](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Collaborative+Lesson+Development+Training&iso=20260526T12&p1=%3A&ah=4)
-**Four 4-hour days:** 12:00 - 16:00 UTC | 14:00 - 18:00 Central European Summer Time | 08:00 - 12:00 Eastern Daylight Time.
-Follow the link above to see your local start time.
-
----
-
-### [22-25 June 2026](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Collaborative+Lesson+Development+Training&iso=20260622T16&p1=%3A&ah=4)
-**Four 4-hour days:** 16:00 - 20:00 UTC | 12:00 - 16:00 Eastern Daylight Time | 09:00 - 13:00 Pacific Daylight Time.
-Follow the link above to see your local start time.
-
+**The Collaborative Lesson Development Training program is currently paused.**
 
 ## Accessibility Support
 
